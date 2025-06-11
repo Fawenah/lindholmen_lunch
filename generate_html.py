@@ -5,7 +5,8 @@ import os
 from jinja2 import Environment, FileSystemLoader
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from utils.annotate_food_types import annotate_file
+from utils.annotate_food_types import annotate_file, load_keywords
+
 
 def load_restaurant_links() -> dict:
     try:
@@ -35,11 +36,23 @@ def generate_lunch_summary(day: str):
     # CEST / Sweden local time (UTC+2)
     sweden_tz = timezone(timedelta(hours=2))
 
+    food_tags = load_keywords()
+    food_tag_groups = {}
+    for tag, info in food_tags.items():
+        prio = info.get("priority", 100)
+        if prio not in food_tag_groups:
+            food_tag_groups[prio] = []
+        food_tag_groups[prio].append((tag, info["emoji"]))
+
+    emoji_map = {tag: data["emoji"] for tag, data in food_tags.items()}
+
     output_html = template.render(
         day=day.capitalize(),
         lunch_data=lunch_data,
+        emoji_map=emoji_map,
         restaurant_links=restaurant_links,
-        last_updated=datetime.now(sweden_tz).strftime("%Y-%m-%d %H:%M")
+        last_updated=datetime.now(sweden_tz).strftime("%Y-%m-%d %H:%M"),
+        food_tag_groups=food_tag_groups
     )
 
     os.makedirs("docs", exist_ok=True)

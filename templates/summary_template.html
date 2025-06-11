@@ -1,54 +1,70 @@
 <style>
-    h1 { 
+    h1 {
         color: #004d66;
     }
+
     h2 {
-        background: #004d66; color: white; padding: 10px; border-radius: 4px;
-        cursor: pointer; user-select: none;
-        text-align: center; margin-top: 20px;
+        background: #004d66;
+        color: white;
+        padding: 10px;
+        border-radius: 4px;
+        cursor: pointer;
+        user-select: none;
+        text-align: center;
+        margin-top: 20px;
     }
+
     h2:hover {
         background: #006080;
     }
+
     h3 {
         color: #004d66;
         margin-top: 1em;
     }
+
     ul {
         list-style-type: disc;
         padding-left: 20px;
     }
+
     li {
         margin-bottom: 5px;
     }
+
     body {
         font-family: Arial, sans-serif;
         background: #f8f8f8;
         padding: 20px;
         max-width: 80%
     }
+
     .restaurant {
         margin-bottom: 40px;
         padding: 20px;
         background: white;
         border-radius: 8px;
-        box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     }
+
     .restaurant-header {
         display: flex;
         justify-content: space-between;
         align-items: center;
     }
+
     .menu-content {
         display: none;
         margin-top: 10px;
     }
+
     .button-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
         gap: 10px;
         margin-bottom: 20px;
     }
+
     .weekday-button {
         display: block;
         text-align: center;
@@ -61,9 +77,11 @@
         font-weight: bold;
         transition: background 0.2s ease;
     }
+
     .weekday-button:hover {
         background: #006080;
     }
+
     .menu-header {
         display: flex;
         justify-content: space-between;
@@ -72,48 +90,56 @@
         gap: 10px;
         min-height: 60px;
     }
+
     .menu-header h2 {
         flex: 1;
         margin: 0;
         padding-top: 2px;
     }
+
     .menu-header-grid {
         display: grid;
         grid-template-areas:
-        "name emojis1 link1"
-        "name emojis2 link2"
-        "name emojis3 link3";
+            "name emojis1 link1"
+            "name emojis2 link2"
+            "name emojis3 link3";
         grid-template-columns: 1fr auto auto;
         gap: 4px 10px;
         align-items: center;
         margin-bottom: 10px;
         border-collapse: separate;
     }
+
     .menu-info {
         display: flex;
         flex-direction: column;
         align-items: flex-end;
         min-width: 90px;
     }
+
     .menu-links {
         display: flex;
         gap: 10px;
         font-size: 1.2em;
     }
+
     .menu-links a {
         color: #004d66;
         text-decoration: none;
     }
+
     .menu-links a:hover {
         text-decoration: underline;
         color: #004d66;
     }
+
     .icon-links {
         display: flex;
         gap: 6px;
         font-size: 1.2em;
         margin-top: 2px;
     }
+
     .icon-link {
         font-size: 1.3em;
         text-align: right;
@@ -121,15 +147,17 @@
         border-left: 1px solid rgba(0, 0, 0, 0.1);
         margin-left: 6px;
     }
+
     .icon-link a {
         color: #004d66;
         text-decoration: none;
     }
-    
+
     .icon-link a:hover {
         text-decoration: underline;
         color: #004d66;
     }
+
     .emoji-tags {
         display: flex;
         flex-direction: column;
@@ -137,6 +165,7 @@
         font-size: 1.2em;
         line-height: 1.4;
     }
+
     .emoji-row {
         font-size: 1.3em;
         white-space: nowrap;
@@ -144,6 +173,7 @@
         padding-right: 1px;
         margin-right: 1px;
     }
+
     .restaurant-name {
         grid-area: name;
         font-size: 1.5em;
@@ -157,43 +187,121 @@
         user-select: none;
         transition: background 0.2s ease;
     }
+
     .restaurant-name:hover {
         background: #006080;
     }
+
     .emoji-row:nth-child(2) {
         grid-area: emojis1;
     }
+
     .emoji-row:nth-child(3) {
         grid-area: emojis2;
     }
+
     .emoji-row:nth-child(4) {
         grid-area: emojis3;
     }
-    
+
     .icon-link:nth-of-type(1) {
         grid-area: link1;
     }
+
     .icon-link:nth-of-type(2) {
         grid-area: link2;
     }
+
     .icon-link:nth-of-type(3) {
         grid-area: link3;
+    }
+
+    .filters {
+        background: #eef9f1;
+        padding: 15px;
+        border: 1px solid #cce5d3;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    .filters h2 {
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+
+    .emoji-inline {
+        margin-left: 0.5em;
+    }
+
+    .tag-group {
+        margin-bottom: 1em;
+        padding-left: 10px;
+    }
+
+    .checkbox-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 6px 12px;
+        margin: 10px 0;
+    }
+
+    .checkbox-grid label {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+    }
+
+    .filter-buttons {
+        margin: 10px 0;
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    .filter-buttons button {
+        background-color: #e0f7fa;
+        border: 1px solid #007c91;
+        color: #004d66;
+        padding: 6px 12px;
+        font-size: 14px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+
+    .filter-buttons button:hover {
+        background-color: #b2ebf2;
+    }
+
+    .filter-columns {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 6px 12px;
+        margin: 10px 0 20px 0;
+    }
+
+    .filter-columns label {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        white-space: nowrap;
     }
 </style>
 
 <!DOCTYPE html>
 <html lang="sv">
+
 <head>
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMDT71XZ0C"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-LMDT71XZ0C');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-LMDT71XZ0C');
     </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7499028717075061"
-     crossorigin="anonymous"></script>
+        crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <title>Dagens lunch – {{ day.capitalize() }}</title>
     <meta name="description" content="Dagens lunch från restauranger på Lindholmen – {{ day.capitalize() }}" />
@@ -204,7 +312,7 @@
             const current = window.getComputedStyle(el).display;
             el.style.display = (current === 'none') ? 'block' : 'none';
         }
-        
+
         window.addEventListener("DOMContentLoaded", function () {
             const hash = window.location.hash;
             if (hash) {
@@ -219,9 +327,11 @@
         });
     </script>
 </head>
+
 <body>
     <h1>Dagens lunch på Lindholmen – {{ day.capitalize() }}</h1>
-    <p>Lunchmenyer för {{ day.capitalize() }} från restauranger på Lindholmen. Uppdateras dagligen med aktuella rätter från över 10 lokala restauranger.</p>
+    <p>Lunchmenyer för {{ day.capitalize() }} från restauranger på Lindholmen. Uppdateras dagligen med aktuella rätter
+        från över 10 lokala restauranger.</p>
     <p>Priser kan vara inaktuella, för senaste informationen, se respektive hemsida.</p>
 
     <div style="margin-top: 40px; font-size: 14px; color: #666;">
@@ -229,7 +339,7 @@
     </div>
     <a class="weekday-button" href="index.html">← Tillbaka till veckomeny</a>
     <hr>
-    
+
     <div class="toc">
         <h2>Restauranger</h2>
         <div class="button-container">
@@ -240,17 +350,61 @@
         </div>
     </div>
     <hr>
+    <div class="filters">
+        <h2 onclick="toggleVisibility('filter-box')">Filtrera</h2>
+        <div id="filter-box" style="display: block;">
+            <div>
+                <strong>Restauranger:</strong>
+                <div class="filter-buttons">
+                    <button type="button" onclick="toggleAllRestaurants(true)">Alla</button>
+                    <button type="button" onclick="toggleAllRestaurants(false)">Inga</button>
+                </div>
+                <div class="filter-columns">
+                    {% for restaurant, _ in lunch_data.items() | sort %}
+                    {% set readable = restaurant.replace('Scraper', '') %}
+                    <label><input type="checkbox" class="filter-restaurant" data-restaurant="{{ readable }}" checked> {{
+                        readable }}</label>
+                    {% endfor %}
+                </div>
+            </div>
+            <div>
+                <strong>Mattyper:</strong>
+                <div class="filter-buttons">
+                    <button type="button" onclick="toggleAllTags(true)">Alla</button>
+                    <button type="button" onclick="toggleAllTags(false)">Inga</button>
+                </div>
+                {% for priority, tags in food_tag_groups.items() | sort %}
+                <div class="filter-columns">
+                    {% for tag, emoji in tags %}
+                    <label><input type="checkbox" class="filter-tag" data-tag="{{ tag }}" checked> {{ emoji }} {{ tag
+                        }}</label>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <hr>
     {% for restaurant, data in lunch_data.items() | sort %}
     {% set readable = restaurant.replace('Scraper', '') %}
     {% set div_id = readable ~ '_menu' %}
     <div class="restaurant" id="{{ readable }}">
         <div class="menu-header-grid">
             <div class="restaurant-name" onclick="toggleVisibility('{{ div_id }}')">{{ readable }}</div>
-            {% set total = data["emoji_tags"] | length %}
+            {% set all_emojis = [] %}
+            {% for item in data["items"] %}
+            {% for tag in item.tags %}
+            {% set emoji = emoji_map.get(tag) %}
+            {% if emoji and emoji not in all_emojis %}
+            {% set _ = all_emojis.append(emoji) %}
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+            {% set total = all_emojis | length %}
             {% set size = (total + 2) // 3 %}
-            <div class="emoji-row">{{ data["emoji_tags"][:size] | join(' ') }}</div>
-            <div class="emoji-row">{{ data["emoji_tags"][size:2*size] | join(' ') }}</div>
-            <div class="emoji-row">{{ data["emoji_tags"][2*size:] | join(' ') }}</div>
+            <div class="emoji-row">{{ all_emojis[:size] | join(' ') }}</div>
+            <div class="emoji-row">{{ all_emojis[size:2*size] | join(' ') }}</div>
+            <div class="emoji-row">{{ all_emojis[2*size:] | join(' ') }}</div>
             <div class="icon-link">
                 {% if readable in restaurant_links and restaurant_links[readable].url %}
                 <a href="{{ restaurant_links[readable].url }}" target="_blank" title="Hemsida">🔗</a>
@@ -271,16 +425,23 @@
             {% endif %}
             {% set _ = categories[category].append(item) %}
             {% endfor %}
-            
+
             {% for cat, items in categories.items() %}
             <h3>{{ cat }}</h3>
             <ul>
                 {% for item in items %}
-                    <li>
-                        {% if item.price %}<em>{{ item.price }}</em>{% endif %}
-                        <strong>{{ item.name }}</strong>
-                        {% if item.description %} – {{ item.description }}{% endif %}
-                    </li>
+                <li {% if item.tags %}data-tags="{{ item.tags | join(' ') }}" {% else %}data-tags="" {% endif %}>
+                    {% if item.price %}<em>{{ item.price }}</em>{% endif %}
+                    <strong>{{ item.name }}</strong>
+                    {% if item.description %} – {{ item.description }}{% endif %}
+                    {% if item.tags %}
+                    <span class="emoji-inline">
+                        {% for tag in item.tags %}
+                        {{ emoji_map.get(tag) }}
+                        {% endfor %}
+                    </span>
+                    {% endif %}
+                </li>
                 {% endfor %}
             </ul>
             {% endfor %}
@@ -292,5 +453,66 @@
     <footer style="text-align:center; font-size:13px; color:#888; margin-top:40px;">
         Lindholmen Lunch – <a href="privacy.html" style="color:#004d66;">Integritetspolicy</a>
     </footer>
+    <script>
+        const updateFilters = () => {
+            const selectedTags = new Set(
+                Array.from(document.querySelectorAll(".filter-tag:checked")).map(el => el.dataset.tag)
+            );
+
+            const selectedRestaurants = new Set(
+                Array.from(document.querySelectorAll(".filter-restaurant:checked")).map(el => el.dataset.restaurant)
+            );
+
+            document.querySelectorAll(".restaurant").forEach(restaurant => {
+                const restName = restaurant.id;
+                if (!selectedRestaurants.has(restName)) {
+                    restaurant.style.display = "none";
+                    return;
+                }
+
+                restaurant.style.display = "block";
+
+                restaurant.querySelectorAll("li[data-tags]").forEach(li => {
+                    const itemTags = li.dataset.tags.trim() === "" ? [] : li.dataset.tags.split(" ");
+                    const match = itemTags.length === 0 || itemTags.some(tag => selectedTags.has(tag));
+                    li.style.display = match ? "list-item" : "none";
+                });
+
+                restaurant.querySelectorAll("ul").forEach(ul => {
+                    const anyVisible = Array.from(ul.children).some(li => li.style.display !== "none");
+                    ul.style.display = anyVisible ? "block" : "none";
+                });
+
+                restaurant.querySelectorAll("h3").forEach(h3 => {
+                    const nextUl = h3.nextElementSibling;
+                    h3.style.display = (nextUl && nextUl.style.display !== "none") ? "block" : "none";
+                });
+
+                const visibleItems = restaurant.querySelectorAll("li[data-tags]:not([style*='display: none'])");
+                if (visibleItems.length === 0) {
+                    restaurant.style.display = "none";
+                }
+            });
+        };
+
+        const toggleAllTags = (enable) => {
+            document.querySelectorAll(".filter-tag").forEach(el => el.checked = enable);
+            updateFilters();
+        };
+
+        const toggleAllRestaurants = (enable) => {
+            document.querySelectorAll(".filter-restaurant").forEach(el => el.checked = enable);
+            updateFilters();
+        };
+
+        document.querySelectorAll(".filter-tag, .filter-restaurant").forEach(el => {
+            el.addEventListener("change", updateFilters);
+        });
+
+        window.addEventListener("DOMContentLoaded", updateFilters);
+    </script>
+
+
 </body>
+
 </html>
