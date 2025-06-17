@@ -108,30 +108,32 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Kummelfilé serveras med potatis, sparris, citron och romsås",
+        "description": "Grillad lax serveras med potatissallad, grillad sparris, ramslökskräm och kaprisbär",
         "price": "195 kr",
         "tags": [
-          "fish"
+          "fish",
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Fläskschnitzel serveras med ört- & ostslungad potatis, chilibearnase och rödvinssås",
+        "description": "Lammfärsbiffar med fetaost serveras med spiskumminkryddad potatis och tzatziki",
         "price": "195 kr",
         "tags": [
-          "pork",
-          "drinks"
+          "greek",
+          "beef",
+          "lamb"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Grillad spetskål serveras med matvetesallad och ramslöksdressing",
+        "description": "Tempura blomkål serveras med wokat grönsaksris, picklad lök och srirachamajonnäs",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
-          "salad"
+          "japanese",
+          "vegetarian"
         ]
       },
       {
@@ -1345,32 +1347,6 @@
         "category": "Tillbehör",
         "description": "",
         "price": "25 kr",
-        "tags": []
-      }
-    ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "friday",
-    "items": [
-      {
-        "name": "Stängt",
-        "category": "Dagens",
-        "description": "",
-        "price": "110 kr",
-        "tags": []
-      },
-      {
-        "name": "Stängt",
-        "category": "Dagens",
-        "description": "",
-        "price": "110 kr",
-        "tags": []
-      },
-      {
-        "name": "Stängt",
-        "category": "Dagens",
-        "description": "",
-        "price": "110 kr",
         "tags": []
       }
     ]

@@ -258,30 +258,32 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Kummelfilé serveras med potatis, sparris, citron och romsås",
+        "description": "Grillad lax serveras med potatissallad, grillad sparris, ramslökskräm och kaprisbär",
         "price": "195 kr",
         "tags": [
-          "fish"
+          "fish",
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Fläskschnitzel serveras med ört- & ostslungad potatis, chilibearnase och rödvinssås",
+        "description": "Lammfärsbiffar med fetaost serveras med spiskumminkryddad potatis och tzatziki",
         "price": "195 kr",
         "tags": [
-          "pork",
-          "drinks"
+          "greek",
+          "beef",
+          "lamb"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Grillad spetskål serveras med matvetesallad och ramslöksdressing",
+        "description": "Tempura blomkål serveras med wokat grönsaksris, picklad lök och srirachamajonnäs",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
-          "salad"
+          "japanese",
+          "vegetarian"
         ]
       },
       {
@@ -673,6 +675,64 @@
         "tags": [
           "italian",
           "dessert"
+        ]
+      }
+    ]
+  },
+  "LsKitchenScraper": {
+    "day": "tuesday",
+    "items": [
+      {
+        "name": "Pasta med rökt kalkon, bacon, svamp, grädde, baby spenat & Grana Padano",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "italian",
+          "pork",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Panko- & dillbakad fisk, skaldjursröra, örtslungad färskpotatis & citron",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "fish",
+          "seafood"
+        ]
+      },
+      {
+        "name": "sallad på varmrökt lax, havreris, rostad paprika, mandel & ärtskott",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "fish",
+          "salad"
+        ]
+      },
+      {
+        "name": "Caesarsallad; kyckling, grana padano, bacon, krutonger",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "chicken",
+          "pork",
+          "salad"
+        ]
+      },
+      {
+        "name": "Pasta, svamp, vita bönor, citron, baby spenat & rostade frön",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "italian",
+          "vegetarian",
+          "pasta"
         ]
       }
     ]
@@ -1576,42 +1636,6 @@
         "description": "",
         "price": "25 kr",
         "tags": []
-      }
-    ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "tuesday",
-    "items": [
-      {
-        "name": "Svenska bullar utan köttfärssås",
-        "category": "Dagens",
-        "description": "lingon, pickles, sås",
-        "price": "110 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Kycklingpasta Carbonara",
-        "category": "Dagens",
-        "description": "krispigt bacon, örtkryddat parmesanost",
-        "price": "110 kr",
-        "tags": [
-          "italian",
-          "chicken",
-          "pork",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Västerbottensbakad kolja",
-        "category": "Dagens",
-        "description": "havskräftor, inlagd gurka, blandade potatisar, morotssallad",
-        "price": "110 kr",
-        "tags": [
-          "fish",
-          "salad"
-        ]
       }
     ]
   }

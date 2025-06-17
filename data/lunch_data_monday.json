@@ -56,9 +56,9 @@
         ]
       },
       {
-        "name": "Chicken Alomonds and coriander",
+        "name": "Murgh Masala indisk gryta med kyckling serveras medbasmatiris, mangochutney, smörat Naan och koriander",
         "category": "INDISK",
-        "description": "Indisk kycklinggryta med mandel & koriander serveras med basmatiris, yoghurt & garlic Naan CHILI 3/5",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -258,30 +258,32 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Kummelfilé serveras med potatis, sparris, citron och romsås",
+        "description": "Grillad lax serveras med potatissallad, grillad sparris, ramslökskräm och kaprisbär",
         "price": "195 kr",
         "tags": [
-          "fish"
+          "fish",
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Fläskschnitzel serveras med ört- & ostslungad potatis, chilibearnase och rödvinssås",
+        "description": "Lammfärsbiffar med fetaost serveras med spiskumminkryddad potatis och tzatziki",
         "price": "195 kr",
         "tags": [
-          "pork",
-          "drinks"
+          "greek",
+          "beef",
+          "lamb"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Grillad spetskål serveras med matvetesallad och ramslöksdressing",
+        "description": "Tempura blomkål serveras med wokat grönsaksris, picklad lök och srirachamajonnäs",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
-          "salad"
+          "japanese",
+          "vegetarian"
         ]
       },
       {
@@ -678,6 +680,60 @@
           "italian",
           "dessert"
         ]
+      }
+    ]
+  },
+  "LsKitchenScraper": {
+    "day": "monday",
+    "items": [
+      {
+        "name": "Fläskwok,  basmatiris, kål sallad, böngroddar och rostad sesam",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "pork",
+          "salad",
+          "drinks"
+        ]
+      },
+      {
+        "name": "örtbakad fisk, gnocchi, tomatsky, rostad aubergine & zucchini",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "italian",
+          "fish"
+        ]
+      },
+      {
+        "name": "sallad på varmrökt lax, havreris, rostad paprika, mandel & ärtskott",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "fish",
+          "salad"
+        ]
+      },
+      {
+        "name": "Caesarsallad; kyckling, grana padano, bacon, krutonger",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "chicken",
+          "pork",
+          "salad"
+        ]
+      },
+      {
+        "name": "wok på temphe, nudlar, grönsaker & chilikräm",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": []
       }
     ]
   },
@@ -1571,41 +1627,6 @@
         "description": "",
         "price": "25 kr",
         "tags": []
-      }
-    ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "monday",
-    "items": [
-      {
-        "name": "Chili sin carne",
-        "category": "Dagens",
-        "description": "guacamole, färsk salsa, mexikanskt ris, tortillachips",
-        "price": "110 kr",
-        "tags": [
-          "mexican",
-          "taco"
-        ]
-      },
-      {
-        "name": "Biffstroganoff",
-        "category": "Dagens",
-        "description": "gurkor, krispig lök, inlagd chili, ris",
-        "price": "110 kr",
-        "tags": [
-          "indian",
-          "beef"
-        ]
-      },
-      {
-        "name": "Ugnsbakad lax",
-        "category": "Dagens",
-        "description": "krämig ramslöksås, sommarskördesallad",
-        "price": "110 kr",
-        "tags": [
-          "fish",
-          "salad"
-        ]
       }
     ]
   }
