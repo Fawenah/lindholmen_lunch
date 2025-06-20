@@ -709,13 +709,11 @@
         ]
       },
       {
-        "name": "Falafel, cous cous, mynta, tomat, gurka, sallad & vitlöksdressing",
+        "name": "Falafel, cous cous, mynta, tomat, gurka & vitlöksdressing",
         "category": "",
         "description": "",
         "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
-        "tags": [
-          "salad"
-        ]
+        "tags": []
       }
     ]
   },
@@ -723,33 +721,35 @@
     "day": "thursday",
     "items": [
       {
-        "name": "Veckans: Matjessill",
+        "name": "Veckans: Lax pasta",
         "category": "Veckans",
-        "description": "Kokt Färskpotatis – Bryntsmör – Citroncreme – Ägg – Gräslök & Rödlök",
+        "description": "Tagliatelle – Vitvinssås – Spenat – Grana padano",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "italian",
+          "fish",
+          "pasta",
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Måndag–Tis: Papardelle med Tomatsås",
+        "name": "Vegetarisk Måndag–Tis: Pannoumi stroganof",
         "category": "Veckans",
-        "description": "Vispad ricotta – Rostade mandlar – Citron – Rucola",
+        "description": "Paprika – Jasminris – Persilja",
         "price": "130 kr",
         "tags": [
+          "indian",
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons-Tors:Gratinerad Chevré sallad",
+        "name": "Vegetarisk Ons-Tors: Korean fried Blomkål",
         "category": "Veckans",
-        "description": "Rostade primörer – Valnötter – Jordgubbar – Vinegrette",
+        "description": "Srirachamajonnäs – Rödkålssallad – Jasminris – Koriander",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "beef",
-          "salad",
-          "drinks"
+          "salad"
         ]
       },
       {
@@ -765,26 +765,23 @@
         ]
       },
       {
-        "name": "Citron och timjans Kyckling",
+        "name": "Fläskfilé black and white",
         "category": "Lunch",
-        "description": "Sparris risotto – Rödvinsås – Persilja",
+        "description": "Hasselbacks potatis – Bearnaise – Rödvinssås – Haricotsverts",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "chicken",
+          "pork",
           "drinks"
         ]
       },
       {
-        "name": "Fisk Tacos",
+        "name": "Halstrad Fångst",
         "category": "Lunch",
-        "description": "Tortilla – rödkålsallad – Avocado kräm – Koriander",
+        "description": "Skaldjurssås – Morot & Vårlök – Örtslungad potatis",
         "price": "130 kr",
         "tags": [
-          "mexican",
           "fish",
-          "salad",
-          "taco"
+          "seafood"
         ]
       }
     ]

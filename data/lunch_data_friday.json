@@ -491,33 +491,35 @@
     "day": "friday",
     "items": [
       {
-        "name": "Veckans: Matjessill",
+        "name": "Veckans: Lax pasta",
         "category": "Veckans",
-        "description": "Kokt Färskpotatis – Bryntsmör – Citroncreme – Ägg – Gräslök & Rödlök",
+        "description": "Tagliatelle – Vitvinssås – Spenat – Grana padano",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "italian",
+          "fish",
+          "pasta",
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Måndag–Tis: Papardelle med Tomatsås",
+        "name": "Vegetarisk Måndag–Tis: Pannoumi stroganof",
         "category": "Veckans",
-        "description": "Vispad ricotta – Rostade mandlar – Citron – Rucola",
+        "description": "Paprika – Jasminris – Persilja",
         "price": "130 kr",
         "tags": [
+          "indian",
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons-Tors:Gratinerad Chevré sallad",
+        "name": "Vegetarisk Ons-Tors: Korean fried Blomkål",
         "category": "Veckans",
-        "description": "Rostade primörer – Valnötter – Jordgubbar – Vinegrette",
+        "description": "Srirachamajonnäs – Rödkålssallad – Jasminris – Koriander",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "beef",
-          "salad",
-          "drinks"
+          "salad"
         ]
       },
       {
@@ -533,9 +535,19 @@
         ]
       },
       {
-        "name": "Stängt.",
+        "name": "Grillad pluma & Kycklingspett",
         "category": "Lunch",
-        "description": "GLAD MIDSOMMAR!",
+        "description": "Rostad potatis – Chimmichurri – Coleslaw",
+        "price": "130 kr",
+        "tags": [
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Fish n chips",
+        "category": "Lunch",
+        "description": "Tartarsås – Pommes – ärtor – Citron – dill",
         "price": "130 kr",
         "tags": []
       }
