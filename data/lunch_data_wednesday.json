@@ -250,37 +250,6 @@
     "items": [
       {
         "name": "",
-        "category": "FISK",
-        "description": "Grillad lax serveras med potatissallad, grillad sparris, ramslökskräm och kaprisbär",
-        "price": "195 kr",
-        "tags": [
-          "fish",
-          "salad"
-        ]
-      },
-      {
-        "name": "",
-        "category": "KÖTT",
-        "description": "Lammfärsbiffar med fetaost serveras med spiskumminkryddad potatis och tzatziki",
-        "price": "195 kr",
-        "tags": [
-          "greek",
-          "beef",
-          "lamb"
-        ]
-      },
-      {
-        "name": "",
-        "category": "VEG",
-        "description": "Tempura blomkål serveras med wokat grönsaksris, picklad lök och srirachamajonnäs",
-        "price": "195 kr",
-        "tags": [
-          "japanese",
-          "vegetarian"
-        ]
-      },
-      {
-        "name": "",
         "category": "CEASARSALLAD",
         "description": "grillad majskycklingfilé, prosciutto, pecorino, romansallad, caesardressing & krutonger",
         "price": "215 kr",
@@ -695,6 +664,17 @@
         "tags": [
           "fish",
           "drinks"
+        ]
+      },
+      {
+        "name": "Sallad på brytbönor, vaxbönor, färskpotatis, gravad lax & senaposdressing",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "vegetarian",
+          "fish",
+          "salad"
         ]
       },
       {
