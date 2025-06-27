@@ -16,17 +16,16 @@
         ]
       },
       {
-        "name": "” Mexican Bowl” Grillad kyckling med sötpotatis och marinerat matvete som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander” Mexican Bowl” Vegetarisk bowl med friterad quorn, sötpotatis och marinerat matvete som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
-        "category": "VECKANS SPECIAL",
-        "description": "",
+        "name": "Kooperativets hemmagjorda Smörgåstårta",
+        "category": "VECKANS SOMMARSPECIAL",
+        "description": "med fylld med krämig skagenröra toppad med rökt lax, kokt ägg, syrlig lök, smarriga örter samt citronmajonnäs",
         "price": "130 kr",
         "tags": [
-          "vegetarian",
-          "chicken"
+          "fish"
         ]
       },
       {
-        "name": "Kooperativet Schnitzel på gårdsgris toppad med vispat ”BBQsmör” serveras med nyrostade färskpotatis samt rödvinssås",
+        "name": "Kooperativet Schnitzel på gårdsgris toppad med vispat smör smaksatt med gräslök & långpeppar serveras med nyrostade färskpotatis samt rödvinssås",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
@@ -36,57 +35,56 @@
         ]
       },
       {
-        "name": "Bakad kolja serveras med gräslöksrisotto , rostade fröer, aioli, grana padano och ruccola",
+        "name": "Bakad kolja serveras med dillkrossad potatis, sandefjordsås och stekt citron",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "italian",
+          "beef",
           "fish"
         ]
       },
       {
-        "name": "Bulgogi på wokad kyckling med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära serveras med jasminris & hjärtsallad",
+        "name": "Asien Style Dirty Fries",
         "category": "THAI",
-        "description": "",
+        "description": "Gochujang glacerad friterad kyckling på frasiga pommes toppat med kimchi, soyamajonnäs, böngroddar, koriander & rostadlök",
         "price": "130 kr",
         "tags": [
           "korean",
           "thai",
-          "chicken",
-          "salad"
+          "chicken"
         ]
       },
       {
-        "name": "Chicken Tikka Masala",
+        "name": "Palak murgi",
         "category": "INDISK",
-        "description": "Indisk currygryta med kyckling med rostad mandel serveras med mango chutney, basmatiris & koriander och smörat Naan",
+        "description": "Klassisk indisk curry på kyckling med spenat, ingefära & koriander toppad rödlök samt serveras med basmatiris och garlic Naan",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
-          "soup",
           "bread"
         ]
       },
       {
-        "name": "American Dirty Fries",
+        "name": "”Sovlaki” Kolgrillad gårdsgris serveras på libabröd , syrlig rödkål med fetaostkräm, rostadlök, grönchiliolja och persilja",
         "category": "VÄRLDEN",
-        "description": "Frasiga pommes smaksatt med Welkins Grillkrydda toppad med nattbakad högrev, varm ostsås smaksatt med jalapeños samt Pico de Gallo, rostadlök & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "greek",
+          "pork",
+          "bread"
         ]
       },
       {
-        "name": "Samosa Tikka Masala",
+        "name": "Palak Haloumi",
         "category": "VEGETARISKT",
-        "description": "Indisk currygryta med friterade grönsaksknyten med rostad mandel serveras med mango chutney, basmatiris & koriander och smörat Naan",
+        "description": "Klassisk indisk curry med friterad haloumi med spenat, ingefära & koriander toppad rödlök samt serveras med basmatiris och garlic Naan",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "soup",
           "bread"
         ]
       }

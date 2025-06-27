@@ -16,35 +16,30 @@
         ]
       },
       {
-        "name": "” Mexican Bowl” Grillad kyckling med sötpotatis och marinerat matvete som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander” Mexican Bowl” Vegetarisk bowl med friterad quorn, sötpotatis och marinerat matvete som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
-        "category": "VECKANS SPECIAL",
-        "description": "",
+        "name": "Kooperativets hemmagjorda Smörgåstårta",
+        "category": "VECKANS SOMMARSPECIAL",
+        "description": "med fylld med krämig skagenröra toppad med rökt lax, kokt ägg, syrlig lök, smarriga örter samt citronmajonnäs",
         "price": "130 kr",
         "tags": [
-          "vegetarian",
-          "chicken"
+          "fish"
         ]
       },
       {
-        "name": "Nystekt Noisette på gårdsgris med krämig potatisgratäng & rödvinssås det behövs inget mer…..",
+        "name": "Rosastekt Ankbröst serveras med råstekt färsk potatis, krämig dragonmajonäs & steksky",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "beef",
-          "pork",
-          "drinks"
+          "beef"
         ]
       },
       {
-        "name": "Kingens fisk&skaldjursgryta serveras med dillkokt potatis, tryffelaioli, räkor samt rostad panko och örter",
+        "name": "Västerbottenbakad kolja serveras med svampsås, örtstompad potatis, ruccola",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "fish",
-          "seafood",
-          "soup"
+          "fish"
         ]
       },
       {
@@ -678,7 +673,7 @@
         ]
       },
       {
-        "name": "Curry på potatis, blomkål & vita bönor, spenat, ris & libabröd",
+        "name": "Curry på potatis, blomkål & kikärtor, spenat, ris & tunnbröd",
         "category": "",
         "description": "",
         "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",

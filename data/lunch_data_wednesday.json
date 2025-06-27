@@ -16,79 +16,67 @@
         ]
       },
       {
-        "name": "” Mexican Bowl” Grillad kyckling med sötpotatis och marinerat matvete som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander” Mexican Bowl” Vegetarisk bowl med friterad quorn, sötpotatis och marinerat matvete som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
-        "category": "VECKANS SPECIAL",
-        "description": "",
+        "name": "Kooperativets hemmagjorda Smörgåstårta",
+        "category": "VECKANS SOMMARSPECIAL",
+        "description": "med fylld med krämig skagenröra toppad med rökt lax, kokt ägg, syrlig lök, smarriga örter samt citronmajonnäs",
         "price": "130 kr",
         "tags": [
-          "vegetarian",
-          "chicken"
+          "fish"
         ]
       },
       {
-        "name": "Kooperativets somriga Kålpudding toppad med citronmarinerad spetskål & råhyvlat äpple serveras med ramslöksveloute & sötsyrliga lingon",
+        "name": "Kalv Wallenbergare med krämig potatis & rotselleripure, rödvinssås smaksatt med bryntsmör & fermenterad peppar serveras med lingon",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "dessert"
+          "beef",
+          "drinks"
         ]
       },
       {
-        "name": "Stekt panerad sej serveras med potatismos, hollandaisesås , citron och ärtskott",
+        "name": "Stekt panerad sejfile serveras med dillkokt potatis, skagenröra, citron och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "fish"
+          "fish",
+          "salad"
         ]
       },
       {
-        "name": "Chicken Mongolian BBQ",
+        "name": "Sticky chicken på kyckling i hosinsås med krämigkålsallad serveras med jasminris, koriander & rostade sesamfrön chili 1/5",
         "category": "THAI",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "thai",
-          "chicken"
+          "chicken",
+          "salad"
         ]
       },
       {
-        "name": "Bombay chicken burger",
+        "name": "Indien ”Steak and Rice” Kolgrillad kycklingfile & Lamm serveras med masalasås, basmatiris & lime & chilipickelsmajonnäs samt koriander",
         "category": "INDISK",
-        "description": "Kolgrillad kycklingburgare i briochebröd med tandoorimajonnäs, syrligkålsallad samt frasiga pommes med mango chutney glace",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
-          "burger",
-          "salad",
-          "bread"
+          "lamb"
         ]
       },
       {
-        "name": "Kooperativets lasagne på nötfärs serveras med tomatsallad toppad med parmesan och ruccola",
+        "name": "Marstrands stolthet, Afrikana",
         "category": "VÄRLDEN",
-        "description": "",
+        "description": "Kolgrillad kyckling, krämig currysås, friterad banan, mandariner, jordnötter samt mango chutneyVEGETARISKTMarstrands vegetariska stolthet, Afrikana. Grillad quorn , krämig currysås, friterad banan, mandariner, jordnötter samt mango chutney",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "beef",
-          "pasta",
-          "salad"
-        ]
-      },
-      {
-        "name": "Kooperativets lasagne på svamp, spenat & keso serveras med tomatsallad toppad med parmesan och ruccola",
-        "category": "VEGETARISKT",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "italian",
+          "indian",
           "vegetarian",
-          "pasta",
-          "salad"
+          "beef",
+          "chicken"
         ]
       }
     ]
