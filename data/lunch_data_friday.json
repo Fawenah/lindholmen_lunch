@@ -596,6 +596,25 @@
     "day": "friday",
     "items": [
       {
+        "name": "Fläskschnitzel, skysås, gröna ärtor, rostad potatis & persilja",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "pork",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Citron- & mandelbakad fisk, gräddig spenat, kokt färskpotatis",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
         "name": "Ceasarsallad, kyckling, grana padano, bacon, krutonger",
         "category": "",
         "description": "",
@@ -614,6 +633,15 @@
         "tags": [
           "mexican",
           "beef"
+        ]
+      },
+      {
+        "name": "Vegansk schnitzel, rostad potatis, tartarsås & picklad rödkål",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "vegetarian"
         ]
       }
     ]

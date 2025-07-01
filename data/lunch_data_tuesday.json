@@ -605,6 +605,24 @@
     "day": "tuesday",
     "items": [
       {
+        "name": "Köttbullar, gräddsås, lingon, pressgurka & färskpotatis",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "beef"
+        ]
+      },
+      {
+        "name": "Basilika & parmesanbakad fisk, tomat- & gräddstuvad risoni, baby spenat",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
         "name": "Ceasarsallad, kyckling, grana padano, bacon, krutonger",
         "category": "",
         "description": "",
@@ -623,6 +641,17 @@
         "tags": [
           "mexican",
           "beef"
+        ]
+      },
+      {
+        "name": "Falafel, tabbouleh, yoghurtdressing, sallad, tunnbröd",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "greek",
+          "salad",
+          "bread"
         ]
       }
     ]

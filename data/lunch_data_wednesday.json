@@ -596,6 +596,27 @@
     "day": "wednesday",
     "items": [
       {
+        "name": "Kycklinglår, röd curry, lime, kokos, basmatiris, salladslök & koriander",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Pasta, räkor, musslor, tomat, smör, citron & örter",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "italian",
+          "seafood",
+          "pasta"
+        ]
+      },
+      {
         "name": "Grillad paprika, rostbiff, salsa asada, matvete & picklad rödlök",
         "category": "",
         "description": "",
@@ -614,6 +635,17 @@
           "chicken",
           "pork",
           "salad"
+        ]
+      },
+      {
+        "name": "Veganska sojafärsbiff, rostad potatis, svampsås & svartvinbärsgelé",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "vegetarian",
+          "beef",
+          "drinks"
         ]
       }
     ]

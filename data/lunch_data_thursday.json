@@ -600,6 +600,22 @@
     "day": "thursday",
     "items": [
       {
+        "name": "Cajunkryddad pluma, rostad sötpotatis, rostade tomater & chimichurry",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": []
+      },
+      {
+        "name": "Ångad fisk, balsamicobakade betor, brynt smör, färskpotatis & pepparrot",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
         "name": "Ceasarsallad, kyckling, grana padano, bacon, krutonger",
         "category": "",
         "description": "",
@@ -618,6 +634,15 @@
         "tags": [
           "mexican",
           "beef"
+        ]
+      },
+      {
+        "name": "Marinerad pulled soja, potatissallad, rädisor, senap, spenat & örtkräm",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "salad"
         ]
       }
     ]

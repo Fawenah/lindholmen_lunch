@@ -602,6 +602,26 @@
     "day": "monday",
     "items": [
       {
+        "name": "stekt kycklingbröst (SE) , morot, dragonsås, färskpotatis & persilja",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "beef",
+          "chicken"
+        ]
+      },
+      {
+        "name": "bolognese på lax, tortellini, ruccola & grana panado",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "italian",
+          "fish"
+        ]
+      },
+      {
         "name": "Ceasarsallad, kyckling, grana padano, bacon, krutonger",
         "category": "",
         "description": "",
@@ -620,6 +640,16 @@
         "tags": [
           "mexican",
           "beef"
+        ]
+      },
+      {
+        "name": "pasta med svamp och ärtsås, ruccola & rostad tomat",
+        "category": "",
+        "description": "",
+        "price": "122 kr, Gästkort 112 kr, Kårkort 68 kr (63kr)",
+        "tags": [
+          "italian",
+          "pasta"
         ]
       }
     ]
