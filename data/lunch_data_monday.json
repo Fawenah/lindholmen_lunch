@@ -5,27 +5,37 @@
       {
         "name": "Caesarsallad",
         "category": "SALLADER",
-        "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutongerVästkust Caesarsallad – romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger",
+        "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
         "price": "130 kr",
         "tags": [
           "chicken",
-          "fish",
           "pork",
+          "salad"
+        ]
+      },
+      {
+        "name": "Västkust Caesarsallad",
+        "category": "SALLADER",
+        "description": "romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger",
+        "price": "130 kr",
+        "tags": [
+          "fish",
           "seafood",
           "salad"
         ]
       },
       {
-        "name": "Kooperativets hemmagjorda Smörgåstårta",
-        "category": "VECKANS SOMMARSPECIAL",
-        "description": "med fylld med krämig skagenröra toppad med rökt lax, kokt ägg, syrlig lök, smarriga örter samt citronmajonnäs",
+        "name": "VEG Caesarsallad",
+        "category": "SALLADER",
+        "description": "romansallad toppad med friterad haloumi och grillade grönsaker serveras med caesardressing, riven grana padano samt krutonger",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "vegetarian",
+          "salad"
         ]
       },
       {
-        "name": "Kooperativets klassiska Köttbullemåndag gjorda på Nötfärs med potatispuré, gräddsås serveras med rårörda lingon & pressgurka",
+        "name": "Kooperativets klassiska Köttbullemåndag gjorda på nötfärs med potatispuré, gräddsås serveras med rårörda lingon & pressgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
@@ -34,30 +44,30 @@
         ]
       },
       {
-        "name": "Pocherad torsk serveras med potatispuré, vitvinssås smaksatt med rostad vitlök samt citron och örter",
+        "name": "Pocherad torsk serveras med Sandefjord ”stuvade” räkor, kokt färsk potatis och smarriga örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
-          "drinks"
+          "seafood"
         ]
       },
       {
-        "name": "Friterade kyckling Dumplings i krämig rödcurry med grillad pak choi, serveras med jasminris & koriander",
+        "name": "Panang curry",
         "category": "THAI",
-        "description": "",
+        "description": "wokad kyckling & lök i panangcurry med koksmjölk smaksatt med limeblad serveras med jasminris & koriander",
         "price": "130 kr",
         "tags": [
           "thai",
           "chicken",
-          "dumplings"
+          "drinks"
         ]
       },
       {
-        "name": "Chicken madras",
+        "name": "Murgh Masala indisk gryta med kyckling serveras med basmatiris, mangochutney, smörat Naan och koriander",
         "category": "INDISK",
-        "description": "Murgh Masala indisk gryta med kyckling serveras med basmatiris, mangochutney, smörat Naan och koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -67,25 +77,25 @@
         ]
       },
       {
-        "name": "Smörstekt Gnocchi med krämig tryffelveloute toppad med vitlöksgrillad kycklingfile toppad med ruccola & parmesan",
+        "name": "Carbonara Tartufo",
         "category": "VÄRLDEN",
-        "description": "",
+        "description": "Spagetti i Krämig tryffelcarbonarasås med äggula toppad med massa bacon & parmesan samt ruccola",
         "price": "130 kr",
         "tags": [
           "italian",
-          "beef",
-          "chicken"
+          "pork",
+          "pasta"
         ]
       },
       {
-        "name": "Smörstekt Gnocchi med krämig tryffelveloute toppad med vitlöksgrillad quorn toppad med ruccola & parmesan",
+        "name": "Panang curry",
         "category": "VEGETARISK",
-        "description": "",
+        "description": "wokad quorn & lök i panangcurry med koksmjölk smaksatt med limeblad serveras med jasminris & koriander",
         "price": "130 kr",
         "tags": [
-          "italian",
+          "thai",
           "vegetarian",
-          "beef"
+          "drinks"
         ]
       }
     ]
