@@ -123,15 +123,6 @@
       },
       {
         "name": "",
-        "category": "Köttbullar",
-        "description": "Köttbullar på kalvfärs med gräddsås och rårörda lingon, serveras med pressgurka och potatismos.",
-        "price": "129 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "",
         "category": "Sallad",
         "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt husets ceasardressing.",
         "price": "129 kr",
@@ -144,22 +135,40 @@
       },
       {
         "name": "",
-        "category": "Chicken Curry",
-        "description": "Kyckling med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "category": "Vårrullar",
+        "description": "Risnudlar med vårrullar, chili, koriander, pickles, sallad,",
         "price": "129 kr",
         "tags": [
-          "chicken",
-          "drinks"
+          "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Vårrullar",
+        "description": "rostad lök, jordnötter och nuoc mam.",
+        "price": "129 kr",
+        "tags": [
+          "beef"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Risnudlar vegetariska vårrullar med chili, koriander, pickles, sallad,",
         "price": "129 kr",
         "tags": [
           "vegetarian",
-          "drinks"
+          "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk",
+        "description": "rostad lök, jordnötter och nuoc mam.",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "beef"
         ]
       },
       {
@@ -190,22 +199,22 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "BUTTER CHICKEN",
+        "name": "CHICKEN KADHAI",
         "category": "",
-        "description": "Mild kycklinggryta med nötter, smör i en krämig sås.",
+        "description": "Nordindisk Kycklinggryta med rödlök, paprika, fänkål, citron, svartpeppar och koriander.",
         "price": "129 kr",
         "tags": [
-          "beef",
           "chicken",
           "soup"
         ]
       },
       {
-        "name": "ACHARI GHOST",
+        "name": "BENGALI KOFTA CURRY",
         "category": "",
-        "description": "Lamm tillagad i fänkål, grön, chili, vitlök, senapsfrön och curryblad.",
+        "description": "Lammfärsbullar tillagad med mango, senapsfrön, curryblad, chilli och kokos.",
         "price": "129 kr",
         "tags": [
+          "indian",
           "lamb"
         ]
       },
@@ -253,17 +262,17 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Fisk à la Lidström, syrad morotskräm, pärlcouscous, dragon, körvel, morotssallad, vitvinssås & rostad mandel Fire: Grillad kycklingklubba/grillad grillost",
+        "name": "Pasta ”puttanesca”",
         "category": "Water",
-        "description": "potatissallad, chimichurri, grillade grönsaker (zucchini, aubergine, marinerade oliver, kapris) fetaost Grilled bone in chicken leg or grilled halloumi, potato salad, chimichurri, grilled vegetables, marinated olives and feta cheese",
+        "description": "vitlöksstekta brödsmulor, grana padano, kapris, sardell, chili Fire: Kebabtallrik, strimlad kyckling/halloumi, sallad, tomat, lök, fefferoni, röd sås, vit sås, gult ris Chicken kebab, grilled chicken thigh or grilled halloumi, salad, tomato, onion, pfefferoni, red sauce, white sauce, yellow rice",
         "price": "132 kr",
         "tags": [
-          "greek",
-          "vegetarian",
+          "italian",
+          "beef",
           "chicken",
-          "fish",
+          "pasta",
           "salad",
-          "drinks"
+          "bread"
         ]
       }
     ]
@@ -591,32 +600,47 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Veckans: Gravad lax",
+        "name": "Veckans: Kyckling pasta",
         "category": "Veckans",
-        "description": "Dill stuvad potatis – Hovmästarsås – Syrad fänkål – Dill",
+        "description": "Tagliatelle – Vitvinssås – Zucchini – Paprika – Granapadano – Rucola",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "italian",
+          "chicken",
+          "pasta",
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Mån–Tis: Tortellini med ricotta & spenat",
+        "name": "Vegetarisk Mån–Tis: Gnocchi",
         "category": "Veckans",
-        "description": "Ostsås – Soltorkad tomat – Rucola",
+        "description": "Bryntsmör – Tomat – Citron – Spenat – Granapadano",
         "price": "130 kr",
         "tags": [
+          "italian",
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons-Tors: Panerad fetaost Sallad",
+        "name": "Vegetarisk Ons-Tors:Chevré sallad",
         "category": "Veckans",
-        "description": "Oliver – Tomat – Rostade Grönsaker & Rotfrukter – Rostade frön – Tzatziki",
+        "description": "Rostade grönsaker – Rostade valnötter – vinegretté",
         "price": "130 kr",
         "tags": [
-          "greek",
           "vegetarian",
-          "salad"
+          "beef",
+          "salad",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Vegetarisk Fre: Pannoumi Burgare",
+        "category": "Veckans",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian",
+          "burger"
         ]
       },
       {
@@ -632,22 +656,21 @@
         ]
       },
       {
-        "name": "Schnitzel",
+        "name": "Korean fried Chicken",
         "category": "Lunch",
-        "description": "Rostad potatis – Rödvinssås – Kapris – Cafe de paris smör – Haricotsverts",
+        "description": "Srirachamajonnäs – Kålsallad – Jasminris – Sesamfrön – Koriander",
         "price": "130 kr",
         "tags": [
-          "drinks"
+          "chicken",
+          "salad"
         ]
       },
       {
-        "name": "Citronhalstrad Fångst",
+        "name": "Pocherad Fångst",
         "category": "Lunch",
-        "description": "Hollandaise – kokt färskpotatis – Morot – Blomkål – Gräslök",
+        "description": "Brynt smör – Rödbeta – Kapris – Schalottenlök – Kokt potatis",
         "price": "130 kr",
-        "tags": [
-          "fish"
-        ]
+        "tags": []
       }
     ]
   },
@@ -1206,34 +1229,33 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "CHICKEN CHETTINAD",
+        "name": "MURG VINDALOO",
         "category": "",
-        "description": "En populär sydindisk kycklinggryta, tillagad i en pepprig kryddblandning från Chettinad, Spetsad med kokos.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "chicken",
-          "soup"
-        ]
-      },
-      {
-        "name": "CHUTNEY SEEKH KEBAB",
-        "category": "",
-        "description": "Lammfärskebab med mango chutney, mynta, vitlök, garam masala och rödvinsås.",
+        "description": "Eldig kycklingrätt från Goa med palmvinäger, nejlkor och piri-piri masala",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "lamb",
+          "chicken",
           "drinks"
         ]
       },
       {
-        "name": "SAMOSA CURRY",
+        "name": "SHAHI GOSHT",
         "category": "",
-        "description": "Friterade små piroger med vegetarisk fyllning, serveras i yoghurt- och currysås.",
+        "description": "Mild och krämig lammrätt med kardemumma, malda cashewnötter och pistagenötter",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "vegetarian"
+          "beef",
+          "lamb"
+        ]
+      },
+      {
+        "name": "BAINGAN BHARTA",
+        "category": "",
+        "description": "Långstekt aubergine, lök, tomat, ingefära, chili, koriander.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "beef"
         ]
       },
       {
