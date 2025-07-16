@@ -114,7 +114,7 @@
       {
         "name": "",
         "category": "Sallad",
-        "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt husets ceasardressing.",
+        "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt",
         "price": "129 kr",
         "tags": [
           "chicken",
@@ -125,13 +125,28 @@
       },
       {
         "name": "",
-        "category": "Fried Chicken",
-        "description": "Friterad kyckling med chili mayo och jordnötssås, serveras med morot och vitkålssallad samt jasminris.",
+        "category": "Sallad",
+        "description": "husets ceasardressing.",
         "price": "129 kr",
         "tags": [
-          "beef",
-          "chicken",
           "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Asiatisk",
+        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
+        "price": "129 kr",
+        "tags": []
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk",
+        "description": "Tofu med röd curry, kokosmjölk, paprika, lök, limeblad och bambuskott, serveras med jasmnris.",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "drinks"
         ]
       },
       {

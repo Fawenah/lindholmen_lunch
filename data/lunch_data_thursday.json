@@ -140,18 +140,24 @@
       },
       {
         "name": "",
-        "category": "Asiatisk",
-        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
+        "category": "Fried Chicken",
+        "description": "Friterad kyckling med chili mayo och jordnötssås, serveras med morot och vitkålssallad samt jasminris.",
         "price": "129 kr",
-        "tags": []
+        "tags": [
+          "beef",
+          "chicken",
+          "salad"
+        ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med tamarindsås och grönsaker, serveras med jasminris.",
+        "description": "Friterad tofu med chili mayo och jordnötssås, serveras med morot och vitkålssallad samt jasminris.",
         "price": "129 kr",
         "tags": [
-          "vegetarian"
+          "vegetarian",
+          "beef",
+          "salad"
         ]
       },
       {
