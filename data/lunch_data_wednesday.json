@@ -135,41 +135,10 @@
       },
       {
         "name": "",
-        "category": "Vårrullar",
-        "description": "Risnudlar med vårrullar, chili, koriander, pickles, sallad,",
+        "category": "Asiatisk",
+        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
         "price": "129 kr",
-        "tags": [
-          "salad"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vårrullar",
-        "description": "rostad lök, jordnötter och nuoc mam.",
-        "price": "129 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk",
-        "description": "Risnudlar vegetariska vårrullar med chili, koriander, pickles, sallad,",
-        "price": "129 kr",
-        "tags": [
-          "vegetarian",
-          "salad"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk",
-        "description": "rostad lök, jordnötter och nuoc mam.",
-        "price": "129 kr",
-        "tags": [
-          "vegetarian",
-          "beef"
-        ]
+        "tags": []
       },
       {
         "name": "",
@@ -199,23 +168,24 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "CHICKEN KADHAI",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Nordindisk Kycklinggryta med rödlök, paprika, fänkål, citron, svartpeppar och koriander.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
         "price": "129 kr",
         "tags": [
+          "beef",
           "chicken",
           "soup"
         ]
       },
       {
-        "name": "BENGALI KOFTA CURRY",
+        "name": "BALTI GHOST",
         "category": "",
-        "description": "Lammfärsbullar tillagad med mango, senapsfrön, curryblad, chilli och kokos.",
+        "description": "Lammkött marinerad i vitlök och grön chilli tillagad i en kryddstark rödvinsås, lök, paprika och champinjoner.",
         "price": "129 kr",
         "tags": [
-          "indian",
-          "lamb"
+          "lamb",
+          "drinks"
         ]
       },
       {
@@ -262,17 +232,15 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Pasta ”puttanesca”",
+        "name": "Bakad fisk",
         "category": "Water",
-        "description": "vitlöksstekta brödsmulor, grana padano, kapris, sardell, chili Fire: Kebabtallrik, strimlad kyckling/halloumi, sallad, tomat, lök, fefferoni, röd sås, vit sås, gult ris Chicken kebab, grilled chicken thigh or grilled halloumi, salad, tomato, onion, pfefferoni, red sauce, white sauce, yellow rice",
+        "description": "potatispuré, gröna ärtor, brynt sandefjordsås, tångcaviar, dill, hasselnöt Fire: Sweet and sour chicken stir fry, jasminris, wokad rödlök, broccoli, paprika, sötsursås, friterad lök Sweet and sour chicken or tofu stir fry, jasmin rice, broccoli, onion and bell pepper stirfry, sweet and sour sauce, crispy onions",
         "price": "132 kr",
         "tags": [
-          "italian",
+          "vegetarian",
           "beef",
           "chicken",
-          "pasta",
-          "salad",
-          "bread"
+          "fish"
         ]
       }
     ]
@@ -1229,34 +1197,29 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "MURG VINDALOO",
+        "name": "CHICKEN KADHAI",
         "category": "",
-        "description": "Eldig kycklingrätt från Goa med palmvinäger, nejlkor och piri-piri masala",
+        "description": "Kyckilngflé med tomat, paprika och champinjoner, smaksatt med ingefära, koriander och chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "chicken",
-          "drinks"
+          "chicken"
         ]
       },
       {
-        "name": "SHAHI GOSHT",
+        "name": "KASHMIRI LAMB",
         "category": "",
-        "description": "Mild och krämig lammrätt med kardemumma, malda cashewnötter och pistagenötter",
+        "description": "Lammrostbitf med tomat, lök, saffran, ingefära, koriander och röd chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "beef",
           "lamb"
         ]
       },
       {
-        "name": "BAINGAN BHARTA",
+        "name": "AUBERGINE MADRASI",
         "category": "",
-        "description": "Långstekt aubergine, lök, tomat, ingefära, chili, koriander.",
+        "description": "Aubergine tilagad i en krydlig tamarind- och kokossås, smaksatt med färska curryblad och koriander.",
         "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "beef"
-        ]
+        "tags": []
       },
       {
         "name": "SUBZI THALI",

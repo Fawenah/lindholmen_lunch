@@ -142,9 +142,10 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry, kokosmjölk, paprika, lök, limeblad och bambuskott, serveras med jasmnris.",
+        "description": "Tofu med grön curry, kokosmjölk, paprika, lök, limeblad och bambuskott, serveras med jasmnris.",
         "price": "129 kr",
         "tags": [
+          "thai",
           "vegetarian",
           "drinks"
         ]
@@ -177,9 +178,9 @@
     "day": "friday",
     "items": [
       {
-        "name": "CHICKEN TIKKA",
+        "name": "PAHADI GRILL CHICKEN",
         "category": "",
-        "description": "Grillad kycklingfilé marinerad i lime, yoghurt och tandoori masala, serveras med tandoori sås.",
+        "description": "Grillad kycklingfilé marinerad i yoghurt och örter, serveras med tandoori sås.",
         "price": "129 kr",
         "tags": [
           "indian",
@@ -187,15 +188,16 @@
         ]
       },
       {
-        "name": "HYDRABADI GHOST",
+        "name": "DALCHA GHOST",
         "category": "",
-        "description": "Lammköttgryta med senap, lök, tomat, vitlök, sesamfrön, mynta, grön chili och kokos. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
+        "description": "Lammgryta med linser, lök, tomat, chili och limejuice. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
         "price": "129 kr",
         "tags": [
           "indian",
           "vegetarian",
           "lamb",
-          "soup"
+          "soup",
+          "drinks"
         ]
       },
       {
@@ -242,16 +244,15 @@
     "day": "friday",
     "items": [
       {
-        "name": "Pasta ”puttanesca”",
+        "name": "Bakad fisk",
         "category": "Water",
-        "description": "vitlöksstekta brödsmulor, grana padano, kapris, sardell, chili Fire: Grillad pluma/grillost, pommes frites, dragonmajonnäs, tomatsallad ”steak minute” Grilled feather blade or Halloumi, french fries, tarragon mayonaise, tomatosalad “steak minute”",
+        "description": "potatispuré, gröna ärtor, brynt sandefjordsås, tångcaviar, dill, hasselnöt Fire: Rostbiff, potatissallad, vitlöksmajonnäs, sommargrönt, örtsallad Cold sliced roast beef with potato salad, garlic mayonaise, summer veg, herb salad",
         "price": "132 kr",
         "tags": [
-          "italian",
+          "vegetarian",
           "beef",
-          "pasta",
-          "salad",
-          "bread"
+          "fish",
+          "salad"
         ]
       }
     ]
@@ -1214,31 +1215,34 @@
     "day": "friday",
     "items": [
       {
-        "name": "PALAK CHICKEN",
+        "name": "MURG METHI MALAI",
         "category": "",
-        "description": "Kycklingfilé med spenat, paprika, grön chili, ingeföra och vitlök.",
+        "description": "Kycklingfilé med bockhornsklöver, lök, ingefära, finmald cashewnötter, vitpeppar och tomatgräddsås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
+          "indian",
+          "beef",
           "chicken"
         ]
       },
       {
-        "name": "MEEN MOILEE",
+        "name": "MACHILI BENGALI",
         "category": "",
-        "description": "Marinerad och Grillad laxflé med senapsfrö, lök, kumminpulver och kokosmjölk.",
+        "description": "Laxfilé med grön chili och tamarind, tillagad i kryddad med färsk koriander och indiska \"Panch phoron\" (fem kryddor)",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "fish",
-          "drinks"
+          "soup"
         ]
       },
       {
-        "name": "TOFU KADHAI",
+        "name": "ALOO GHOBI MASALA",
         "category": "",
-        "description": "Tofu tillagad med tomat, paprika och champinjoner, smaksatt med ingefära, koriander Och on.",
+        "description": "Potatis- och blomkålsgryta med lök, tomat och färsk ingefära.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian"
+          "indian",
+          "soup"
         ]
       },
       {

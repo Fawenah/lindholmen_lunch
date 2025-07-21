@@ -185,30 +185,26 @@
     "day": "monday",
     "items": [
       {
-        "name": "MÅNDAG",
+        "name": "CHICKEN VINDALOO",
         "category": "",
-        "description": "MÅNDAG",
-        "price": "129 kr",
-        "tags": []
-      },
-      {
-        "name": "PALAK MURGH",
-        "category": "",
-        "description": "Kycklinggryta tillagad med spent, bockhornsklöver och vitlök.",
-        "price": "129 kr",
-        "tags": [
-          "chicken",
-          "soup"
-        ]
-      },
-      {
-        "name": "LAMM TIKKA MASALA",
-        "category": "",
-        "description": "Lammkött bräserad i kokos, grädde, paprika, tomat och spiskummin.",
+        "description": "Kycklingryta med ursprung från Goa består av rödvin, kanel, röd chili, curryblad.",
         "price": "129 kr",
         "tags": [
           "indian",
-          "lamb"
+          "chicken",
+          "soup",
+          "drinks"
+        ]
+      },
+      {
+        "name": "LAMM KORMA",
+        "category": "",
+        "description": "Lammköttgryta gjord av grädde tomat, kardemumma, rosvatten och smör.",
+        "price": "129 kr",
+        "tags": [
+          "indian",
+          "lamb",
+          "soup"
         ]
       },
       {
@@ -247,6 +243,22 @@
         "price": "145 kr",
         "tags": [
           "seafood"
+        ]
+      }
+    ]
+  },
+  "Uni3WorldOfFoodScraper": {
+    "day": "monday",
+    "items": [
+      {
+        "name": "”mandelfisk”",
+        "category": "Water",
+        "description": "sej bakad under mandeltäcke, färskpotatis, citron & saffranssås, rostad blomkål, blomkålscrudité och dill Fire: Sweet and sour chicken/tofu stir fry, jasminris, wokad rödlök, broccoli, paprika, sötsursås, friterad lök Sweet and sour chicken or tofu stir fry, jasmin rice, broccoli, onion and bell pepper stirfry, sweet and sour sauce, crispy onions",
+        "price": "132 kr",
+        "tags": [
+          "vegetarian",
+          "chicken",
+          "fish"
         ]
       }
     ]
@@ -1202,31 +1214,33 @@
     "day": "monday",
     "items": [
       {
-        "name": "MURG LUCKNOWI",
+        "name": "MURG MAKHNI",
         "category": "",
-        "description": "Kycklingfilé tlagad med lök, tomat, ingefära, CN, kewra, rosenvatten och koriander",
+        "description": "Tandoorimarinerade kyckingfiébita i krämig tomatsås med kardemumma",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "chicken"
+          "indian"
         ]
       },
       {
-        "name": "ADRAKI LAMB DO PYAZA",
+        "name": "ACHARI MIRCH",
         "category": "",
-        "description": "Lammrostbift, lagas med rödlök, ingefära, chili, citron och indiska \"Panch phoron\" (fem kryddor).",
+        "description": "Lammrostbitf med röd chili, limeblad, färsk ingefära, pickles, mynta och kokosmjölk",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "lamb",
-          "soup"
+          "drinks"
         ]
       },
       {
-        "name": "PUDINA CHANA MASALA",
+        "name": "DAL MAKHANI",
         "category": "",
-        "description": "Kikärtsgryta med mynta. och currysås, garnerad med friterad lök.",
+        "description": "Flamberade linser i krämig tomatgryta, smaksatt med ingefära, vitök, garam masala och kryddat indiskt smör.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
+          "vegetarian",
+          "lamb",
           "soup"
         ]
       },
