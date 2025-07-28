@@ -134,20 +134,40 @@
       },
       {
         "name": "",
-        "category": "Asiatisk",
-        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
+        "category": "Bun Cha Nem",
+        "description": "Risnudlar med vårrullar chili, koriander, pickles, sallad,",
         "price": "129 kr",
-        "tags": []
+        "tags": [
+          "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Bun Cha Nem",
+        "description": "rostad lök, jordnötter och nuoc mam.",
+        "price": "129 kr",
+        "tags": [
+          "beef"
+        ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med grön curry, kokosmjölk, paprika, lök, limeblad och bambuskott, serveras med jasmnris.",
+        "description": "Risnudlar med vegetariska vårrullar chili, koriander, pickles, sallad,",
         "price": "129 kr",
         "tags": [
-          "thai",
           "vegetarian",
-          "drinks"
+          "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk",
+        "description": "rostad lök, jordnötter och nuoc mam.",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "beef"
         ]
       },
       {
@@ -178,9 +198,9 @@
     "day": "friday",
     "items": [
       {
-        "name": "PAHADI GRILL CHICKEN",
+        "name": "KESARI MURGH TIKKA",
         "category": "",
-        "description": "Grillad kycklingfilé marinerad i yoghurt och örter, serveras med tandoori sås.",
+        "description": "Grillad kycklingfilé som är marinerad i saffran, yoghurt och ost. Serveras med tandoori sås.",
         "price": "129 kr",
         "tags": [
           "indian",
@@ -188,16 +208,14 @@
         ]
       },
       {
-        "name": "DALCHA GHOST",
+        "name": "SAAG GHOST)",
         "category": "",
-        "description": "Lammgryta med linser, lök, tomat, chili och limejuice. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
+        "description": "Lammkött med spenat, bockhornsklöver, ingefära, vitlök och grönchili. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
         "price": "129 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "lamb",
-          "soup",
-          "drinks"
+          "lamb"
         ]
       },
       {
@@ -246,13 +264,14 @@
       {
         "name": "Bakad fisk",
         "category": "Water",
-        "description": "potatispuré, gröna ärtor, brynt sandefjordsås, tångcaviar, dill, hasselnöt Fire: Rostbiff, potatissallad, vitlöksmajonnäs, sommargrönt, örtsallad Cold sliced roast beef with potato salad, garlic mayonaise, summer veg, herb salad",
+        "description": "ratatouille, oliver, basilika, fetaost, matvete Fire: spicy Grön thaicurry m kyckling/tofu, zucchini, morot, lök, koriander, chili, mynta Green spicy thai curry with chicken or tofu, zucchini, carrots, onions, coriander, mint, chili",
         "price": "132 kr",
         "tags": [
+          "greek",
+          "thai",
           "vegetarian",
-          "beef",
-          "fish",
-          "salad"
+          "chicken",
+          "fish"
         ]
       }
     ]
@@ -1215,34 +1234,31 @@
     "day": "friday",
     "items": [
       {
-        "name": "MURG METHI MALAI",
+        "name": "MURG DO PYAZA",
         "category": "",
-        "description": "Kycklingfilé med bockhornsklöver, lök, ingefära, finmald cashewnötter, vitpeppar och tomatgräddsås.",
+        "description": "Kycklingrätt från Hyderabad smaksatt med lök, tomat och husets egen kryddblandning.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "beef",
           "chicken"
         ]
       },
       {
-        "name": "MACHILI BENGALI",
+        "name": "LAMB LAAL MAAS",
         "category": "",
-        "description": "Laxfilé med grön chili och tamarind, tillagad i kryddad med färsk koriander och indiska \"Panch phoron\" (fem kryddor)",
+        "description": "Traditionell lammcurry med smak av paprika, spiskummin och ingefära.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "fish",
-          "soup"
+          "lamb"
         ]
       },
       {
-        "name": "ALOO GHOBI MASALA",
+        "name": "PALAK CHANA MASALA",
         "category": "",
-        "description": "Potatis- och blomkålsgryta med lök, tomat och färsk ingefära.",
+        "description": "Spenat med kikärtor, lök, tomat, garam masala, chili och ingefära.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "soup"
+          "vegetarian"
         ]
       },
       {

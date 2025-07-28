@@ -140,23 +140,24 @@
       },
       {
         "name": "",
-        "category": "Red Curry",
-        "description": "Kyckling med röd curry, kokosmjölk, paprika, lök, limeblad och bambuskott, serveras med jasmnris.",
+        "category": "Fried Chicken",
+        "description": "Friterad kyckling med chili mayo och jordnötssås, serveras med morot och vitkålssallad samt jasminris.",
         "price": "129 kr",
         "tags": [
-          "thai",
+          "beef",
           "chicken",
-          "drinks"
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry, kokosmjölk, paprika, lök, limeblad och bambuskott, serveras med jasmnris.",
+        "description": "Friterad tofu med chili mayo och jordnötssås, serveras med morot och vitkålssallad samt jasminris.",
         "price": "129 kr",
         "tags": [
           "vegetarian",
-          "drinks"
+          "beef",
+          "salad"
         ]
       },
       {
@@ -187,18 +188,20 @@
     "day": "thursday",
     "items": [
       {
-        "name": "MURGH JHALFREZI",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Kycklingfilé tillagad i söt och syrlig sås av tomat, rödlök, zucchini, paprika, fänkål och chili.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
         "price": "129 kr",
         "tags": [
-          "chicken"
+          "beef",
+          "chicken",
+          "soup"
         ]
       },
       {
-        "name": "BEEF BOMBAY SPECIAL",
+        "name": "LAL MIRCH KA GOSHT",
         "category": "",
-        "description": "Oxköttgryta med en kryddstark gräddsås.",
+        "description": "Stark oxköttgryta gjord av vitlök, ingefära, röd chili och koriander.",
         "price": "129 kr",
         "tags": [
           "soup"
@@ -250,13 +253,14 @@
       {
         "name": "Bakad fisk",
         "category": "Water",
-        "description": "potatispuré, gröna ärtor, brynt sandefjordsås, tångcaviar, dill, hasselnöt Fire: Rostbiff, potatissallad, vitlöksmajonnäs, sommargrönt, örtsallad Cold sliced roast beef with potato salad, garlic mayonaise, summer veg, herb salad",
+        "description": "ratatouille, oliver, basilika, fetaost, matvete Fire: spicy Grön thaicurry m kyckling/tofu, zucchini, morot, lök, koriander, chili, mynta Green spicy thai curry with chicken or tofu, zucchini, carrots, onions, coriander, mint, chili",
         "price": "132 kr",
         "tags": [
+          "greek",
+          "thai",
           "vegetarian",
-          "beef",
-          "fish",
-          "salad"
+          "chicken",
+          "fish"
         ]
       }
     ]
@@ -1215,31 +1219,34 @@
     "day": "thursday",
     "items": [
       {
-        "name": "HYBERBADI MURG",
+        "name": "CHICKEN CHAMBA",
         "category": "",
-        "description": "Örtkryddad kyckingfilégryta med färsk koriander, mynta och grön chili i kokosmjölk.",
+        "description": "Klassisk kycklingrätt från Himalaya med smak av lök och tomat i en yoghurt-masalasås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "soup",
+          "indian",
+          "chicken"
+        ]
+      },
+      {
+        "name": "LAMB COCONUT CURRY",
+        "category": "",
+        "description": "Lammrostbiff med lök, tomat, senap, fänkål, curryblad, lime, chili, koriander.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "beef",
+          "lamb"
+        ]
+      },
+      {
+        "name": "PANEER ACHARI",
+        "category": "",
+        "description": "Indisk färskost med röd chili, färsk ingefära, pickles, mynta och kokosmjölk.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "indian",
           "drinks"
         ]
-      },
-      {
-        "name": "LAMB BADAMI",
-        "category": "",
-        "description": "Mild och krämig lammgryta med kardemumma och mandel.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "lamb",
-          "soup"
-        ]
-      },
-      {
-        "name": "MUTTER MUSHROOM",
-        "category": "",
-        "description": "Champinjoner, gröna ärtor, majs, paprika, tillagade med tomat och lök",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": []
       },
       {
         "name": "SUBZI THALI",

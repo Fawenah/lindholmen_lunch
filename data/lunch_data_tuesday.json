@@ -123,40 +123,25 @@
       },
       {
         "name": "",
-        "category": "Vårrullar",
-        "description": "Risnudlar med vårrullar, chili, koriander, pickles, sallad,",
+        "category": "Bao Buns",
+        "description": "Bao buns med sidfläsk, inlagd morot och rättika, hoisinsås, jordnötter, chili, koriander och chili mayo, serveras med pommes frites samt koriander och jalapenomajo.",
         "price": "129 kr",
         "tags": [
-          "salad"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vårrullar",
-        "description": "rostad lök, jordnötter och nuoc mam.",
-        "price": "129 kr",
-        "tags": [
-          "beef"
+          "beef",
+          "pork",
+          "dumplings",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Risnudlar vegetariska vårrullar med chili, koriander, pickles, sallad,",
+        "description": "Bao buns med tofu, inlagd morot och rättika, hoisinsås, jordnötter, chili, koriander och chili mayo, serveras med pommes frites samt koriander och jalapenomajo.",
         "price": "129 kr",
         "tags": [
           "vegetarian",
-          "salad"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk",
-        "description": "rostad lök, jordnötter och nuoc mam.",
-        "price": "129 kr",
-        "tags": [
-          "vegetarian",
-          "beef"
+          "beef",
+          "dumplings"
         ]
       },
       {
@@ -187,18 +172,19 @@
     "day": "tuesday",
     "items": [
       {
-        "name": "HARIYALI CHICKEN",
+        "name": "MANGO CHICKEN",
         "category": "",
-        "description": "Kycklingfile i en örtsås som består av basilika, mynta, koriander, lök, grön chili och kokos.",
+        "description": "Kycklingryta gjord av mango, ingefära, grädde, lök och tomat.",
         "price": "129 kr",
         "tags": [
-          "chicken"
+          "chicken",
+          "soup"
         ]
       },
       {
-        "name": "MASALEDAR BEEF",
+        "name": "BEEF MADRAS",
         "category": "",
-        "description": "Kryddig oxköttgryta med lök, tomat, chili, nejlika, lime och koriander.",
+        "description": "Oxköttgryta med en doft av senapsfrön, fänkål, curryblad och kokos",
         "price": "129 kr",
         "tags": [
           "soup"
@@ -248,14 +234,25 @@
     "day": "tuesday",
     "items": [
       {
-        "name": "”mandelfisk”",
+        "name": "Potatispuré med syrad grädde, rödlök och dill, bakad uer, brynt smör, äppelkokt gulbeta, rostade rapsfrön & örtsallad",
         "category": "Water",
-        "description": "sej bakad under mandeltäcke, färskpotatis, citron & saffranssås, rostad blomkål, blomkålscrudité och dill Fire: Sweet and sour chicken/tofu stir fry, jasminris, wokad rödlök, broccoli, paprika, sötsursås, friterad lök Sweet and sour chicken or tofu stir fry, jasmin rice, broccoli, onion and bell pepper stirfry, sweet and sour sauce, crispy onions",
+        "description": "",
         "price": "132 kr",
         "tags": [
+          "salad"
+        ]
+      },
+      {
+        "name": "Pulled pork taco kryddig (oumph)",
+        "category": "Fire",
+        "description": "salsa macha, avokadokräm, koriander, lime, pico de gallo, sallad",
+        "price": "132 kr",
+        "tags": [
+          "mexican",
           "vegetarian",
-          "chicken",
-          "fish"
+          "pork",
+          "salad",
+          "taco"
         ]
       }
     ]
@@ -1214,33 +1211,34 @@
     "day": "tuesday",
     "items": [
       {
-        "name": "MURG KALI MIRCH",
+        "name": "CHICKEN SHAHI KORMA",
         "category": "",
-        "description": "Marinerat kycklingfilé med lök och tomat i svartpeppar- och ingeärasås.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "chicken"
-        ]
-      },
-      {
-        "name": "SEEKH KABAB",
-        "category": "",
-        "description": "Lammfärsrytar smaksatta med ingefära, Vitlök, ägg, koriander och garam masala Serveras med tandoorisis.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "indian",
-          "lamb"
-        ]
-      },
-      {
-        "name": "PANEER JODHPURI",
-        "category": "",
-        "description": "Indisk färskost i en mild currysås med cashewnötskräm toppad med papadom.",
+        "description": "Krämig kyckingfilégryta med malda pistage och cashewnötter.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
           "beef",
-          "bread"
+          "chicken",
+          "soup"
+        ]
+      },
+      {
+        "name": "LAMB CHANA BOTI",
+        "category": "",
+        "description": "Lämmrätt med kikärtor, tomat, färsk koriander, mynta och lime",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "vegetarian",
+          "lamb"
+        ]
+      },
+      {
+        "name": "RAMA ALOO",
+        "category": "",
+        "description": "Kidneybönor och potatis i indisk currysås. Garnerad med friterad lök.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "vegetarian"
         ]
       },
       {

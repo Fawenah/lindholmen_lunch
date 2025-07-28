@@ -185,21 +185,20 @@
     "day": "monday",
     "items": [
       {
-        "name": "CHICKEN VINDALOO",
+        "name": "MURGH PAPADOM",
         "category": "",
-        "description": "Kycklingryta med ursprung från Goa består av rödvin, kanel, röd chili, curryblad.",
+        "description": "Kycklingfilé tillagad i en mild och krämig så som består av papadom lök, tomat, vitlök och bockhornsklöver.",
         "price": "129 kr",
         "tags": [
           "indian",
           "chicken",
-          "soup",
-          "drinks"
+          "bread"
         ]
       },
       {
-        "name": "LAMM KORMA",
+        "name": "LAMM PUNJABI",
         "category": "",
-        "description": "Lammköttgryta gjord av grädde tomat, kardemumma, rosvatten och smör.",
+        "description": "Lammköttgryta med smakrik sås med tomat, koriander och grönsaker.",
         "price": "129 kr",
         "tags": [
           "indian",
@@ -251,14 +250,25 @@
     "day": "monday",
     "items": [
       {
-        "name": "”mandelfisk”",
+        "name": "Potatispuré med syrad grädde, rödlök och dill, bakad uer, brynt smör, äppelkokt gulbeta, rostade rapsfrön & örtsallad",
         "category": "Water",
-        "description": "sej bakad under mandeltäcke, färskpotatis, citron & saffranssås, rostad blomkål, blomkålscrudité och dill Fire: Sweet and sour chicken/tofu stir fry, jasminris, wokad rödlök, broccoli, paprika, sötsursås, friterad lök Sweet and sour chicken or tofu stir fry, jasmin rice, broccoli, onion and bell pepper stirfry, sweet and sour sauce, crispy onions",
+        "description": "",
         "price": "132 kr",
         "tags": [
+          "salad"
+        ]
+      },
+      {
+        "name": "Pulled pork taco kryddig (oumph)",
+        "category": "Fire",
+        "description": "salsa macha, avokadokräm, koriander, lime, pico de gallo, sallad",
+        "price": "132 kr",
+        "tags": [
+          "mexican",
           "vegetarian",
-          "chicken",
-          "fish"
+          "pork",
+          "salad",
+          "taco"
         ]
       }
     ]
@@ -1214,34 +1224,34 @@
     "day": "monday",
     "items": [
       {
-        "name": "MURG MAKHNI",
+        "name": "CHICKEN PATIALA",
         "category": "",
-        "description": "Tandoorimarinerade kyckingfiébita i krämig tomatsås med kardemumma",
+        "description": "Tandoorigrilad kycklingfilé med lök, tomat, ingefära och mandeloch cashewnötsås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian"
+          "indian",
+          "beef",
+          "chicken"
         ]
       },
       {
-        "name": "ACHARI MIRCH",
+        "name": "LAMB VINDALOO",
         "category": "",
-        "description": "Lammrostbitf med röd chili, limeblad, färsk ingefära, pickles, mynta och kokosmjölk",
+        "description": "Eldig lammrätt från Goa med palmviniger, nejlikor och piri-piri masala.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
+          "indian",
           "lamb",
           "drinks"
         ]
       },
       {
-        "name": "DAL MAKHANI",
+        "name": "VEG KADHAI",
         "category": "",
-        "description": "Flamberade linser i krämig tomatgryta, smaksatt med ingefära, vitök, garam masala och kryddat indiskt smör.",
+        "description": "Nordindisk vegetarisk rätt med zucchini, potatis, lök, ingefära, peppar, chili och koriander.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "vegetarian",
-          "lamb",
-          "soup"
+          "vegetarian"
         ]
       },
       {
