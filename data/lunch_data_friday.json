@@ -93,22 +93,13 @@
     "items": [
       {
         "name": "",
-        "category": "Pad Thai",
-        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
+        "category": "Fisk",
+        "description": "Husets fiskgratäng smaksatt med bladspenat och vitvinssås, toppad med skaldjur serveras med potatispure.",
         "price": "129 kr",
         "tags": [
-          "thai",
-          "beef",
-          "chicken"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Pad Thai",
-        "description": "och ägg.",
-        "price": "129 kr",
-        "tags": [
-          "thai"
+          "fish",
+          "seafood",
+          "drinks"
         ]
       },
       {
@@ -134,40 +125,32 @@
       },
       {
         "name": "",
-        "category": "Bun Cha Nem",
-        "description": "Risnudlar med vårrullar chili, koriander, pickles, sallad,",
+        "category": "Pad Thai",
+        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
         "price": "129 kr",
         "tags": [
-          "salad"
+          "thai",
+          "beef",
+          "chicken"
         ]
       },
       {
         "name": "",
-        "category": "Bun Cha Nem",
-        "description": "rostad lök, jordnötter och nuoc mam.",
+        "category": "Pad Thai",
+        "description": "och ägg.",
         "price": "129 kr",
         "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk",
-        "description": "Risnudlar med vegetariska vårrullar chili, koriander, pickles, sallad,",
-        "price": "129 kr",
-        "tags": [
-          "vegetarian",
-          "salad"
+          "thai"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "rostad lök, jordnötter och nuoc mam.",
+        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
           "vegetarian",
-          "beef"
+          "drinks"
         ]
       },
       {
@@ -198,9 +181,9 @@
     "day": "friday",
     "items": [
       {
-        "name": "KESARI MURGH TIKKA",
+        "name": "GARLIC CHICKEN",
         "category": "",
-        "description": "Grillad kycklingfilé som är marinerad i saffran, yoghurt och ost. Serveras med tandoori sås.",
+        "description": "Kycklingfilé marinerad i vitlök, grönchili, spiskummin serveras med tandoori sås.",
         "price": "129 kr",
         "tags": [
           "indian",
@@ -208,9 +191,9 @@
         ]
       },
       {
-        "name": "SAAG GHOST)",
+        "name": "BAINGAN GHOST",
         "category": "",
-        "description": "Lammkött med spenat, bockhornsklöver, ingefära, vitlök och grönchili. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
+        "description": "Lammkött tillagad med aubergine, lök, garam masala och grön chili. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
         "price": "129 kr",
         "tags": [
           "indian",
@@ -262,16 +245,16 @@
     "day": "friday",
     "items": [
       {
-        "name": "Bakad fisk",
+        "name": "Bakad kummel med kolgrillad vitvinssås, fisksåskokt purjolök, libbsticka, inlagd jalapeno, kokt potatis och kålrabbicrudité Fire: Butter chicken (butter halloumi)",
         "category": "Water",
-        "description": "ratatouille, oliver, basilika, fetaost, matvete Fire: spicy Grön thaicurry m kyckling/tofu, zucchini, morot, lök, koriander, chili, mynta Green spicy thai curry with chicken or tofu, zucchini, carrots, onions, coriander, mint, chili",
+        "description": "basmatiris, cashewnöt, gurksallad, yoghurtkräm Butter chicken (or butter halloumi), basmati rice, cashew, cucumber salad, yoghurtcream",
         "price": "132 kr",
         "tags": [
-          "greek",
-          "thai",
-          "vegetarian",
+          "beef",
           "chicken",
-          "fish"
+          "fish",
+          "salad",
+          "drinks"
         ]
       }
     ]
@@ -1234,32 +1217,31 @@
     "day": "friday",
     "items": [
       {
-        "name": "MURG DO PYAZA",
+        "name": "MALVANI CHICKEN",
         "category": "",
-        "description": "Kycklingrätt från Hyderabad smaksatt med lök, tomat och husets egen kryddblandning.",
+        "description": "Kycklingfilé i en sås av kokoskräm, röd chili och Malvani masala.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
+          "indian",
           "chicken"
         ]
       },
       {
-        "name": "LAMB LAAL MAAS",
+        "name": "FISH TIKKA",
         "category": "",
-        "description": "Traditionell lammcurry med smak av paprika, spiskummin och ingefära.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "lamb"
-        ]
-      },
-      {
-        "name": "PALAK CHANA MASALA",
-        "category": "",
-        "description": "Spenat med kikärtor, lök, tomat, garam masala, chili och ingefära.",
+        "description": "Marinerad, Grillad lax i husets kryddor. Serveras med tandoorisås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "vegetarian"
+          "fish"
         ]
+      },
+      {
+        "name": "CHANA PUMPA CURRY",
+        "category": "",
+        "description": "Kikärtsgsyta med pumpa tillagad med senap, kokos, curry, fänkål och chili",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": []
       },
       {
         "name": "SUBZI THALI",
@@ -1465,6 +1447,33 @@
         "description": "",
         "price": "25 kr",
         "tags": []
+      }
+    ]
+  },
+  "RestaurantPier11Scraper": {
+    "day": "friday",
+    "items": [
+      {
+        "name": "Vegetariska quesadillas",
+        "category": "Dagens",
+        "description": "tomatsalsa, chipotlesallad med svarta bönor",
+        "price": "110 kr",
+        "tags": [
+          "mexican",
+          "vegetarian",
+          "salad",
+          "taco"
+        ]
+      },
+      {
+        "name": "Flankbiff",
+        "category": "Dagens",
+        "description": "coleslaw, örtpotatis, barbecuesås",
+        "price": "110 kr",
+        "tags": [
+          "beef",
+          "salad"
+        ]
       }
     ]
   }

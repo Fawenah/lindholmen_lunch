@@ -91,22 +91,13 @@
     "items": [
       {
         "name": "",
-        "category": "Pad Thai",
-        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
+        "category": "Fisk",
+        "description": "Champinjongratinerad koljafile med bacon, vitlök och vitvinssås, serveras med kokt potatis.",
         "price": "129 kr",
         "tags": [
-          "thai",
-          "beef",
-          "chicken"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Pad Thai",
-        "description": "och ägg.",
-        "price": "129 kr",
-        "tags": [
-          "thai"
+          "fish",
+          "pork",
+          "drinks"
         ]
       },
       {
@@ -172,23 +163,20 @@
     "day": "tuesday",
     "items": [
       {
-        "name": "MANGO CHICKEN",
+        "name": "LEMON PEPPER CHICKEN",
         "category": "",
-        "description": "Kycklingryta gjord av mango, ingefära, grädde, lök och tomat.",
+        "description": "Kycklingfile tillagad med citron, svartpepper, koriander och kokos.",
         "price": "129 kr",
         "tags": [
-          "chicken",
-          "soup"
+          "chicken"
         ]
       },
       {
-        "name": "BEEF MADRAS",
+        "name": "BHURANI BEEF CURRY",
         "category": "",
-        "description": "Oxköttgryta med en doft av senapsfrön, fänkål, curryblad och kokos",
+        "description": "Oxkött i en kryddig currysås som består av roasted vitlök, tomat, lök, ingefära och grön chili.",
         "price": "129 kr",
-        "tags": [
-          "soup"
-        ]
+        "tags": []
       },
       {
         "name": "TIKKA MASALA",
@@ -234,25 +222,16 @@
     "day": "tuesday",
     "items": [
       {
-        "name": "Potatispuré med syrad grädde, rödlök och dill, bakad uer, brynt smör, äppelkokt gulbeta, rostade rapsfrön & örtsallad",
+        "name": "Pommes Anna,  bakad fisk,  blåmusselsås “cacio pepe”, kräm på rostad vitlök och palsternacka, gemsallad, krasse, riven lagrad hårdost Fire: Tom kha gai",
         "category": "Water",
-        "description": "",
+        "description": "kyckling/tofu, champinjon, galangal, limeblad, chili, koriander, mynta, zucchini Tom kha gai, chicken or tofu, mushrooms, galangal, lime leaf, chili, koriander, mint, zucchini",
         "price": "132 kr",
         "tags": [
-          "salad"
-        ]
-      },
-      {
-        "name": "Pulled pork taco kryddig (oumph)",
-        "category": "Fire",
-        "description": "salsa macha, avokadokräm, koriander, lime, pico de gallo, sallad",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
+          "thai",
           "vegetarian",
-          "pork",
-          "salad",
-          "taco"
+          "chicken",
+          "fish",
+          "salad"
         ]
       }
     ]
@@ -1211,34 +1190,32 @@
     "day": "tuesday",
     "items": [
       {
-        "name": "CHICKEN SHAHI KORMA",
+        "name": "JARDALO MURG",
         "category": "",
-        "description": "Krämig kyckingfilégryta med malda pistage och cashewnötter.",
+        "description": "Kycklingfilé med aprikos, kanel, chili, lök, ingefära och currysås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "beef",
-          "chicken",
-          "soup"
+          "chicken"
         ]
       },
       {
-        "name": "LAMB CHANA BOTI",
+        "name": "LAMB KADHAI",
         "category": "",
-        "description": "Lämmrätt med kikärtor, tomat, färsk koriander, mynta och lime",
+        "description": "Lammrostbiff lagad med lök, ingefära, peppar, chili och koriander.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian",
+          "beef",
           "lamb"
         ]
       },
       {
-        "name": "RAMA ALOO",
+        "name": "MUTTER PANEER",
         "category": "",
-        "description": "Kidneybönor och potatis i indisk currysås. Garnerad med friterad lök.",
+        "description": "Hemlagad indisk färskost i krämig sås av lök, tomat och gröna ärtor.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian"
+          "indian"
         ]
       },
       {

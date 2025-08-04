@@ -105,22 +105,11 @@
     "items": [
       {
         "name": "",
-        "category": "Pad Thai",
-        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
+        "category": "Fisk",
+        "description": "Panerad spättafile med dansk remouladsås och gröna ärtor, serveras med kokt potatis.",
         "price": "129 kr",
         "tags": [
-          "thai",
-          "beef",
-          "chicken"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Pad Thai",
-        "description": "och ägg.",
-        "price": "129 kr",
-        "tags": [
-          "thai"
+          "fish"
         ]
       },
       {
@@ -185,25 +174,26 @@
     "day": "monday",
     "items": [
       {
-        "name": "MURGH PAPADOM",
+        "name": "METHI MALAI",
         "category": "",
-        "description": "Kycklingfilé tillagad i en mild och krämig så som består av papadom lök, tomat, vitlök och bockhornsklöver.",
+        "description": "Kycklinggryta tillagad med bockhornsklöver, fänkålsfrön, korianderfrön, tomat och grädde.",
         "price": "129 kr",
         "tags": [
           "indian",
           "chicken",
-          "bread"
+          "soup"
         ]
       },
       {
-        "name": "LAMM PUNJABI",
+        "name": "LAMM VINDALOO",
         "category": "",
-        "description": "Lammköttgryta med smakrik sås med tomat, koriander och grönsaker.",
+        "description": "Lammköttgryta gjord av ingefära, kanel, röd chili, brun socker, curryblad och rödvin.",
         "price": "129 kr",
         "tags": [
           "indian",
           "lamb",
-          "soup"
+          "soup",
+          "drinks"
         ]
       },
       {
@@ -250,25 +240,16 @@
     "day": "monday",
     "items": [
       {
-        "name": "Potatispuré med syrad grädde, rödlök och dill, bakad uer, brynt smör, äppelkokt gulbeta, rostade rapsfrön & örtsallad",
+        "name": "Pommes Anna,  bakad fisk,  blåmusselsås “cacio pepe”, kräm på rostad vitlök och palsternacka, gemsallad, krasse, riven lagrad hårdost Fire: Tom kha gai",
         "category": "Water",
-        "description": "",
+        "description": "kyckling/tofu, champinjon, galangal, limeblad, chili, koriander, mynta, zucchini Tom kha gai, chicken or tofu, mushrooms, galangal, lime leaf, chili, koriander, mint, zucchini",
         "price": "132 kr",
         "tags": [
-          "salad"
-        ]
-      },
-      {
-        "name": "Pulled pork taco kryddig (oumph)",
-        "category": "Fire",
-        "description": "salsa macha, avokadokräm, koriander, lime, pico de gallo, sallad",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
+          "thai",
           "vegetarian",
-          "pork",
-          "salad",
-          "taco"
+          "chicken",
+          "fish",
+          "salad"
         ]
       }
     ]
@@ -1224,34 +1205,32 @@
     "day": "monday",
     "items": [
       {
-        "name": "CHICKEN PATIALA",
+        "name": "CHICKEN MURG MANGO",
         "category": "",
-        "description": "Tandoorigrilad kycklingfilé med lök, tomat, ingefära och mandeloch cashewnötsås.",
+        "description": "Kycklingfilé med färsk koriander, mynta, grön Chil, kokosmjölk och mangopuré.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "beef",
-          "chicken"
-        ]
-      },
-      {
-        "name": "LAMB VINDALOO",
-        "category": "",
-        "description": "Eldig lammrätt från Goa med palmviniger, nejlikor och piri-piri masala.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "indian",
-          "lamb",
+          "chicken",
           "drinks"
         ]
       },
       {
-        "name": "VEG KADHAI",
+        "name": "LAMB PUNJABI CURRY",
         "category": "",
-        "description": "Nordindisk vegetarisk rätt med zucchini, potatis, lök, ingefära, peppar, chili och koriander.",
+        "description": "En populär lammrätt i en sås av lök, tomat, paprika, ingefära, koriander och grön chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian"
+          "indian",
+          "lamb"
+        ]
+      },
+      {
+        "name": "BAINGAN MIRCH MASALA",
+        "category": "",
+        "description": "En traditionell maträtt med aubergine, paprika, tomat, kryddor, örter och koriander.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "indian"
         ]
       },
       {

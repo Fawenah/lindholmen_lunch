@@ -103,22 +103,11 @@
     "items": [
       {
         "name": "",
-        "category": "Pad Thai",
-        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
+        "category": "Fisk",
+        "description": "Husets Fish and chips med tartarsås, serveras med rödlök, riven grana padano och ärtskott.",
         "price": "129 kr",
         "tags": [
-          "thai",
-          "beef",
-          "chicken"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Pad Thai",
-        "description": "och ägg.",
-        "price": "129 kr",
-        "tags": [
-          "thai"
+          "fish"
         ]
       },
       {
@@ -136,17 +125,30 @@
       {
         "name": "",
         "category": "Asiatisk",
-        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
+        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
+        "price": "129 kr",
+        "tags": [
+          "thai",
+          "beef",
+          "chicken"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Asiatisk",
+        "description": "och ägg.",
         "price": "129 kr",
         "tags": []
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med tamarindsås och grönsaker, serveras med jasminris.",
+        "description": "Tofu med grön curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
-          "vegetarian"
+          "thai",
+          "vegetarian",
+          "drinks"
         ]
       },
       {
@@ -177,22 +179,22 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "CHICKEN BALTI",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Kycklingfilé marinerad i vitlök och grön chili tillagad med lök, paprika och champinjoner i en rödvinssås.",
+        "description": "Mild kycklinggryta med nötter, smör i en krämig sås.",
         "price": "129 kr",
         "tags": [
+          "beef",
           "chicken",
-          "drinks"
+          "soup"
         ]
       },
       {
-        "name": "KASHMIRI LAMM KOFTA",
+        "name": "ACHARI GHOST",
         "category": "",
-        "description": "Lammfärsbullar i en sås som består av lök, tomat, kardemumma, rosvatten, bockhornsklöver och grädde.",
+        "description": "Lamm tillagad i fänkål, grön, chili, vitlök, senapsfrön och curryblad.",
         "price": "129 kr",
         "tags": [
-          "indian",
           "lamb"
         ]
       },
@@ -240,26 +242,16 @@
     "day": "wednesday",
     "items": [
       {
-        "name": ": Bakad fisk",
+        "name": "Bakad kummel med kolgrillad vitvinssås, fisksåskokt purjolök, libbsticka, inlagd jalapeno, kokt potatis och kålrabbicrudité Fire: Tom kha gai",
         "category": "Water",
-        "description": "ratatouille, oliver, basilika, fetaost, matvete",
+        "description": "kyckling/tofu, champinjon, galangal, limeblad, chili, koriander, mynta, zucchini Tom kha gai, chicken or tofu, mushrooms, galangal, lime leaf, chili, koriander, mint, zucchini",
         "price": "132 kr",
         "tags": [
-          "greek",
-          "fish"
-        ]
-      },
-      {
-        "name": "Pulled pork taco kryddig (oumph)",
-        "category": "Fire",
-        "description": "salsa macha, avokadokräm, koriander, lime, pico de gallo, sallad",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
+          "thai",
           "vegetarian",
-          "pork",
-          "salad",
-          "taco"
+          "chicken",
+          "fish",
+          "drinks"
         ]
       }
     ]
@@ -1216,31 +1208,35 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "MURG ZAFFRANI",
+        "name": "CHICKEN CHETTINAD",
         "category": "",
-        "description": "Saffransmarinerad grillad kycking, garam masala i en krämig cashewnötsås.",
+        "description": "En populär sydindisk kycklinggryta, tillagad i en pepprig kryddblandning från Chettinad, Spetsad med kokos.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "beef"
+          "chicken",
+          "soup"
         ]
       },
       {
-        "name": "LAHSUNI MACHILI NIMBU",
+        "name": "CHUTNEY SEEKH KEBAB",
         "category": "",
-        "description": "Laxfilé, tillagad i en krämig masalasås med smak öv lime.",
+        "description": "Lammfärskebab med mango chutney, mynta, vitlök, garam masala och rödvinsås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "fish"
+          "lamb",
+          "drinks"
         ]
       },
       {
-        "name": "AVIAL CURRY",
+        "name": "SAMOSA CURRY",
         "category": "",
-        "description": "Blandade grönsaker med senaps, kummin, koriander och fänkål i kokossås",
+        "description": "Friterade små piroger med vegetarisk fyllning, serveras i yoghurt- och currysås.",
         "price": "119 kr, takeaway 114 kr",
-        "tags": []
+        "tags": [
+          "indian",
+          "vegetarian"
+        ]
       },
       {
         "name": "SUBZI THALI",
