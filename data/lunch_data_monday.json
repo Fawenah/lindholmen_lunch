@@ -44,19 +44,18 @@
         ]
       },
       {
-        "name": "Pocherad torsk serveras med Sandefjord ”stuvade” räkor, kokt färsk potatis och smarriga örter",
+        "name": "Bakad Torsk serveras med potatispuré och sandefjordsås smaksatt med citron & gräslök",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "fish",
-          "seafood"
+          "fish"
         ]
       },
       {
-        "name": "Panang curry",
+        "name": "Chicken red curry",
         "category": "THAI",
-        "description": "wokad kyckling & lök i panangcurry med koksmjölk smaksatt med limeblad serveras med jasminris & koriander",
+        "description": "wokad kyckling med grönsaker i rödcurry med kokosmjölk serveras med jasminris & koriander CHILI 2/5",
         "price": "130 kr",
         "tags": [
           "thai",
@@ -65,9 +64,9 @@
         ]
       },
       {
-        "name": "Murgh Masala indisk gryta med kyckling serveras med basmatiris, mangochutney, smörat Naan och koriander",
+        "name": "Chicken Alomonds and coriander",
         "category": "INDISK",
-        "description": "",
+        "description": "Indisk kycklinggryta med mandel & koriander serveras med basmatiris, yoghurt & garlic Naan CHILI 3/5",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -77,20 +76,16 @@
         ]
       },
       {
-        "name": "Carbonara Tartufo",
+        "name": "Semesterstängt :(",
         "category": "VÄRLDEN",
-        "description": "Spagetti i Krämig tryffelcarbonarasås med äggula toppad med massa bacon & parmesan samt ruccola",
+        "description": "",
         "price": "130 kr",
-        "tags": [
-          "italian",
-          "pork",
-          "pasta"
-        ]
+        "tags": []
       },
       {
-        "name": "Panang curry",
+        "name": "VEG Red curry",
         "category": "VEGETARISK",
-        "description": "wokad quorn & lök i panangcurry med koksmjölk smaksatt med limeblad serveras med jasminris & koriander",
+        "description": "wokad pea cuncks med grönsaker i rödcurry med koksmjölk serveras med jasminris & koriander CHILI 2/5",
         "price": "130 kr",
         "tags": [
           "thai",
@@ -240,7 +235,7 @@
     "day": "monday",
     "items": [
       {
-        "name": "Pommes Anna,  bakad fisk,  blåmusselsås “cacio pepe”, kräm på rostad vitlök och palsternacka, gemsallad, krasse, riven lagrad hårdost Fire: Tom kha gai",
+        "name": "Kokt potatis,  bakad fisk,  blåmusselsås “cacio pepe”, kräm på rostad vitlök och palsternacka, gemsallad, krasse, riven lagrad hårdost Fire: Tom kha gai",
         "category": "Water",
         "description": "kyckling/tofu, champinjon, galangal, limeblad, chili, koriander, mynta, zucchini Tom kha gai, chicken or tofu, mushrooms, galangal, lime leaf, chili, koriander, mint, zucchini",
         "price": "132 kr",

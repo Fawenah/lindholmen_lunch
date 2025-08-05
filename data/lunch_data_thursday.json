@@ -35,39 +35,39 @@
         ]
       },
       {
-        "name": "MEN VA FAN…!! vi kör en Schnitzel idag ocksåKooperativet klassiska Schnitzel på gårdsgris toppat med vispat brynt smör smaksatt med ansjovis serveras med kaprissky samt nyrostade färsk potatisar smaksatt med dill & citronklyfta",
+        "name": "Kalv Wallenbergare med krämig potatispure smaksatt med västerbottenost, rödvinssås smaksatt med bryntsmör & enbär serveras med lingon & saltgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "pork"
+          "beef",
+          "drinks"
         ]
       },
       {
-        "name": "Kooperativets Fisk & skaldjursgryta serveras med jasminris, chiliaioli, räkor samt rostad panko och örter",
+        "name": "Bakad torsk serveras med ljummen gubbröra & kokt färskpotatis",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "fish",
-          "seafood",
-          "soup"
+          "fish"
         ]
       },
       {
-        "name": "Chicken Mongolian BBQ",
+        "name": "Smoked Korean BBQ Pork",
         "category": "THAI",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
+        "description": "16h rökt gårdsgris toppad med asiatisk chimichurri serveras med krämig kålsallad och jasminris",
         "price": "130 kr",
         "tags": [
           "thai",
-          "chicken"
+          "pork",
+          "salad"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Haloumi",
+        "name": "Kooperativets klassiska Butter Halloumi",
         "category": "VEGETARISKT",
-        "description": "indisk gryta med friterad haloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
+        "description": "indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -89,13 +89,12 @@
         ]
       },
       {
-        "name": "(Burgaren går att få med haloumi)”QP and Bacon”",
+        "name": "(Burgaren går att få med haloumi)Kooperativets ”BIG MAC” burger högrevsburgare toppad med cheddarost i lyxigt briochebröd,  burgardressing, finstrimlad isbergssallad & tärnad lök serveras med frasiga pommes & svartpepparketchup",
         "category": "VÄRLDEN",
-        "description": "Högrevburgare toppad med dubbel cheddarost i briochebröd med bacon & rödlöksmarmelad, krispigsallad, & frasiga country fries",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "pork",
           "burger",
           "salad",
           "bread"

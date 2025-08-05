@@ -35,65 +35,64 @@
         ]
       },
       {
-        "name": "Somrig Viltskav med krämigt mos, gräslöksveloute ,(fint ord för SÅS!!) göttiga primörer & sötsyrliga lingon",
+        "name": "Viltskav med krämigt mos, gräddsås smaksatt ramslök, persiljestekta champinjoner & lingon",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
-        "tags": []
+        "tags": [
+          "beef"
+        ]
       },
       {
-        "name": "Stekt panerad sejfile serveras med dillkokt potatis, västkuströra, citron och örtsallad",
+        "name": "Spiseldad sej serveras med krossad färskpotatis rökt citronmajonnäs samt smarriga örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "beef",
-          "fish",
-          "salad"
+          "fish"
         ]
       },
       {
-        "name": "Kra Pao ”Holy basil” Wokad kyckling i ostronsås med chili, vitlök & Thai basilika, serveras med bakat 65 graders ägg, jasminris & koriander",
+        "name": "På semester :)",
         "category": "THAI",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "thai",
-          "chicken"
+          "thai"
         ]
       },
       {
-        "name": "Chicken Korma",
+        "name": "Chicken Tikka Masala",
         "category": "INDISK",
-        "description": "Indisk gryta på kyckling & cashewnötter serveras med gurkraita, koriander & smörat garlic naan",
+        "description": "Indisk currygryta med kyckling med rostad mandel serveras med mango chutney, basmatiris & koriander och Naan",
         "price": "130 kr",
         "tags": [
           "indian",
-          "beef",
           "chicken",
           "soup",
           "bread"
         ]
       },
       {
-        "name": "Vedeldad kycklingfile med smashed parmesanpotatis, örtaioli & rödvinssås",
+        "name": "Carbonara Tartufo",
         "category": "VÄRLDEN",
-        "description": "",
+        "description": "Spagetti i Krämig tryffelcarbonarasås med äggula toppad med massa bacon & parmesan samt ruccola",
         "price": "130 kr",
         "tags": [
-          "chicken",
-          "burger",
-          "drinks"
+          "italian",
+          "pork",
+          "pasta"
         ]
       },
       {
-        "name": "Rostad spetskål med smashed parmesanpotatis, örtaioli & balsamicoreduktion",
+        "name": "Carbonara Tartufo",
         "category": "VEGETARISKT",
-        "description": "",
+        "description": "Spagetti i Krämig tryffelcarbonarasås med äggula toppad med friterad quorn & parmesan samt ruccola",
         "price": "130 kr",
         "tags": [
+          "italian",
           "vegetarian",
-          "burger"
+          "pasta"
         ]
       }
     ]

@@ -42,46 +42,48 @@
         "tags": []
       },
       {
-        "name": "Kolgrillad Lax med citron & svartpepparmajonnäs serveras med krossad färsk potatis & dillklorofyll",
+        "name": "Bakad kolja ”Doris” lätt fräst gurka med räkor & grovhackad dill serveras med nykokt färsk potatis och brynt smör",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "fish",
+          "seafood"
         ]
       },
       {
-        "name": "Thai                                                                                                                                                                        Orange Chicken i sötsyrlig apelsinsås serveras med jasminris toppad med böngroddar & korianderINDISKChicken Tikka Masala",
+        "name": "Spice asian BBQ fried Chicken",
         "category": "THAI",
-        "description": "Indisk currygryta med kyckling med rostad mandel serveras med mango chutney, basmatiris & koriander och smörat Naan",
+        "description": "friterad kyckling i het BBQsås toppat med sticklök och rostade sesamfrön serveras med jasminris & koriander",
         "price": "130 kr",
         "tags": [
-          "indian",
           "thai",
-          "chicken",
-          "soup",
-          "bread"
+          "chicken"
         ]
       },
       {
-        "name": "En favorit i repris",
+        "name": "Semesterstängt :)",
+        "category": "INDISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": []
+      },
+      {
+        "name": "Kooperativets Kebabtallrik på grillad Kyckling med smarrig kebabsås, frasiga pommes & goa kebab grönsaker",
         "category": "VÄRLDEN",
-        "description": "American Dirty Fries – Frasiga pommes smaksatt med Welkins Grillkrydda toppad med nattbakad högrev, varm ostsås smaksatt med jalapeños samt Pico de Gallo, rostadlök & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "chicken"
         ]
       },
       {
-        "name": "Samosa Tikka Masala",
+        "name": "Kooperativets falafeltallrik på gråärta med smarrig kebabsås, frasiga pommes & goa kebab grönsaker",
         "category": "VEGETARISKT",
-        "description": "Indisk currygryta med friterade grönsaksknyten med rostad mandel serveras med mango chutney, basmatiris & koriander och smörat Naan",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "indian",
-          "vegetarian",
-          "soup",
-          "bread"
+          "vegetarian"
         ]
       }
     ]

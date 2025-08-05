@@ -26,21 +26,22 @@
         ]
       },
       {
-        "name": "Dunder Berras Mix Grill",
+        "name": "Fredagsgrillen",
         "category": "KÖTT",
-        "description": "",
+        "description": "kolgrillar gårdsgris med chili cheese fries & Pico de Gallo",
         "price": "130 kr",
-        "tags": []
+        "tags": [
+          "pork"
+        ]
       },
       {
-        "name": "Vinpocherad torsk serveras med dillkokt potatis, hackat ägg, bacon & pepparrot",
+        "name": "Bakad lax serveras med Rostad färskpotatis pepparrotsmajonnäs och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
-          "pork",
-          "drinks"
+          "salad"
         ]
       },
       {
@@ -68,19 +69,20 @@
         ]
       },
       {
-        "name": "Chicken Alomonds and coriander",
+        "name": "Chicken Vindaloo",
         "category": "INDISK",
-        "description": "Indisk kycklinggryta med mandel & koriander serveras med basmatiris, yoghurt & garlic Naan CHILI 3/5",
+        "description": "kryddstark indisk currygryta med kyckling serveras med yoghurt, basmatiris & koriander och smörat Naan CHILI 5/5",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
           "soup",
-          "bread"
+          "bread",
+          "drinks"
         ]
       },
       {
-        "name": "PÅ SEMSTER!!",
+        "name": "På semester",
         "category": "VÄRLDEN",
         "description": "",
         "price": "130 kr",
