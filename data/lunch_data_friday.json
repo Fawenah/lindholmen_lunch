@@ -1451,32 +1451,5 @@
         "tags": []
       }
     ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "friday",
-    "items": [
-      {
-        "name": "Vegetariska quesadillas",
-        "category": "Dagens",
-        "description": "tomatsalsa, chipotlesallad med svarta bönor",
-        "price": "110 kr",
-        "tags": [
-          "mexican",
-          "vegetarian",
-          "salad",
-          "taco"
-        ]
-      },
-      {
-        "name": "Flankbiff",
-        "category": "Dagens",
-        "description": "coleslaw, örtpotatis, barbecuesås",
-        "price": "110 kr",
-        "tags": [
-          "beef",
-          "salad"
-        ]
-      }
-    ]
   }
 }
