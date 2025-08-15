@@ -339,7 +339,7 @@
       {
         "name": "Bakad sej",
         "category": "Water",
-        "description": "pepparrotsgurka, färskpotatis, remouladsås, hackat ägg, dill, blomkål",
+        "description": "pepparrotsgurka, färskpotatis, remouladsås, dill, blomkål",
         "price": "132 kr",
         "tags": [
           "fish"
@@ -357,11 +357,13 @@
         ]
       },
       {
-        "name": "Grillostbollar",
+        "name": "Blomkål",
         "category": "Wood",
-        "description": "hoummos, granatäpple, pumpafrön, brynt smör, gröna blad, syrad silverlök",
+        "description": "rostade kikärtor, hoummos, granatäpple, pumpafrön, brynt smör, gröna blad, syrad silverlök",
         "price": "132 kr",
-        "tags": []
+        "tags": [
+          "vegetarian"
+        ]
       }
     ]
   },
