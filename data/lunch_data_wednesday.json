@@ -111,6 +111,160 @@
       }
     ]
   },
+  "DistrictOneScraper": {
+    "day": "wednesday",
+    "items": [
+      {
+        "name": "",
+        "category": "Fisk",
+        "description": "Husets Fish and chips med tartarsås, serveras med rödlök, riven grana padano och ärtskott.",
+        "price": "129 kr",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Kött",
+        "description": "Texas chili gryta på högrev, serveras med ris, gräddfil, tortillabröd och ruccolasallad.",
+        "price": "129 kr",
+        "tags": [
+          "mexican",
+          "beef",
+          "salad",
+          "soup",
+          "taco",
+          "bread"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Sallad",
+        "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt husets ceasardressing.",
+        "price": "129 kr",
+        "tags": [
+          "chicken",
+          "pork",
+          "salad",
+          "bread"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Asiatisk",
+        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, nötter",
+        "price": "129 kr",
+        "tags": [
+          "thai",
+          "beef",
+          "chicken"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Asiatisk",
+        "description": "och ägg.",
+        "price": "129 kr",
+        "tags": []
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk",
+        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "drinks"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk Poke bowl",
+        "description": "Tofu med sesamfrön, sushiris, romansallad, sojabönor, rädisa, picklad rödlök, mango och avokado, serveras med chili majo och koriander.",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "salad",
+          "sushi"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Pho",
+        "description": "Vietnamesisk nudelsoppa med biff, koriander, gräslök, lök, böngroddar, chili, thai basilika, serveras med lime, hoisinsås och srirachasås.",
+        "price": "129 kr",
+        "tags": [
+          "thai",
+          "beef",
+          "soup"
+        ]
+      }
+    ]
+  },
+  "BombayBistroScraper": {
+    "day": "wednesday",
+    "items": [
+      {
+        "name": "BUTTER CHICKEN",
+        "category": "",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
+        "price": "129 kr",
+        "tags": [
+          "beef",
+          "chicken",
+          "soup"
+        ]
+      },
+      {
+        "name": "BALTI GHOST",
+        "category": "",
+        "description": "Lammkött marinerad i vitlök och grön chilli tillagad i en kryddstark rödvinsås, lök, paprika och champinjoner.",
+        "price": "129 kr",
+        "tags": [
+          "lamb",
+          "drinks"
+        ]
+      },
+      {
+        "name": "TIKKA MASALA",
+        "category": "ANDRA ALTERNATIV",
+        "description": "Grillad kycklingfilé med rostad paprika och tomater i en krämig sås.",
+        "price": "134 kr",
+        "tags": [
+          "indian",
+          "chicken"
+        ]
+      },
+      {
+        "name": "TANDOORI CHICKEN",
+        "category": "ANDRA ALTERNATIV",
+        "description": "Grillad kyckling med ben, marinerad i yoghurt, kryddor och bockhornsklöver. Serveras med tandoori sås.",
+        "price": "132 kr",
+        "tags": [
+          "indian",
+          "chicken"
+        ]
+      },
+      {
+        "name": "JINGHA HARA",
+        "category": "ANDRA ALTERNATIV",
+        "description": "",
+        "price": "",
+        "tags": [
+          "indian"
+        ]
+      },
+      {
+        "name": "",
+        "category": "ANDRA ALTERNATIV",
+        "description": "Jätteräkor lagat med färsk basilika, champinjoner och koriander i en het kokossås och grädde.",
+        "price": "145 kr",
+        "tags": [
+          "seafood"
+        ]
+      }
+    ]
+  },
   "CuckoosNestScraper": {
     "day": "wednesday",
     "items": [
@@ -209,6 +363,108 @@
           "vegetarian",
           "seafood",
           "sushi"
+        ]
+      }
+    ]
+  },
+  "MissFScraper": {
+    "day": "wednesday",
+    "items": []
+  },
+  "BennePastabarScraper": {
+    "day": "wednesday",
+    "items": [
+      {
+        "name": "SLOW TOMATO",
+        "category": "Benne Pasta",
+        "description": "Naturligt söt och varsamt kokt tomatsås gjord på karamelliserad rödlök, rostad vitlök och färsk basilika. Toppad med lagrad hårdost, baby leaves, basilika och extra virgin olivolja.",
+        "price": "59 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Double Cheese",
+        "category": "Benne Pasta",
+        "description": "Vår himmelskt krämiga ostsås gjord på taleggio och lagrad hårdost, smaksatt med en generös mängd svartpeppar. Toppad med lagrad hårdost, hackad persilja och nymalen svartpeppar.",
+        "price": "75 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "SMOKED PIG",
+        "category": "Benne Pasta",
+        "description": "Nystekt bacon i en krämig vit sås som är smaksatt med svartpeppar. Toppad med lagrad hårdost och hackad persilja.",
+        "price": "85 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pork",
+          "pasta"
+        ]
+      },
+      {
+        "name": "GREEN RAGU",
+        "category": "Benne Pasta",
+        "description": "Vegofärs från Anamma i vår mustiga ragusås smaksatt med färsk rosmarin och lagerblad. Toppad med lagrad hårdost, en vegansk vitlöks-créme fraiche, hackad persilja, nymalen svartpeppar och extra virgin olivolja.",
+        "price": "85 kr",
+        "tags": [
+          "italian",
+          "vegetarian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Silky Bird",
+        "category": "Benne Pasta",
+        "description": "Rostad och skivad kycklinglårfilé i en gräddig tomatsås gjord på karamelliserad rödlök, gyllenstekt vitlök och färsk basilika. Toppad med lagrad hårdost, hackad persilja och plockad basilika.",
+        "price": "95 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "chicken",
+          "pasta"
+        ]
+      },
+      {
+        "name": "THE SHROOMS",
+        "category": "Benne Pasta",
+        "description": "Vitlöksfrästa champinjoner i en ljuvligt krämig svampsås som är smaksatt med färsk timjan och rostad vitlök. Toppad med lagrad hårdost, hackad persilja, rostade pumpakärnor och svart tryffelolja.",
+        "price": "99 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Swedish Pesto",
+        "category": "The Visitor",
+        "description": "En härligt grön och crunchy pesto gjord på Västerbottenost, vitlök, grönkål och solrosfrön. Toppad med buffelmozzarella, lagrad hårdost, olivolja, svartpeppar och basilika.",
+        "price": "99 kr",
+        "tags": [
+          "italian"
+        ]
+      },
+      {
+        "name": "Garlic Bread",
+        "category": "Benne Bites",
+        "description": "Två skivor rostat surdegsbröd med vitlök- och persiljesmör och sumak.",
+        "price": "20 kr",
+        "tags": [
+          "bread"
+        ]
+      },
+      {
+        "name": "Tiramisu",
+        "category": "Benne Bites",
+        "description": "Krämig tiramisu från Italien, toppad med kakao. (Innehåller alkohol)",
+        "price": "35 kr",
+        "tags": [
+          "italian",
+          "dessert"
         ]
       }
     ]
