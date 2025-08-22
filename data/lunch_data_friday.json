@@ -111,7 +111,7 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Skaldjuröverbakad torskfile med vitvinssås och kokt broccolil, serveras med potatispure.",
+        "description": "Skaldjuröverbakad torskfile med vitvinssås och kokt broccolil, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
           "fish",
@@ -122,7 +122,7 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Nattbakad flankstek med pepparsås och bakad tomat, serveras med rostad potatis.",
+        "description": "Rostbiff med pepparsås och bakad tomat, serveras med rostad potatis.",
         "price": "129 kr",
         "tags": [
           "beef"
