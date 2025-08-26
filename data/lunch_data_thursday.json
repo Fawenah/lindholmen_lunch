@@ -181,6 +181,104 @@
       }
     ]
   },
+  "BennePastabarScraper": {
+    "day": "thursday",
+    "items": [
+      {
+        "name": "SLOW TOMATO",
+        "category": "Benne Pasta",
+        "description": "Naturligt söt och varsamt kokt tomatsås gjord på karamelliserad rödlök, rostad vitlök och färsk basilika. Toppad med lagrad hårdost, baby leaves, basilika och extra virgin olivolja.",
+        "price": "59 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Double Cheese",
+        "category": "Benne Pasta",
+        "description": "Vår himmelskt krämiga ostsås gjord på taleggio och lagrad hårdost, smaksatt med en generös mängd svartpeppar. Toppad med lagrad hårdost, hackad persilja och nymalen svartpeppar.",
+        "price": "75 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "SMOKED PIG",
+        "category": "Benne Pasta",
+        "description": "Nystekt bacon i en krämig vit sås som är smaksatt med svartpeppar. Toppad med lagrad hårdost och hackad persilja.",
+        "price": "85 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pork",
+          "pasta"
+        ]
+      },
+      {
+        "name": "GREEN RAGU",
+        "category": "Benne Pasta",
+        "description": "Vegofärs från Anamma i vår mustiga ragusås smaksatt med färsk rosmarin och lagerblad. Toppad med lagrad hårdost, en vegansk vitlöks-créme fraiche, hackad persilja, nymalen svartpeppar och extra virgin olivolja.",
+        "price": "85 kr",
+        "tags": [
+          "italian",
+          "vegetarian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Silky Bird",
+        "category": "Benne Pasta",
+        "description": "Rostad och skivad kycklinglårfilé i en gräddig tomatsås gjord på karamelliserad rödlök, gyllenstekt vitlök och färsk basilika. Toppad med lagrad hårdost, hackad persilja och plockad basilika.",
+        "price": "95 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "chicken",
+          "pasta"
+        ]
+      },
+      {
+        "name": "THE SHROOMS",
+        "category": "Benne Pasta",
+        "description": "Vitlöksfrästa champinjoner i en ljuvligt krämig svampsås som är smaksatt med färsk timjan och rostad vitlök. Toppad med lagrad hårdost, hackad persilja, rostade pumpakärnor och svart tryffelolja.",
+        "price": "99 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Swedish Pesto",
+        "category": "The Visitor",
+        "description": "En härligt grön och crunchy pesto gjord på Västerbottenost, vitlök, grönkål och solrosfrön. Toppad med buffelmozzarella, lagrad hårdost, olivolja, svartpeppar och basilika.",
+        "price": "99 kr",
+        "tags": [
+          "italian"
+        ]
+      },
+      {
+        "name": "Garlic Bread",
+        "category": "Benne Bites",
+        "description": "Två skivor rostat surdegsbröd med vitlök- och persiljesmör och sumak.",
+        "price": "20 kr",
+        "tags": [
+          "bread"
+        ]
+      },
+      {
+        "name": "Tiramisu",
+        "category": "Benne Bites",
+        "description": "Krämig tiramisu från Italien, toppad med kakao. (Innehåller alkohol)",
+        "price": "35 kr",
+        "tags": [
+          "italian",
+          "dessert"
+        ]
+      }
+    ]
+  },
   "BistrotScraper": {
     "day": "thursday",
     "items": [
