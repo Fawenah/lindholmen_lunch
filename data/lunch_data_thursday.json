@@ -25,38 +25,35 @@
         ]
       },
       {
-        "name": "”Taco Bowl”",
+        "name": "” Caribbean Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Kryddig kycklingfärs serveras i friterad vetetortilla med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños",
+        "description": "Grillad kycklingfilé toppas på dirty kokosris, black bean salsa, rostad ananas, majs & koriander",
         "price": "130 kr",
         "tags": [
           "mexican",
-          "chicken",
-          "taco"
+          "chicken"
         ]
       },
       {
-        "name": "”VEG Taco Bowl”",
+        "name": "” Caribbean Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Kryddig ”ärtfärs” serveras i friterad vetetortilla med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños",
+        "description": "Helgrillad blomkål toppas på dirty kokosris, black bean salsa, rostad ananas, majs & koriander",
         "price": "130 kr",
         "tags": [
-          "mexican",
-          "vegetarian",
-          "taco"
+          "mexican"
         ]
       },
       {
-        "name": "Vilt Wallenbergare med krämig potatis & rotselleripuré samt rödvinssås smaksatt med bryntsmör, fermenterad peppar, lingon och rostad grönkål",
+        "name": "Oklassiska Kooperativets Plommonrökta gårdsgris med potatispuré, gräddsås & persilja",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "drinks"
+          "pork"
         ]
       },
       {
-        "name": "Västerbotten/parmesanbakad kolja serveras med svampsås samt dillkokt potatis och örtsallad",
+        "name": "Färskostbakad kolja serveras med sandefjordsås, potatis & jordärtskockspuré, gröna ärtor & örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
@@ -66,51 +63,47 @@
         ]
       },
       {
-        "name": "Bulgogi på wokad entrecote med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära, serveras med jasminris & hjärtsallad",
+        "name": "Crispy Char Siu Pork",
         "category": "THAI",
-        "description": "",
+        "description": "Wokade äggnudlar med crispig fläsksida serveras med kinesisk ”BBQsås” & wokade grönsaker, toppat med böngroddar, koriander & rostade sesamfrön",
         "price": "130 kr",
         "tags": [
-          "korean",
           "thai",
-          "beef",
-          "salad"
-        ]
-      },
-      {
-        "name": "Kooperativets klassiska Butter Haloumi",
-        "category": "VEGETARISKT",
-        "description": "indisk gryta med friterad haloumi serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "vegetarian",
-          "soup",
-          "bread"
-        ]
-      },
-      {
-        "name": "Kooperativets klassiska Butter Chicken",
-        "category": "INDISK",
-        "description": "indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "chicken",
-          "soup",
-          "bread"
-        ]
-      },
-      {
-        "name": "(Burgaren går att få med haloumi)Kooperativets ”QP and Bacon”",
-        "category": "VÄRLDEN",
-        "description": "Högrevsburgare toppad med dubbel cheddarost i briochebröd serveras med bacon & rödlöksmarmelad, krispig sallad, & frasiga country fries",
-        "price": "130 kr",
-        "tags": [
-          "beef",
           "pork",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Kooperativets Klassiska Butter Haloumi",
+        "category": "VEGETARISKT",
+        "description": "indisk gryta med haloumi serveras med rostad mandel, koriander, papadam samt feffakräm",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian",
+          "soup"
+        ]
+      },
+      {
+        "name": "Kooperativets Klassiska Butter Chicken",
+        "category": "INDISK",
+        "description": "indisk gryta med kyckling serveras med rostad mandel, koriander, papadam & feffakräm",
+        "price": "130 kr",
+        "tags": [
+          "chicken",
+          "soup"
+        ]
+      },
+      {
+        "name": "(Burgaren går att få med haloumi)BBQ & corn Burger",
+        "category": "VÄRLDEN",
+        "description": "Högrevsburgare med cheedarost i briochebröd med BBQsås, rostad majsmajonnäs, pepprig ruccolasallad, rödlök & frasiga nachopommes",
+        "price": "130 kr",
+        "tags": [
+          "mexican",
+          "beef",
           "burger",
           "salad",
+          "taco",
           "bread"
         ]
       }
@@ -131,7 +124,7 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
+        "description": "Wallenbergare med gräddsås och rårörda lingon, serveras med pressgurka och potatismos.",
         "price": "129 kr",
         "tags": []
       },
@@ -196,22 +189,23 @@
     "day": "thursday",
     "items": [
       {
-        "name": "BUTTER CHICKEN",
+        "name": "CHILI CHICKEN",
         "category": "",
-        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
+        "description": "Kycklingfilé tillagad med chili, masala, rödlök, paprika, vinäger, ingefära och vitlök.",
         "price": "129 kr",
         "tags": [
-          "beef",
+          "indian",
           "chicken",
-          "soup"
+          "drinks"
         ]
       },
       {
-        "name": "LAL MIRCH KA GOSHT",
+        "name": "BEEF MALAI KORMA",
         "category": "",
-        "description": "Stark oxköttgryta gjord av vitlök, ingefära, röd chili och koriander.",
+        "description": "Oxköttgryta tillagad en gräddsås med tomat, kardemumma, rosvatten och smör.",
         "price": "129 kr",
         "tags": [
+          "indian",
           "soup"
         ]
       },
@@ -261,7 +255,7 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Stekt kummel serveras med blomkålspuré, stekta rädisor, prosciutto krisp och brynt sherrysmör",
+        "description": "Stekt torsk serveras med rostad morotspuré, gul morot, syltad ingefära och brynt pepparrotssmör",
         "price": "195 kr",
         "tags": [
           "beef",
@@ -271,20 +265,21 @@
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Lammfärsbiffar serveras med potatispuré, brynt svamp, rostade hasselnötter och rödvinssky",
+        "description": "Stekt ankbröst serveras röda linser, grönkål, syltad lök och rödvinssås smaksatt med rosmarin",
         "price": "195 kr",
         "tags": [
+          "vegetarian",
           "beef",
-          "lamb",
           "drinks"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Linguine serveras med kantarellsås smaksatt med tryffelolja och grana padano",
+        "description": "Kantarell- & sparrisrisotto serveras med grana padano och chiliolja",
         "price": "195 kr",
         "tags": [
+          "italian",
           "vegetarian"
         ]
       },
@@ -316,6 +311,52 @@
         "tags": [
           "beef",
           "burger"
+        ]
+      }
+    ]
+  },
+  "Uni3WorldOfFoodScraper": {
+    "day": "thursday",
+    "items": [
+      {
+        "name": "Curryfisk",
+        "category": "Water",
+        "description": "gul currysås, kokt färskpotatis, gröna ärtor, picklat grönt äpple, dill",
+        "price": "132 kr",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
+        "name": "Carribean coconut rice",
+        "category": "Fire",
+        "description": "grillad kycklingklubba, salsa på ananas och habanero, sellerisallad & “jerk mayo”",
+        "price": "132 kr",
+        "tags": [
+          "mexican",
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Klassisk räksallad",
+        "category": "Wood",
+        "description": "kokt ägg, nobisdressing, inlagd fänkål, gröna blad, räkor, dill, citron",
+        "price": "132 kr",
+        "tags": [
+          "seafood",
+          "salad"
+        ]
+      },
+      {
+        "name": "Lasagne på långkokt ragu",
+        "category": "Metal",
+        "description": "tomatsallad, mozzarella, parmesan",
+        "price": "132 kr",
+        "tags": [
+          "italian",
+          "pasta",
+          "salad"
         ]
       }
     ]
@@ -653,32 +694,30 @@
     "day": "thursday",
     "items": [
       {
-        "name": "Veckans: Stekt senaps marinerad strömming",
+        "name": "Veckans: Modo nostro",
         "category": "Veckans",
-        "description": "Potatispure – Lingon – ärtor – Brynt smör",
+        "description": "Spagetti – Bollognese – Ädelost – Granapadano – Rucola",
         "price": "130 kr",
-        "tags": [
-          "beef"
-        ]
+        "tags": []
       },
       {
-        "name": "Vegetarisk Mån–Tis: Pannoumi stroganof",
+        "name": "Vegetarisk Mån–Tis: Aranchini",
         "category": "Veckans",
-        "description": "Jasminris – Paprika – Blomkål – Persilja",
+        "description": "Tomatsås – Rucola – Granapadano",
         "price": "130 kr",
         "tags": [
-          "indian",
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons-Tors: Ost Bakad spetskål",
+        "name": "Vegetarisk Ons-Tors: Falafel",
         "category": "Veckans",
-        "description": "Rostade hasselnötter – Brynt sojasmör – Potatis & Blomkåls pure – Ärtskott",
+        "description": "Libabröd – Tzatziki – Tabbouleh",
         "price": "130 kr",
         "tags": [
+          "greek",
           "vegetarian",
-          "beef"
+          "bread"
         ]
       },
       {
@@ -704,23 +743,24 @@
         ]
       },
       {
-        "name": "Fläskfilé",
+        "name": "Schnitzel",
         "category": "Lunch",
-        "description": "Kantarellrisotto – Rödvinssås – Semitorkade tomater – Rucola – Granapadano",
+        "description": "Pommes – Bearnaise – Rödvinssås – Ärtor – Persilja",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "pork",
           "drinks"
         ]
       },
       {
-        "name": "Örtbakad Fångst",
+        "name": "Halstrad Fångst",
         "category": "Lunch",
-        "description": "Rostade hasselnötter – Bakad spetskål – Brynt sojasmör – Potatis & Blomkålspure – Ärtskott",
+        "description": "Tomatrisotto – Skaldjurssås – Dillsallad",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "italian",
+          "fish",
+          "seafood",
+          "salad"
         ]
       }
     ]
@@ -1280,9 +1320,9 @@
     "day": "thursday",
     "items": [
       {
-        "name": "CHICKEN CHAMBA",
+        "name": "TANDOORI CHICKEN TIKKA",
         "category": "",
-        "description": "Klassisk kycklingrätt från Himalaya med smak av lök och tomat i en yoghurt-masalasås.",
+        "description": "Kyckingfilé marinerad i lime, yoghurt och tandoori masala. Serveras med tandoorsås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
@@ -1290,23 +1330,25 @@
         ]
       },
       {
-        "name": "LAMB COCONUT CURRY",
+        "name": "KOLHAPURI GOSHT",
         "category": "",
-        "description": "Lammrostbiff med lök, tomat, senap, fänkål, curryblad, lime, chili, koriander.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "beef",
-          "lamb"
-        ]
-      },
-      {
-        "name": "PANEER ACHARI",
-        "category": "",
-        "description": "Indisk färskost med röd chili, färsk ingefära, pickles, mynta och kokosmjölk.",
+        "description": "Het lammrätt med svartpeppar, kokosmjölk och koriander.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
+          "lamb",
           "drinks"
+        ]
+      },
+      {
+        "name": "PANCHRATNA DAL",
+        "category": "",
+        "description": "Linsgryta med fem sorters linser. Ordet \"panchratna\" betyder fem juveler.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "indian",
+          "vegetarian",
+          "soup"
         ]
       },
       {
