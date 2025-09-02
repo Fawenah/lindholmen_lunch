@@ -108,17 +108,18 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Smörstekt torskfile med skagensås och marinerad fänkål, serveras med potatismos.",
+        "description": "Skaldjuröverbakad torskfile med vitvinssås och kokt broccoli, serveras med potatispure.",
         "price": "129 kr",
         "tags": [
-          "beef",
-          "fish"
+          "fish",
+          "seafood",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "Kött",
-        "description": "Ryggbiff med sås på soltorkade tomater och majskolv, serveras med rostad potatis.",
+        "description": "Biffrad med grönpepparsås och bakad tomat, serveras med rostad potatis.",
         "price": "129 kr",
         "tags": [
           "beef"
@@ -168,9 +169,10 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Tofu med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
+          "thai",
           "vegetarian",
           "drinks"
         ]

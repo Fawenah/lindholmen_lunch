@@ -319,7 +319,7 @@
         ]
       },
       {
-        "name": "Bibimbap, koreanskt ris, gochujangglaserat kycklinglår, pak choy, stekt ägg, sojamajonnäs, husets kimchi",
+        "name": "Bibimbap, koreanskt ris, gochujangglaserat kycklingfärs, pak choy, stekt ägg, sojamajonnäs, husets kimchi",
         "category": "Fire",
         "description": "",
         "price": "132 kr",
@@ -340,12 +340,13 @@
         ]
       },
       {
-        "name": "Spansk tortilla med chorizo",
+        "name": "Spansk tortilla med stekt korv",
         "category": "Metal",
         "description": "romescosås, mandel, körvel, grillad sallad, persilja",
         "price": "132 kr",
         "tags": [
           "mexican",
+          "beef",
           "salad",
           "taco"
         ]

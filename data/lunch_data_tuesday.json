@@ -118,7 +118,7 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Färskostbakad torskfile med räkröra och kokt broccoli, serveras med potatismos.",
+        "description": "Färskostbakad torskfile med räkröra och rostade rotfrukter, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
           "fish"
@@ -127,7 +127,7 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Raggmunk med stekt fläsk eller löksås med kokt potatis, serveras med rårörda lingon.",
+        "description": "Stekt fläsk med raggmunk alternativt löksås och kokt potatis samt rårörda lingon.",
         "price": "129 kr",
         "tags": [
           "beef",
@@ -333,7 +333,7 @@
         ]
       },
       {
-        "name": "Bibimbap, koreanskt ris, gochujangglaserat kycklinglår, pak choy, stekt ägg, sojamajonnäs, husets kimchi",
+        "name": "Bibimbap, koreanskt ris, gochujangglaserat kycklingfärs, pak choy, stekt ägg, sojamajonnäs, husets kimchi",
         "category": "Fire",
         "description": "",
         "price": "132 kr",
@@ -354,12 +354,13 @@
         ]
       },
       {
-        "name": "Spansk tortilla med chorizo",
+        "name": "Spansk tortilla med stekt korv",
         "category": "Metal",
         "description": "romescosås, mandel, körvel, grillad sallad, persilja",
         "price": "132 kr",
         "tags": [
           "mexican",
+          "beef",
           "salad",
           "taco"
         ]

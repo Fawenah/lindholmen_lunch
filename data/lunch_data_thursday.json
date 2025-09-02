@@ -143,22 +143,17 @@
       {
         "name": "",
         "category": "Asiatisk",
-        "description": "Risnudlar med biff, chili, koriander, pickles, sallad, rostad lök, jordnötter och nuoc mam.",
+        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
         "price": "129 kr",
-        "tags": [
-          "beef",
-          "salad"
-        ]
+        "tags": []
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Risnudlar med vegetariska vårrullar, chili, koriander, pickles, sallad, rostad lök, jordnötter och nuoc mam.",
+        "description": "Tofu med tamarindsås och grönsaker, serveras med jasminris.",
         "price": "129 kr",
         "tags": [
-          "vegetarian",
-          "beef",
-          "salad"
+          "vegetarian"
         ]
       },
       {
