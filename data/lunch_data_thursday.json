@@ -115,9 +115,10 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Hollandaise gratinerad torskfile med hollandaisesås och brynta champinjoner, serveras med potatismos.",
+        "description": "Smörstekt torskfile med sandefjordsås och rostade rotfrukter, serveras med potatispure.",
         "price": "129 kr",
         "tags": [
+          "beef",
           "fish"
         ]
       },
