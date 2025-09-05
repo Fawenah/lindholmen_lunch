@@ -282,10 +282,11 @@
       {
         "name": "",
         "category": "CEASARSALLAD",
-        "description": "grillad majskycklingfilé, prosciutto, pecorino, romansallad, caesardressing & krutonger",
+        "description": "Grillad kyckling med romansallad, bacon, grana padano, Caesardressing & krutonger",
         "price": "215 kr",
         "tags": [
           "chicken",
+          "pork",
           "salad"
         ]
       },
