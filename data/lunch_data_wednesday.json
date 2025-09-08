@@ -25,81 +25,88 @@
         ]
       },
       {
-        "name": "” Caribbean Bowl”",
+        "name": "” Mexican Bowl” Grillad kyckling med sötpotatis och marinerat matvete serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
         "category": "VECKANS SPECIAL",
-        "description": "Grillad kycklingfilé toppas på dirty kokosris, black bean salsa, rostad ananas, majs & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "mexican",
+          "vegetarian",
           "chicken"
         ]
       },
       {
-        "name": "” Caribbean Bowl”",
+        "name": "” Mexican Bowl” Vegetarisk bowl med friterad quorn, sötpotatis och marinerat matvete serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
         "category": "VECKANS SPECIAL",
-        "description": "Helgrillad blomkål toppas på dirty kokosris, black bean salsa, rostad ananas, majs & koriander",
-        "price": "130 kr",
-        "tags": [
-          "mexican"
-        ]
-      },
-      {
-        "name": "Viltskav med krämig potatispuré smaksatt med västerbottenost, serveras med gräddsås, persiljestekta champinjoner, rostad grönkål & lingon",
-        "category": "KÖTT",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Stekt panerad sejfilé serveras med dillkokt potatis ,rökt lax & pepparrotscreme samt citron och ärtskott",
-        "category": "FISK",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "beef",
-          "fish"
-        ]
-      },
-      {
-        "name": "Pad Kra Pao ”Holy basil”",
-        "category": "THAI",
-        "description": "Wokad kyckling i ostronsås med chili, vitlök & thaibasilika, serveras med bakat 65 graders ägg, jasminris & koriander",
-        "price": "130 kr",
-        "tags": [
-          "thai",
-          "chicken"
-        ]
-      },
-      {
-        "name": "Mango Balti",
-        "category": "INDISK",
-        "description": "indisk currygryta med kyckling och mango, serveras med basmatiris, koriander, chilipickelskräm & smörat Naan",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "chicken",
-          "soup",
-          "bread"
-        ]
-      },
-      {
-        "name": "Kooperativets Kebabtallrik på grillad kyckling med smarrig kebabsås, frasiga pommes & goa kebab grönsaker",
-        "category": "VÄRLDEN",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "chicken"
-        ]
-      },
-      {
-        "name": "Kooperativets falafeltallrik på gråärta med smarrig kebabsås, frasiga pommes & goa kebab grönsaker",
-        "category": "VEGETARISKT",
         "description": "",
         "price": "130 kr",
         "tags": [
           "vegetarian"
+        ]
+      },
+      {
+        "name": "Kooperativets Biffstroganoff med brynta champinjoner serveras med krämigt potatismos, toppas med syrad grädde och persilja",
+        "category": "KÖTT",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "beef"
+        ]
+      },
+      {
+        "name": "Stekt panerad sejfilé serveras med stompad potatis smaksatt med spenat & fetaost serveras med citronkräm och örtsallad",
+        "category": "FISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "greek",
+          "beef",
+          "fish",
+          "salad"
+        ]
+      },
+      {
+        "name": "Sticky chicken",
+        "category": "THAI",
+        "description": "Kyckling i hoisinsås med krämig kålsallad serveras med jasminris, koriander & rostade sesamfrön, chili 1/5",
+        "price": "130 kr",
+        "tags": [
+          "thai",
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Indien ”Steak and Rice” Kolgrillad kycklingfilé & lamm serveras med masalasås, basmatiris, lime, chilipickelsmajonnäs & koriander",
+        "category": "INDISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "chicken",
+          "lamb"
+        ]
+      },
+      {
+        "name": "Marstrands stolthet, Afrikana",
+        "category": "VÄRLDEN",
+        "description": "Kolgrillad kyckling, krämig currysås, friterad banan, mandariner, jordnötter & mango chutney",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "beef",
+          "chicken"
+        ]
+      },
+      {
+        "name": "Marstrands vegetariska stolthet, Afrikana",
+        "category": "VEGETARISKT",
+        "description": "Grillad quorn , krämig currysås, friterad banan, mandariner, jordnötter & mango chutney",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "vegetarian",
+          "beef"
         ]
       }
     ]
@@ -119,12 +126,9 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Biffstroganoff med saltgurka och turkisk yoghurt, serveras med ris.",
+        "description": "Wallenbergare med gräddsås och rårörda lingon, serveras med pressgurka och potatismos.",
         "price": "129 kr",
-        "tags": [
-          "indian",
-          "beef"
-        ]
+        "tags": []
       },
       {
         "name": "",
@@ -195,22 +199,22 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "BUTTER CHICKEN",
+        "name": "CHICKEN KADHAI",
         "category": "",
-        "description": "Mild kycklinggryta med nötter, smör i en krämig sås.",
+        "description": "Nordindisk Kycklinggryta med rödlök, paprika, fänkål, citron, svartpeppar och koriander.",
         "price": "129 kr",
         "tags": [
-          "beef",
           "chicken",
           "soup"
         ]
       },
       {
-        "name": "ACHARI GHOST",
+        "name": "BENGALI KOFTA CURRY",
         "category": "",
-        "description": "Lamm tillagad i fänkål, grön, chili, vitlök, senapsfrön och curryblad.",
+        "description": "Lammfärsbullar tillagad med mango, senapsfrön, curryblad, chilli och kokos.",
         "price": "129 kr",
         "tags": [
+          "indian",
           "lamb"
         ]
       },
@@ -325,45 +329,44 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Curryfisk",
+        "name": "Bakad fisk med broccolikräm",
         "category": "Water",
-        "description": "gul currysås, kokt färskpotatis, gröna ärtor, picklat grönt äpple, dill",
+        "description": "broccoli och zucchinisallad, vitvinssås med wasabi, gräslök & färskpotatis",
         "price": "132 kr",
         "tags": [
-          "fish"
-        ]
-      },
-      {
-        "name": "Carribean coconut rice",
-        "category": "Fire",
-        "description": "grillad kycklingklubba, salsa på ananas och habanero, sellerisallad & “jerk mayo”",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
-          "chicken",
-          "salad"
-        ]
-      },
-      {
-        "name": "Svart ris",
-        "category": "Wood",
-        "description": "stekta bönbiffar, fetaostkräm, syrad silverlök, rostad pumpa, chili, mandel",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "beef"
-        ]
-      },
-      {
-        "name": "Spansk tortilla med stekt korv",
-        "category": "Metal",
-        "description": "romescosås, mandel, körvel, grillad sallad, persilja",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
-          "beef",
+          "fish",
           "salad",
-          "taco"
+          "drinks"
+        ]
+      },
+      {
+        "name": "Sushiris",
+        "category": "Fire",
+        "description": "bakat kycklinglår, kimchimajonnäs, salladskål, chilipickles, sesam, koriander",
+        "price": "132 kr",
+        "tags": [
+          "korean",
+          "chicken",
+          "salad",
+          "sushi"
+        ]
+      },
+      {
+        "name": "Risbowl med kräftstjärtar, avokado, picklad lök, garigurka, wasabimajonnäs och dill",
+        "category": "Wood",
+        "description": "",
+        "price": "132 kr",
+        "tags": []
+      },
+      {
+        "name": "Rosastekt fläskkarré",
+        "category": "Metal",
+        "description": "rostad potatis, svampsås, vinbärsgele, persilja",
+        "price": "132 kr",
+        "tags": [
+          "beef",
+          "pork",
+          "drinks"
         ]
       }
     ]
@@ -701,30 +704,32 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Veckans: Modo nostro",
+        "name": "Veckans: Pytt Bellman",
         "category": "Veckans",
-        "description": "Spagetti – Bollognese – Ädelost – Granapadano – Rucola",
-        "price": "130 kr",
-        "tags": []
-      },
-      {
-        "name": "Vegetarisk Mån–Tis: Aranchini",
-        "category": "Veckans",
-        "description": "Tomatsås – Rucola – Granapadano",
+        "description": "Stekt ägg – Senapsstuvning – Rödbetor – Persilja",
         "price": "130 kr",
         "tags": [
+          "beef"
+        ]
+      },
+      {
+        "name": "Vegetarisk Mån–Tis: Gnocchi",
+        "category": "Veckans",
+        "description": "Brynt smör – Tomat – Vitlök – Persilja – Citron – Granapadano – Rucola",
+        "price": "130 kr",
+        "tags": [
+          "italian",
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons-Tors: Falafel",
+        "name": "Vegetarisk Ons- Tors: Korean fried Blomkål",
         "category": "Veckans",
-        "description": "Libabröd – Tzatziki – Tabbouleh",
+        "description": "Srirachamajonnäs – Rödkålssallad – Jasminris – Koriander",
         "price": "130 kr",
         "tags": [
-          "greek",
           "vegetarian",
-          "bread"
+          "salad"
         ]
       },
       {
@@ -750,21 +755,22 @@
         ]
       },
       {
-        "name": "Natt bakat Högrev",
+        "name": "Korean fried Chicken",
         "category": "Lunch",
-        "description": "Rotfruktsgratäng – Kantarellsås – Haricotsverts – Persilja",
+        "description": "Srirachamajonnäs – Kålsallad – Jasminris – Sesamfrön – Koriander",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "chicken",
+          "salad"
         ]
       },
       {
-        "name": "Pocherad Kolja",
+        "name": "Pocherad Fångst",
         "category": "Lunch",
-        "description": "Brynt smör – Rödbeta – Kapris – Schalottenlök – Kokt potatis – Gräslök",
+        "description": "Sandefjordsås – Blomkål – Bacon – Kokt potatis",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "pork"
         ]
       }
     ]
@@ -1324,34 +1330,33 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "CHICKEN CHETTINAD",
+        "name": "MURG VINDALOO",
         "category": "",
-        "description": "En populär sydindisk kycklinggryta, tillagad i en pepprig kryddblandning från Chettinad, Spetsad med kokos.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "chicken",
-          "soup"
-        ]
-      },
-      {
-        "name": "CHUTNEY SEEKH KEBAB",
-        "category": "",
-        "description": "Lammfärskebab med mango chutney, mynta, vitlök, garam masala och rödvinsås.",
+        "description": "Eldig kycklingrätt från Goa med palmvinäger, nejlkor och piri-piri masala",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "lamb",
+          "chicken",
           "drinks"
         ]
       },
       {
-        "name": "SAMOSA CURRY",
+        "name": "SHAHI GOSHT",
         "category": "",
-        "description": "Friterade små piroger med vegetarisk fyllning, serveras i yoghurt- och currysås.",
+        "description": "Mild och krämig lammrätt med kardemumma, malda cashewnötter och pistagenötter",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "vegetarian"
+          "beef",
+          "lamb"
+        ]
+      },
+      {
+        "name": "BAINGAN BHARTA",
+        "category": "",
+        "description": "Långstekt aubergine, lök, tomat, ingefära, chili, koriander.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "beef"
         ]
       },
       {
