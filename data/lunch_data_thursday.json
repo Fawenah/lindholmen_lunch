@@ -256,7 +256,7 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Stekt torsk serveras med rostad morotspuré, gul morot, syltad ingefära och brynt pepparrotssmör",
+        "description": "Ugnstekt lax serveras med vitlöks pärlcouscous, rostade grönsaker och citronsmörsås",
         "price": "195 kr",
         "tags": [
           "beef",
@@ -266,21 +266,20 @@
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Stekt ankbröst serveras röda linser, grönkål, syltad lök och rödvinssås smaksatt med rosmarin",
+        "description": "Örtrubbad fläskkotlett serveras med palsternackspuré, grillad bellaverde broccoli och svampsky",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
-          "beef",
+          "pork",
           "drinks"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Kantarell- & sparrisrisotto serveras med grana padano och chiliolja",
+        "description": "Bakad blomkål serveras med rostad palsternacka, rostade mandlar, granatäpple och grön hummus",
         "price": "195 kr",
         "tags": [
-          "italian",
+          "greek",
           "vegetarian"
         ]
       },
@@ -308,11 +307,12 @@
       {
         "name": "",
         "category": "DOUBLE SMASHED CHEESEBURGER",
-        "description": "grillad brioche, högrev, äppelrökt cheddar, tryffelmajonnäs, karameliserad lök, picklad gurka & pommes frites",
+        "description": "Högrevsburgare med brioche, cheddar, hamburgerdressing, sallad, lök & pommes frites",
         "price": "235 kr",
         "tags": [
           "beef",
-          "burger"
+          "burger",
+          "salad"
         ]
       }
     ]
