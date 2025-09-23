@@ -257,28 +257,30 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Bakad rödtunga serveras med rostad potatis, syrad broccolistam och gräslökssås",
+        "description": "Panerad torsk serveras med kokt potatis, rostad blomkål, picklad tomat och hummersås",
         "price": "195 kr",
         "tags": [
-          "fish"
+          "fish",
+          "seafood"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Kalvstek serveras med potatisgratäng smaksatt med västerbottenost, vitlöksstekt brysselkål och rödvinpepparglaze",
+        "description": "Majskyckling serveras med rostade rotfrukter, honungsbakad purjolök, vitvinssås och prosciuttokrisp",
         "price": "195 kr",
         "tags": [
-          "beef",
+          "chicken",
           "drinks"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Rostade rödbetor serveras med butternut pumpa, chevrékräm, pumpafrön och honung med tryffelolja",
+        "description": "Gnocchi serveras med tomatsås, mozzarella, grana padano och basilikaolja",
         "price": "195 kr",
         "tags": [
+          "italian",
           "vegetarian"
         ]
       },
