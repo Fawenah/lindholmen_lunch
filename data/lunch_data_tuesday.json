@@ -326,6 +326,44 @@
       }
     ]
   },
+  "Uni3WorldOfFoodScraper": {
+    "day": "tuesday",
+    "items": [
+      {
+        "name": "Krämig matvete “risotto” med cheddar & champinjon, stekt majs, syrad lök, gröna blad, spenat & saltrostad mandel Water: Ångad fisk med blåmusselsås, sallad på gurka, gari och svart sesam, wasabimajo, dill, kokt potatis & smörad blomkål Steamed fish with blue mussle sauce, salad with cucumber, gari and black sesame, wasabi mayo, dill, boiled potatoes & buttered cauliflower",
+        "category": "Earth",
+        "description": "",
+        "price": "132 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "fish",
+          "salad"
+        ]
+      },
+      {
+        "name": ": Grillad kycklinglårfilé med karamelliserad harissamajonnäs, kryddigt ris, fetaost, granatäpple, mynta, koriander & picklad pumpa",
+        "category": "Fire",
+        "description": "",
+        "price": "132 kr",
+        "tags": [
+          "greek",
+          "chicken"
+        ]
+      },
+      {
+        "name": "Rimmad fläsksida med rotfruktsstomp, sötsyrlig senapssås, grillad spetskål och persiljesallad med inlagda senapsfrön och pepparrot",
+        "category": "Metal",
+        "description": "",
+        "price": "132 kr",
+        "tags": [
+          "pork",
+          "salad",
+          "drinks"
+        ]
+      }
+    ]
+  },
   "MissFScraper": {
     "day": "tuesday",
     "items": [

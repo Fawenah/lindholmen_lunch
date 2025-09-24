@@ -320,6 +320,46 @@
       }
     ]
   },
+  "Uni3WorldOfFoodScraper": {
+    "day": "wednesday",
+    "items": [
+      {
+        "name": "Krämig matvete “risotto” med cheddar & champinjon, stekt majs, syrad lök, gröna blad, spenat & saltrostad mandel Water: Ångad fisk med blåmusselsås, sallad på gurka, gari och svart sesam, wasabimajo, dill, kokt potatis & smörad blomkål Steamed fish with blue mussle sauce, salad with cucumber, gari and black sesame, wasabi mayo, dill, boiled potatoes & buttered cauliflower",
+        "category": "Earth",
+        "description": "",
+        "price": "132 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "fish",
+          "salad"
+        ]
+      },
+      {
+        "name": "Grillad kycklinglårfilé med karamelliserad harissamajonnäs, kryddigt ris, fetaost, granatäpple, mynta, koriander & picklad pumpa",
+        "category": "Fire",
+        "description": "",
+        "price": "132 kr",
+        "tags": [
+          "greek",
+          "chicken"
+        ]
+      },
+      {
+        "name": "Kryddig couscous, “daqua salad”, jordnötter, libabröd, koriander, chilisås, rostade kikärtor Metal: Onsdagsschnitzeln",
+        "category": "Wood",
+        "description": "fläskschnitzel, kantarellsmör, rostad potatis, gröna ärtor med rökt sidfläsk och lökvinägrett Wednesday Schnitzel, pork schnitzel, chanterelle butter, roasted potatoes, green peas with smoked pork belly and onion vinaigrette",
+        "price": "132 kr",
+        "tags": [
+          "vegetarian",
+          "beef",
+          "pork",
+          "bread",
+          "drinks"
+        ]
+      }
+    ]
+  },
   "MissFScraper": {
     "day": "wednesday",
     "items": [
