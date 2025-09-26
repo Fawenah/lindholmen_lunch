@@ -335,52 +335,6 @@
       }
     ]
   },
-  "Uni3WorldOfFoodScraper": {
-    "day": "friday",
-    "items": [
-      {
-        "name": "Bouillabaisse, bakad sej, rostad vitlöksmajonnäs med saffran, rostad potatis, saltbakad rotselleri, fänkålskrudité, dill & räkor",
-        "category": "Water",
-        "description": "",
-        "price": "132 kr",
-        "tags": [
-          "fish",
-          "seafood"
-        ]
-      },
-      {
-        "name": "Pulled pork bowl",
-        "category": "Fire",
-        "description": "ris, spicy mangosalsa, picklad lök, gröna blad, koriander, syrad grädde",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
-          "pork"
-        ]
-      },
-      {
-        "name": "Gulbetor i sotad citrusvinägrett",
-        "category": "Wood",
-        "description": "bittra blad, krämiga linser, fetaost, dill, jalapeno, klementin",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "vegetarian",
-          "drinks"
-        ]
-      },
-      {
-        "name": "Gräddig kantarellpasta",
-        "category": "Metal",
-        "description": "lagrad hårdost, rostad mandel, pangrattato, örter",
-        "price": "132 kr",
-        "tags": [
-          "italian",
-          "pasta"
-        ]
-      }
-    ]
-  },
   "MissFScraper": {
     "day": "friday",
     "items": [
