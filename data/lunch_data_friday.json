@@ -122,22 +122,18 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Stekt panerad torskfile med räkrmouladsås  och marinerad fänkål, serveras med kokt potatis.",
+        "description": "Pocherad torskfile med sandefjordsås och marinerad fänkål, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
-          "beef",
           "fish"
         ]
       },
       {
         "name": "",
         "category": "Kött",
-        "description": "Nattbakad flankstek med chilibearnaise och rödvinssky, serveras med rostad potatis och majskolv.",
+        "description": "Ost och skinkfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
         "price": "129 kr",
-        "tags": [
-          "beef",
-          "drinks"
-        ]
+        "tags": []
       },
       {
         "name": "",
@@ -183,7 +179,7 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu medröd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
           "vegetarian",

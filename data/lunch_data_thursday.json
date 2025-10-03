@@ -160,6 +160,17 @@
       },
       {
         "name": "",
+        "category": "Asiatisk",
+        "description": "Stekt ris med kyckling och grönsaker, serveras med rostad lök och salladslök.",
+        "price": "129 kr",
+        "tags": [
+          "beef",
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "",
         "category": "Vegetarisk",
         "description": "Tofu med tamarindsås och grönsaker, serveras med jasminris.",
         "price": "129 kr",
