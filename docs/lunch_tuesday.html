@@ -335,7 +335,7 @@
     <p>Priser kan vara inaktuella, för senaste informationen, se respektive hemsida.</p>
 
     <div style="margin-top: 40px; font-size: 14px; color: #666;">
-        <p>Last updated: 2025-10-10 09:05</p>
+        <p>Last updated: 2025-10-13 09:06</p>
     </div>
     <a class="weekday-button" href="index.html">← Tillbaka till veckomeny</a>
     <hr>
@@ -361,6 +361,9 @@
             
             
             <a class="weekday-button" href="#EncounterAsian">EncounterAsian</a>
+            
+            
+            <a class="weekday-button" href="#Kooperativet">Kooperativet</a>
             
             
             <a class="weekday-button" href="#Masala">Masala</a>
@@ -408,6 +411,9 @@
                     
                     
                     <label><input type="checkbox" class="filter-restaurant" data-restaurant="EncounterAsian" checked> EncounterAsian</label>
+                    
+                    
+                    <label><input type="checkbox" class="filter-restaurant" data-restaurant="Kooperativet" checked> Kooperativet</label>
                     
                     
                     <label><input type="checkbox" class="filter-restaurant" data-restaurant="Masala" checked> Masala</label>
@@ -933,9 +939,11 @@
             
             
             
-            <div class="emoji-row">🐖 🍹 🌱 🇬🇷</div>
-            <div class="emoji-row">🥗 🍔 🐔 🦞</div>
-            <div class="emoji-row">🐄 🇮🇹</div>
+            
+            
+            <div class="emoji-row">🇮🇹 🌱 🇲🇽 🥗</div>
+            <div class="emoji-row">🌮 🍔 🐔 🐖</div>
+            <div class="emoji-row">🦞 🐄 🍹</div>
             <div class="icon-link">
                 
                 <a href="https://bistrot.se/" target="_blank" title="Hemsida">🔗</a>
@@ -987,27 +995,21 @@
             <h3>Veckans</h3>
             <ul>
                 
-                <li data-tags="pork drinks" >
+                <li data-tags="" >
                     <em>130 kr</em>
-                    <strong>Veckans: Fläsklägg</strong>
-                     – Pepparrotssås – Rotmos – Senap – Persilja
-                    
-                    <span class="emoji-inline">
-                        
-                        🐖
-                        
-                        🍹
-                        
-                    </span>
+                    <strong>Veckans: Frutti di mare</strong>
+                     – Linguine – Tomatsås – Persilja – Granapadano
                     
                 </li>
                 
-                <li data-tags="vegetarian" >
+                <li data-tags="italian vegetarian" >
                     <em>130 kr</em>
-                    <strong>Vegetarisk Mån–Tis: Tortellini med ricotta & spenat</strong>
-                     – Tomatsås – Zucchini – Broccoli – Rucola – Grana padano
+                    <strong>Vegetarisk Mån–Tis: Gnocchi</strong>
+                     – Tomat – Vitlök – Chili – Citron – Brynt smör – Granapadano – Rucola
                     
                     <span class="emoji-inline">
+                        
+                        🇮🇹
                         
                         🌱
                         
@@ -1015,18 +1017,20 @@
                     
                 </li>
                 
-                <li data-tags="greek vegetarian salad" >
+                <li data-tags="mexican vegetarian salad taco" >
                     <em>130 kr</em>
-                    <strong>Vegetarisk Ons- Tors: Friterad fetaost</strong>
-                     – Rostadpotatis – Tzatsiki – Tomat & Lök sallad – Ruccola
+                    <strong>Vegetarisk Ons- Tors: quesadillas</strong>
+                     – Bönor – Avocado kräm – Pico de gaio – Kålsallad
                     
                     <span class="emoji-inline">
                         
-                        🇬🇷
+                        🇲🇽
                         
                         🌱
                         
                         🥗
+                        
+                        🌮
                         
                     </span>
                     
@@ -1071,29 +1075,29 @@
             <h3>Lunch</h3>
             <ul>
                 
-                <li data-tags="beef burger" >
+                <li data-tags="beef pork drinks" >
                     <em>130 kr</em>
-                    <strong>Högrevsburgare</strong>
-                     – Cheddarost – Rostad lök – Saltgurka – Tomat – Sweetonionmayo – Pommes
+                    <strong>Stekt fläsk</strong>
+                     – Raggmunk & Lingon eller Kokt potatis & Löksås
                     
                     <span class="emoji-inline">
                         
                         🐄
                         
-                        🍔
+                        🐖
+                        
+                        🍹
                         
                     </span>
                     
                 </li>
                 
-                <li data-tags="italian drinks" >
+                <li data-tags="drinks" >
                     <em>130 kr</em>
-                    <strong>Pestobakad fångst</strong>
-                     – Tomatrisotto – Vitvinssås – Rucola – grana padano
+                    <strong>Ört och färskost bakad fångst</strong>
+                     – Vitvinssås – kokt potatis – rostade rotfrukter – Gräslök
                     
                     <span class="emoji-inline">
-                        
-                        🇮🇹
                         
                         🍹
                         
@@ -1111,12 +1115,6 @@
     <div class="restaurant" id="BombayBistro">
         <div class="menu-header-grid">
             <div class="restaurant-name" onclick="toggleVisibility('BombayBistro_menu')">BombayBistro</div>
-            
-            
-            
-            
-            
-            
             
             
             
@@ -1215,29 +1213,25 @@
             <h3>Dagens</h3>
             <ul>
                 
-                <li data-tags="chicken soup" >
+                <li data-tags="chicken" >
                     <em>129 kr</em>
-                    <strong>CHICKEN BHUNA</strong>
-                     – Kryddig kycklinggryta med rödlok, chill, tomat, kryddnejlika, koriander och curryblad.
+                    <strong>HARIYALI CHICKEN</strong>
+                     – Kycklingfile i en örtsås som består av basilika, mynta, koriander, lök, grön chili och kokos.
                     
                     <span class="emoji-inline">
                         
                         🐔
                         
-                        🥣
-                        
                     </span>
                     
                 </li>
                 
-                <li data-tags="indian soup" >
+                <li data-tags="soup" >
                     <em>129 kr</em>
-                    <strong>BEEF ROGAN JOSH</strong>
-                     – Oxköttgryta tillagad med lök, tomat, kardemumma, rosvatten och yoghurt.
+                    <strong>MASALEDAR BEEF</strong>
+                     – Kryddig oxköttgryta med lök, tomat, chili, nejlika, lime och koriander.
                     
                     <span class="emoji-inline">
-                        
-                        🇮🇳
                         
                         🥣
                         
@@ -1659,12 +1653,9 @@
             
             
             
-            
-            
-            
-            <div class="emoji-row">🐟 🍹 🐖 🥣</div>
-            <div class="emoji-row">🐔 🥗 🍞 🐄</div>
-            <div class="emoji-row">🥟 🌱 🍣 🇹🇭</div>
+            <div class="emoji-row">🐟 🐄 🐖 🍹</div>
+            <div class="emoji-row">🐔 🥗 🍞 🥟</div>
+            <div class="emoji-row">🌱 🍣 🇹🇭 🥣</div>
             <div class="icon-link">
                 
                 <a href="https://www.districtone.se/lunch.html" target="_blank" title="Hemsida">🔗</a>
@@ -1726,16 +1717,14 @@
             <h3>Fisk</h3>
             <ul>
                 
-                <li data-tags="fish drinks" >
+                <li data-tags="fish" >
                     <em>129 kr</em>
                     <strong></strong>
-                     – Parmesan och basilika bakad torskfile med rostade rotfrukter och vitvinssås, serveras med potatismos.
+                     – Färskostbakad torskfile med kokt broccoli och räkröra, serveras med potatismos.
                     
                     <span class="emoji-inline">
                         
                         🐟
-                        
-                        🍹
                         
                     </span>
                     
@@ -1746,16 +1735,16 @@
             <h3>Kött</h3>
             <ul>
                 
-                <li data-tags="pork soup drinks" >
+                <li data-tags="beef pork drinks" >
                     <em>129 kr</em>
                     <strong></strong>
-                     – Boeuf bourguignon fransk köttgryta med rödvin, bacon och syltlök, serveras med potatismos.
+                     – Stekt fläsk med raggmunk alternativt löksås och kokt potatis samt rårörda lingon.
                     
                     <span class="emoji-inline">
                         
-                        🐖
+                        🐄
                         
-                        🥣
+                        🐖
                         
                         🍹
                         
@@ -2524,6 +2513,398 @@
     
     
     
+    <div class="restaurant" id="Kooperativet">
+        <div class="menu-header-grid">
+            <div class="restaurant-name" onclick="toggleVisibility('Kooperativet_menu')">Kooperativet</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🐔 🐖 🥗 🐟</div>
+            <div class="emoji-row">🦞 🌱 🇮🇳 🥣</div>
+            <div class="emoji-row">🍞 🐄</div>
+            <div class="icon-link">
+                
+                <a href="https://www.kooperativet.se/" target="_blank" title="Hemsida">🔗</a>
+                
+            </div>
+            <div class="icon-link">
+                
+                <a href="https://maps.google.com/?q=Kooperativet+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
+                
+            </div>
+        </div>
+        <div class="menu-content" id="Kooperativet_menu" style="display: block;">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            <h3>SALLADER</h3>
+            <ul>
+                
+                <li data-tags="chicken pork salad" >
+                    <em>130 kr</em>
+                    <strong>Caesarsallad</strong>
+                     – romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger
+                    
+                    <span class="emoji-inline">
+                        
+                        🐔
+                        
+                        🐖
+                        
+                        🥗
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="fish seafood salad" >
+                    <em>130 kr</em>
+                    <strong>Västkust Caesarsallad</strong>
+                     – romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger
+                    
+                    <span class="emoji-inline">
+                        
+                        🐟
+                        
+                        🦞
+                        
+                        🥗
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>VECKANS SPECIAL</h3>
+            <ul>
+                
+                <li data-tags="vegetarian chicken" >
+                    <em>130 kr</em>
+                    <strong>Chicken Bowl</strong>
+                     – Vedeldad kyckling på marinerad quinoa toppad med soyabönor, picklade betor, gurka, böngroddar och avokado, serveras med dressing på höstäpple & grön chili
+                    
+                    <span class="emoji-inline">
+                        
+                        🌱
+                        
+                        🐔
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="vegetarian" >
+                    <em>130 kr</em>
+                    <strong>Buddha Bowl</strong>
+                     – Friterad Mungböns falafel på marinerad quinoa toppad med soyabönor, picklade betor, gurka, böngroddar och avokado, serveras med dressing på höstäpple & grön chili
+                    
+                    <span class="emoji-inline">
+                        
+                        🌱
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>KÖTT</h3>
+            <ul>
+                
+                <li data-tags="pork" >
+                    <em>130 kr</em>
+                    <strong>Kooperativets Philly cheese Schnitzel på gårdsgris med rostad paprika & brynt lök serveras med varm ostsås smaksatt med jalapeños samt frasiga pommes</strong>
+                    
+                    
+                    <span class="emoji-inline">
+                        
+                        🐖
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>FISK</h3>
+            <ul>
+                
+                <li data-tags="fish" >
+                    <em>130 kr</em>
+                    <strong>Bakad kolja serveras med dillkokt potatis, ägg & persiljesås samt citron och örter</strong>
+                    
+                    
+                    <span class="emoji-inline">
+                        
+                        🐟
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>EAST ASIA</h3>
+            <ul>
+                
+                <li data-tags="chicken" >
+                    <em>130 kr</em>
+                    <strong>Spice asian BBQ fried Chicken</strong>
+                     – Friterad kyckling i het BBQsås toppad med sticklök och rostade sesamfrön, serveras med jasminris & koriander
+                    
+                    <span class="emoji-inline">
+                        
+                        🐔
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>INDISK</h3>
+            <ul>
+                
+                <li data-tags="indian chicken soup bread" >
+                    <em>130 kr</em>
+                    <strong>Chicken Tikka Masala</strong>
+                     – Indisk currygryta med majskyckling med rostad mandel serveras med pickelsmajonnäs, basmatiris & koriander och Naan
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇳
+                        
+                        🐔
+                        
+                        🥣
+                        
+                        🍞
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>VÄRLDEN GOES</h3>
+            <ul>
+                
+                <li data-tags="beef salad bread" >
+                    <em>130 kr</em>
+                    <strong>Bookmaker toast på vårt vis med 16h rökt högrev på surdegsbröd med dijon & pepparrotsmajonnäs, krispig sallad toppad med bea & serveras med rostad klyftpotatis</strong>
+                    
+                    
+                    <span class="emoji-inline">
+                        
+                        🐄
+                        
+                        🥗
+                        
+                        🍞
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>VEGETARISKT</h3>
+            <ul>
+                
+                <li data-tags="indian vegetarian soup bread" >
+                    <em>130 kr</em>
+                    <strong>Samosa Tikka Masala</strong>
+                     – Indisk currygryta med friterade fyllda potatisknyten toppas med rostad mandel serveras med pickelsmajonnäs, basmatiris & koriander och Naan
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇳
+                        
+                        🌱
+                        
+                        🥣
+                        
+                        🍞
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+        </div>
+    </div>
+    
+    
+    
     <div class="restaurant" id="Masala">
         <div class="menu-header-grid">
             <div class="restaurant-name" onclick="toggleVisibility('Masala_menu')">Masala</div>
@@ -2718,17 +3099,9 @@
             
             
             
-            
-            
-            
-            
-            
-            
-            
-            
-            <div class="emoji-row">🇮🇳 🥣 🍹 🐟</div>
-            <div class="emoji-row">🌱 🐔 🐑 🐄</div>
-            <div class="emoji-row">🦞 🥗 🍞</div>
+            <div class="emoji-row">🐔 🇮🇳 🐑 🐄</div>
+            <div class="emoji-row">🍞 🌱 🥣 🦞</div>
+            <div class="emoji-row">🥗 🍹</div>
             <div class="icon-link">
                 
                 <a href="https://masalakitchen.se/lunch/" target="_blank" title="Hemsida">🔗</a>
@@ -2854,50 +3227,46 @@
             <h3>Dagens</h3>
             <ul>
                 
-                <li data-tags="indian soup drinks" >
+                <li data-tags="chicken" >
                     <em>119 kr, takeaway 114 kr</em>
-                    <strong>MURG HARA MASALA</strong>
-                     – Örtkryddad kyckingfilégryta med färsk koriander, bockhornsklöver, basilika och grön chili kokosmjölk.
+                    <strong>MURG KALI MIRCH</strong>
+                     – Marinerat kycklingfilé med lök och tomat i svartpeppar- och ingeärasås.
                     
                     <span class="emoji-inline">
                         
-                        🇮🇳
-                        
-                        🥣
-                        
-                        🍹
+                        🐔
                         
                     </span>
                     
                 </li>
                 
-                <li data-tags="fish soup drinks" >
+                <li data-tags="indian lamb" >
                     <em>119 kr, takeaway 114 kr</em>
-                    <strong>GOAN FISH CURRY</strong>
-                     – Laxfilé i en väldoftande kokosmjölkagryta med vitlök, svarta senapsfrön, koriander, tamarind och curryblad.
-                    
-                    <span class="emoji-inline">
-                        
-                        🐟
-                        
-                        🥣
-                        
-                        🍹
-                        
-                    </span>
-                    
-                </li>
-                
-                <li data-tags="indian soup" >
-                    <em>119 kr, takeaway 114 kr</em>
-                    <strong>PANEER MAKHANI</strong>
-                     – Krämig tomatgryta, indisk färskost, smaksatt med ingefära, vitlök och garam masala.
+                    <strong>SEEKH KABAB</strong>
+                     – Lammfärsrytar smaksatta med ingefära, Vitlök, ägg, koriander och garam masala Serveras med tandoorisis.
                     
                     <span class="emoji-inline">
                         
                         🇮🇳
                         
-                        🥣
+                        🐑
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="indian beef bread" >
+                    <em>119 kr, takeaway 114 kr</em>
+                    <strong>PANEER JODHPURI</strong>
+                     – Indisk färskost i en mild currysås med cashewnötskräm toppad med papadom.
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇳
+                        
+                        🐄
+                        
+                        🍞
                         
                     </span>
                     
@@ -5132,9 +5501,22 @@
             
             
             
-            <div class="emoji-row">🐟 🍹 🐄</div>
-            <div class="emoji-row">🐔 🇹🇭 🌱</div>
-            <div class="emoji-row">🐖 🥗</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🇯🇵 🐟 🥗 🐄</div>
+            <div class="emoji-row">🐔 🌱 🦞 🍣</div>
+            <div class="emoji-row">🐖 🍹</div>
             <div class="icon-link">
                 
                 <a href="https://www.compass-group.se/restauranger-och-menyer/ovriga-restauranger/uni3-world-of-food/" target="_blank" title="Hemsida">🔗</a>
@@ -5178,16 +5560,18 @@
             <h3>Water</h3>
             <ul>
                 
-                <li data-tags="fish drinks" >
+                <li data-tags="japanese fish salad" >
                     <em>132 kr</em>
-                    <strong>: Pärlcouscous, syrad morotskräm, rostad morot, bakad fisk, vitvinssås, fänkålscrudité, dragonolja & körvel</strong>
-                    
+                    <strong>Bakad fisk</strong>
+                     – kryddig pumpapuré, ingefärspicklad butternut, rostad morot, misosmörsås, körvel & zucchinisallad
                     
                     <span class="emoji-inline">
                         
+                        🇯🇵
+                        
                         🐟
                         
-                        🍹
+                        🥗
                         
                     </span>
                     
@@ -5198,16 +5582,18 @@
             <h3>Fire</h3>
             <ul>
                 
-                <li data-tags="beef chicken" >
+                <li data-tags="beef chicken salad" >
                     <em>132 kr</em>
-                    <strong>Butter chicken</strong>
-                     – kryddmarinerad rostad kyckling, gravy, basmatiris, yoghurt, limegurka, cashewnöt, koriander, mynta
+                    <strong>Grillat Kycklinglår</strong>
+                     – salladslök, koriander, jasminris, syrad gurksallad, limeklyfta, inlagd chili, jordnötssås
                     
                     <span class="emoji-inline">
                         
                         🐄
                         
                         🐔
+                        
+                        🥗
                         
                     </span>
                     
@@ -5218,18 +5604,20 @@
             <h3>Wood</h3>
             <ul>
                 
-                <li data-tags="thai vegetarian beef" >
+                <li data-tags="vegetarian seafood salad sushi" >
                     <em>132 kr</em>
-                    <strong>Svart ris, rödkål, morot, grön currymajo, stekt biff på svarta bönor och pumpa, koriander</strong>
+                    <strong>: Pokebowl, sushiris, gurksallad, räkor, marinerad rödkål, böngroddar & chilimajonnäs (veg tofu)</strong>
                     
                     
                     <span class="emoji-inline">
                         
-                        🇹🇭
-                        
                         🌱
                         
-                        🐄
+                        🦞
+                        
+                        🥗
+                        
+                        🍣
                         
                     </span>
                     
@@ -5240,16 +5628,16 @@
             <h3>Metal</h3>
             <ul>
                 
-                <li data-tags="pork salad drinks" >
+                <li data-tags="beef pork drinks" >
                     <em>132 kr</em>
-                    <strong>“Schweinbraten” på fläsksida</strong>
-                     – tysk potatissallad, varm surkål, senapskräm, persilja
+                    <strong>Helstekt örtkryddad fläskkotlett</strong>
+                     – palsternackspuré med rostad vitlök, grillad kål, picklat äpple, persiljesås
                     
                     <span class="emoji-inline">
                         
-                        🐖
+                        🐄
                         
-                        🥗
+                        🐖
                         
                         🍹
                         
