@@ -248,22 +248,29 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Ugnstekt lax serveras med potatisbakelse, brysselkål och kantarellsås",
+        "description": "Ost- & pankopanerad kummel serveras med kokt potatis, dillslungade rädisor och stuvad fänkål",
         "price": "195 kr",
         "tags": [
-          "beef",
-          "fish",
-          "dessert"
+          "fish"
+        ]
+      },
+      {
+        "name": "",
+        "category": "KÖTT",
+        "description": "Bakad kyckling serveras med potatispuré med tryffelolja, picklade äpplen och enbär- & rosmarinsås",
+        "price": "195 kr",
+        "tags": [
+          "chicken"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Mustig linsgryta serveras med potatispuré, grönkålskrisp och haricot verts",
+        "description": "Pumpa- & grönkålsrisotto serveras med rostade rödbetor och rostade mandlar",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
-          "soup"
+          "italian",
+          "vegetarian"
         ]
       },
       {
