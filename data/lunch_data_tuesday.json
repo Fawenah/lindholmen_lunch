@@ -321,60 +321,6 @@
       }
     ]
   },
-  "Uni3WorldOfFoodScraper": {
-    "day": "tuesday",
-    "items": [
-      {
-        "name": "Bakad omelett, stekt stuvad svamp, grönpeppar, picklad vildsvamp, friterad purjolök, frissésallat, körvel & västerbottensost",
-        "category": "Earth",
-        "description": "",
-        "price": "132 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Gräddig fisksoppa",
-        "category": "Water",
-        "description": "inkokt fänkål, rostad palsternacka, tärnad tomat, kokt potatis, bakad fisk, saffran, dill",
-        "price": "132 kr",
-        "tags": [
-          "fish",
-          "soup"
-        ]
-      },
-      {
-        "name": "Tacobowl",
-        "category": "Fire",
-        "description": "kycklingfärs, ris, pico de gallo, chipotlemajonnäs, avokado, koriander & rostad lök",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
-          "chicken",
-          "taco"
-        ]
-      },
-      {
-        "name": "Svart ris",
-        "category": "Wood",
-        "description": "kryddig tomatsås, inkokta bönor, fetaost, mynta, persilja, krutonger",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "vegetarian"
-        ]
-      },
-      {
-        "name": "Smörstekta köttbullar",
-        "category": "Metal",
-        "description": "potatispuré, pressgurka, rårörda lingon, gräddsås, persilja",
-        "price": "132 kr",
-        "tags": [
-          "beef"
-        ]
-      }
-    ]
-  },
   "MissFScraper": {
     "day": "tuesday",
     "items": [
