@@ -345,27 +345,6 @@
         ]
       },
       {
-        "name": "Tacobowl",
-        "category": "Fire",
-        "description": "kycklingfärs, ris, pico de gallo, chipotlemajonnäs, avokado, koriander & rostad lök",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
-          "chicken",
-          "taco"
-        ]
-      },
-      {
-        "name": "Svart ris",
-        "category": "Wood",
-        "description": "kryddig tomatsås, inkokta bönor, fetaost, mynta, persilja, krutonger",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "vegetarian"
-        ]
-      },
-      {
         "name": "Onsdagsschnitzeln",
         "category": "Metal",
         "description": "fläskschnitzel, buffalo sauce, blue cheese dressing, bleksellerisallad, rostad potatis",
