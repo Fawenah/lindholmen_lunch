@@ -25,37 +25,37 @@
         ]
       },
       {
-        "name": "Bibimbap med wokad kyckling i soyasås serveras på sesamris med kimchi, soya bönor, smashed cucumber och böngroddar serveras med chilimajonnäs & bakat ägg",
+        "name": "”Sushi Bowl” Soyamarinerad lax serveras på sötsyrligt sushiris tillsammans med soyabönor, sesammorötter och böngroddar, garipicklad rädisa & krossar nori serveras med wasabi & misomajonnäs",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "korean",
+          "japanese",
           "vegetarian",
-          "chicken",
-          "burger"
+          "fish",
+          "sushi"
         ]
       },
       {
-        "name": "Bibimbap med quorn i soyasås serveras på sesamris med kimchi, soya bönor, smashed cucumber och böngroddar serveras med chilimajonnäs & bakat ägg",
+        "name": "VEG ” Sushi Bowl” Soyamarinerad Tofu serveras på sötsyrligt sushiris tillsammans med soyabönor, sesammorötter och böngroddar, garipicklad rädisa & krossar nori serveras med wasabi & misomajonnäs",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "korean",
+          "japanese",
           "vegetarian",
-          "burger"
+          "sushi"
         ]
       },
       {
-        "name": "Kooperativets klassiska Köttbullemåndag gjorda på viltfärs med potatispuré, svampsås serveras med rårörda lingon & pressgurka",
+        "name": "Kooperativets klassiska Köttbullemåndag på viltfärs med potatispuré, kantarellgräddsås, rårörda lingon & saltgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": []
       },
       {
-        "name": "Pocherad torsk serveras med potatis&rotselleripure samt jordärtskockssås och örter",
+        "name": "Pocherad torsk serveras med dill&färskostkrossad potatis, Schalottenlöksbeurre blanc och gröna ärtor",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
@@ -64,20 +64,19 @@
         ]
       },
       {
-        "name": "Chicken red curry",
+        "name": "Kra Pao ”Holy basil” Wokad kyckling i ostronsås med chili, vitlök & Thai basilika, serveras med bakat 65 graders ägg, jasminris & korianderCHILI 2/5",
         "category": "EAST ASIA",
-        "description": "wokad kyckling med grönsaker i rödcurry med kokosmjölk serveras med jasminris & koriander CHILI 2/5",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "thai",
-          "chicken",
-          "drinks"
+          "chicken"
         ]
       },
       {
-        "name": "Murgh Masala indisk gryta med kyckling serveras med basmatiris, mangochutney, smörat Naan och koriander",
+        "name": "Chicken Alomonds and coriander",
         "category": "INDISK",
-        "description": "",
+        "description": "Indisk kycklinggryta med mandel & koriander serveras med basmatiris, yoghurt & garlic Naan CHILI 3/5",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -87,25 +86,24 @@
         ]
       },
       {
-        "name": "Carbonara de lénfer",
+        "name": "Vedeldad kycklingfile med smashed parmesanpotatis, örtaioli & rödvinssås",
         "category": "VÄRLDEN",
-        "description": "En hetare Carbonara på spagetti i en krämig sås gjord på nduja, ägggula, och massa parmesan, toppad med bacon, ännu mera parmesan och ruccola",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "pork",
-          "pasta"
+          "chicken",
+          "burger",
+          "drinks"
         ]
       },
       {
-        "name": "VEG Red curry",
+        "name": "Quorn red curry",
         "category": "VEGETARISK",
-        "description": "wokad pea cuncks med grönsaker i rödcurry med koksmjölk serveras med jasminris & koriander CHILI 2/5",
+        "description": "wokad quorn med grönsaker i rödcurry serveras med jasminris & koriander        CHILI 2/5",
         "price": "130 kr",
         "tags": [
           "thai",
-          "vegetarian",
-          "drinks"
+          "vegetarian"
         ]
       }
     ]
@@ -116,7 +114,7 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Pocherad torskfile med brynt smör och äpple, serveras med potatismos samt nyriven pepparrot.",
+        "description": "Pocherad torskfile med ägg och persiljesås, serveras med gröna ärtor och kokt potatis.",
         "price": "129 kr",
         "tags": [
           "fish"
@@ -193,25 +191,26 @@
     "day": "monday",
     "items": [
       {
-        "name": "MURGH PAPADOM",
+        "name": "METHI MALAI",
         "category": "",
-        "description": "Kycklingfilé tillagad i en mild och krämig så som består av papadom lök, tomat, vitlök och bockhornsklöver.",
+        "description": "Kycklinggryta tillagad med bockhornsklöver, fänkålsfrön, korianderfrön, tomat och grädde.",
         "price": "129 kr",
         "tags": [
           "indian",
           "chicken",
-          "bread"
+          "soup"
         ]
       },
       {
-        "name": "LAMM PUNJABI",
+        "name": "LAMM VINDALOO",
         "category": "",
-        "description": "Lammköttgryta med smakrik sås med tomat, koriander och grönsaker.",
+        "description": "Lammköttgryta gjord av ingefära, kanel, röd chili, brun socker, curryblad och rödvin.",
         "price": "129 kr",
         "tags": [
           "indian",
           "lamb",
-          "soup"
+          "soup",
+          "drinks"
         ]
       },
       {
@@ -652,32 +651,34 @@
     "day": "monday",
     "items": [
       {
-        "name": "Veckans: Pytt Bellman",
+        "name": "Veckans: Lax pasta",
         "category": "Veckans",
-        "description": "Stekt ägg – Senapsstuvning – Rödbetor – Persilja",
+        "description": "Tagliatelle – Vitvinsås  – Spenat – Granapadano",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "italian",
+          "fish",
+          "pasta",
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Mån–Tis: Pannoumi stroganof",
+        "name": "Vegetarisk Mån–Tis: Röd curry med tofu",
         "category": "Veckans",
-        "description": "Paprika – Jasminris – Koriander",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "vegetarian"
-        ]
-      },
-      {
-        "name": "Vegetarisk Ons- Tors: Korean fried Blomkål",
-        "category": "Veckans",
-        "description": "Srirachamajonnäs – Kålsallad – Jasminris – Koriander",
+        "description": "Broccoli – Kokosmjölk – Jasminris",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "salad"
+          "drinks"
+        ]
+      },
+      {
+        "name": "Vegetarisk Ons- Tors: Ugnsrostad pumpa",
+        "category": "Veckans",
+        "description": "Brynt smör – Rostad mandel – Linser – Granapadano",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian"
         ]
       },
       {
@@ -703,20 +704,23 @@
         ]
       },
       {
-        "name": "Pannbiff",
+        "name": "Fetaostbiff",
         "category": "Lunch",
-        "description": "Grönpepparsås – Koktpotatis – Haricotsverts – Persilja",
+        "description": "Tzatziki – Ratatouille – Klyftpotatis – Rucola",
         "price": "130 kr",
         "tags": [
+          "greek",
           "beef"
         ]
       },
       {
-        "name": "Pocherad Fångst",
+        "name": "Pocherad Kolja",
         "category": "Lunch",
-        "description": "Potatispuré – Citronsås – fänkål & Rädisor – Dill",
+        "description": "Brynt smör – Rödbeta – Kapris – Schalottenlök – Kokt potatis – Gräslök",
         "price": "130 kr",
-        "tags": []
+        "tags": [
+          "fish"
+        ]
       }
     ]
   },
@@ -1275,34 +1279,32 @@
     "day": "monday",
     "items": [
       {
-        "name": "CHICKEN PATIALA",
+        "name": "CHICKEN MURG MANGO",
         "category": "",
-        "description": "Tandoorigrilad kycklingfilé med lök, tomat, ingefära och mandeloch cashewnötsås.",
+        "description": "Kycklingfilé med färsk koriander, mynta, grön Chil, kokosmjölk och mangopuré.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "beef",
-          "chicken"
-        ]
-      },
-      {
-        "name": "LAMB VINDALOO",
-        "category": "",
-        "description": "Eldig lammrätt från Goa med palmviniger, nejlikor och piri-piri masala.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "indian",
-          "lamb",
+          "chicken",
           "drinks"
         ]
       },
       {
-        "name": "VEG KADHAI",
+        "name": "LAMB PUNJABI CURRY",
         "category": "",
-        "description": "Nordindisk vegetarisk rätt med zucchini, potatis, lök, ingefära, peppar, chili och koriander.",
+        "description": "En populär lammrätt i en sås av lök, tomat, paprika, ingefära, koriander och grön chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian"
+          "indian",
+          "lamb"
+        ]
+      },
+      {
+        "name": "BAINGAN MIRCH MASALA",
+        "category": "",
+        "description": "En traditionell maträtt med aubergine, paprika, tomat, kryddor, örter och koriander.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "indian"
         ]
       },
       {
@@ -1509,30 +1511,6 @@
         "description": "",
         "price": "25 kr",
         "tags": []
-      }
-    ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "monday",
-    "items": [
-      {
-        "name": "Super bowl",
-        "category": "Dagens",
-        "description": "gurkmejablomkål, ägg, sötpotatis, avokado, rostade valnötter, romescosås",
-        "price": "110 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Tikka masala",
-        "category": "Dagens",
-        "description": "ris, tomatsalsa, myntayoghurt",
-        "price": "110 kr",
-        "tags": [
-          "indian",
-          "mexican"
-        ]
       }
     ]
   }
