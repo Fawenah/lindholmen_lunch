@@ -320,6 +320,59 @@
       }
     ]
   },
+  "Uni3WorldOfFoodScraper": {
+    "day": "tuesday",
+    "items": [
+      {
+        "name": "Krämig svamppasta",
+        "category": "Earth",
+        "description": "gremolata, stekt vildsvamp, inlagd svamp, pangratatto, parmesan",
+        "price": "132 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Bakad sej med potatisstomp “sour cream onion”",
+        "category": "Water",
+        "description": "grillad jalapenosmörsås, inlagd gurka, dill, bakad purjolök, pommes alumettes",
+        "price": "132 kr",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
+        "name": "Jasminris, “bulgogi bowl” kycklinglår",
+        "category": "Fire",
+        "description": "morot, salladslök, pak choy, groddar- sesammajo & koriander",
+        "price": "132 kr",
+        "tags": [
+          "korean",
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Halloumi, tzatsiki, bulgur, gröna blad, syrad silverlök, gurka, pumpafrön & dill",
+        "category": "Wood",
+        "description": "",
+        "price": "132 kr",
+        "tags": []
+      },
+      {
+        "name": "Grillad fläskhöft",
+        "category": "Metal",
+        "description": "chimichurri, rostad potatis, cheddarmajonnäs, picklad chili, vitlöksbroccoli",
+        "price": "132 kr",
+        "tags": [
+          "pork",
+          "drinks"
+        ]
+      }
+    ]
+  },
   "MissFScraper": {
     "day": "tuesday",
     "items": [
