@@ -261,7 +261,7 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Ugnsbakad sej serveras med råstekt potatis, haricot verts och citronsås",
+        "description": "Ungstekt lax serveras medpotatiskrutonger, sandefjordsås och rödbetskrudité",
         "price": "195 kr",
         "tags": [
           "beef",
@@ -270,17 +270,8 @@
       },
       {
         "name": "",
-        "category": "KÖTT",
-        "description": "Trippelpeppar tri tip serveras med hasselbackspotatis, rostade morötter och rödvinssås",
-        "price": "195 kr",
-        "tags": [
-          "drinks"
-        ]
-      },
-      {
-        "name": "",
         "category": "VEG",
-        "description": "Bakad vitkål serveras med rostad sötpotatispuré, sockerärtor och sandefjordsås",
+        "description": "Pankopanerad tofu serveras med pommes rustic, gröna ärtor, citron och vitlöksaioli",
         "price": "195 kr",
         "tags": [
           "vegetarian"
@@ -353,13 +344,6 @@
           "chicken",
           "salad"
         ]
-      },
-      {
-        "name": "Halloumi, tzatsiki, bulgur, gröna blad, syrad silverlök, gurka, pumpafrön & dill",
-        "category": "Wood",
-        "description": "",
-        "price": "132 kr",
-        "tags": []
       },
       {
         "name": "Grillad fläskhöft",
