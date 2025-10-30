@@ -314,66 +314,6 @@
       }
     ]
   },
-  "Uni3WorldOfFoodScraper": {
-    "day": "wednesday",
-    "items": [
-      {
-        "name": "Quiche",
-        "category": "Earth",
-        "description": "grönkål & fetaostfylld paj, pesto på valnötter & paprika, sallad på citrus och fänkål",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "italian",
-          "beef",
-          "salad",
-          "dessert"
-        ]
-      },
-      {
-        "name": "Bakad fisk",
-        "category": "Water",
-        "description": "potatispuré, stekt champinjon, bacon, syltlök, rödvinssås, pommes alumette",
-        "price": "132 kr",
-        "tags": [
-          "beef",
-          "fish",
-          "pork",
-          "drinks"
-        ]
-      },
-      {
-        "name": "Jasminris, “bulgogi bowl” kycklinglår",
-        "category": "Fire",
-        "description": "morot, salladslök, pak choy, groddar- sesammajo & koriander",
-        "price": "132 kr",
-        "tags": [
-          "korean",
-          "chicken",
-          "salad"
-        ]
-      },
-      {
-        "name": "Halloumi, tzatsiki, bulgur, gröna blad, syrad silverlök, gurka, pumpafrön & dill",
-        "category": "Wood",
-        "description": "",
-        "price": "132 kr",
-        "tags": []
-      },
-      {
-        "name": "Wednesday Schnitzel",
-        "category": "Metal",
-        "description": "fläskschnitzel, “caccio e pepe”, Peppar & äggulesmör, riven hårdost, rostad potatis, steksky, grillad sallad",
-        "price": "132 kr",
-        "tags": [
-          "beef",
-          "pork",
-          "salad",
-          "drinks"
-        ]
-      }
-    ]
-  },
   "MissFScraper": {
     "day": "wednesday",
     "items": [
