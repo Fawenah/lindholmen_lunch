@@ -119,7 +119,7 @@
       {
         "name": "",
         "category": "Fisk",
-        "description": "Smörstekt torskfile med kallrökt laxkräm och marinerad fänkål, serveras med potatismos.",
+        "description": "Smörstekt torskfile med kallrökt laxröra och marinerad fänkål, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
           "beef",
@@ -1579,44 +1579,6 @@
         "description": "",
         "price": "25 kr",
         "tags": []
-      }
-    ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "thursday",
-    "items": [
-      {
-        "name": "Gröna ärtsbiffar med stekt bulgur",
-        "category": "Dagens",
-        "description": "grillad citron och kikärtsmos med olivolja",
-        "price": "110 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Svärtad kyckling Alfredo",
-        "category": "Dagens",
-        "description": "cocktailtomat, salladslök",
-        "price": "110 kr",
-        "tags": [
-          "chicken",
-          "pasta",
-          "salad",
-          "drinks"
-        ]
-      },
-      {
-        "name": "Pocherad kolja",
-        "category": "Dagens",
-        "description": "gryta med vita bönor och räkor, rostade potatisar, majssås",
-        "price": "110 kr",
-        "tags": [
-          "vegetarian",
-          "fish",
-          "seafood",
-          "soup"
-        ]
       }
     ]
   }

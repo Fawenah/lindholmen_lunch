@@ -331,15 +331,6 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Rostad rotsellerikräm med cheddar",
-        "category": "Earth",
-        "description": "saltbakad rotselleri, svartkål, hasselnöt, brynt smör -stekt ägg, krasse och pickles",
-        "price": "132 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
         "name": "Ragu på matvete och stekt majs",
         "category": "Water",
         "description": "lagrad hårdost, dill, inlagd trattkantarell, bakad fisk, skummig dragonsås",
@@ -352,13 +343,12 @@
       {
         "name": "Mild chicken korma",
         "category": "Fire",
-        "description": "kokos, cashewnöt, koriander, yoghurt, kycklinglår, naan",
+        "description": "kokos, cashewnöt, koriander, yoghurt, kycklinglår, flatbread",
         "price": "132 kr",
         "tags": [
           "indian",
           "beef",
-          "chicken",
-          "bread"
+          "chicken"
         ]
       },
       {
@@ -1574,38 +1564,6 @@
         "description": "",
         "price": "25 kr",
         "tags": []
-      }
-    ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "wednesday",
-    "items": [
-      {
-        "name": "Rostade sötpotatisar med hummus",
-        "category": "Dagens",
-        "description": "rostade kikärter, grönkålschips och granatäpple",
-        "price": "110 kr",
-        "tags": [
-          "greek"
-        ]
-      },
-      {
-        "name": "Nötköttsgulasch",
-        "category": "Dagens",
-        "description": "paprika, smörstekt potatis, limekräm",
-        "price": "110 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Kolja",
-        "category": "Dagens",
-        "description": "Edamameris, Havsgrönsaker, Krispig Nori, Lime hollandaisesås",
-        "price": "110 kr",
-        "tags": [
-          "fish"
-        ]
       }
     ]
   }

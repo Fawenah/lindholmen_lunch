@@ -1593,32 +1593,5 @@
         "tags": []
       }
     ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "friday",
-    "items": [
-      {
-        "name": "Lasagne med aubergine",
-        "category": "Dagens",
-        "description": "zucchini och fetaost",
-        "price": "110 kr",
-        "tags": [
-          "greek",
-          "italian",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Hoisinsglaserad fläskschnitzel",
-        "category": "Dagens",
-        "description": "jordnötter, inlagda morötter, stekta nudlar",
-        "price": "110 kr",
-        "tags": [
-          "beef",
-          "pork",
-          "drinks"
-        ]
-      }
-    ]
   }
 }

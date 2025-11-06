@@ -1567,33 +1567,5 @@
         "tags": []
       }
     ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "tuesday",
-    "items": [
-      {
-        "name": "Falafel med krispig kålmix",
-        "category": "Dagens",
-        "description": "mynta-gurka, inlagd rödlök och vitlöksdressing",
-        "price": "110 kr",
-        "tags": []
-      },
-      {
-        "name": "Blandad grill med chimichurrisås",
-        "category": "Dagens",
-        "description": "pico de gallo, potatisklyftor med örter",
-        "price": "110 kr",
-        "tags": []
-      },
-      {
-        "name": "Kolja",
-        "category": "Dagens",
-        "description": "Edamameris, Havsgrönsaker, Krispig Nori, Lime hollandaisesås",
-        "price": "110 kr",
-        "tags": [
-          "fish"
-        ]
-      }
-    ]
   }
 }

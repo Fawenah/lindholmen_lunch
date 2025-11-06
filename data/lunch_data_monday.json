@@ -1567,42 +1567,5 @@
         "tags": []
       }
     ]
-  },
-  "RestaurantPier11Scraper": {
-    "day": "monday",
-    "items": [
-      {
-        "name": "Pasta med linser och rostad blomkål",
-        "category": "Dagens",
-        "description": "",
-        "price": "110 kr",
-        "tags": [
-          "italian",
-          "vegetarian",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Flying Jacob",
-        "category": "Dagens",
-        "description": "kyckling, bacon, banan, jordnötter, kokosris",
-        "price": "110 kr",
-        "tags": [
-          "beef",
-          "chicken",
-          "pork"
-        ]
-      },
-      {
-        "name": "Bakad torsk",
-        "category": "Dagens",
-        "description": "Potatismos med brynt smör, Purjolökssås, Rödbetssallad",
-        "price": "110 kr",
-        "tags": [
-          "fish",
-          "salad"
-        ]
-      }
-    ]
   }
 }
