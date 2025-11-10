@@ -25,27 +25,29 @@
         ]
       },
       {
-        "name": "Svampsoppa",
+        "name": "”Taco Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Krämig svampsoppa med rostade rotfrukter, bakat ägg & knaprigt bacon, serveras med gratinerad toast med lagrad ost",
+        "description": "Kryddig kycklingfärs serveras i friterad vetetortilla med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños",
         "price": "130 kr",
         "tags": [
-          "pork",
-          "soup"
+          "mexican",
+          "chicken",
+          "taco"
         ]
       },
       {
-        "name": "VEG Svampsoppa",
+        "name": "”VEG Taco Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Krämig svampsoppa med rostade rotfrukter, bakat ägg & knaprig quorn, serveras med gratinerad toast med lagrad ost",
+        "description": "Kryddig ”ärtfärs” serveras i friterad vetetortilla med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños",
         "price": "130 kr",
         "tags": [
+          "mexican",
           "vegetarian",
-          "soup"
+          "taco"
         ]
       },
       {
-        "name": "Viltpannbiff med krämig potatispuré smaksatt med västerbottenost serveras med krämig kantarellsås, lingon & rostad grönkål",
+        "name": "God jävla Pannbiff med smarrigt mos, löksky & saltgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
@@ -54,62 +56,59 @@
         ]
       },
       {
-        "name": "Stekt panerad sejfilé serveras med dillkokt potatis, hollandaisesås smaksatt med stenbitsrom&gräslök toppas med örter",
+        "name": "Stekt panerad sejfilé serveras med potatismos, fetaostkräm smaksatt med vitlök och örter , toppas med citron och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "greek",
           "beef",
-          "fish"
+          "fish",
+          "salad"
         ]
       },
       {
-        "name": "”Korean Fried Chicken Burger ”",
+        "name": "Asiatiska kycklingköttbullar i krämig rödcurry med kokosmjölk, serveras med soya & sesam marinerad ”pressgurka” samt nykokt jasminris",
         "category": "EAST ASIA",
-        "description": "Friterad kyckling toppad chilihonung i briochebröd med rökt asiatisk coleslaw samt frasiga pommes",
+        "description": "",
         "price": "130 kr",
         "tags": [
+          "beef",
           "chicken",
-          "burger",
-          "salad",
-          "bread"
-        ]
-      },
-      {
-        "name": "Chicken Vindaloo",
-        "category": "INDISK",
-        "description": "kryddstark indisk currygryta med kyckling serveras med yoghurt, basmatiris & koriander och smörat Naan CHILI 5/5",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "chicken",
-          "soup",
-          "bread",
           "drinks"
         ]
       },
       {
-        "name": "Kooperativets lasagne på nötfärs serveras med tomatsallad toppad med parmesan och ruccola",
-        "category": "VÄRLDEN",
-        "description": "",
+        "name": "Indien dirty fries",
+        "category": "INDISK",
+        "description": "friterad kyckling på frasiga pommes smaksatta med tandoori, kachumbersallad samt majonnäs smaksatt med grönchili & mynta, toppas med koriander",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "beef",
-          "pasta",
+          "indian",
+          "chicken",
           "salad"
         ]
       },
       {
-        "name": "Kooperativets lasagne på svamp, spenat & mozzarella serveras med tomatsallad toppad med parmesan och ruccola",
-        "category": "VEGETARISKT",
-        "description": "",
+        "name": "Marstrands stolthet, Afrikana",
+        "category": "VÄRLDEN",
+        "description": "Kolgrillad kyckling, krämig currysås, friterade bananchips, mandariner,  jordnötter samt mango chutney",
         "price": "130 kr",
         "tags": [
-          "italian",
+          "indian",
+          "beef",
+          "chicken"
+        ]
+      },
+      {
+        "name": "Marstrands vegetariska stolthet, Afrikana",
+        "category": "VEGETARISKT",
+        "description": "Grillad quorn , krämig currysås, friterade bananchips, mandariner, jordnötter samt mango chutney",
+        "price": "130 kr",
+        "tags": [
+          "indian",
           "vegetarian",
-          "pasta",
-          "salad"
+          "beef"
         ]
       }
     ]
@@ -129,9 +128,13 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Wallenbergare med gräddsås och rårörda lingon, serveras med pressgurka och potatismos.",
+        "description": "Boeuf bourguignon fransk köttgryta med rödvin, bacon och syltlök, serveras med potatismos.",
         "price": "129 kr",
-        "tags": []
+        "tags": [
+          "pork",
+          "soup",
+          "drinks"
+        ]
       },
       {
         "name": "",
@@ -202,23 +205,24 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "CHICKEN KADHAI",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Nordindisk Kycklinggryta med rödlök, paprika, fänkål, citron, svartpeppar och koriander.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
         "price": "129 kr",
         "tags": [
+          "beef",
           "chicken",
           "soup"
         ]
       },
       {
-        "name": "BENGALI KOFTA CURRY",
+        "name": "BALTI GHOST",
         "category": "",
-        "description": "Lammfärsbullar tillagad med mango, senapsfrön, curryblad, chilli och kokos.",
+        "description": "Lammkött marinerad i vitlök och grön chilli tillagad i en kryddstark rödvinsås, lök, paprika och champinjoner.",
         "price": "129 kr",
         "tags": [
-          "indian",
-          "lamb"
+          "lamb",
+          "drinks"
         ]
       },
       {
@@ -331,9 +335,19 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Ragu på matvete och stekt majs",
+        "name": "Gulbeta glaserad i sherrykaramell",
+        "category": "Earth",
+        "description": "pesto på solrosfrön, krispig grönkål, ricotta, citrus, belugalinser",
+        "price": "132 kr",
+        "tags": [
+          "italian",
+          "vegetarian"
+        ]
+      },
+      {
+        "name": "Bakad fisk",
         "category": "Water",
-        "description": "lagrad hårdost, dill, inlagd trattkantarell, bakad fisk, skummig dragonsås",
+        "description": "grillad spetskål, hasselnöt, brynt sandefjordsås, gräslök, dillolja, tångcaviar, rotselleripuré, örter",
         "price": "132 kr",
         "tags": [
           "beef",
@@ -341,27 +355,19 @@
         ]
       },
       {
-        "name": "Mild chicken korma",
-        "category": "Fire",
-        "description": "kokos, cashewnöt, koriander, yoghurt, kycklinglår, flatbread",
+        "name": "Friterad grillost",
+        "category": "Wood",
+        "description": "kryddkokt bulgur, gröna blad, tzatsiki, rostade pumpafrön, syrad silverlök",
         "price": "132 kr",
-        "tags": [
-          "indian",
-          "beef",
-          "chicken"
-        ]
+        "tags": []
       },
       {
-        "name": "Quinoa- & bönsallad, rostade rotfrukter, pesto på solrosfrön och dill, gröna blad, syrad rödkål & smulad feta Metal: Onsdagsschnitzeln",
-        "category": "Wood",
-        "description": "Fläskschnitzel “bravaioli”, aioli, bravasås, stekt potatis, persilja, sauterad mandelsallad Wednesday Schnitzel, pork schnitzel “bravaioli”, aioli, brava sauce, fried potatoes, parsley, sautéed almond salad",
+        "name": "Onsdagsschnitzeln",
+        "category": "Metal",
+        "description": "Fläskschnitzel, ostig polenta “Chili cheese”, puttanescasås, parmesan",
         "price": "132 kr",
         "tags": [
-          "greek",
-          "italian",
-          "beef",
           "pork",
-          "salad",
           "drinks"
         ]
       }
@@ -700,32 +706,33 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "Veckans: Lasagne",
+        "name": "Veckans: Fläskfilé pasta",
         "category": "Veckans",
-        "description": "Tomat & Lök sallad – Rucola – Granapadano",
+        "description": "Tagliatelle – Tryffel sås – Grönsaker – Granapadano – Persilja",
         "price": "130 kr",
         "tags": [
           "italian",
+          "pork",
           "pasta",
-          "salad"
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Mån–Tis: Rostade rödbetor",
+        "name": "Vegetarisk Mån–Tis: Svamp & Pannoumi pytt",
         "category": "Veckans",
-        "description": "Chevré kräm – Rostade frön – Bulgur",
+        "description": "Stekt ägg – Rödbetor – Senaps kräm – Persilja",
         "price": "130 kr",
         "tags": [
-          "vegetarian"
+          "vegetarian",
+          "beef"
         ]
       },
       {
-        "name": "Vegetarisk Ons- Tors: Friterad Fetaost",
+        "name": "Vegetarisk Ons- Tors: Enchiladas",
         "category": "Veckans",
-        "description": "Myntayoghurt – Bönsallad – Morot & Ingefärs puré – Persilja",
+        "description": "Bönragu – Avocado kräm – Rödkåls sallad – Koriander",
         "price": "130 kr",
         "tags": [
-          "greek",
           "vegetarian",
           "salad"
         ]
@@ -753,213 +760,21 @@
         ]
       },
       {
-        "name": "Fläskfilé",
+        "name": "Boeuf bourguignon",
         "category": "Lunch",
-        "description": "Kantarell sås – Potatisgratäng – Rostade morötter – Persilja",
+        "description": "Potatispuré – Champinjoner – Rött vin – Persilja",
         "price": "130 kr",
         "tags": [
-          "pork",
           "drinks"
         ]
       },
       {
-        "name": "Fisk & skaldjurs Gryta",
+        "name": "Halstrad fångst",
         "category": "Lunch",
-        "description": "Kokt potatis – Rotfrukter – Vårlök – syrad fänkål – Vitlöksbröd – Dill & Gräslök",
+        "description": "Jordärtskockspuré – Picklade kantareller & Morötter – Hollandaise",
         "price": "130 kr",
         "tags": [
-          "fish",
-          "seafood",
-          "soup",
-          "bread"
-        ]
-      }
-    ]
-  },
-  "MimolettScraper": {
-    "day": "wednesday",
-    "items": [
-      {
-        "name": "Grillad Entrecóte (200g)",
-        "category": "Kött & Fisk",
-        "description": "Grillad Entrecóte med friterad klyftpotatis och veckans sås.",
-        "price": "129 kr",
-        "tags": [
-          "beef",
           "fish"
-        ]
-      },
-      {
-        "name": "Black Angus Burger (200g)",
-        "category": "Kött & Fisk",
-        "description": "Högrevsburgare med senap majonnäs sås, sallad, rostad lök, pepparjack ost, grillad bacon, BBQ-sås",
-        "price": "129 kr",
-        "tags": [
-          "beef",
-          "fish",
-          "pork",
-          "burger",
-          "salad"
-        ]
-      },
-      {
-        "name": "Husets Fiskgratäng (Tisdagar & Torsdagar)",
-        "category": "Kött & Fisk",
-        "description": "Flundrafilé, potatismos, mozzarellaost, tomat, dillsås och citron.",
-        "price": "129 kr",
-        "tags": [
-          "fish"
-        ]
-      },
-      {
-        "name": "Bacon Risotto",
-        "category": "Risotto",
-        "description": "Bacon, grillade grönsaker, granapadano, smör , ruccola",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "pork"
-        ]
-      },
-      {
-        "name": "Scampi Risotto",
-        "category": "Risotto",
-        "description": "Tigerräkor, röd chilli, vitlök, granapadano, smör , ruccola",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "seafood"
-        ]
-      },
-      {
-        "name": "Penne Aglio",
-        "category": "Pastarätter",
-        "description": "Oxfilé, champinjoner, crème fraiche vitlök, grädde toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "beef",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Penne Afrikana",
-        "category": "Pastarätter",
-        "description": "Kyckling, paprika, ananas, jordnötter, grädde, curry toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "beef",
-          "chicken",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Penne Patrone",
-        "category": "Pastarätter",
-        "description": "Oxfilé, soltorkad tomat, vitlök, tomatsås, grädde toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "beef",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Tagliatelle Salmone",
-        "category": "Pastarätter",
-        "description": "Laxfilé, purjolök, crème fraiche, vitlök, grädde toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "fish",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Spagetti Modo Nostro",
-        "category": "Pastarätter",
-        "description": "Köttfärssås, gorgonzola, champinjoner, grädde, piri piri toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "beef",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Tagliatelle con Scampi",
-        "category": "Pastarätter",
-        "description": "Tigerräkor, tomatsås, vitlök, basilika toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "seafood",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Penne Romana",
-        "category": "Pastarätter",
-        "description": "Kyckling, champinjoner, vitlök, grädde toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "chicken",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Penne Diavolo (Stark)",
-        "category": "Pastarätter",
-        "description": "Köttfärssås, grädde, piri-piri toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "beef",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Spagetti Carbonara",
-        "category": "Pastarätter",
-        "description": "Rostad bacon, persilja, vitlök, grädde toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "pork",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Penne Vegetale",
-        "category": "Pastarätter",
-        "description": "Grönsaksmix, champinjoner, tomatsås, vitlök toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "vegetarian",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Penne Pesto",
-        "category": "Pastarätter",
-        "description": "Soltorkad tomat. pesto, vitlök, grädde, mozzarella toppas med grana padano.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "pasta"
-        ]
-      },
-      {
-        "name": "Lasagne Al Forno",
-        "category": "Pastarätter",
-        "description": "Hemlagat lasagne med bechamelsås.",
-        "price": "129 kr",
-        "tags": [
-          "italian",
-          "pasta"
         ]
       }
     ]
@@ -1331,34 +1146,29 @@
     "day": "wednesday",
     "items": [
       {
-        "name": "MURG VINDALOO",
+        "name": "CHICKEN KADHAI",
         "category": "",
-        "description": "Eldig kycklingrätt från Goa med palmvinäger, nejlkor och piri-piri masala",
+        "description": "Kyckilngflé med tomat, paprika och champinjoner, smaksatt med ingefära, koriander och chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "chicken",
-          "drinks"
+          "chicken"
         ]
       },
       {
-        "name": "SHAHI GOSHT",
+        "name": "KASHMIRI LAMB",
         "category": "",
-        "description": "Mild och krämig lammrätt med kardemumma, malda cashewnötter och pistagenötter",
+        "description": "Lammrostbitf med tomat, lök, saffran, ingefära, koriander och röd chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "beef",
           "lamb"
         ]
       },
       {
-        "name": "BAINGAN BHARTA",
+        "name": "AUBERGINE MADRASI",
         "category": "",
-        "description": "Långstekt aubergine, lök, tomat, ingefära, chili, koriander.",
+        "description": "Aubergine tilagad i en krydlig tamarind- och kokossås, smaksatt med färska curryblad och koriander.",
         "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "beef"
-        ]
+        "tags": []
       },
       {
         "name": "SUBZI THALI",
