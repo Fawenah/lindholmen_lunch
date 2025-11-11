@@ -65,12 +65,14 @@
         ]
       },
       {
-        "name": "Pocherad torsk serveras med dill & pepparrotsstuvad potatis, rostad panko och örter",
+        "name": "Panang curry",
         "category": "EAST ASIA",
-        "description": "",
+        "description": "wokad kyckling & lök i panangcurry med koksmjölk smaksatt med limeblad serveras med jasminris & koriander",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "thai",
+          "chicken",
+          "drinks"
         ]
       },
       {
@@ -344,20 +346,21 @@
         ]
       },
       {
-        "name": "Larb på kycklingfärs",
+        "name": "Larb på fläskfärs",
         "category": "Fire",
         "description": "rostat ris, koriander, mynta, inlagd gurka, chili, salladsblad, ris, nam pla",
         "price": "132 kr",
         "tags": [
           "thai",
-          "chicken",
-          "salad"
+          "pork",
+          "salad",
+          "drinks"
         ]
       },
       {
         "name": "Friterad grillost",
         "category": "Wood",
-        "description": "kryddkokt bulgur, gröna blad, tzatsiki, rostade pumpafrön, syrad silverlök",
+        "description": "kryddkokt couscous, gröna blad, tzatsiki, rostade pumpafrön, syrad silverlök",
         "price": "132 kr",
         "tags": []
       },
