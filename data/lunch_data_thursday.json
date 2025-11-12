@@ -257,26 +257,26 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Havsabborre serveras med örtrostad klyftpotatis, brytbönor och kaprissås",
+        "description": "Torsk serveras med blomkålspuré, syrad rödlök, beurre rouge och ostflarn",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
           "fish"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Helstekt kalkon serveras med potatispuré med purjolök, brysselkål och tranbärssås",
+        "description": "Schnitzel av fläskkarré serveras med pommes chateau, haricot verts, timjansky och vispat brynt smör",
         "price": "195 kr",
         "tags": [
-          "beef"
+          "pork",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Rödbetsrisotto serveras med grillad spetskål, chevrésmul och örtolja",
+        "description": "Pestobakad sötpotatis serveras med ris, gräddig savoykål och rödbetskrisp",
         "price": "195 kr",
         "tags": [
           "italian",
