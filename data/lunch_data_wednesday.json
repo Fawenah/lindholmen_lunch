@@ -355,6 +355,18 @@
         ]
       },
       {
+        "name": "Larb på fläskfärs",
+        "category": "Fire",
+        "description": "rostat ris, koriander, mynta, inlagd gurka, chili, salladsblad, ris, nam pla",
+        "price": "132 kr",
+        "tags": [
+          "thai",
+          "pork",
+          "salad",
+          "drinks"
+        ]
+      },
+      {
         "name": "Friterad grillost",
         "category": "Wood",
         "description": "kryddkokt couscous, gröna blad, tzatsiki, rostade pumpafrön, syrad silverlök",
