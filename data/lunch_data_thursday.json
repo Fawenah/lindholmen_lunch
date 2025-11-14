@@ -66,12 +66,11 @@
         ]
       },
       {
-        "name": "Bulgogi på wokad kyckling med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära, serveras med jasminris & hjärtsallad",
+        "name": "Tonkatsu på kycklingfilé serveras med en krämig kålsallad, katsusås, jasminris samt koriander",
         "category": "EAST ASIA",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "korean",
           "chicken",
           "salad"
         ]
@@ -354,7 +353,7 @@
       {
         "name": "“Pumpgatan” Rimmad bakad fläsksida",
         "category": "Metal",
-        "description": "pumpapuré med ras el hanout, picklad pumpa -rostad pumpa, rostad potatis, smulad fetaost, kryddig fläskssky, persilja",
+        "description": "pumpapuré med ras el hanout, picklad pumpa -rostad pumpa, rostad potatis, fetaost & mozzarella, kryddig fläskssky, örter",
         "price": "132 kr",
         "tags": [
           "greek",
