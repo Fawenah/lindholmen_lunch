@@ -258,30 +258,32 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Torsk serveras med blomkålspuré, syrad rödlök, beurre rouge och ostflarn",
+        "description": "Kolja serveras med kokt potatis, citronsås och räksallad med sojabönor & rädisor",
         "price": "195 kr",
         "tags": [
-          "fish"
+          "vegetarian",
+          "fish",
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Schnitzel av fläskkarré serveras med pommes chateau, haricot verts, timjansky och vispat brynt smör",
+        "description": "Rostbiff serveras med rostade rotfrukter, lingonsås och grönskålskrisp",
         "price": "195 kr",
         "tags": [
-          "pork",
-          "drinks"
+          "beef"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Pestobakad sötpotatis serveras med ris, gräddig savoykål och rödbetskrisp",
+        "description": "Krämig kålpasta serveras med vitlöksfräst svamp och grana padanao",
         "price": "195 kr",
         "tags": [
           "italian",
-          "vegetarian"
+          "vegetarian",
+          "pasta"
         ]
       },
       {
