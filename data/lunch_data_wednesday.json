@@ -202,7 +202,7 @@
       {
         "name": "Äggnudlar i jordnötssås",
         "category": "Fire",
-        "description": "kryddig kycklingfärs, syrlig gurksallad, salladsök, chili, friterad vitlök",
+        "description": "strimlad kryddig kyckling, syrlig gurksallad, salladsök, chili, friterad vitlök",
         "price": "132 kr",
         "tags": [
           "beef",
@@ -224,7 +224,7 @@
       {
         "name": "Onsdagsschnitzeln",
         "category": "Metal",
-        "description": "Fläskschnitzel, gröna ärtor, rödvinssås, ansjovissmör, friterad kapris, citronbit, rostad potatis",
+        "description": "Fläskschnitzel, gröna ärtor, rödvinssås, ansjovissmör, citronbit, rostad potatis",
         "price": "132 kr",
         "tags": [
           "pork",
