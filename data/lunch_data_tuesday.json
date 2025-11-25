@@ -258,32 +258,30 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Kolja serveras med kokt potatis, citronsås och räksallad med sojabönor & rädisor",
+        "description": "Kummel serveras med rostad potatis, rödbetor, friterad svartkål och vitvinssås med ansjovis",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
           "fish",
-          "salad"
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Rostbiff serveras med rostade rotfrukter, lingonsås och grönskålskrisp",
+        "description": "Hjortinnanlår serveras med örtmos, bakad lök, morötter och rödvinssås",
         "price": "195 kr",
         "tags": [
-          "beef"
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Krämig kålpasta serveras med vitlöksfräst svamp och grana padanao",
+        "description": "Gnocchi serveras med tomatsås, spenat, mozzarella, grana padano och örtolja",
         "price": "195 kr",
         "tags": [
           "italian",
-          "vegetarian",
-          "pasta"
+          "vegetarian"
         ]
       },
       {
@@ -323,17 +321,6 @@
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
     "items": [
-      {
-        "name": "Matvete “risotto”",
-        "category": "Earth",
-        "description": "syrad silverlök, grana padano, persiljekräm, rostade hasselnötter, bittra blad, citrusvinni",
-        "price": "132 kr",
-        "tags": [
-          "italian",
-          "beef",
-          "drinks"
-        ]
-      },
       {
         "name": "Pommes Anna",
         "category": "Water",
