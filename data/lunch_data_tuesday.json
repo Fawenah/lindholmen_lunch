@@ -77,15 +77,14 @@
       },
       {
         "name": "Smörstekt gnocchi med bacon & champinjoner serveras med vitlöksgrillad kycklingfilé & parmesanveloute toppat med ruccola & saltrostade pumpakärnor",
-        "category": "VÄRLDEN goes ”BURGER WEEK”",
+        "category": "VÄRLDEN",
         "description": "",
         "price": "130 kr",
         "tags": [
           "italian",
           "beef",
           "chicken",
-          "pork",
-          "burger"
+          "pork"
         ]
       },
       {
@@ -106,30 +105,31 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Kummel serveras med rostad potatis, rödbetor, friterad svartkål och vitvinssås med ansjovis",
+        "description": "Ugnstekt laxfilé serveras med råstekt potatis och musselsås med saffran",
         "price": "195 kr",
         "tags": [
-          "fish",
-          "drinks"
+          "beef",
+          "fish"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Hjortinnanlår serveras med örtmos, bakad lök, morötter och rödvinssås",
+        "description": "Ugnsbakad majskyckling serveras med rostade rotfrukter, rårörda tranbär och svamp- & grönkålsås",
         "price": "195 kr",
         "tags": [
-          "drinks"
+          "chicken"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Gnocchi serveras med tomatsås, spenat, mozzarella, grana padano och örtolja",
+        "description": "Krämig pasta med saffran serveras med halloumi och grönkålskrisp",
         "price": "195 kr",
         "tags": [
           "italian",
-          "vegetarian"
+          "vegetarian",
+          "pasta"
         ]
       },
       {
