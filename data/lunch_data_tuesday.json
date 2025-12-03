@@ -204,11 +204,9 @@
       {
         "name": "Poulet au vin",
         "category": "Metal",
-        "description": "kycklinglår, syltlök, rökt sidfläsk, rödvinssås, potatispuré, persilja, pommes alumette Earth: Matvete “Risotto”, syrad silverlök, grana padano, persiljekräm, rostade hasselnötter, bittra blad, citrusvinägrett Wheat “risotto”, pickled silver onions, Grana Padano, parsley cream, roasted hazelnuts, bitter leaves, citrus vinaigrette",
+        "description": "kycklinglår, syltlök, rökt sidfläsk, rödvinssås, potatispuré, persilja, pommes alumette",
         "price": "132 kr",
         "tags": [
-          "italian",
-          "beef",
           "chicken",
           "pork",
           "drinks"
