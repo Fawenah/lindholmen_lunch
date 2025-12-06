@@ -1,0 +1,119 @@
+{
+  "snacks": [
+    {
+      "name": "Lättsaltade potatischips & kimchidipp",
+      "description": "",
+      "price": "65 kr"
+    },
+    {
+      "name": "Marinerade oliver",
+      "description": "",
+      "price": "55 kr"
+    },
+    {
+      "name": "Saltrostade cashewnötter",
+      "description": "",
+      "price": "55 kr"
+    },
+    {
+      "name": "3 valfria snacks",
+      "description": "",
+      "price": "100 kr"
+    }
+  ],
+  "appetizers": [
+    {
+      "name": "Ost & chark",
+      "description": "Tirolerskinka, Coppa, tryffelsalami, oliver, cornichons, Efterglöd & levainbröd",
+      "price": "155 kr"
+    },
+    {
+      "name": "Svamptoast",
+      "description": "Levainbröd, svamp, tryffelmajonnäs, picklad lök, parmesan & krasse",
+      "price": "135 kr"
+    }
+  ],
+  "desserts": [
+    {
+      "name": "Chokladfondant",
+      "description": "Inlagd havtorn, vit chokladkräm & rostad vit choklad",
+      "price": "125 kr"
+    },
+    {
+      "name": "Crème brûlée",
+      "description": "Klassisk med vanilj",
+      "price": "110 kr"
+    }
+  ],
+  "deals": [
+    {
+      "name": "Social Deal",
+      "description": "Svamptoast & Steak frites.",
+      "price": "450 kr"
+    }
+  ],
+  "main_courses": [
+    {
+      "name": "Dagens fångst",
+      "description": "Dagens val av fisk",
+      "price": "Dagspris"
+    },
+    {
+      "name": "Caesarsallad",
+      "description": "Vitlök-& timjansstekt kycklingbröst, romansallat, klassisk dressing, bacon, parmesan & krutonger",
+      "price": "215 kr"
+    },
+    {
+      "name": "Polentakaka",
+      "description": "Polenta, pumpapuré, oliver, soltorkad tomat, chimichurri, fetaost, endiv & saltrostade mandlar",
+      "price": "205 kr"
+    },
+    {
+      "name": "Pasta Arrabiata med burrata",
+      "description": "Rigatoni med het tomatsås, burrata, pesto på pumpakärnor & basilika",
+      "price": "205 kr"
+    },
+    {
+      "name": "Pizza",
+      "description": "Tomatsås, mozzarella, chorizo, gremolata, pinjekärnor & parmesan",
+      "price": "215 kr"
+    },
+    {
+      "name": "Steak frites",
+      "description": "Grillad entrecôte, bellaverde, grönpepparsås & pommes frites",
+      "price": "375 kr"
+    },
+    {
+      "name": "The Social Burger",
+      "description": "Högrev- eller växtbaserad burgare, majonnäs med karamelliserad lök, bifftomat, picklad gurka, rökt cheddarost & pommes frites med dill",
+      "price": "225 kr"
+    },
+    {
+      "name": "Wienerschnitzel",
+      "description": "Kalvrygg, rödvinssås, cowboysmör, kapris, citron, sallad & pommes frites",
+      "price": "275 kr"
+    }
+  ],
+  "sides": [
+    {
+      "name": "Pommes frites",
+      "price": "75 kr"
+    },
+    {
+      "name": "Sidesallad",
+      "price": "65 kr"
+    },
+    {
+      "name": "Bellaverde",
+      "price": "55 kr"
+    },
+    {
+      "name": "Grönpepparsås",
+      "price": "55 kr"
+    },
+    {
+      "name": "Kimchimajonnäs",
+      "price": "45 kr"
+    }
+  ]
+}

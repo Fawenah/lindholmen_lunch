@@ -1,0 +1,16 @@
+{
+  "vegetarian": [
+    {
+      "name": "Vegetarisk lunchmeny",
+      "description": "",
+      "price": ""
+    }
+  ],
+  "vegan": [
+    {
+      "name": "Vegansk lunchmeny",
+      "description": "",
+      "price": ""
+    }
+  ]
+}

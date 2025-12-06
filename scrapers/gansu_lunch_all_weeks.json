@@ -1,0 +1,107 @@
+{
+  "soursoup": [
+    {
+      "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
+      "description": "Fläskdumplings i surstark biffsoppa med gräslök, koriander och chillisås.",
+      "price": "129 kr"
+    },
+    {
+      "name": "A2 - 15st Dumplings i Biffsoppa (Fläsk)",
+      "description": "Fläskdumplings i surstark biffsoppa med gräslök, koriander och chillisås.",
+      "price": "145 kr"
+    },
+    {
+      "name": "A3 - 12st Dumplings i Biffsoppa (Kyckling)",
+      "description": "Kycklingdumplings i surstark biffsoppa med gräslök, koriander och chillisås.",
+      "price": "129 kr"
+    },
+    {
+      "name": "A4 - 15st Dumplings i Biffsoppa (Kyckling)",
+      "description": "Kycklingdumplings i surstark biffsoppa med gräslök, koriander och chillisås.",
+      "price": "145 kr"
+    },
+    {
+      "name": "A5 - 12st Dumplings i Biffsoppa (Nöt)",
+      "description": "Nötdumplings i surstark biffsoppa med gräslök, koriander och chillisås.",
+      "price": "135 kr"
+    },
+    {
+      "name": "A6 - 15st Dumplings i Biffsoppa (Nöt)",
+      "description": "Nötdumplings i surstark biffsoppa med gräslök, koriander och chillisås.",
+      "price": "150 kr"
+    }
+  ],
+  "beefnoodlesoup": [
+    {
+      "name": "1 - Biffnudelsoppa",
+      "description": "Nudlar med nötkött, ägg, gräslök, koriander, chilisås.",
+      "price": "125 kr"
+    },
+    {
+      "name": "2 - Biffsoppa med risnudlar",
+      "description": "Risnudlar med nötkött, ägg, gräslök, koriander, chilisås.",
+      "price": "125 kr"
+    }
+  ],
+  "zhajiang": [
+    {
+      "name": "3 - Kyckling zhajiang",
+      "description": "Nudlar och grönsaker, fermenterad bönpasta, chilisås med kycklingfärs.",
+      "price": "125 kr"
+    },
+    {
+      "name": "4 - Shitake och nötkött zhajiang",
+      "description": "Nudlar och grönsaker, fermenterad bönpasta, chilisås med shitake svamp, nötfärs.",
+      "price": "125 kr"
+    },
+    {
+      "name": "5 - Sidfläsk zhajiang",
+      "description": "Nudlar och grönsaker, fermenterad bönpasta, chilisås med sidfläsk, traditionell.",
+      "price": "115 kr"
+    },
+    {
+      "name": "6 - Vegansk zhajiang",
+      "description": "Nudlar och grönsaker, fermenterad bönpasta, chilisås med tofu, traditionell.",
+      "price": "115 kr"
+    }
+  ],
+  "xiaolongbao": [
+    {
+      "name": "Ångkokt Xiaolong Bao - Vegetarisk fyllning 4 st",
+      "description": "3 sortes av svamp, tofu, glasnudlar och vårlök. Serveras med egen dippsås.",
+      "price": "59 kr"
+    },
+    {
+      "name": "Ångkokt Xiaolong Bao - Vegetarisk fyllning 8 st",
+      "description": "3 sortes av svamp, tofu, glasnudlar och vårlök. Serveras med egen dippsås.",
+      "price": "129 kr"
+    },
+    {
+      "name": "Ångkokt Xiaolong Bao - Köttfyllning 4 st",
+      "description": "Sidfläsk, shitake svamp, glasnudlar och purjolök. Serveras med egen chillisås.",
+      "price": "59 kr"
+    },
+    {
+      "name": "Ångkokt Xiaolong Bao - Köttfyllning 8 st",
+      "description": "Sidfläsk, shitake svamp, glasnudlar och purjolök. Serveras med egen chillisås.",
+      "price": "129 kr"
+    }
+  ],
+  "misc": [
+    {
+      "name": "Läsk & Ramlösa",
+      "description": "Läsk och mineralvatten",
+      "price": "15 kr"
+    },
+    {
+      "name": "Exta kött / nudlar",
+      "description": "Extra portion kött eller nudlar",
+      "price": "30/25 kr"
+    },
+    {
+      "name": "Ägg",
+      "description": "Extra ägg",
+      "price": "10 kr"
+    }
+  ]
+}

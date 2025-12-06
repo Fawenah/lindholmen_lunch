@@ -1,34 +1,44 @@
 {
   "standing": [
     {
+      "name": "DAGENS THALI",
+      "description": "En härlig kombinationstallrik med dagens veg, kyckling och lamm/fisk, serveras med raita",
+      "price": "159 kr"
+    },
+    {
       "name": "SUBZI THALI",
-      "description": "Kockens val av vegetarisk gryta med en paneerrätt och en grönsaksrätt. Serveras med linsgryta och raita.",
-      "price": "134 kr"
+      "description": "Kockens val av vegetarisk gryta med en paneerrätt och en grönsaksrätt. Serveras med linsgryta och raita. (Går bra att beställa vegansk också)",
+      "price": "139 kr"
     },
     {
       "name": "PALAK PANEER",
-      "description": "Hemlagad färskost lagad i stuvad spenat, ingefära, chili och vitlök",
-      "price": "132 kr"
+      "description": "Hemlagad färskost lagad i stuvad spenat, ingefära, chili och vitlök. (Går bra att beställa vegansk också)",
+      "price": "139 kr"
     },
     {
       "name": "CHICKEN TANDOORI",
-      "description": "Grillad kyckling med ben marinerad i Serveras i tandoorimasala, llime och yoghurt. Serveras i tandorisås.",
-      "price": "132 kr"
+      "description": "Grillad kyckling med ben marinerad i Serveras i tandoorimasala, lime och yoghurt. Serveras i tandorisås.",
+      "price": "139 kr"
     },
     {
-      "name": "CHICKEN TIKKA MASALA",
-      "description": "Grillad och marinerad kycklingfilé i en mild grädde- och tomatsås.",
-      "price": "142 kr"
+      "name": "BUTTER CHICKEN ",
+      "description": "Grillad kycklingfilé i krämig cashewnötsås. Toppad med cashewnötter och russin.",
+      "price": "152 kr"
+    },
+    {
+      "name": "CHICKEN MANGO MASALA",
+      "description": "Kycklingfilé i lök-tomatsås med smak av mango, kokos, chili och lime.",
+      "price": "155 kr"
     },
     {
       "name": "ROGAN JOSH",
       "description": "Klassisk nordindisk lammrätt med smak av saffran och kardemumma, garnerad med mandel.",
-      "price": "152 kr"
+      "price": "159 kr"
     },
     {
       "name": "JHINGA KORMA",
       "description": "Mild och krämig gryta med tigerräkor, cashewnötter och kardemumma.",
-      "price": "157 kr"
+      "price": "165 kr"
     }
   ],
   "sides": [

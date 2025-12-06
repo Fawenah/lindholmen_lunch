@@ -58,5 +58,17 @@
     "Pier11": {
         "url": "https://ericssonbynordrest.se/restaurang/restaurant-pier-11/#lunch-menu",
         "map": "https://maps.google.com/?q=Restaurant+Pier+11+Lindholmen"
+    },
+    "Gansu": {
+        "url": "https://www.google.com/maps/place/Gansu+K%C3%B6ket/@57.7115577,11.936209,1494m/data=!3m1!1e3!4m6!3m5!1s0x464ff326ee84308b:0x530f50bd2a58cbb!8m2!3d57.7116798!4d11.9451144!16s%2Fg%2F11tc8r235n?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D",
+        "map": "https://maps.google.com/?q=Gansu+Lindholmen"
+    },
+    "TheSocial": {
+        "url": "https://www.strawberryhotels.com/restaurant/sweden/gothenburg/the-social-eriksberg/",
+        "map": "https://maps.google.com/?q=The+Social+Lindholmen"
+    },
+    "Alkemisten": {
+        "url": "https://www.alkemistenkaffebar.se/",
+        "map": "https://maps.google.com/?q=Alkemisten+Lindholmen"
     }
 }

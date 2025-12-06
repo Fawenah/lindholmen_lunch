@@ -24,7 +24,9 @@ class MasalaScraper(LunchScraper):
         sides_items = [MenuItem(**item, category="Tillbehör") for item in self.menu_data.get("sides", [])]
 
         for day, dishes in daily_menus.items():
-            items = [MenuItem(**dish) for dish in dishes]
+            # Add an heading with a warning that the daily menu is out of date
+            items = [MenuItem(name="Varning: Dagens meny kan vara inaktuell", category="Varning")]
+            items.extend([MenuItem(**dish) for dish in dishes])
             items.extend(standing_items)
             items.extend(sides_items)
             self._menus[day.lower()] = DailyMenu(day=day.lower(), items=items)

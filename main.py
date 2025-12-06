@@ -18,10 +18,12 @@ from scrapers.ls_kitchen import LsKitchenScraper
 from scrapers.bistrot import BistrotScraper
 from scrapers.mimolett import MimolettScraper
 from scrapers.oishii import OishiiScraper
-from scrapers.mat_minnen import MatMinnenScraper
 from scrapers.encounter_asian import EncounterAsianScraper
 from scrapers.masala import MasalaScraper
 from scrapers.restaurant_pier_11 import RestaurantPier11Scraper
+from scrapers.gansu import GansuScraper
+from scrapers.the_social import TheSocialScraper
+from scrapers.alkemisten import AlkemistenScraper
 from utils.utils import get_today_english
 from generate_html import generate_lunch_summary, generate_index_page
 
@@ -42,10 +44,12 @@ SCRAPERS = [
     BistrotScraper,
     MimolettScraper,
     OishiiScraper,
-    MatMinnenScraper,
     EncounterAsianScraper,
     MasalaScraper,
     RestaurantPier11Scraper,
+    GansuScraper,
+    TheSocialScraper,
+    AlkemistenScraper,
 ]
 
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday"]
