@@ -1659,5 +1659,206 @@
         ]
       }
     ]
+  },
+  "EncounterAsianScraper": {
+    "day": "tuesday",
+    "items": [
+      {
+        "name": "vanlig 10 bitar",
+        "category": "SUSHI",
+        "description": "3 lax, 1 räka, 1 crabfish, 1 omelett & 4 maki",
+        "price": "95 kr",
+        "tags": [
+          "fish",
+          "seafood",
+          "sushi"
+        ]
+      },
+      {
+        "name": "vegetarisk 10 bitar",
+        "category": "SUSHI",
+        "description": "2 avocado, 2 tofu, 2 omelett & 4 maki",
+        "price": "95 kr",
+        "tags": [
+          "vegetarian",
+          "sushi"
+        ]
+      },
+      {
+        "name": "Mammasushi 10 bitar",
+        "category": "SUSHI",
+        "description": "2 räka, 1 crabfish, 1 tofu, 1 avocado, 1 omelett & 4 maki",
+        "price": "95 kr",
+        "tags": [
+          "vegetarian",
+          "seafood",
+          "sushi"
+        ]
+      },
+      {
+        "name": "Mix 12 bitar",
+        "category": "SUSHI",
+        "description": "4 lax, 1 räka, 1 crabfish, 6 maki, 1 tofu & 1 avocado",
+        "price": "105 kr",
+        "tags": [
+          "vegetarian",
+          "fish",
+          "seafood",
+          "sushi"
+        ]
+      },
+      {
+        "name": "Mix 15 bitar",
+        "category": "SUSHI",
+        "description": "5 lax, 1 räka, 1 crabfish, 6 maki, 1 tofu & 1 avocado",
+        "price": "135 kr",
+        "tags": [
+          "vegetarian",
+          "fish",
+          "seafood",
+          "sushi"
+        ]
+      },
+      {
+        "name": "Nigiri mix 10 bitar",
+        "category": "SUSHI",
+        "description": "",
+        "price": "115 kr",
+        "tags": [
+          "sushi"
+        ]
+      },
+      {
+        "name": "Yakitori",
+        "category": "VARMRÄTT",
+        "description": "5 kycklingspett med ris, teriyakisås och sallad",
+        "price": "95 kr",
+        "tags": [
+          "japanese",
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Yakiniku",
+        "category": "VARMRÄTT",
+        "description": "Skivad entrecote, grönsaker, ris, yakinikusås & sallad",
+        "price": "99 kr",
+        "tags": [
+          "beef",
+          "salad"
+        ]
+      },
+      {
+        "name": "Wokade äggnudlar",
+        "category": "VARMRÄTT",
+        "description": "Äggnudlar med kycklingfilé & grönsaker",
+        "price": "95 kr",
+        "tags": [
+          "chicken"
+        ]
+      },
+      {
+        "name": "Dumpling (kött)",
+        "category": "VARMRÄTT",
+        "description": "8 bitar dumplings, sallad & ris",
+        "price": "99 kr",
+        "tags": [
+          "dumplings",
+          "salad"
+        ]
+      },
+      {
+        "name": "Dumpling (Veg)",
+        "category": "VARMRÄTT",
+        "description": "8 bitar dumplings, sallad & ris",
+        "price": "99 kr",
+        "tags": [
+          "vegetarian",
+          "dumplings",
+          "salad"
+        ]
+      },
+      {
+        "name": "Bibibamp (biff)",
+        "category": "KOREANSK",
+        "description": "",
+        "price": "119 kr",
+        "tags": [
+          "korean",
+          "beef"
+        ]
+      },
+      {
+        "name": "Bibibamp (Kyckling)",
+        "category": "KOREANSK",
+        "description": "",
+        "price": "99 kr",
+        "tags": [
+          "korean",
+          "chicken"
+        ]
+      },
+      {
+        "name": "Bibibamp (Veg)",
+        "category": "KOREANSK",
+        "description": "",
+        "price": "99 kr",
+        "tags": [
+          "korean",
+          "vegetarian"
+        ]
+      },
+      {
+        "name": "(Biff)",
+        "category": "NUDELSOPPA",
+        "description": "",
+        "price": "99 kr",
+        "tags": [
+          "beef",
+          "soup"
+        ]
+      },
+      {
+        "name": "(Kyckling)",
+        "category": "NUDELSOPPA",
+        "description": "",
+        "price": "99 kr",
+        "tags": [
+          "chicken",
+          "soup"
+        ]
+      },
+      {
+        "name": "(Veg)",
+        "category": "NUDELSOPPA",
+        "description": "",
+        "price": "99 kr",
+        "tags": [
+          "vegetarian",
+          "soup"
+        ]
+      },
+      {
+        "name": "BENTOLÅDA",
+        "category": "BENTOLÅDA",
+        "description": "Yakiniku, yakitori, sushi, sallad & ris",
+        "price": "105 kr",
+        "tags": [
+          "japanese",
+          "salad",
+          "sushi"
+        ]
+      },
+      {
+        "name": "LÄSK",
+        "category": "LÄSK",
+        "description": "",
+        "price": "15 kr",
+        "tags": [
+          "drinks"
+        ]
+      }
+    ]
   }
 }
