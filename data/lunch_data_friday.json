@@ -1,6 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "Caesarsallad",
@@ -59,6 +60,7 @@
         "price": "130 kr",
         "tags": [
           "fish",
+          "rootvegetables",
           "drinks"
         ]
       },
@@ -68,7 +70,8 @@
         "description": "Wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling, rostade sesamfrön & koriander",
         "price": "130 kr",
         "tags": [
-          "chicken"
+          "chicken",
+          "nuts_seeds"
         ]
       },
       {
@@ -77,7 +80,8 @@
         "description": "Wokade äggnudlar med grönsaker i soyaglace toppade med pea chunks, rostade sesamfrön & koriander",
         "price": "130 kr",
         "tags": [
-          "vegetarian"
+          "vegetarian",
+          "nuts_seeds"
         ]
       },
       {
@@ -108,6 +112,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "",
@@ -116,7 +121,8 @@
         "price": "129 kr",
         "tags": [
           "beef",
-          "fish"
+          "fish",
+          "rootvegetables"
         ]
       },
       {
@@ -125,7 +131,8 @@
         "description": "Flankstek med pepparsås och bakad tomat, serveras med rostad potatis.",
         "price": "129 kr",
         "tags": [
-          "beef"
+          "beef",
+          "rootvegetables"
         ]
       },
       {
@@ -156,8 +163,8 @@
         "price": "129 kr",
         "tags": [
           "thai",
-          "beef",
-          "chicken"
+          "chicken",
+          "nuts_seeds"
         ]
       },
       {
@@ -188,7 +195,8 @@
         "tags": [
           "vegetarian",
           "salad",
-          "sushi"
+          "sushi",
+          "nuts_seeds"
         ]
       },
       {
@@ -206,6 +214,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "CHICKEN TIKKA",
@@ -226,7 +235,8 @@
           "indian",
           "vegetarian",
           "lamb",
-          "soup"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
@@ -271,6 +281,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "",
@@ -279,7 +290,8 @@
         "price": "195 kr",
         "tags": [
           "beef",
-          "fish"
+          "fish",
+          "rootvegetables"
         ]
       },
       {
@@ -331,13 +343,15 @@
         "tags": [
           "beef",
           "burger",
-          "salad"
+          "salad",
+          "rootvegetables"
         ]
       }
     ]
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "WoF fiskburgare",
@@ -346,7 +360,8 @@
         "price": "132 kr",
         "tags": [
           "fish",
-          "burger"
+          "burger",
+          "rootvegetables"
         ]
       },
       {
@@ -356,9 +371,9 @@
         "price": "132 kr",
         "tags": [
           "vegetarian",
-          "beef",
           "chicken",
           "salad",
+          "nuts_seeds",
           "drinks"
         ]
       },
@@ -377,6 +392,7 @@
   },
   "MissFScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -398,7 +414,8 @@
           "chicken",
           "pork",
           "salad",
-          "bread"
+          "bread",
+          "rootvegetables"
         ]
       },
       {
@@ -419,7 +436,8 @@
           "mexican",
           "chicken",
           "salad",
-          "taco"
+          "taco",
+          "rootvegetables"
         ]
       },
       {
@@ -524,8 +542,8 @@
         "description": "",
         "price": "112 kr",
         "tags": [
-          "beef",
-          "salad"
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
@@ -608,6 +626,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -671,7 +690,8 @@
         "price": "99 kr",
         "tags": [
           "italian",
-          "pasta"
+          "pasta",
+          "nuts_seeds"
         ]
       },
       {
@@ -680,7 +700,8 @@
         "description": "En härligt grön och crunchy pesto gjord på Västerbottenost, vitlök, grönkål och solrosfrön. Toppad med buffelmozzarella, lagrad hårdost, olivolja, svartpeppar och basilika.",
         "price": "99 kr",
         "tags": [
-          "italian"
+          "italian",
+          "nuts_seeds"
         ]
       },
       {
@@ -724,13 +745,16 @@
   },
   "BistrotScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "Veckans: Isterband",
         "category": "Veckans",
         "description": "Dillstuvad potatis – Rödbetor – Senap",
         "price": "130 kr",
-        "tags": []
+        "tags": [
+          "rootvegetables"
+        ]
       },
       {
         "name": "Vegetarisk Mån-Tis: Pasta med grönkål & Champinjoner",
@@ -781,7 +805,8 @@
         "description": "Chili bearnaise – Rostad potatis – Sauterade grönsaker – Persilja",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "beef",
+          "rootvegetables"
         ]
       },
       {
@@ -789,12 +814,15 @@
         "category": "Lunch",
         "description": "Kokt potatis – Bryntsmör – Picklad Fänkål – Dill",
         "price": "130 kr",
-        "tags": []
+        "tags": [
+          "rootvegetables"
+        ]
       }
     ]
   },
   "OishiiScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "9 bitar",
@@ -957,6 +985,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1043,8 +1072,8 @@
         "description": "Grillad kycklingfilé i krämig cashewnötsås. Toppad med cashewnötter och russin.",
         "price": "152 kr",
         "tags": [
-          "beef",
-          "chicken"
+          "chicken",
+          "nuts_seeds"
         ]
       },
       {
@@ -1064,7 +1093,8 @@
         "price": "159 kr",
         "tags": [
           "indian",
-          "lamb"
+          "lamb",
+          "nuts_seeds"
         ]
       },
       {
@@ -1074,9 +1104,9 @@
         "price": "165 kr",
         "tags": [
           "indian",
-          "beef",
           "seafood",
-          "soup"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
@@ -1226,6 +1256,7 @@
   },
   "GansuScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1433,6 +1464,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1447,7 +1479,8 @@
         "description": "",
         "price": "65 kr",
         "tags": [
-          "korean"
+          "korean",
+          "rootvegetables"
         ]
       },
       {
@@ -1463,7 +1496,7 @@
         "description": "",
         "price": "55 kr",
         "tags": [
-          "beef"
+          "nuts_seeds"
         ]
       },
       {
@@ -1506,14 +1539,18 @@
         "category": "Efterrätter",
         "description": "Klassisk med vanilj",
         "price": "110 kr",
-        "tags": []
+        "tags": [
+          "dessert"
+        ]
       },
       {
         "name": "Social Deal",
         "category": "Erbjudanden",
         "description": "Svamptoast & Steak frites.",
         "price": "450 kr",
-        "tags": []
+        "tags": [
+          "rootvegetables"
+        ]
       },
       {
         "name": "Dagens fångst",
@@ -1553,7 +1590,8 @@
         "price": "205 kr",
         "tags": [
           "italian",
-          "pasta"
+          "pasta",
+          "nuts_seeds"
         ]
       },
       {
@@ -1572,7 +1610,8 @@
         "description": "Grillad entrecôte, bellaverde, grönpepparsås & pommes frites",
         "price": "375 kr",
         "tags": [
-          "beef"
+          "beef",
+          "rootvegetables"
         ]
       },
       {
@@ -1582,7 +1621,8 @@
         "price": "225 kr",
         "tags": [
           "beef",
-          "burger"
+          "burger",
+          "rootvegetables"
         ]
       },
       {
@@ -1593,6 +1633,7 @@
         "tags": [
           "beef",
           "salad",
+          "rootvegetables",
           "drinks"
         ]
       },
@@ -1601,7 +1642,9 @@
         "category": "Sides",
         "description": "",
         "price": "75 kr",
-        "tags": []
+        "tags": [
+          "rootvegetables"
+        ]
       },
       {
         "name": "Sidesallad",
@@ -1639,6 +1682,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1857,6 +1901,198 @@
         "price": "15 kr",
         "tags": [
           "drinks"
+        ]
+      }
+    ]
+  },
+  "MimolettScraper": {
+    "day": "friday",
+    "last_scraped": "2025-12-06",
+    "items": [
+      {
+        "name": "Grillad Entrecôte",
+        "category": "KÖTT & FISK",
+        "description": "med friterad klyftpotatis och veckans sås (200 gr)",
+        "price": "129 kr",
+        "tags": [
+          "beef",
+          "fish",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Black Angus Burger (200 gr)",
+        "category": "KÖTT & FISK",
+        "description": "Briochebröd, senap, majosås, sallad, rostad lök, pepperjack ost, grillad bacon, BBQ-sås och klyftpotatis",
+        "price": "129 kr",
+        "tags": [
+          "fish",
+          "pork",
+          "burger",
+          "salad",
+          "bread",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Husets fiskgratäng",
+        "category": "KÖTT & FISK",
+        "description": "(tisdag och torsdag) Flundrafilé, potatismos, mozzarellaost, tomat, dillsås och citron",
+        "price": "129 kr",
+        "tags": [
+          "fish",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Bacon Risotto",
+        "category": "RISOTTO",
+        "description": "Bacon, grillade grönsaker, grana padano, smör, ruccola",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "pork"
+        ]
+      },
+      {
+        "name": "Scampi Risotto",
+        "category": "RISOTTO",
+        "description": "Tigerräkor, röd chili, vitlök, grana padano, smör, ruccola",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "seafood"
+        ]
+      },
+      {
+        "name": "Penne Aglio",
+        "category": "PASTARÄTTER",
+        "description": "Oxfilé, champinjoner, crème fraiche vitlök, grädde, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Penne Afrikana",
+        "category": "PASTARÄTTER",
+        "description": "Kyckling, paprika, ananas, jordnötter, grädde, curry, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "chicken",
+          "pasta",
+          "nuts_seeds"
+        ]
+      },
+      {
+        "name": "Penne Patrone",
+        "category": "PASTARÄTTER",
+        "description": "Oxfilé, soltorkad tomat, vitlök, tomatsås, grädde, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Tagliatelle Salmone",
+        "category": "PASTARÄTTER",
+        "description": "Laxfilé, purjolök, crème fraiche, vitlök, grädde, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "fish",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Spagetti Modo Nostro",
+        "category": "PASTARÄTTER",
+        "description": "Köttfärssås, gorgonzola, champinjoner, grädde, piri piri, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Tagliatelle con Scampi",
+        "category": "PASTARÄTTER",
+        "description": "Tigerräkor, tomatsås, vitlök, basilika, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "seafood",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Penne Romana",
+        "category": "PASTARÄTTER",
+        "description": "Kyckling, champinjoner, vitlök, grädde, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "chicken",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Penne Diavolo",
+        "category": "PASTARÄTTER",
+        "description": "Köttfärssås, grädde, piri-piri, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "beef",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Spagetti Carbonara",
+        "category": "PASTARÄTTER",
+        "description": "Rostad bacon, persilja, vitlök, grädde, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "pork",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Penne Vegetale",
+        "category": "PASTARÄTTER",
+        "description": "Grönsaksmix, champinjoner, tomatsås, vitlök, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "vegetarian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Penne Pesto",
+        "category": "PASTARÄTTER",
+        "description": "Soltorkad tomat. pesto, vitlök, grädde, mozzarella, grana padano",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Hemlagat Lasagne al Forno",
+        "category": "PASTARÄTTER",
+        "description": "Vi har glutenfri pasta, fullkornspasta och olika rätter enligt LCHF",
+        "price": "129 kr",
+        "tags": [
+          "italian",
+          "pasta"
         ]
       }
     ]

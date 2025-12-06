@@ -182,10 +182,27 @@
         color: white;
         padding: 10px 14px;
         border-radius: 6px;
-        text-align: center;
         cursor: pointer;
         user-select: none;
         transition: background 0.2s ease;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .restaurant-title {
+        font-size: 1em;
+    }
+
+    .restaurant-stale {
+        font-size: 0.4em;
+        opacity: 0.85;
+        white-space: nowrap;
+    }
+
+    .restaurant-stale.stale {
+        color: #ffeb3b; /* soft yellow warning on teal background */
     }
 
     .restaurant-name:hover {
@@ -335,7 +352,7 @@
     <p>Priser kan vara inaktuella, för senaste informationen, se respektive hemsida.</p>
 
     <div style="margin-top: 40px; font-size: 14px; color: #666;">
-        <p>Last updated: 2025-12-06 18:22</p>
+        <p>Last updated: 2025-12-06 20:29</p>
     </div>
     <a class="weekday-button" href="index.html">← Tillbaka till veckomeny</a>
     <hr>
@@ -373,6 +390,9 @@
             
             
             <a class="weekday-button" href="#Masala">Masala</a>
+            
+            
+            <a class="weekday-button" href="#Mimolett">Mimolett</a>
             
             
             <a class="weekday-button" href="#MissF">MissF</a>
@@ -429,6 +449,9 @@
                     
                     
                     <label><input type="checkbox" class="filter-restaurant" data-restaurant="Masala" checked> Masala</label>
+                    
+                    
+                    <label><input type="checkbox" class="filter-restaurant" data-restaurant="Mimolett" checked> Mimolett</label>
                     
                     
                     <label><input type="checkbox" class="filter-restaurant" data-restaurant="MissF" checked> MissF</label>
@@ -513,7 +536,15 @@
                 
                 <div class="filter-columns">
                     
+                    <label><input type="checkbox" class="filter-tag" data-tag="rootvegetables" checked> 🥔 rootvegetables</label>
+                    
                     <label><input type="checkbox" class="filter-tag" data-tag="bread" checked> 🍞 bread</label>
+                    
+                </div>
+                
+                <div class="filter-columns">
+                    
+                    <label><input type="checkbox" class="filter-tag" data-tag="nuts_seeds" checked> 🥜 nuts_seeds</label>
                     
                 </div>
                 
@@ -538,7 +569,16 @@
     
     <div class="restaurant" id="Alkemisten">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Alkemisten_menu')">Alkemisten</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Alkemisten_menu')">
+                <span class="restaurant-title">Alkemisten</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -629,7 +669,24 @@
     
     <div class="restaurant" id="BennePastabar">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('BennePastabar_menu')">BennePastabar</div>
+            <div class="restaurant-name" onclick="toggleVisibility('BennePastabar_menu')">
+                <span class="restaurant-title">BennePastabar</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
             
             
             
@@ -743,7 +800,7 @@
             
             <div class="emoji-row">🇮🇹 🍝 🐄</div>
             <div class="emoji-row">🐖 🌱 🐔</div>
-            <div class="emoji-row">🍞 🍰</div>
+            <div class="emoji-row">🥜 🍞 🍰</div>
             <div class="icon-link">
                 
                 <a href="https://bennepastabar.se/" target="_blank" title="Hemsida">🔗</a>
@@ -899,7 +956,7 @@
                     
                 </li>
                 
-                <li data-tags="italian pasta" >
+                <li data-tags="italian pasta nuts_seeds" >
                     <em>99 kr</em>
                     <strong>THE SHROOMS</strong>
                      – Vitlöksfrästa champinjoner i en ljuvligt krämig svampsås som är smaksatt med färsk timjan och rostad vitlök. Toppad med lagrad hårdost, hackad persilja, rostade pumpakärnor och svart tryffelolja.
@@ -910,6 +967,8 @@
                         
                         🍝
                         
+                        🥜
+                        
                     </span>
                     
                 </li>
@@ -919,7 +978,7 @@
             <h3>The Visitor</h3>
             <ul>
                 
-                <li data-tags="italian" >
+                <li data-tags="italian nuts_seeds" >
                     <em>99 kr</em>
                     <strong>Swedish Pesto</strong>
                      – En härligt grön och crunchy pesto gjord på Västerbottenost, vitlök, grönkål och solrosfrön. Toppad med buffelmozzarella, lagrad hårdost, olivolja, svartpeppar och basilika.
@@ -927,6 +986,8 @@
                     <span class="emoji-inline">
                         
                         🇮🇹
+                        
+                        🥜
                         
                     </span>
                     
@@ -1000,7 +1061,16 @@
     
     <div class="restaurant" id="Bistrot">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Bistrot_menu')">Bistrot</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Bistrot_menu')">
+                <span class="restaurant-title">Bistrot</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -1075,9 +1145,20 @@
             
             
             
-            <div class="emoji-row">🇮🇹 🌱 🍝 🇮🇳</div>
-            <div class="emoji-row">🍔 🐔 🐖 🦞</div>
-            <div class="emoji-row">🥗 🐄</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🥔 🇮🇹 🌱 🍝</div>
+            <div class="emoji-row">🇮🇳 🍔 🐔 🐖</div>
+            <div class="emoji-row">🦞 🥗 🐄</div>
             <div class="icon-link">
                 
                 <a href="https://bistrot.se/" target="_blank" title="Hemsida">🔗</a>
@@ -1129,10 +1210,16 @@
             <h3>Veckans</h3>
             <ul>
                 
-                <li data-tags="" >
+                <li data-tags="rootvegetables" >
                     <em>130 kr</em>
                     <strong>Veckans: Isterband</strong>
                      – Dillstuvad potatis – Rödbetor – Senap
+                    
+                    <span class="emoji-inline">
+                        
+                        🥔
+                        
+                    </span>
                     
                 </li>
                 
@@ -1207,7 +1294,7 @@
             <h3>Lunch</h3>
             <ul>
                 
-                <li data-tags="beef" >
+                <li data-tags="beef rootvegetables" >
                     <em>130 kr</em>
                     <strong>Färsbiff på Högrev</strong>
                      – Chili bearnaise – Rostad potatis – Sauterade grönsaker – Persilja
@@ -1216,14 +1303,22 @@
                         
                         🐄
                         
+                        🥔
+                        
                     </span>
                     
                 </li>
                 
-                <li data-tags="" >
+                <li data-tags="rootvegetables" >
                     <em>130 kr</em>
                     <strong>Örtbakad fångst</strong>
                      – Kokt potatis – Bryntsmör – Picklad Fänkål – Dill
+                    
+                    <span class="emoji-inline">
+                        
+                        🥔
+                        
+                    </span>
                     
                 </li>
                 
@@ -1236,7 +1331,16 @@
     
     <div class="restaurant" id="BombayBistro">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('BombayBistro_menu')">BombayBistro</div>
+            <div class="restaurant-name" onclick="toggleVisibility('BombayBistro_menu')">
+                <span class="restaurant-title">BombayBistro</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -1301,9 +1405,14 @@
             
             
             
-            <div class="emoji-row">🇮🇳 🐔</div>
-            <div class="emoji-row">🌱 🐑</div>
-            <div class="emoji-row">🥣 🦞</div>
+            
+            
+            
+            
+            
+            <div class="emoji-row">🇮🇳 🐔 🌱</div>
+            <div class="emoji-row">🐑 🥣 🥜</div>
+            <div class="emoji-row">🦞</div>
             <div class="icon-link">
                 
                 <a href="https://www.bombaybistro.se/lunch/" target="_blank" title="Hemsida">🔗</a>
@@ -1366,7 +1475,7 @@
                     
                 </li>
                 
-                <li data-tags="indian vegetarian lamb soup" >
+                <li data-tags="indian vegetarian lamb soup nuts_seeds" >
                     <em>129 kr</em>
                     <strong>HYDRABADI GHOST</strong>
                      – Lammköttgryta med senap, lök, tomat, vitlök, sesamfrön, mynta, grön chili och kokos. Tre dagens vegetariska rätter och raita (kan fås vegansk)
@@ -1380,6 +1489,8 @@
                         🐑
                         
                         🥣
+                        
+                        🥜
                         
                     </span>
                     
@@ -1455,7 +1566,16 @@
     
     <div class="restaurant" id="CuckoosNest">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('CuckoosNest_menu')">CuckoosNest</div>
+            <div class="restaurant-name" onclick="toggleVisibility('CuckoosNest_menu')">
+                <span class="restaurant-title">CuckoosNest</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -1536,9 +1656,17 @@
             
             
             
-            <div class="emoji-row">🐄 🐟 🐔 🇮🇹</div>
-            <div class="emoji-row">🌱 🍝 🐖 🥗</div>
-            <div class="emoji-row">🦞 🍞 🍔</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🐄 🐟 🥔 🐔</div>
+            <div class="emoji-row">🇮🇹 🌱 🍝 🐖</div>
+            <div class="emoji-row">🥗 🦞 🍞 🍔</div>
             <div class="icon-link">
                 
                 <a href="https://www.cuckoosnest.se/menyer/lunch" target="_blank" title="Hemsida">🔗</a>
@@ -1594,7 +1722,7 @@
             <h3>FISK</h3>
             <ul>
                 
-                <li data-tags="beef fish" >
+                <li data-tags="beef fish rootvegetables" >
                     <em>195 kr</em>
                     <strong></strong>
                      – Ugnstekt laxfilé serveras med råstekt potatis och musselsås med saffran
@@ -1604,6 +1732,8 @@
                         🐄
                         
                         🐟
+                        
+                        🥔
                         
                     </span>
                     
@@ -1696,7 +1826,7 @@
             <h3>DOUBLE SMASHED CHEESEBURGER</h3>
             <ul>
                 
-                <li data-tags="beef burger salad" >
+                <li data-tags="beef burger salad rootvegetables" >
                     <em>235 kr</em>
                     <strong></strong>
                      – Högrevsburgare med brioche, cheddar, hamburgerdressing, sallad, lök & pommes frites
@@ -1708,6 +1838,8 @@
                         🍔
                         
                         🥗
+                        
+                        🥔
                         
                     </span>
                     
@@ -1722,7 +1854,16 @@
     
     <div class="restaurant" id="DistrictOne">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('DistrictOne_menu')">DistrictOne</div>
+            <div class="restaurant-name" onclick="toggleVisibility('DistrictOne_menu')">
+                <span class="restaurant-title">DistrictOne</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -1830,8 +1971,21 @@
             
             
             
-            <div class="emoji-row">🐄 🐟 🐔 🐖</div>
-            <div class="emoji-row">🥗 🍞 🇹🇭 🌱</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🐄 🐟 🥔 🐔 🐖</div>
+            <div class="emoji-row">🥗 🍞 🇹🇭 🥜 🌱</div>
             <div class="emoji-row">🍹 🍣 🥣</div>
             <div class="icon-link">
                 
@@ -1902,7 +2056,7 @@
             <h3>Fisk</h3>
             <ul>
                 
-                <li data-tags="beef fish" >
+                <li data-tags="beef fish rootvegetables" >
                     <em>129 kr</em>
                     <strong></strong>
                      – Smörstekt torskfile med skagensås och marinerad fänkål, serveras med potatismos.
@@ -1913,6 +2067,8 @@
                         
                         🐟
                         
+                        🥔
+                        
                     </span>
                     
                 </li>
@@ -1922,7 +2078,7 @@
             <h3>Kött</h3>
             <ul>
                 
-                <li data-tags="beef" >
+                <li data-tags="beef rootvegetables" >
                     <em>129 kr</em>
                     <strong></strong>
                      – Flankstek med pepparsås och bakad tomat, serveras med rostad potatis.
@@ -1930,6 +2086,8 @@
                     <span class="emoji-inline">
                         
                         🐄
+                        
+                        🥔
                         
                     </span>
                     
@@ -1977,7 +2135,7 @@
             <h3>Pad Thai</h3>
             <ul>
                 
-                <li data-tags="thai beef chicken" >
+                <li data-tags="thai chicken nuts_seeds" >
                     <em>129 kr</em>
                     <strong></strong>
                      – -(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, jordnötter
@@ -1986,9 +2144,9 @@
                         
                         🇹🇭
                         
-                        🐄
-                        
                         🐔
+                        
+                        🥜
                         
                     </span>
                     
@@ -2034,7 +2192,7 @@
             <h3>Vegetarisk Poke bowl</h3>
             <ul>
                 
-                <li data-tags="vegetarian salad sushi" >
+                <li data-tags="vegetarian salad sushi nuts_seeds" >
                     <em>129 kr</em>
                     <strong></strong>
                      – Tofu med sesamfrön, sushiris, romansallad, sojabönor, rädisa, picklad rödlök, mango och avokado, serveras med chili majo och koriander.
@@ -2046,6 +2204,8 @@
                         🥗
                         
                         🍣
+                        
+                        🥜
                         
                     </span>
                     
@@ -2082,7 +2242,14 @@
     
     <div class="restaurant" id="EncounterAsian">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('EncounterAsian_menu')">EncounterAsian</div>
+            <div class="restaurant-name" onclick="toggleVisibility('EncounterAsian_menu')">
+                <span class="restaurant-title">EncounterAsian</span>
+                <span class="restaurant-stale stale">
+                    
+                        Aldrig uppdaterad
+                    
+                </span>
+            </div>
             
             
             
@@ -2722,7 +2889,16 @@
     
     <div class="restaurant" id="Gansu">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Gansu_menu')">Gansu</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Gansu_menu')">
+                <span class="restaurant-title">Gansu</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -3381,7 +3557,29 @@
     
     <div class="restaurant" id="Kooperativet">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Kooperativet_menu')">Kooperativet</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Kooperativet_menu')">
+                <span class="restaurant-title">Kooperativet</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             
             
             
@@ -3502,8 +3700,8 @@
             
             
             <div class="emoji-row">🐔 🐖 🥗 🐟 🦞</div>
-            <div class="emoji-row">🇰🇷 🌱 🍹 🇮🇳 🐄</div>
-            <div class="emoji-row">🥣 🍞 🇲🇽</div>
+            <div class="emoji-row">🇰🇷 🌱 🥔 🍹 🥜</div>
+            <div class="emoji-row">🇮🇳 🐄 🥣 🍞 🇲🇽</div>
             <div class="icon-link">
                 
                 <a href="https://www.kooperativet.se/" target="_blank" title="Hemsida">🔗</a>
@@ -3667,7 +3865,7 @@
             <h3>FISK</h3>
             <ul>
                 
-                <li data-tags="fish drinks" >
+                <li data-tags="fish rootvegetables drinks" >
                     <em>130 kr</em>
                     <strong>Fish’n chips</strong>
                      – Friterad fisk serveras med pommes frites, fransk tartarsås, maltvinäger samt citron och örter
@@ -3675,6 +3873,8 @@
                     <span class="emoji-inline">
                         
                         🐟
+                        
+                        🥔
                         
                         🍹
                         
@@ -3687,7 +3887,7 @@
             <h3>EAST ASIA</h3>
             <ul>
                 
-                <li data-tags="chicken" >
+                <li data-tags="chicken nuts_seeds" >
                     <em>130 kr</em>
                     <strong>Chicken Mongolian BBQ</strong>
                      – Wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling, rostade sesamfrön & koriander
@@ -3695,6 +3895,8 @@
                     <span class="emoji-inline">
                         
                         🐔
+                        
+                        🥜
                         
                     </span>
                     
@@ -3705,7 +3907,7 @@
             <h3>VEGETARISKT</h3>
             <ul>
                 
-                <li data-tags="vegetarian" >
+                <li data-tags="vegetarian nuts_seeds" >
                     <em>130 kr</em>
                     <strong>Vegetarian Mongolian BBQ</strong>
                      – Wokade äggnudlar med grönsaker i soyaglace toppade med pea chunks, rostade sesamfrön & koriander
@@ -3713,6 +3915,8 @@
                     <span class="emoji-inline">
                         
                         🌱
+                        
+                        🥜
                         
                     </span>
                     
@@ -3775,7 +3979,19 @@
     
     <div class="restaurant" id="Masala">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Masala_menu')">Masala</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Masala_menu')">
+                <span class="restaurant-title">Masala</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
+            
+            
+            
             
             
             
@@ -3994,7 +4210,7 @@
             
             
             <div class="emoji-row">🐔 🐟 🍹 🌱</div>
-            <div class="emoji-row">🇮🇳 🐑 🥣 🐄</div>
+            <div class="emoji-row">🇮🇳 🐑 🥣 🥜</div>
             <div class="emoji-row">🦞 🥗 🍞</div>
             <div class="icon-link">
                 
@@ -4261,16 +4477,16 @@
                     
                 </li>
                 
-                <li data-tags="beef chicken" >
+                <li data-tags="chicken nuts_seeds" >
                     <em>152 kr</em>
                     <strong>BUTTER CHICKEN</strong>
                      – Grillad kycklingfilé i krämig cashewnötsås. Toppad med cashewnötter och russin.
                     
                     <span class="emoji-inline">
                         
-                        🐄
-                        
                         🐔
+                        
+                        🥜
                         
                     </span>
                     
@@ -4291,7 +4507,7 @@
                     
                 </li>
                 
-                <li data-tags="indian lamb" >
+                <li data-tags="indian lamb nuts_seeds" >
                     <em>159 kr</em>
                     <strong>ROGAN JOSH</strong>
                      – Klassisk nordindisk lammrätt med smak av saffran och kardemumma, garnerad med mandel.
@@ -4302,11 +4518,13 @@
                         
                         🐑
                         
+                        🥜
+                        
                     </span>
                     
                 </li>
                 
-                <li data-tags="indian beef seafood soup" >
+                <li data-tags="indian seafood soup nuts_seeds" >
                     <em>165 kr</em>
                     <strong>JHINGA KORMA</strong>
                      – Mild och krämig gryta med tigerräkor, cashewnötter och kardemumma.
@@ -4315,11 +4533,11 @@
                         
                         🇮🇳
                         
-                        🐄
-                        
                         🦞
                         
                         🥣
+                        
+                        🥜
                         
                     </span>
                     
@@ -4535,9 +4753,644 @@
     
     
     
+    <div class="restaurant" id="Mimolett">
+        <div class="menu-header-grid">
+            <div class="restaurant-name" onclick="toggleVisibility('Mimolett_menu')">
+                <span class="restaurant-title">Mimolett</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🐄 🐟 🥔 🐖 🍔</div>
+            <div class="emoji-row">🥗 🍞 🇮🇹 🦞 🍝</div>
+            <div class="emoji-row">🐔 🥜 🌱</div>
+            <div class="icon-link">
+                
+                <a href="https://www.kvartersmenyn.se/index.php/rest/13278/" target="_blank" title="Hemsida">🔗</a>
+                
+            </div>
+            <div class="icon-link">
+                
+                <a href="https://maps.google.com/?q=Mimolett+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
+                
+            </div>
+        </div>
+        <div class="menu-content" id="Mimolett_menu" style="display: block;">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            <h3>KÖTT & FISK</h3>
+            <ul>
+                
+                <li data-tags="beef fish rootvegetables" >
+                    <em>129 kr</em>
+                    <strong>Grillad Entrecôte</strong>
+                     – med friterad klyftpotatis och veckans sås (200 gr)
+                    
+                    <span class="emoji-inline">
+                        
+                        🐄
+                        
+                        🐟
+                        
+                        🥔
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="fish pork burger salad bread rootvegetables" >
+                    <em>129 kr</em>
+                    <strong>Black Angus Burger (200 gr)</strong>
+                     – Briochebröd, senap, majosås, sallad, rostad lök, pepperjack ost, grillad bacon, BBQ-sås och klyftpotatis
+                    
+                    <span class="emoji-inline">
+                        
+                        🐟
+                        
+                        🐖
+                        
+                        🍔
+                        
+                        🥗
+                        
+                        🍞
+                        
+                        🥔
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="fish rootvegetables" >
+                    <em>129 kr</em>
+                    <strong>Husets fiskgratäng</strong>
+                     – (tisdag och torsdag) Flundrafilé, potatismos, mozzarellaost, tomat, dillsås och citron
+                    
+                    <span class="emoji-inline">
+                        
+                        🐟
+                        
+                        🥔
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>RISOTTO</h3>
+            <ul>
+                
+                <li data-tags="italian pork" >
+                    <em>129 kr</em>
+                    <strong>Bacon Risotto</strong>
+                     – Bacon, grillade grönsaker, grana padano, smör, ruccola
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐖
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian seafood" >
+                    <em>129 kr</em>
+                    <strong>Scampi Risotto</strong>
+                     – Tigerräkor, röd chili, vitlök, grana padano, smör, ruccola
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🦞
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+            <h3>PASTARÄTTER</h3>
+            <ul>
+                
+                <li data-tags="italian beef pasta" >
+                    <em>129 kr</em>
+                    <strong>Penne Aglio</strong>
+                     – Oxfilé, champinjoner, crème fraiche vitlök, grädde, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐄
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian chicken pasta nuts_seeds" >
+                    <em>129 kr</em>
+                    <strong>Penne Afrikana</strong>
+                     – Kyckling, paprika, ananas, jordnötter, grädde, curry, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐔
+                        
+                        🍝
+                        
+                        🥜
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian beef pasta" >
+                    <em>129 kr</em>
+                    <strong>Penne Patrone</strong>
+                     – Oxfilé, soltorkad tomat, vitlök, tomatsås, grädde, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐄
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian fish pasta" >
+                    <em>129 kr</em>
+                    <strong>Tagliatelle Salmone</strong>
+                     – Laxfilé, purjolök, crème fraiche, vitlök, grädde, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐟
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian beef pasta" >
+                    <em>129 kr</em>
+                    <strong>Spagetti Modo Nostro</strong>
+                     – Köttfärssås, gorgonzola, champinjoner, grädde, piri piri, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐄
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian seafood pasta" >
+                    <em>129 kr</em>
+                    <strong>Tagliatelle con Scampi</strong>
+                     – Tigerräkor, tomatsås, vitlök, basilika, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🦞
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian chicken pasta" >
+                    <em>129 kr</em>
+                    <strong>Penne Romana</strong>
+                     – Kyckling, champinjoner, vitlök, grädde, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐔
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian beef pasta" >
+                    <em>129 kr</em>
+                    <strong>Penne Diavolo</strong>
+                     – Köttfärssås, grädde, piri-piri, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐄
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian pork pasta" >
+                    <em>129 kr</em>
+                    <strong>Spagetti Carbonara</strong>
+                     – Rostad bacon, persilja, vitlök, grädde, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🐖
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian vegetarian pasta" >
+                    <em>129 kr</em>
+                    <strong>Penne Vegetale</strong>
+                     – Grönsaksmix, champinjoner, tomatsås, vitlök, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🌱
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian pasta" >
+                    <em>129 kr</em>
+                    <strong>Penne Pesto</strong>
+                     – Soltorkad tomat. pesto, vitlök, grädde, mozzarella, grana padano
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+                <li data-tags="italian pasta" >
+                    <em>129 kr</em>
+                    <strong>Hemlagat Lasagne al Forno</strong>
+                     – Vi har glutenfri pasta, fullkornspasta och olika rätter enligt LCHF
+                    
+                    <span class="emoji-inline">
+                        
+                        🇮🇹
+                        
+                        🍝
+                        
+                    </span>
+                    
+                </li>
+                
+            </ul>
+            
+        </div>
+    </div>
+    
+    
+    
     <div class="restaurant" id="MissF">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('MissF_menu')">MissF</div>
+            <div class="restaurant-name" onclick="toggleVisibility('MissF_menu')">
+                <span class="restaurant-title">MissF</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -4794,9 +5647,19 @@
             
             
             
-            <div class="emoji-row">🇮🇹 🐖 🍞 🐔 🥗 🇲🇽</div>
-            <div class="emoji-row">🌮 🐟 🍝 🍰 🇬🇷 🦞</div>
-            <div class="emoji-row">🐄 🌱 🇰🇷 🇹🇭 🇯🇵 🍣</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🇮🇹 🐖 🍞 🐔 🥗 🥔 🇲🇽</div>
+            <div class="emoji-row">🌮 🐟 🍝 🍰 🇬🇷 🦞 🥜</div>
+            <div class="emoji-row">🌱 🇰🇷 🐄 🇹🇭 🇯🇵 🍣</div>
             <div class="icon-link">
                 
                 <a href="https://www.missf.se/" target="_blank" title="Hemsida">🔗</a>
@@ -4929,7 +5792,7 @@
                     
                 </li>
                 
-                <li data-tags="chicken pork salad bread" >
+                <li data-tags="chicken pork salad bread rootvegetables" >
                     <em>119 kr</em>
                     <strong>Kyckling/bacon/dijoncreme</strong>
                      – Serveras med pommes & sallad & dressing
@@ -4943,6 +5806,8 @@
                         🥗
                         
                         🍞
+                        
+                        🥔
                         
                     </span>
                     
@@ -4966,7 +5831,7 @@
             <h3>Grillad tortilla</h3>
             <ul>
                 
-                <li data-tags="mexican chicken salad taco" >
+                <li data-tags="mexican chicken salad taco rootvegetables" >
                     <em>119 kr</em>
                     <strong>kyckling/ mozzarella/ ruccola / mangoraja</strong>
                      – Serveras med pommes & sallad & dressing
@@ -4980,6 +5845,8 @@
                         🥗
                         
                         🌮
+                        
+                        🥔
                         
                     </span>
                     
@@ -5147,16 +6014,16 @@
                     
                 </li>
                 
-                <li data-tags="beef salad" >
+                <li data-tags="salad nuts_seeds" >
                     <em>112 kr</em>
                     <strong>Chévre/rödbetor/honung/valnötter/granatäpple</strong>
                     
                     
                     <span class="emoji-inline">
                         
-                        🐄
-                        
                         🥗
+                        
+                        🥜
                         
                     </span>
                     
@@ -5293,7 +6160,16 @@
     
     <div class="restaurant" id="Oishii">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Oishii_menu')">Oishii</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Oishii_menu')">
+                <span class="restaurant-title">Oishii</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -5800,7 +6676,16 @@
     
     <div class="restaurant" id="TheSocial">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('TheSocial_menu')">TheSocial</div>
+            <div class="restaurant-name" onclick="toggleVisibility('TheSocial_menu')">
+                <span class="restaurant-title">TheSocial</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -5954,8 +6839,36 @@
             
             
             
-            <div class="emoji-row">🇰🇷 🐄 🐖 🍞 🍰</div>
-            <div class="emoji-row">🐟 🐔 🥗 🇬🇷 🇮🇹</div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="emoji-row">🇰🇷 🥔 🥜 🐖 🍞 🍰</div>
+            <div class="emoji-row">🐟 🐄 🐔 🥗 🇬🇷 🇮🇹</div>
             <div class="emoji-row">🍝 🍕 🍔 🍹</div>
             <div class="icon-link">
                 
@@ -6094,7 +7007,7 @@
             <h3>Snacks</h3>
             <ul>
                 
-                <li data-tags="korean" >
+                <li data-tags="korean rootvegetables" >
                     <em>65 kr</em>
                     <strong>Lättsaltade potatischips & kimchidipp</strong>
                     
@@ -6102,6 +7015,8 @@
                     <span class="emoji-inline">
                         
                         🇰🇷
+                        
+                        🥔
                         
                     </span>
                     
@@ -6114,14 +7029,14 @@
                     
                 </li>
                 
-                <li data-tags="beef" >
+                <li data-tags="nuts_seeds" >
                     <em>55 kr</em>
                     <strong>Saltrostade cashewnötter</strong>
                     
                     
                     <span class="emoji-inline">
                         
-                        🐄
+                        🥜
                         
                     </span>
                     
@@ -6185,10 +7100,16 @@
                     
                 </li>
                 
-                <li data-tags="" >
+                <li data-tags="dessert" >
                     <em>110 kr</em>
                     <strong>Crème brûlée</strong>
                      – Klassisk med vanilj
+                    
+                    <span class="emoji-inline">
+                        
+                        🍰
+                        
+                    </span>
                     
                 </li>
                 
@@ -6197,10 +7118,16 @@
             <h3>Erbjudanden</h3>
             <ul>
                 
-                <li data-tags="" >
+                <li data-tags="rootvegetables" >
                     <em>450 kr</em>
                     <strong>Social Deal</strong>
                      – Svamptoast & Steak frites.
+                    
+                    <span class="emoji-inline">
+                        
+                        🥔
+                        
+                    </span>
                     
                 </li>
                 
@@ -6256,7 +7183,7 @@
                     
                 </li>
                 
-                <li data-tags="italian pasta" >
+                <li data-tags="italian pasta nuts_seeds" >
                     <em>205 kr</em>
                     <strong>Pasta Arrabiata med burrata</strong>
                      – Rigatoni med het tomatsås, burrata, pesto på pumpakärnor & basilika
@@ -6266,6 +7193,8 @@
                         🇮🇹
                         
                         🍝
+                        
+                        🥜
                         
                     </span>
                     
@@ -6286,7 +7215,7 @@
                     
                 </li>
                 
-                <li data-tags="beef" >
+                <li data-tags="beef rootvegetables" >
                     <em>375 kr</em>
                     <strong>Steak frites</strong>
                      – Grillad entrecôte, bellaverde, grönpepparsås & pommes frites
@@ -6295,11 +7224,13 @@
                         
                         🐄
                         
+                        🥔
+                        
                     </span>
                     
                 </li>
                 
-                <li data-tags="beef burger" >
+                <li data-tags="beef burger rootvegetables" >
                     <em>225 kr</em>
                     <strong>The Social Burger</strong>
                      – Högrev- eller växtbaserad burgare, majonnäs med karamelliserad lök, bifftomat, picklad gurka, rökt cheddarost & pommes frites med dill
@@ -6310,11 +7241,13 @@
                         
                         🍔
                         
+                        🥔
+                        
                     </span>
                     
                 </li>
                 
-                <li data-tags="beef salad drinks" >
+                <li data-tags="beef salad rootvegetables drinks" >
                     <em>275 kr</em>
                     <strong>Wienerschnitzel</strong>
                      – Kalvrygg, rödvinssås, cowboysmör, kapris, citron, sallad & pommes frites
@@ -6324,6 +7257,8 @@
                         🐄
                         
                         🥗
+                        
+                        🥔
                         
                         🍹
                         
@@ -6336,10 +7271,16 @@
             <h3>Sides</h3>
             <ul>
                 
-                <li data-tags="" >
+                <li data-tags="rootvegetables" >
                     <em>75 kr</em>
                     <strong>Pommes frites</strong>
                     
+                    
+                    <span class="emoji-inline">
+                        
+                        🥔
+                        
+                    </span>
                     
                 </li>
                 
@@ -6392,7 +7333,16 @@
     
     <div class="restaurant" id="Uni3WorldOfFood">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('Uni3WorldOfFood_menu')">Uni3WorldOfFood</div>
+            <div class="restaurant-name" onclick="toggleVisibility('Uni3WorldOfFood_menu')">
+                <span class="restaurant-title">Uni3WorldOfFood</span>
+                <span class="restaurant-stale ">
+                    
+                        
+                            Uppdaterad: 2025-12-06
+                        
+                    
+                </span>
+            </div>
             
             
             
@@ -6449,9 +7399,14 @@
             
             
             
-            <div class="emoji-row">🐟 🍔 🌱</div>
-            <div class="emoji-row">🐄 🐔 🥗</div>
-            <div class="emoji-row">🍹 🐖</div>
+            
+            
+            
+            
+            
+            <div class="emoji-row">🐟 🍔 🥔</div>
+            <div class="emoji-row">🌱 🐔 🥗</div>
+            <div class="emoji-row">🥜 🍹 🐖</div>
             <div class="icon-link">
                 
                 <a href="https://www.compass-group.se/restauranger-och-menyer/ovriga-restauranger/uni3-world-of-food/" target="_blank" title="Hemsida">🔗</a>
@@ -6489,7 +7444,7 @@
             <h3>Water</h3>
             <ul>
                 
-                <li data-tags="fish burger" >
+                <li data-tags="fish burger rootvegetables" >
                     <em>132 kr</em>
                     <strong>WoF fiskburgare</strong>
                      – friterad sej, ost, tartarsås, silverlök, dillkryddade pommes
@@ -6500,6 +7455,8 @@
                         
                         🍔
                         
+                        🥔
+                        
                     </span>
                     
                 </li>
@@ -6509,7 +7466,7 @@
             <h3>Fire</h3>
             <ul>
                 
-                <li data-tags="vegetarian beef chicken salad drinks" >
+                <li data-tags="vegetarian chicken salad nuts_seeds drinks" >
                     <em>132 kr</em>
                     <strong>Kebabkryddad kycklinglårfilé</strong>
                      – basmatiris, röd och vit sås, sallad, tomat, rödlök, feferoni Wood: “Chevre chaud” gratinerad getost, vinbärsvinägrett, valnöt, betor, gröna blad & linser “Chevre chaud”, gratinated goat cheese, currant vinaigrette, walnut, beets, mixed greens & lentils
@@ -6518,11 +7475,11 @@
                         
                         🌱
                         
-                        🐄
-                        
                         🐔
                         
                         🥗
+                        
+                        🥜
                         
                         🍹
                         

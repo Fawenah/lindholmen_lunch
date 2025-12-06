@@ -6,6 +6,7 @@ import logging
 import os
 import time
 import traceback
+from datetime import datetime, timedelta, timezone
 
 from scrapers.kooperativet import KooperativetScraper
 from scrapers.district_one import DistrictOneScraper
@@ -79,6 +80,9 @@ def scrape_for_day(day: str, refresh: bool = False, cache: dict = None):
     # Start from existing data; we'll override per restaurant on successful scrape
     results = dict(existing_data)
 
+    # Sweden time (same as generate_html)
+    sweden_tz = timezone(timedelta(hours=2))
+
     for scraper_cls in SCRAPERS:
         attempts = 0
         max_retries = 2
@@ -109,6 +113,7 @@ def scrape_for_day(day: str, refresh: bool = False, cache: dict = None):
                     # Successful scrape: override/insert this restaurant
                     results[scraper_cls.__name__] = {
                         "day": menu.day,
+                        "last_scraped": datetime.now(sweden_tz).strftime("%Y-%m-%d"),
                         "items": [
                             {
                                 "name": item.name,
@@ -132,6 +137,7 @@ def scrape_for_day(day: str, refresh: bool = False, cache: dict = None):
 
                     results[scraper_cls.__name__] = {
                         "day": menu.day,
+                        "last_scraped": datetime.now(sweden_tz).strftime("%Y-%m-%d"),
                         "items": [
                             {
                                 "name": item.name,

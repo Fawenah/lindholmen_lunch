@@ -40,7 +40,7 @@
         "priority": 5
     },
     "vegetarian": {
-        "keywords": ["oumph", "vegansk", "tofu", "sojabönor", "vegofärs", "seitan", "veg", "quorn", "grönsaksbiff", "sojafärs", "linser", "bönor", "kikärtor", "tempeh", "veggoburgare", "grönsaksgryta", "grönsakswok"],
+        "keywords": ["oumph", "vegansk", "tofu", "sojabönor", "vegofärs", "seitan", "veg", "quorn", "grönsaksbiff", "sojafärs", "linser", "bönor", "kikärtor", "tempeh", "veggoburgare", "grönsaksgryta", "grönsakswok", "vegan"],
         "emoji": "🌱",
         "priority": 3
     },
@@ -53,6 +53,11 @@
         "keywords": ["pasta", "spaghetti", "tagliatelle", "fettuccine", "penne", "lasagne", "ravioli", "carbonara", "alfredo"],
         "emoji": "🍝",
         "priority": 5
+    },
+    "rootvegetables": {
+        "keywords": ["rotsaker", "rotselleri", "morot", "palsternacka", "rödbeta", "kålrot", "jordärtskocka", "rotsakspytt", "rostade rotsaker", "potatis", "pommes", "gulbetor", "sötpotatis", "potatismos", "potatisgratäng", "potatisrätter", "frites"],
+        "emoji": "🥔",
+        "priority": 6
     },
     "burger": {
         "keywords": ["hamburgare", "burger", "cheeseburger", "brioche", "smash", "burgare"],
@@ -85,7 +90,7 @@
         "priority": 5
     },
     "dessert": {
-        "keywords": ["tiramisu", "paj", "cheesecake", "choklad", "glass", "brownie", "bakelse", "kaka", "muffin", "dessert", "pudding", "kladdkaka", "bakverk"],
+        "keywords": ["tiramisu", "paj", "cheesecake", "choklad", "glass", "brownie", "bakelse", "kaka", "muffin", "dessert", "pudding", "kladdkaka", "bakverk", "choklad", "crème brûlée"],
         "emoji": "🍰",
         "priority": 20
     },
@@ -106,7 +111,7 @@
     },
     "beef": {
         "keywords": [
-            "högrev", "entrecôte", "nöt", "oxfilé", "rostbiff", "biff", "stek", "köttfärs", "oxkind", "kalv", "entricot", "flankstek", "brisket", "köttbullar", "köttfärssås", "biff stroganoff", "biff tartar", "entrecôte", "entrecóte", "beouf", "entrecote"
+            "högrev", "entrecôte", "nötkött", "oxfilé", "rostbiff", "biff", "stek", "köttfärs", "oxkind", "kalv", "entricot", "flankstek", "brisket", "köttbullar", "köttfärssås", "biff stroganoff", "biff tartar", "entrecôte", "entrecóte", "beouf", "entrecote"
         ],
         "emoji": "🐄",
         "priority": 4
@@ -132,6 +137,11 @@
         "keywords": ["bröd", "baguette", "ciabatta", "focaccia", "surdegsbröd", "knäckebröd", "frallor", "limpa", "brödbak", "naan", "roti", "papadom"],
         "emoji": "🍞",
         "priority": 6
+    },
+    "nuts_seeds": {
+        "keywords": ["nötter", "mandel", "valnöt", "cashew", "solrosfrön", "pumpakärnor", "sesamfrön", "nötmix", "nötsmör", "jordnötter"],
+        "emoji": "🥜",
+        "priority": 7
     }
 }
 

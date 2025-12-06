@@ -182,10 +182,27 @@
         color: white;
         padding: 10px 14px;
         border-radius: 6px;
-        text-align: center;
         cursor: pointer;
         user-select: none;
         transition: background 0.2s ease;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .restaurant-title {
+        font-size: 1em;
+    }
+
+    .restaurant-stale {
+        font-size: 0.4em;
+        opacity: 0.85;
+        white-space: nowrap;
+    }
+
+    .restaurant-stale.stale {
+        color: #ffeb3b; /* soft yellow warning on teal background */
     }
 
     .restaurant-name:hover {
@@ -390,7 +407,20 @@
     {% set div_id = readable ~ '_menu' %}
     <div class="restaurant" id="{{ readable }}">
         <div class="menu-header-grid">
-            <div class="restaurant-name" onclick="toggleVisibility('{{ div_id }}')">{{ readable }}</div>
+            <div class="restaurant-name" onclick="toggleVisibility('{{ div_id }}')">
+                <span class="restaurant-title">{{ readable }}</span>
+                <span class="restaurant-stale {% if data.get('is_stale') %}stale{% endif %}">
+                    {% if data.get('last_scraped') %}
+                        {% if data.get('is_stale') %}
+                            ⚠️ Meny kan vara inaktuell ({{ data.last_scraped }})
+                        {% else %}
+                            Uppdaterad: {{ data.last_scraped }}
+                        {% endif %}
+                    {% else %}
+                        Aldrig uppdaterad
+                    {% endif %}
+                </span>
+            </div>
             {% set all_emojis = [] %}
             {% for item in data["items"] %}
             {% for tag in item.tags %}

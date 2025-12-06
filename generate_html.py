@@ -35,6 +35,19 @@ def generate_lunch_summary(day: str):
 
     # CEST / Sweden local time (UTC+2)
     sweden_tz = timezone(timedelta(hours=2))
+    today = datetime.now(sweden_tz).date()
+
+    # Mark stale restaurants (last_scraped before today)
+    for _, data in lunch_data.items():
+        ts = data.get("last_scraped")
+        is_stale = True
+        if ts:
+            try:
+                scraped_dt = datetime.strptime(ts, "%Y-%m-%d")
+                is_stale = scraped_dt.date() < today
+            except ValueError:
+                is_stale = True
+        data["is_stale"] = is_stale
 
     food_tags = load_keywords()
     food_tag_groups = {}
