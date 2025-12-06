@@ -1699,6 +1699,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
+    "last_scraped": "2025-12-06",
     "items": [
       {
         "name": "vanlig 10 bitar",
