@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Caesarsallad",
@@ -115,7 +115,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "",
@@ -203,7 +203,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -268,15 +268,14 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "",
         "category": "FISK",
-        "description": "Ugnstekt laxfilé serveras med råstekt potatis och musselsås med saffran",
+        "description": "Bakad torsk serveras med kokt potatis, bakad purjolök och räksås med saffran",
         "price": "195 kr",
         "tags": [
-          "beef",
           "fish",
           "rootvegetables"
         ]
@@ -284,21 +283,12 @@
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Ugnsbakad majskyckling serveras med rostade rotfrukter, rårörda tranbär och svamp- & grönkålsås",
+        "description": "Viltfärsbiffar serveras med kålrotspuré, brysselkål, svartvinbärsgelé och gräddsås smaksatt med nejlika",
         "price": "195 kr",
         "tags": [
-          "chicken"
-        ]
-      },
-      {
-        "name": "",
-        "category": "VEG",
-        "description": "Krämig pasta med saffran serveras med halloumi och grönkålskrisp",
-        "price": "195 kr",
-        "tags": [
-          "italian",
-          "vegetarian",
-          "pasta"
+          "beef",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
@@ -338,7 +328,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Saltbakade betor",
@@ -364,11 +354,10 @@
       {
         "name": "Butter chicken",
         "category": "Fire",
-        "description": "basmatiris, bakat kycklinglår, gurksallad, koriander, mynta, yoghurt, cashewnöt",
+        "description": "basmatiris, bakat kycklinglår, koriander, mynta, yoghurt, cashewnöt",
         "price": "132 kr",
         "tags": [
           "chicken",
-          "salad",
           "nuts_seeds"
         ]
       },
@@ -399,7 +388,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -633,7 +622,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -752,7 +741,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Veckans: Isterband",
@@ -831,7 +820,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "9 bitar",
@@ -994,7 +983,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1262,7 +1251,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1470,7 +1459,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1688,7 +1677,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1712,7 +1701,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-08",
+    "last_scraped": "2025-12-09",
     "items": [
       {
         "name": "vanlig 10 bitar",
