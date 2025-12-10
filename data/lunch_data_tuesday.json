@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -113,7 +113,7 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "",
@@ -201,7 +201,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "HARIYALI CHICKEN",
@@ -263,7 +263,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "",
@@ -323,7 +323,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "\"Tom Kha Gai” Fisk i kryddig kokossås",
@@ -350,23 +350,22 @@
       {
         "name": "Kryddkokt couscous",
         "category": "Wood",
-        "description": "granatäpple, kikärtscremé, gröna blad, persilja, fetaost, grilloumi, solrosfrön",
+        "description": "granatäpple, kikärtscremé, gröna blad, persilja, vegansk fetaost, grilloumi, solrosfrön",
         "price": "132 kr",
         "tags": [
           "greek",
+          "vegetarian",
           "nuts_seeds"
         ]
       },
       {
         "name": "Potatisgratäng med bearnaiseörter",
         "category": "Metal",
-        "description": "mörbakad fläskkarré, rödvinssås, kryddrostade morötter, sallad på syrad lök och körvel Earth: Saltbakade betor, vit bönhummus, timjan-vitlökscrisp (panko), dragonvinägrett, kålrabbicrudité, pumpafrön -krasse, libabröd Salt-baked beets, white bean hummus, thyme–garlic crisp (panko), tarragon vinaigrette, kohlrabi crudité, pumpkin seeds, cress, flatbread (liba bread)",
+        "description": "mörbakad fläskkarré, rödvinssås, kryddrostade morötter, sallad på syrad lök och körvel",
         "price": "132 kr",
         "tags": [
-          "greek",
           "pork",
           "salad",
-          "bread",
           "rootvegetables",
           "drinks"
         ]
@@ -375,7 +374,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -609,7 +608,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -728,7 +727,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "Veckans: Isterband",
@@ -810,7 +809,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "9 bitar",
@@ -973,7 +972,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1246,7 +1245,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1454,7 +1453,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1672,7 +1671,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1696,7 +1695,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-09",
+    "last_scraped": "2025-12-10",
     "items": [
       {
         "name": "vanlig 10 bitar",
