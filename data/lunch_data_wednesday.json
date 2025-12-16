@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Caesarsallad",
@@ -269,7 +269,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "",
@@ -329,46 +329,47 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-12",
+    "last_scraped": "2025-12-16",
     "items": [
       {
-        "name": "Dillbakad sej",
+        "name": "Bakad fisk",
         "category": "Water",
-        "description": "remouladsås, pepparrot, smörslungad potatis, broccoli, citron, dill",
+        "description": "potatispuré, skummig hummersås, dragonolja, inlagd fänkål, bittra blad, dill",
         "price": "132 kr",
         "tags": [
           "fish",
+          "seafood",
           "rootvegetables"
         ]
       },
       {
-        "name": "Butter chicken",
+        "name": "Bakad kyckling",
         "category": "Fire",
-        "description": "basmatiris, bakat kycklinglår, koriander, mynta, yoghurt, cashewnöt",
+        "description": "jasminris, sötsursås, vitlöksbroccoli, koriander",
         "price": "132 kr",
         "tags": [
-          "chicken",
-          "nuts_seeds"
+          "chicken"
         ]
       },
       {
-        "name": "Pokebowl",
+        "name": "Saltbakad rotselleri",
         "category": "Wood",
-        "description": "sushiris, laxtartar, wasabimajonnäs, syrad gurka, sesamkål, koriander, jordnötter",
+        "description": "krispig grönkål, vinägerkokta linser, ceasardressing, kikos, syrad silverlök",
         "price": "132 kr",
         "tags": [
-          "fish",
+          "vegetarian",
           "salad",
-          "sushi",
-          "nuts_seeds"
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Onsdagsschnitzeln",
+        "name": "Fläskschnitzel",
         "category": "Metal",
-        "description": "Fläskschnitzel, currysås, potatispuré, gröna ärtor, persilja",
+        "description": "rostad potatis, rödvinssås med rökt märg, stekt champinjon, syrad lök, persilja",
         "price": "132 kr",
         "tags": [
+          "beef",
           "pork",
           "rootvegetables",
           "drinks"
@@ -612,7 +613,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -731,7 +732,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Veckans: Stekt senapsmarinerad strömming",
@@ -810,7 +811,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "9 bitar",
@@ -973,7 +974,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1243,7 +1244,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1451,7 +1452,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1669,7 +1670,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1693,7 +1694,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "vanlig 10 bitar",

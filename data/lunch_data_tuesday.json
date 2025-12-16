@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Caesarsallad",
@@ -274,7 +274,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "",
@@ -334,49 +334,49 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-12",
+    "last_scraped": "2025-12-16",
     "items": [
       {
-        "name": "\"Tom Kha Gai” Fisk i kryddig kokossås",
+        "name": "Bakad fisk",
         "category": "Water",
-        "description": "jasminris, koriander, stekt champinjon, rostad zucchini, limebladsolja, salladslök, bakad tomat",
+        "description": "krossad potatis, jalapenoveloute, dillolja, salsa på salladslök och blekselleri, örter",
         "price": "132 kr",
         "tags": [
-          "thai",
-          "beef",
+          "mexican",
           "fish",
-          "salad"
-        ]
-      },
-      {
-        "name": "Butter chicken",
-        "category": "Fire",
-        "description": "basmatiris, bakat kycklinglår, koriander, mynta, yoghurt, cashewnöt",
-        "price": "132 kr",
-        "tags": [
-          "chicken",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "Kryddkokt couscous",
-        "category": "Wood",
-        "description": "granatäpple, kikärtscremé, gröna blad, persilja, vegansk fetaost, grilloumi, solrosfrön",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "vegetarian",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "Potatisgratäng med bearnaiseörter",
-        "category": "Metal",
-        "description": "mörbakad fläskkarré, rödvinssås, kryddrostade morötter, sallad på syrad lök och körvel",
-        "price": "132 kr",
-        "tags": [
-          "pork",
           "salad",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Bakad kyckling",
+        "category": "Fire",
+        "description": "jasminris, sötsursås, vitlöksbroccoli, koriander",
+        "price": "132 kr",
+        "tags": [
+          "chicken"
+        ]
+      },
+      {
+        "name": "Saltbakad rotselleri",
+        "category": "Wood",
+        "description": "krispig grönkål, vinägerkokta linser, ceasardressing, kikos, syrad silverlök",
+        "price": "132 kr",
+        "tags": [
+          "vegetarian",
+          "salad",
+          "rootvegetables",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Fläsk med löksås",
+        "category": "Metal",
+        "description": "stekt rimmat fläsk, kokt potatis, lingon, persilja",
+        "price": "132 kr",
+        "tags": [
+          "beef",
+          "pork",
           "rootvegetables",
           "drinks"
         ]
@@ -619,7 +619,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -738,7 +738,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Veckans: Stekt senapsmarinerad strömming",
@@ -818,7 +818,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "9 bitar",
@@ -981,7 +981,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1256,7 +1256,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1464,7 +1464,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1682,7 +1682,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1706,7 +1706,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "vanlig 10 bitar",
@@ -2100,7 +2100,7 @@
   },
   "RestaurantPier11Scraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Pasta \"Arrabiata\" med tomat",

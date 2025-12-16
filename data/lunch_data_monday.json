@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Caesarsallad",
@@ -261,7 +261,7 @@
   },
   "CuckoosNestScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "",
@@ -321,24 +321,24 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-12",
+    "last_scraped": "2025-12-16",
     "items": [
       {
-        "name": "\"Tom Kha Gai” Fisk i kryddig kokossås",
+        "name": "Bakad fisk",
         "category": "Water",
-        "description": "jasminris, koriander, stekt champinjon, rostad zucchini, limebladsolja, salladslök, bakad tomat",
+        "description": "krossad potatis, jalapenoveloute, dillolja, salsa på salladslök och blekselleri, örter",
         "price": "132 kr",
         "tags": [
-          "thai",
-          "beef",
+          "mexican",
           "fish",
-          "salad"
+          "salad",
+          "rootvegetables"
         ]
       },
       {
-        "name": "Butter chicken",
+        "name": "Bakad kyckling",
         "category": "Fire",
-        "description": "basmatiris, bakat kycklinglår, koriander, mynta, yoghurt, cashewnöt",
+        "description": "jasminris, sötsursås, vitlöksbroccoli, koriander, jordnötter, krispig lök",
         "price": "132 kr",
         "tags": [
           "chicken",
@@ -346,24 +346,25 @@
         ]
       },
       {
-        "name": "Kryddkokt couscous",
+        "name": "Saltbakad rotselleri",
         "category": "Wood",
-        "description": "granatäpple, kikärtscremé, gröna blad, persilja, vegansk fetaost, grilloumi, solrosfrön",
+        "description": "krispig grönkål, vinägerkokta linser, ceasardressing, kikos, syrad silverlök",
         "price": "132 kr",
         "tags": [
-          "greek",
           "vegetarian",
-          "nuts_seeds"
+          "salad",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Potatisgratäng med bearnaiseörter",
+        "name": "Fläsk med löksås",
         "category": "Metal",
-        "description": "mörbakad fläskkarré, rödvinssås, kryddrostade morötter, sallad på syrad lök och körvel",
+        "description": "stekt rimmat fläsk, kokt potatis, lingon, persilja",
         "price": "132 kr",
         "tags": [
+          "beef",
           "pork",
-          "salad",
           "rootvegetables",
           "drinks"
         ]
@@ -606,7 +607,7 @@
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -725,7 +726,7 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Veckans: Stekt senapsmarinerad strömming",
@@ -805,7 +806,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "9 bitar",
@@ -968,7 +969,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1243,7 +1244,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1451,7 +1452,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1669,7 +1670,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1693,7 +1694,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-15",
+    "last_scraped": "2025-12-16",
     "items": [
       {
         "name": "vanlig 10 bitar",
