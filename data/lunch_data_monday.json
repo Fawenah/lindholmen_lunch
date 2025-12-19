@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Caesarsallad",
@@ -112,7 +112,7 @@
   },
   "DistrictOneScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-17",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "",
@@ -195,7 +195,7 @@
   },
   "BombayBistroScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-17",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "MURGH PAPADOM",
@@ -261,27 +261,39 @@
   },
   "CuckoosNestScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "",
         "category": "FISK",
-        "description": "Bakad torsk serveras med kokt potatis, bakad purjolök och räksås med saffran",
+        "description": "Rödbetsglaserad kummelfilé serveras med rostad palsternacka, fänkål, grönkål, rostad mandel och apelsingräddsås",
         "price": "195 kr",
         "tags": [
           "fish",
-          "rootvegetables"
+          "rootvegetables",
+          "nuts_seeds"
         ]
       },
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Viltfärsbiffar serveras med kålrotspuré, brysselkål, svartvinbärsgelé och gräddsås smaksatt med nejlika",
+        "description": "Fläskmedaljong serveras med rotselleripuré smaksatt med senap, rårörda lingon, morötter och glöggsky",
         "price": "195 kr",
         "tags": [
-          "beef",
+          "indian",
+          "pork",
           "rootvegetables",
           "drinks"
+        ]
+      },
+      {
+        "name": "",
+        "category": "VEG",
+        "description": "Saffransrisotto serveras med honung- & dijonrostad butternutpumpa, rostade pumpafrön och örtolja",
+        "price": "195 kr",
+        "tags": [
+          "italian",
+          "vegetarian"
         ]
       },
       {
@@ -321,7 +333,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Bakad fisk",
@@ -373,7 +385,7 @@
   },
   "MissFScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-17",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -607,7 +619,7 @@
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -726,7 +738,7 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Veckans: Stekt senapsmarinerad strömming",
@@ -806,7 +818,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "9 bitar",
@@ -969,7 +981,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1244,7 +1256,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1452,7 +1464,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1670,7 +1682,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1694,7 +1706,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-18",
+    "last_scraped": "2025-12-19",
     "items": [
       {
         "name": "vanlig 10 bitar",
