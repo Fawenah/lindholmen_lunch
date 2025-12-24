@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "Caesarsallad",
@@ -92,7 +92,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "",
@@ -112,7 +112,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -176,7 +176,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "",
@@ -276,7 +276,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -510,7 +510,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -629,12 +629,12 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
-        "name": "Vegetarisk Mån–Tis:  Buns",
+        "name": "Vegetarisk Mån–Tis: Aranchini",
         "category": "Veckans",
-        "description": "Tofu – Rödkålssallad– sirasha majonnäs – Koriander",
+        "description": "Tomatsås – Tryffelkräm – Tomat & Löksallad – Rucola",
         "price": "130 kr",
         "tags": [
           "vegetarian",
@@ -654,7 +654,7 @@
         ]
       },
       {
-        "name": "GOD JUL",
+        "name": "Gott nytt år!!!",
         "category": "Lunch",
         "description": "",
         "price": "130 kr",
@@ -664,7 +664,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "9 bitar",
@@ -827,7 +827,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1101,7 +1101,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1309,7 +1309,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1527,7 +1527,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1551,7 +1551,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-23",
+    "last_scraped": "2025-12-24",
     "items": [
       {
         "name": "vanlig 10 bitar",
