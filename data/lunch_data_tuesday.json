@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "Caesarsallad",
@@ -97,8 +97,19 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
+      {
+        "name": "",
+        "category": "Pad thai",
+        "description": "Wokade risnudlar med kyckling, grönsaker, ägg, chili, lime och jordnötter.",
+        "price": "129 kr",
+        "tags": [
+          "thai",
+          "chicken",
+          "nuts_seeds"
+        ]
+      },
       {
         "name": "",
         "category": "Sallad",
@@ -163,23 +174,27 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
-        "name": "LEMON PEPPER CHICKEN",
+        "name": "CHICKEN BHUNA",
         "category": "",
-        "description": "Kycklingfile tillagad med citron, svartpepper, koriander och kokos.",
+        "description": "Kryddig kycklinggryta med rödlok, chill, tomat, kryddnejlika, koriander och curryblad.",
         "price": "129 kr",
         "tags": [
-          "chicken"
+          "chicken",
+          "soup"
         ]
       },
       {
-        "name": "BHURANI BEEF CURRY",
+        "name": "BEEF ROGAN JOSH",
         "category": "",
-        "description": "Oxkött i en kryddig currysås som består av roasted vitlök, tomat, lök, ingefära och grön chili.",
+        "description": "Oxköttgryta tillagad med lök, tomat, kardemumma, rosvatten och yoghurt.",
         "price": "129 kr",
-        "tags": []
+        "tags": [
+          "indian",
+          "soup"
+        ]
       },
       {
         "name": "TIKKA MASALA",
@@ -223,7 +238,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "",
@@ -290,7 +305,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -524,7 +539,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -643,7 +658,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "Vegetarisk Mån–Tis: Aranchini",
@@ -692,7 +707,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "9 bitar",
@@ -855,7 +870,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -865,32 +880,35 @@
         "tags": []
       },
       {
-        "name": "JARDALO MURG",
+        "name": "MURG HARA MASALA",
         "category": "",
-        "description": "Kycklingfilé med aprikos, kanel, chili, lök, ingefära och currysås.",
+        "description": "Örtkryddad kyckingfilégryta med färsk koriander, bockhornsklöver, basilika och grön chili kokosmjölk.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "chicken"
+          "soup",
+          "drinks"
         ]
       },
       {
-        "name": "LAMB KADHAI",
+        "name": "GOAN FISH CURRY",
         "category": "",
-        "description": "Lammrostbiff lagad med lök, ingefära, peppar, chili och koriander.",
+        "description": "Laxfilé i en väldoftande kokosmjölkagryta med vitlök, svarta senapsfrön, koriander, tamarind och curryblad.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "beef",
-          "lamb"
+          "fish",
+          "soup",
+          "drinks"
         ]
       },
       {
-        "name": "MUTTER PANEER",
+        "name": "PANEER MAKHANI",
         "category": "",
-        "description": "Hemlagad indisk färskost i krämig sås av lök, tomat och gröna ärtor.",
+        "description": "Krämig tomatgryta, indisk färskost, smaksatt med ingefära, vitlök och garam masala.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian"
+          "indian",
+          "soup"
         ]
       },
       {
@@ -1127,7 +1145,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1335,7 +1353,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1553,7 +1571,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1577,7 +1595,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2025-12-26",
+    "last_scraped": "2025-12-29",
     "items": [
       {
         "name": "vanlig 10 bitar",
