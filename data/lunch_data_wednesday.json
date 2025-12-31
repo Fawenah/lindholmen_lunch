@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "Caesarsallad",
@@ -92,7 +92,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "",
@@ -112,7 +112,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "CHICKEN KADHAI",
@@ -176,7 +176,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "",
@@ -276,7 +276,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -510,7 +510,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -629,16 +629,37 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
-        "name": "Vegetarisk Mån–Tis: Aranchini",
+        "name": "Veckans: Fläskfilé Pasta",
         "category": "Veckans",
-        "description": "Tomatsås – Tryffelkräm – Tomat & Löksallad – Rucola",
+        "description": "Tryffel sås – Champinjoner – Zucchini – Rucola – Granapadano",
+        "price": "130 kr",
+        "tags": [
+          "italian",
+          "pork",
+          "pasta",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Vegetarisk Ons- tors: Tortellini",
+        "category": "Veckans",
+        "description": "Tomatsås – Rucola – Granapadano",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian"
+        ]
+      },
+      {
+        "name": "Vegetarisk Fre: Pannoumiburgare",
+        "category": "Veckans",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "salad"
+          "burger"
         ]
       },
       {
@@ -654,17 +675,29 @@
         ]
       },
       {
-        "name": "Gott nytt år!!!",
+        "name": "Wallenbergare",
         "category": "Lunch",
-        "description": "",
+        "description": "Potatispuré – Lingon – Brynt smör – Ärtor – Persilja",
         "price": "130 kr",
-        "tags": []
+        "tags": [
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Pocherad fångst",
+        "category": "Lunch",
+        "description": "Vitvinssås – Fänkålskryddité – Koktpotatis – Dill",
+        "price": "130 kr",
+        "tags": [
+          "rootvegetables",
+          "drinks"
+        ]
       }
     ]
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "9 bitar",
@@ -827,7 +860,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1100,7 +1133,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1308,7 +1341,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1526,7 +1559,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1550,7 +1583,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-30",
+    "last_scraped": "2025-12-31",
     "items": [
       {
         "name": "vanlig 10 bitar",
