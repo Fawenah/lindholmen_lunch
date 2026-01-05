@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "Caesarsallad",
@@ -36,28 +36,28 @@
         ]
       },
       {
-        "name": "Vanlig jävla Pannbiff med smarrigt mos, löksky & saltgurka",
+        "name": "Kooperativets klassiska Köttbullemåndag med potatispuré, pepparsås, rårörda lingon & pressgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "rootvegetables"
         ]
       },
       {
-        "name": "Cod cashew",
-        "category": "FISK GOES ASIAN",
-        "description": "Spiseldad Torsk med wokade grönsaker & cashewnötter i ostronsås serveras med jasminris & koriander",
+        "name": "Spiseldad kolja med Sandefjordsmörsås smaksatt med löjrom, serveras med potatispuré samt citron och örter",
+        "category": "FISK",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
-          "nuts_seeds"
+          "rootvegetables"
         ]
       },
       {
-        "name": "Chicken Tikka Masala",
+        "name": "Chicken Alomonds and Coriander",
         "category": "INDISK",
-        "description": "Indisk currygryta med kyckling & rostad mandel serveras med pickelsmajonnäs, basmatiris, koriander och Naan",
+        "description": "Indisk kycklinggryta med mandel & koriander serveras med basmatiris, yoghurt & garlic Naan CHILI 3/5",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -68,13 +68,14 @@
         ]
       },
       {
-        "name": "Tikka Masala",
+        "name": "Chicken Alomonds and Coriander",
         "category": "VEGETARISK",
-        "description": "Indisk currygryta med ärtprotein & rostad mandel serveras med pickelsmajonnäs, basmatiris, koriander och Naan",
+        "description": "Indisk gryta med ärtprotein, mandel & koriander, serveras med basmatiris, yoghurt & garlic Naan, CHILI 3/5",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
+          "chicken",
           "soup",
           "bread",
           "nuts_seeds"
@@ -84,8 +85,18 @@
   },
   "DistrictOneScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-31",
+    "last_scraped": "2026-01-05",
     "items": [
+      {
+        "name": "",
+        "category": "Fisk",
+        "description": "Panerad spättafile med dansk remouladsås och gröna ärtor, serveras med kokt potatis.",
+        "price": "129 kr",
+        "tags": [
+          "fish",
+          "rootvegetables"
+        ]
+      },
       {
         "name": "",
         "category": "Pad thai",
@@ -158,33 +169,29 @@
   },
   "BombayBistroScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-31",
+    "last_scraped": "2026-01-05",
     "items": [
       {
-        "name": "MÅNDAG",
+        "name": "CHICKEN VINDALOO",
         "category": "",
-        "description": "MÅNDAG",
-        "price": "129 kr",
-        "tags": []
-      },
-      {
-        "name": "PALAK MURGH",
-        "category": "",
-        "description": "Kycklinggryta tillagad med spent, bockhornsklöver och vitlök.",
-        "price": "129 kr",
-        "tags": [
-          "chicken",
-          "soup"
-        ]
-      },
-      {
-        "name": "LAMM TIKKA MASALA",
-        "category": "",
-        "description": "Lammkött bräserad i kokos, grädde, paprika, tomat och spiskummin.",
+        "description": "Kycklingryta med ursprung från Goa består av rödvin, kanel, röd chili, curryblad.",
         "price": "129 kr",
         "tags": [
           "indian",
-          "lamb"
+          "chicken",
+          "soup",
+          "drinks"
+        ]
+      },
+      {
+        "name": "LAMM KORMA",
+        "category": "",
+        "description": "Lammköttgryta gjord av grädde tomat, kardemumma, rosvatten och smör.",
+        "price": "129 kr",
+        "tags": [
+          "indian",
+          "lamb",
+          "soup"
         ]
       },
       {
@@ -229,7 +236,7 @@
   },
   "CuckoosNestScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "",
@@ -296,7 +303,7 @@
   },
   "MissFScraper": {
     "day": "monday",
-    "last_scraped": "2025-12-31",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -530,7 +537,7 @@
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -649,7 +656,7 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "Veckans: Fläskfilé Pasta",
@@ -705,7 +712,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "9 bitar",
@@ -868,7 +875,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -878,31 +885,33 @@
         "tags": []
       },
       {
-        "name": "MURG LUCKNOWI",
+        "name": "MURG MAKHNI",
         "category": "",
-        "description": "Kycklingfilé tlagad med lök, tomat, ingefära, CN, kewra, rosenvatten och koriander",
+        "description": "Tandoorimarinerade kyckingfiébita i krämig tomatsås med kardemumma",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "chicken"
+          "indian"
         ]
       },
       {
-        "name": "ADRAKI LAMB DO PYAZA",
+        "name": "ACHARI MIRCH",
         "category": "",
-        "description": "Lammrostbift, lagas med rödlök, ingefära, chili, citron och indiska \"Panch phoron\" (fem kryddor).",
+        "description": "Lammrostbitf med röd chili, limeblad, färsk ingefära, pickles, mynta och kokosmjölk",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "lamb",
-          "soup"
+          "drinks"
         ]
       },
       {
-        "name": "PUDINA CHANA MASALA",
+        "name": "DAL MAKHANI",
         "category": "",
-        "description": "Kikärtsgryta med mynta. och currysås, garnerad med friterad lök.",
+        "description": "Flamberade linser i krämig tomatgryta, smaksatt med ingefära, vitök, garam masala och kryddat indiskt smör.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
+          "vegetarian",
+          "lamb",
           "soup"
         ]
       },
@@ -1140,7 +1149,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1348,7 +1357,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1566,7 +1575,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1590,7 +1599,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-05",
     "items": [
       {
         "name": "vanlig 10 bitar",
