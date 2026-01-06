@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,66 +26,87 @@
         ]
       },
       {
-        "name": "VEG Caesarsallad",
-        "category": "SALLADER",
-        "description": "Romansallad toppad med friterad halloumi och grillade grönsaker serveras med caesardressing, riven grana padano samt krutonger",
+        "name": "”Bi bim Bap” med wokad kyckling toppad med soyasås, serveras på bullgur, kimchigurka, soyabönor, sesammorötter och böngroddar samt chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "salad"
+          "chicken"
         ]
       },
       {
-        "name": "Kooperativets klassiska Köttbullemåndag med potatispuré, gräddsås, rårörda lingon & pressgurka",
+        "name": "”Bi Bim Bap” med falafel på gråärta toppad med soyasås, serveras på bullgur, kimchigurka, soyabönor, sesammorötter och böngroddar, serveras med chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "korean",
+          "vegetarian"
+        ]
+      },
+      {
+        "name": "God jävla Pannbiff med smarrigt mos, löksky & saltgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "rootvegetables"
+          "beef"
         ]
       },
       {
-        "name": "Bakad kolja med klassiska tillbehör, hackat ägg, brynt smör, citron & pepparrot",
+        "name": "Pocherad torsk serveras med potatispuré, sandefjordsås  ,rostad panko och örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "fish",
+          "rootvegetables"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Chicken",
+        "name": "Chicken madras",
         "category": "INDISK",
-        "description": "Indisk gryta med majskyckling serveras med rostad mandel, koriander, Naan samt feffakräm chili 1/5",
+        "description": "Indisk curry med kyckling serveras med Mango chutney, basmatiris och koriander samt smörat Naan, Chili 3/5",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
-          "soup",
-          "bread",
+          "bread"
+        ]
+      },
+      {
+        "name": "Bulgogi på wokad kyckling med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära, serveras med jasminris & hjärtsallad",
+        "category": "EAST ASIA",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "korean",
+          "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Marstrands stolthet, Afrikana",
+        "category": "VÄRLDEN",
+        "description": "Kolgrillad kyckling, krämig currysås, friterade bananchips, mandariner,  jordnötter samt mango chutney",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "chicken",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Halloumi",
-        "category": "VEGETARISKT",
-        "description": "Indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
+        "name": "Marstrands vegetariska stolthet, Afrikana",
+        "category": "VEGETARISK",
+        "description": "Grillad quorn, krämig currysås, friterade bananchips, mandariner, jordnötter samt mango chutney",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "soup",
-          "bread",
           "nuts_seeds"
-        ]
-      },
-      {
-        "name": "”No Fish” med klassiska tillbehör, hackat ägg, brynt smör, citron & pepparrot",
-        "category": "VEGETARISKT",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "vegetarian"
         ]
       }
     ]
@@ -235,7 +256,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "",
@@ -569,7 +590,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -688,7 +709,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Veckans: Fläskfilé Pasta",
@@ -756,7 +777,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "9 bitar",
@@ -919,7 +940,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1187,7 +1208,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1395,7 +1416,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1613,7 +1634,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1637,7 +1658,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "vanlig 10 bitar",

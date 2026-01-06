@@ -1,12 +1,12 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-02",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Caesarsallad",
         "category": "SALLADER",
-        "description": "Romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
+        "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
         "price": "130 kr",
         "tags": [
           "chicken",
@@ -17,7 +17,7 @@
       {
         "name": "Västkust Caesarsallad",
         "category": "SALLADER",
-        "description": "Romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger",
+        "description": "romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger",
         "price": "130 kr",
         "tags": [
           "fish",
@@ -26,57 +26,93 @@
         ]
       },
       {
-        "name": "VEG Caesarsallad",
-        "category": "SALLADER",
-        "description": "Romansallad toppad med friterad halloumi och grillade grönsaker serveras med caesardressing, riven grana padano samt krutonger",
+        "name": "”Bi bim Bap” med wokad kyckling toppad med soyasås, serveras på bullgur, kimchigurka, soyabönor, sesammorötter och böngroddar samt chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "salad"
+          "chicken"
         ]
       },
       {
-        "name": "Kooperativet klassiska Schnitzel på gårdsgris toppad med vispat brynt smör smaksatt med vitlök och örter, serveras med steksky samt nyrostade potatisar och en klassisk citronklyfta",
+        "name": "”Bi Bim Bap” med falafel på gråärta toppad med soyasås, serveras på bullgur, kimchigurka, soyabönor, sesammorötter och böngroddar, serveras med chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "korean",
+          "vegetarian"
+        ]
+      },
+      {
+        "name": "Kooperativets ”Vintriga gryta” på vårat vis med nattbakad högrev, gräddig steksky, brynta champinjoner & smålökar serveras med potatispuré smaksatt med lagrad prästsost",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "pork",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "Soyaglacerad Sej i krämig rödcurry med kokosmjölk, serveras med wokade grönsaker, jasminris samt koriander om man vill",
-        "category": "FISK GOES ASIAN",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "fish",
+          "soup",
+          "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Halloumi",
-        "category": "VEGETARISKT",
-        "description": "indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm, 1/5",
+        "name": "Smörstekt sejfilé serveras med dillkokt potatis, remouladsås, brynt smör samt citron och örtsallad",
+        "category": "FISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "beef",
+          "fish",
+          "salad",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Kooperativets klassiska Butter Chicken",
+        "category": "INDISK",
+        "description": "indisk gryta med majskyckling serveras med rostad mandel, koriander, Naan samt feffakräm chili 1/5",
         "price": "130 kr",
         "tags": [
           "indian",
-          "vegetarian",
+          "chicken",
           "soup",
           "bread",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Chicken",
-        "category": "INDISK",
-        "description": "Indisk gryta med majskyckling serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
+        "name": "Japanese style tonkatsu",
+        "category": "EAST ASIA",
+        "description": "Kycklingbröst bankas lätt ,dubbelpaneras i panko och friteras frasig…. toppas på nykokt jasminris tillsammans med krämigt ägg, tonkatsusås, vitlöksmajonnäs & koriander",
+        "price": "130 kr",
+        "tags": [
+          "chicken"
+        ]
+      },
+      {
+        "name": "Kooperativets ”BIG MAC” burger",
+        "category": "VÄRLDEN",
+        "description": "Högrevsburgare toppad med cheddarost i lyxigt briochebröd,  burgardressing, finstrimlad isbergssallad & tärnad lök serveras med frasiga pommes",
+        "price": "130 kr",
+        "tags": [
+          "beef",
+          "burger",
+          "salad",
+          "bread",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Kooperativets klassiska Butter Halloumi",
+        "category": "VEGETARISK",
+        "description": "indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
         "price": "130 kr",
         "tags": [
           "indian",
-          "chicken",
+          "vegetarian",
           "soup",
           "bread",
           "nuts_seeds"
@@ -168,7 +204,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "",
@@ -499,7 +535,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -618,7 +654,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Veckans: Fläskfilé Pasta",
@@ -688,7 +724,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "9 bitar",
@@ -851,7 +887,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1122,7 +1158,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1330,7 +1366,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1548,7 +1584,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1572,7 +1608,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "vanlig 10 bitar",

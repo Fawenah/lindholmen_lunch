@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,68 +26,86 @@
         ]
       },
       {
-        "name": "VEG Caesarsallad",
-        "category": "SALLADER",
-        "description": "Romansallad toppad med friterad halloumi och grillade grönsaker, serveras med caesardressing, riven grana padano samt krutonger",
+        "name": "”Bi bim Bap” med wokad kyckling toppad med soyasås, serveras på bullgur, kimchigurka, soyabönor, sesammorötter och böngroddar samt chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "salad"
+          "chicken"
+        ]
+      },
+      {
+        "name": "”Bi Bim Bap” med falafel på gråärta toppad med soyasås, serveras på bullgur, kimchigurka, soyabönor, sesammorötter och böngroddar, serveras med chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "korean",
+          "vegetarian"
         ]
       },
       {
         "name": "Fredagsgrillen",
         "category": "KÖTT",
-        "description": "Kolgrillad gårdsgris med pommes & bea såklart",
+        "description": "Berra levererar gött kött med smarriga tillbehör",
         "price": "130 kr",
-        "tags": [
-          "pork",
-          "rootvegetables"
-        ]
+        "tags": []
       },
       {
-        "name": "Klassisk Havets Wallenbergare serveras potatispuré, gröna ärtor, lingon, brynt smör samt citron och örter",
+        "name": "Vinbakad kolja serveras med potatispuré smaksatt med västerbottenost, skaldjurssås och gröna ärtor",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
-          "rootvegetables"
+          "seafood",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Oklassisk helbakad rotselleri serveras med potatispuré, gröna ärtor, lingon, brynt smör samt citron och örter",
-        "category": "VEGETARISKT",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "vegetarian",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "Murgh Masala",
+        "name": "Kolgrillad Tandoori kycklingbröst serveras masalasås, myntayoghurt och sallad på spenat & rödlök samt smörat Naan",
         "category": "INDISK",
-        "description": "Indisk gryta med kyckling serveras med basmatiris, mangochutney, smörat Naan och koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
-          "soup",
+          "salad",
           "bread"
         ]
       },
       {
-        "name": "Samosa Masala indisk gryta med friterade potatisknyten fyllda med grönsaker, serveras med basmatiris, mangochutney, smörat Naan och koriander",
-        "category": "VEGETARISKT",
-        "description": "",
+        "name": "Chicken Mongolian BBQ",
+        "category": "EAST ASIA",
+        "description": "Wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
         "price": "130 kr",
         "tags": [
-          "indian",
-          "vegetarian",
-          "soup",
+          "chicken",
+          "nuts_seeds"
+        ]
+      },
+      {
+        "name": "Kooperativets Philly Cheese Sandwich",
+        "category": "VÄRLDEN",
+        "description": "Surdegsbröd toppat med nattbakad högrev rostad paprika & brynt lök, serveras med varm ostsås smaksatt med jalapeños samt frasiga pommes",
+        "price": "130 kr",
+        "tags": [
+          "beef",
           "bread",
           "rootvegetables"
+        ]
+      },
+      {
+        "name": "Vegetarian Mongolian BBQ",
+        "category": "VEGETARISK",
+        "description": "Wokade äggnudlar med grönsaker i soyaglace toppad med pea chunks, rostade sesamfrön & koriander",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian",
+          "nuts_seeds"
         ]
       }
     ]
@@ -181,7 +199,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "",
@@ -512,7 +530,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -631,7 +649,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Veckans: Fläskfilé Pasta",
@@ -703,7 +721,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "9 bitar",
@@ -866,7 +884,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1141,7 +1159,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1349,7 +1367,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1567,7 +1585,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1591,7 +1609,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-01-05",
+    "last_scraped": "2026-01-06",
     "items": [
       {
         "name": "vanlig 10 bitar",
