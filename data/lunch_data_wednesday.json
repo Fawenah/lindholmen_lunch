@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "Caesarsallad",
@@ -113,7 +113,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "",
@@ -202,7 +202,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -267,7 +267,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "",
@@ -306,23 +306,12 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2025-12-19",
+    "last_scraped": "2026-01-08",
     "items": [
       {
-        "name": "Saltbakade betor",
-        "category": "Earth",
-        "description": "vit bönhummus, timjan-vitlökscrisp (panko), dragonvinägrett, kålrabbicrudité, pumpafrön -krasse, libabröd",
-        "price": "132 kr",
-        "tags": [
-          "greek",
-          "bread",
-          "drinks"
-        ]
-      },
-      {
-        "name": "Bakad fisk",
+        "name": "Halstrad lax",
         "category": "Water",
-        "description": "potatispuré, skummig hummersås, dragonolja, inlagd fänkål, bittra blad, dill",
+        "description": "bakade tomater, skummig hummersås, kokt potatis, citronmarinerad fänkål, dill",
         "price": "132 kr",
         "tags": [
           "fish",
@@ -331,43 +320,33 @@
         ]
       },
       {
-        "name": "Bakad kyckling",
+        "name": "Rostad fläsksida",
         "category": "Fire",
-        "description": "jasminris, sötsursås, vitlöksbroccoli, koriander",
+        "description": "kikärtskräm, kryddigt ris, granatäpple, fetaost, syrad rödkål, koriander, mynta, solrosfrön (Vegan option available)",
         "price": "132 kr",
         "tags": [
-          "chicken"
-        ]
-      },
-      {
-        "name": "Saltbakad rotselleri",
-        "category": "Wood",
-        "description": "krispig grönkål, vinägerkokta linser, ceasardressing, kikos, syrad silverlök",
-        "price": "132 kr",
-        "tags": [
+          "greek",
           "vegetarian",
-          "salad",
-          "rootvegetables",
+          "pork",
+          "nuts_seeds",
           "drinks"
         ]
       },
       {
-        "name": "Fläskschnitzel",
+        "name": "Bratwurst",
         "category": "Metal",
-        "description": "rostad potatis, rödvinssås med rökt märg, stekt champinjon, syrad lök, persilja",
+        "description": "rostade rotfrukter, honungs och senapskräm, rostad potatis, körvel, steksky",
         "price": "132 kr",
         "tags": [
           "beef",
-          "pork",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       }
     ]
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -601,7 +580,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -720,7 +699,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "Veckans: Fläskfilé Pasta",
@@ -788,7 +767,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "9 bitar",
@@ -951,7 +930,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1219,7 +1198,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1427,7 +1406,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1645,7 +1624,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1669,7 +1648,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-01-07",
+    "last_scraped": "2026-01-08",
     "items": [
       {
         "name": "vanlig 10 bitar",
