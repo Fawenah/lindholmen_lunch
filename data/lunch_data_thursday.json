@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "Caesarsallad",
@@ -117,7 +117,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "",
@@ -208,26 +208,26 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
-        "name": "CHILI CHICKEN",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Kycklingfilé tillagad med chili, masala, rödlök, paprika, vinäger, ingefära och vitlök.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och.smör.",
         "price": "129 kr",
         "tags": [
-          "indian",
           "chicken",
-          "drinks"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "BEEF MALAI KORMA",
+        "name": "BEEF SHARABI",
         "category": "",
-        "description": "Oxköttgryta tillagad en gräddsås med tomat, kardemumma, rosvatten och smör.",
+        "description": "Oxköttgryta tillagad med en kryddstark cognacsås gjord på vitlök, ingefära, linser och grön chili.",
         "price": "129 kr",
         "tags": [
-          "indian",
+          "vegetarian",
           "soup"
         ]
       },
@@ -273,7 +273,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "",
@@ -387,7 +387,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -621,7 +621,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -739,37 +739,41 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
-        "name": "Veckans: Pytt Bellman",
+        "name": "Veckans: Lax pasta",
         "category": "Veckans",
-        "description": "Rödbetor – Senapsstuvning – Stekt ägg – Persilja",
-        "price": "130 kr",
-        "tags": [
-          "beef"
-        ]
-      },
-      {
-        "name": "Vegetarisk Mån–Tis: Gnocchi",
-        "category": "Veckans",
-        "description": "Tomat – Vitlök – Chili – Citron – Brynt smör – Granapadano – Rucola",
+        "description": "Vitvinssås – Spenat – Tagliatelle – Granapadano",
         "price": "130 kr",
         "tags": [
           "italian",
-          "vegetarian"
+          "fish",
+          "pasta",
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Ons- Tors: Blomkåls tikka",
+        "name": "Vegetarisk Mån–Tis: Friterad fetaost",
         "category": "Veckans",
-        "description": "Tandori – Kokosmjölk – Nan bröd – Linser – Jasminris – Koriander",
+        "description": "Tzatziki – Ratatouille – Rostad potatis – Rucola",
         "price": "130 kr",
         "tags": [
-          "indian",
+          "greek",
           "vegetarian",
-          "bread",
-          "drinks"
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Vegetarisk Ons- Tors: quesadilla",
+        "category": "Veckans",
+        "description": "Bönragu – Avokadokräm – Rödkålssallad – koriander",
+        "price": "130 kr",
+        "tags": [
+          "mexican",
+          "vegetarian",
+          "salad",
+          "taco"
         ]
       },
       {
@@ -795,23 +799,23 @@
         ]
       },
       {
-        "name": "Högrevs burgare",
+        "name": "Natt bakat högrev",
         "category": "Lunch",
-        "description": "Pepper jack ost – Chrispy chili majonnäs – Tomat – Sallad – Pommes",
+        "description": "Kantarell risotto – Rödvinssås – Rucola – Granapadano",
         "price": "130 kr",
         "tags": [
+          "italian",
           "beef",
-          "burger",
-          "salad",
-          "rootvegetables"
+          "drinks"
         ]
       },
       {
-        "name": "Pocherad fångst",
+        "name": "Pankostekt Fångst",
         "category": "Lunch",
-        "description": "Sandefjordssås – Smörslungade morötter – Kokt potatis – Gräslök",
+        "description": "Skagenröra – Potatispuré – Ärtor – Citron – Dill & Gräslök",
         "price": "130 kr",
         "tags": [
+          "beef",
           "rootvegetables"
         ]
       }
@@ -819,7 +823,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "9 bitar",
@@ -982,7 +986,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -992,9 +996,9 @@
         "tags": []
       },
       {
-        "name": "TANDOORI CHICKEN TIKKA",
+        "name": "GARLIC TIKKA",
         "category": "",
-        "description": "Kyckingfilé marinerad i lime, yoghurt och tandoori masala. Serveras med tandoorsås.",
+        "description": "Kycklingfilé marinerad i vitlök, ingefära, grön chili, yoghurt och lime. Serveras med tandoorisås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
@@ -1002,25 +1006,24 @@
         ]
       },
       {
-        "name": "KOLHAPURI GOSHT",
+        "name": "LAMB HYDERABAD",
         "category": "",
-        "description": "Het lammrätt med svartpeppar, kokosmjölk och koriander.",
+        "description": "Lamm med färsk koriander, mynta och grön chili i kokosmjölk.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
           "lamb",
           "drinks"
         ]
       },
       {
-        "name": "PANCHRATNA DAL",
+        "name": "DAL TADKA",
         "category": "",
-        "description": "Linsgryta med fem sorters linser. Ordet \"panchratna\" betyder fem juveler.",
+        "description": "Flamberade linser (Toor Dal ellr Arhar Dal) med traditionella indiska kryddor och koriander.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "soup"
+          "lamb"
         ]
       },
       {
@@ -1257,7 +1260,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1465,7 +1468,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1683,7 +1686,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1707,7 +1710,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-01-23",
+    "last_scraped": "2026-01-26",
     "items": [
       {
         "name": "vanlig 10 bitar",
