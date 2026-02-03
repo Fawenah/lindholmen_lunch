@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Caesarsallad",
@@ -120,7 +120,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "",
@@ -210,7 +210,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "PAHADI GRILL CHICKEN",
@@ -277,14 +277,15 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "",
         "category": "KÖTT",
-        "description": "Ankbröst serveras med rostad palsternacka, bakad lök och rödvinssås med rosmarin",
+        "description": "Örtbakad tenderstrip serveras med råstekt potatis, honungsbakade morötter och rödvinssås",
         "price": "195 kr",
         "tags": [
+          "beef",
           "rootvegetables",
           "drinks"
         ]
@@ -292,21 +293,23 @@
       {
         "name": "",
         "category": "FISK",
-        "description": "Örtsmörsbakad kolja serveras med matvetesallad, citronsås och friterad svartkål",
+        "description": "Torskfilé serveras med potatispuré, smörstekt savoykål, pancetta, vitvinssås och örtolja",
         "price": "195 kr",
         "tags": [
+          "beef",
           "fish",
-          "salad"
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Bakad rödbeta serveras med potatispuré smaksatt med getost, friterad svartkål och brynt smör smaksatt med tryffel",
+        "description": "Sparris- & tomatrisotto serveras med friterad enokisvamp, grana padano och örtolja",
         "price": "195 kr",
         "tags": [
-          "vegetarian",
-          "rootvegetables"
+          "italian",
+          "vegetarian"
         ]
       },
       {
@@ -346,7 +349,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Bakad sej",
@@ -386,7 +389,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -620,7 +623,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -738,7 +741,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Veckans: Kålpudding",
@@ -819,7 +822,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "9 bitar",
@@ -982,7 +985,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1257,7 +1260,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1465,7 +1468,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1683,7 +1686,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1707,7 +1710,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-02",
+    "last_scraped": "2026-02-03",
     "items": [
       {
         "name": "vanlig 10 bitar",
