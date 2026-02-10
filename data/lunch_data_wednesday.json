@@ -1,75 +1,8 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
-      {
-        "name": "Caesarsallad",
-        "category": "SALLADER",
-        "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
-        "price": "130 kr",
-        "tags": [
-          "chicken",
-          "pork",
-          "salad"
-        ]
-      },
-      {
-        "name": "Västkust Caesarsallad",
-        "category": "SALLADER",
-        "description": "romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger",
-        "price": "130 kr",
-        "tags": [
-          "fish",
-          "seafood",
-          "salad"
-        ]
-      },
-      {
-        "name": "Bim Bim Bap med grillad tonfisk glacerad i soyasås serveras på sesamris med kimchi, soyabönor, smashed cucumber och böngroddar, serveras med chilimajonnäs & bakat ägg",
-        "category": "VECKANS SPECIAL",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "korean",
-          "vegetarian",
-          "fish",
-          "burger"
-        ]
-      },
-      {
-        "name": "VEG Bim Bim Bap med friterade tofu i soyaglace serveras på sesamris med kimchi, soyabönor, smashed cucumber och böngroddar, serveras med chilimajonnäs & bakat ägg",
-        "category": "VECKANS SPECIAL",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "korean",
-          "vegetarian",
-          "burger"
-        ]
-      },
-      {
-        "name": "Kalv Wallenbergare med krämig potatispure smaksatt med västerbottenost, rödvinssås smaksatt med bryntsmör & enbär serveras med lingon & gröna ärtor",
-        "category": "KÖTT",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "beef",
-          "rootvegetables",
-          "drinks"
-        ]
-      },
-      {
-        "name": "Stekt panerad sejfile serveras med dillkokt potatis, rostad grönsaksröra samt citron och örter",
-        "category": "FISK",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "beef",
-          "fish",
-          "rootvegetables"
-        ]
-      },
       {
         "name": "Kooperativets klassika Pad Thai",
         "category": "EAST ASIA",
@@ -120,7 +53,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "",
@@ -210,7 +143,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "CHICKEN BALTI",
@@ -274,7 +207,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "",
@@ -343,7 +276,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Kräm på rostad jordärtskocka & miso",
@@ -384,7 +317,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -618,7 +551,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -736,7 +669,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Veckans: Fläskfilé pasta",
@@ -815,7 +748,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "9 bitar",
@@ -978,7 +911,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1248,7 +1181,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1456,7 +1389,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1674,7 +1607,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1698,7 +1631,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "vanlig 10 bitar",

@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,7 +26,7 @@
         ]
       },
       {
-        "name": "Bim Bim Bap med grillad tonfisk glacerad i soyasås serveras på sesamris med kimchi, soyabönor, smashed cucumber och böngroddar, serveras med chilimajonnäs & bakat ägg",
+        "name": "Bim Bim Bap med sesamhalstrad tonfisk serveras på ris med kimchi, soyabönor, gurksallad och böngroddar, serveras med chilimajonnäs, bakat ägg & koriander",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
@@ -34,18 +34,18 @@
           "korean",
           "vegetarian",
           "fish",
-          "burger"
+          "salad"
         ]
       },
       {
-        "name": "VEG Bim Bim Bap med friterade tofu i soyaglace serveras på sesamris med kimchi, soyabönor, smashed cucumber och böngroddar, serveras med chilimajonnäs & bakat ägg",
+        "name": "VEG Bim Bim Bap med friterad tofu i soyaglace serveras på ris med kimchi, soyabönor, gurksallad och böngroddar, serveras med chilimajonnäs, bakat ägg & koriander",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
           "korean",
           "vegetarian",
-          "burger"
+          "salad"
         ]
       },
       {
@@ -117,7 +117,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "",
@@ -205,7 +205,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "KESARI MURGH TIKKA",
@@ -270,7 +270,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "",
@@ -339,7 +339,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Smörrebröd",
@@ -395,7 +395,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -629,7 +629,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -747,7 +747,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Veckans: Fläskfilé pasta",
@@ -827,7 +827,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "9 bitar",
@@ -990,7 +990,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1261,7 +1261,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1469,7 +1469,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1687,7 +1687,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1711,7 +1711,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-09",
+    "last_scraped": "2026-02-10",
     "items": [
       {
         "name": "vanlig 10 bitar",
