@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-23",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Caesarsallad",
@@ -114,7 +114,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "",
@@ -203,7 +203,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "CHICKEN TIKKA",
@@ -270,7 +270,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "",
@@ -369,7 +369,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Bakad torsk",
@@ -405,23 +405,12 @@
           "rootvegetables",
           "drinks"
         ]
-      },
-      {
-        "name": "Klassisk råbiff",
-        "category": "Earth",
-        "description": "inlagda rödbetor, kapris, dijonsenap, pepparrot, hackad lök, pommes med dijonnaise  (vegan option “beet tartar”)",
-        "price": "132 kr",
-        "tags": [
-          "vegetarian",
-          "beef",
-          "rootvegetables"
-        ]
       }
     ]
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -655,7 +644,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -773,7 +762,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-23",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Veckans:Isterband",
@@ -849,7 +838,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "9 bitar",
@@ -1012,7 +1001,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1283,7 +1272,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1491,7 +1480,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1709,7 +1698,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1733,7 +1722,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-02-24",
+    "last_scraped": "2026-02-25",
     "items": [
       {
         "name": "vanlig 10 bitar",
