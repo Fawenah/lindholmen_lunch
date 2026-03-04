@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "Caesarsallad",
@@ -266,7 +266,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "",
@@ -356,7 +356,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "Tacobowl",
@@ -394,7 +394,7 @@
       {
         "name": "Saffransstinn fisk & skaldjurssoppa",
         "category": "Water",
-        "description": "bakad uer, kräftstjärtar, rostad tomat och chiliolja, bakad fänkål, kokt potatis, krutonger",
+        "description": "bakad sej, kräftstjärtar, rostad tomat och chiliolja, bakad fänkål, kokt potatis, krutonger",
         "price": "132 kr",
         "tags": [
           "fish",
@@ -641,7 +641,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -759,7 +759,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -839,7 +839,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "9 bitar",
@@ -1002,7 +1002,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1275,7 +1275,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1483,7 +1483,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1701,7 +1701,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1725,7 +1725,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-04",
     "items": [
       {
         "name": "vanlig 10 bitar",
