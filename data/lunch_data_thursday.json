@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Caesarsallad",
@@ -70,23 +70,26 @@
         ]
       },
       {
-        "name": "Korean Momofuku Bossam",
-        "category": "EAST ASIA",
-        "description": "Nattbakad griskind uppvänd med soyaglace & krossade jordnötter, serveras med picklad rättika, jasminris & hjärtblad",
-        "price": "130 kr",
-        "tags": [
-          "pork",
-          "nuts_seeds"
-        ]
-      },
-      {
         "name": "Smoked Korean BBQ Pork",
-        "category": "INDISK",
+        "category": "EAST ASIA",
         "description": "16h rökt gårdsgris toppad med asiatisk chimichurri serveras med krämig kålsallad och jasminris",
         "price": "130 kr",
         "tags": [
           "pork",
           "salad"
+        ]
+      },
+      {
+        "name": "Kooperativets klassiska Butter Chicken",
+        "category": "INDISK",
+        "description": "Indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm 1/5 chili",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "chicken",
+          "soup",
+          "bread",
+          "nuts_seeds"
         ]
       },
       {
@@ -105,7 +108,7 @@
       {
         "name": "Kooperativets klassiska Butter Halloumi",
         "category": "VEGETARISK",
-        "description": "Indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
+        "description": "Indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5 chili",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -119,7 +122,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "",
@@ -202,7 +205,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "MURGH JHALFREZI",
@@ -264,7 +267,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "",
@@ -354,7 +357,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Bakad sej “tom kha gai”",
@@ -368,12 +371,14 @@
         ]
       },
       {
-        "name": "Baked mac n cheese “chili cheese”",
+        "name": "Baked cheesy pasta “chili cheese”",
         "category": "Fire",
         "description": "inlagd jalapeno, friterad kyckling, hot honey glaze, pickles",
         "price": "132 kr",
         "tags": [
-          "chicken"
+          "italian",
+          "chicken",
+          "pasta"
         ]
       },
       {
@@ -392,7 +397,7 @@
       {
         "name": "Bakad omelett",
         "category": "Earth",
-        "description": "stekt stuvad svamp, grönpeppar, inlagd shiitake, friterad purjolök -frissésallat, körvel & västerbottensost",
+        "description": "stekt stuvad svamp, grönpeppar, inlagd shiitake, friterad purjolök -frissésallat, körvel & parmesan",
         "price": "132 kr",
         "tags": [
           "beef"
@@ -402,7 +407,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-03",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -636,7 +641,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -754,7 +759,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -832,7 +837,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "9 bitar",
@@ -995,7 +1000,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1266,7 +1271,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1474,7 +1479,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1692,7 +1697,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1716,7 +1721,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-05",
+    "last_scraped": "2026-03-06",
     "items": [
       {
         "name": "vanlig 10 bitar",
