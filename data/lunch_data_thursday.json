@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,61 +26,56 @@
         ]
       },
       {
-        "name": "Poke bowl",
+        "name": "Bim Bim Bap med wokad kyckling i soyasås serveras på sesamris med kimchi, soyabönor, smashed cucumber och böngroddar, toppas med chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
-        "description": "Sesamris toppad med chilimarinerade räkor, wakamisallad, soyabönor, groddar, mangosalsa & rostad kokos, serveras med misomajonnäs & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "japanese",
-          "mexican",
+          "korean",
           "vegetarian",
-          "seafood",
-          "salad"
+          "chicken",
+          "burger"
         ]
       },
       {
-        "name": "VEG Buddha bowl",
+        "name": "Bim Bim Bap med quorn i soyasås serveras på sesamris med kimchi, soyabönor, smashed cucumber och böngroddar, toppas med chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
-        "description": "Sesamris toppad med friterad tofu, wakamisallad, soyabönor, groddar, mangosalsa & rostad kokos, serveras med misomajonnäs & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "japanese",
-          "mexican",
+          "korean",
           "vegetarian",
-          "salad"
+          "burger"
         ]
       },
       {
-        "name": "Grillad PigghamKotlett från Scan 56grader med frasig fläsksvål, serveras med Berras krämiga potatisgratäng & rödvinssås",
+        "name": "Vårig Vilt Wallenbergare med krämig potatis & blomkålpuré, rödvinssås smaksatt med brynt smör samt vårprimörer gacerade med citron & timjan",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "pork",
           "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Kingens fisk & skaldjursgryta serveras med dillkokt potatis, julliennegrönsaker, räkor, aioli och krutonger",
+        "name": "Bakad kolja serveras med basilikasås samt potatispuré smaksatt med parmesan & grillad citron, toppat med torkade oliver och örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
-          "seafood",
-          "soup",
           "rootvegetables"
         ]
       },
       {
-        "name": "Chicken Mongolian BBQ",
+        "name": "Smoked Korean BBQ Pork",
         "category": "EAST ASIA",
-        "description": "Wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
+        "description": "16h rökt gårdsgris toppad med asiatisk chimichurri serveras med krämig kålsallad och jasminris",
         "price": "130 kr",
         "tags": [
-          "chicken",
-          "nuts_seeds"
+          "pork",
+          "salad"
         ]
       },
       {
@@ -97,15 +92,15 @@
         ]
       },
       {
-        "name": "Super Chili Cheese Burger",
+        "name": "Truffle Burger",
         "category": "VÄRLDEN (Burgaren går att få med haloumi)",
-        "description": "Högrevsburgare i briochebröd toppad med cheddar, peppar jack & mozzarella, råhyvlad rödlök & chilimajonnäs serveras med frasiga pommes",
+        "description": "Kolgrillad högrevsburgare toppad med cheddarost i briochebröd med karamelliserad lök, tryffelmajonnäs, krispig sallad samt frasiga country fries",
         "price": "130 kr",
         "tags": [
           "beef",
           "burger",
-          "bread",
-          "rootvegetables"
+          "salad",
+          "bread"
         ]
       },
       {
@@ -269,7 +264,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "",
@@ -371,7 +366,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "Friterad sej",
@@ -649,7 +644,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -767,7 +762,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "Veckans: Lax pasta",
@@ -858,7 +853,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "9 bitar",
@@ -1021,7 +1016,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1295,7 +1290,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1503,7 +1498,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1721,7 +1716,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1745,7 +1740,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-03-27",
     "items": [
       {
         "name": "vanlig 10 bitar",
