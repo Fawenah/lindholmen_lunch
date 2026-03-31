@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Caesarsallad",
@@ -119,7 +119,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "",
@@ -207,7 +207,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -272,69 +272,65 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "",
         "category": "",
-        "description": "Stekt majskyckling serveras med rostad potatis, ugnstekt bellaverde broccoli, grana padano och dragongräddsås",
+        "description": "Örtbakad kycklingfilé serveras med klyftpotatis, bacon, vitlökspanko, grana padano och sojamajonnäs",
         "price": "",
         "tags": [
-          "beef",
           "chicken",
+          "pork",
           "rootvegetables"
         ]
       },
       {
         "name": "",
         "category": "",
-        "description": "Havsabborre serveras med potatispuré, purjolök, pepparrot, grönkål och brynt smör",
+        "description": "Bakad rödtunga serveras med gräslöksslungad potatis, lökmarmelad och vitvinssås",
         "price": "",
         "tags": [
-          "fish",
-          "rootvegetables"
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "",
-        "description": "Kycklingschnitzel serveras med chilislungad potatis, brytbönor, vispat ramslökssmör och skysås",
-        "price": "",
-        "tags": [
-          "vegetarian",
-          "chicken",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "",
-        "category": "",
-        "description": "Ost- & pankobakad lax serveras med örtrostad potatis, broccoli och ostkräm",
-        "price": "",
-        "tags": [
-          "fish",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "",
-        "category": "",
-        "description": "Helstekt picanha serveras med råstekt potatis, bakade tomater och chimichurri",
+        "description": "Grekiska färsbiffar serveras med rostad potatis, morot och lökskysås",
         "price": "",
         "tags": [
           "beef",
           "rootvegetables"
         ]
+      },
+      {
+        "name": "",
+        "category": "",
+        "description": "Lax serveras med rostad potatis, fänkålssallad, kaprisbär, pepparrotskräm och citron",
+        "price": "",
+        "tags": [
+          "fish",
+          "salad",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "",
+        "category": "",
+        "description": "Stängt",
+        "price": "",
+        "tags": []
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Sparrisrisotto serveras med grönkål, svamp, mascarpone och rostade valnötter",
+        "description": "Pankopanerad fetaost serveras med beluga linser, sojabönor, honung- & tryffeldressing samt citron",
         "price": "195 kr",
         "tags": [
-          "italian",
-          "vegetarian",
-          "nuts_seeds"
+          "greek",
+          "vegetarian"
         ]
       },
       {
@@ -374,7 +370,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Smörstekt terrine på rotselleri & potatis",
@@ -416,7 +412,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -650,7 +646,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -768,7 +764,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Veckans: Halv special",
@@ -840,7 +836,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "9 bitar",
@@ -1003,7 +999,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1271,7 +1267,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1479,7 +1475,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1697,7 +1693,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1721,7 +1717,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-03-30",
+    "last_scraped": "2026-03-31",
     "items": [
       {
         "name": "vanlig 10 bitar",
