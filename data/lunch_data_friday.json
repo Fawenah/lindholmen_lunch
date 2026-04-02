@@ -124,95 +124,27 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-03-26",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "",
-        "category": "Fisk",
-        "description": "Hollandaise gratinerad torskfile med hollandaisesås och brynta champinjoner, serveras med potatismos.",
-        "price": "129 kr",
-        "tags": [
-          "fish",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Kött",
-        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
-        "price": "129 kr",
-        "tags": [
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Sallad",
-        "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt husets ceasardressing.",
-        "price": "129 kr",
-        "tags": [
-          "chicken",
-          "pork",
-          "salad",
-          "bread"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Asiatisk",
-        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, jordnötter",
-        "price": "129 kr",
-        "tags": [
-          "thai",
-          "chicken",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Asiatisk",
-        "description": "och ägg.",
+        "category": "",
+        "description": "Stängt",
         "price": "129 kr",
         "tags": []
       },
       {
         "name": "",
-        "category": "Vegetarisk",
-        "description": "Tofu med panäng curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "category": "",
+        "description": "Glad påsk!",
         "price": "129 kr",
-        "tags": [
-          "vegetarian",
-          "drinks"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk Poke bowl",
-        "description": "Tofu med sesamfrön, sushiris, romansallad, sojabönor, rädisa, picklad rödlök, mango och avokado, serveras med chili majo och koriander.",
-        "price": "129 kr",
-        "tags": [
-          "vegetarian",
-          "salad",
-          "sushi",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Pho",
-        "description": "Vietnamesisk nudelsoppa med biff, koriander, gräslök, lök, böngroddar, chili, thai basilika, serveras med lime, hoisinsås och srirachasås.",
-        "price": "129 kr",
-        "tags": [
-          "thai",
-          "beef",
-          "soup"
-        ]
+        "tags": []
       }
     ]
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "PAHADI GRILL CHICKEN",
@@ -279,7 +211,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "",
@@ -421,7 +353,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -655,7 +587,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -773,7 +705,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "Veckans: Halv special",
@@ -829,7 +761,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "9 bitar",
@@ -992,7 +924,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1267,7 +1199,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1475,7 +1407,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1693,7 +1625,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1717,7 +1649,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-01",
+    "last_scraped": "2026-04-02",
     "items": [
       {
         "name": "vanlig 10 bitar",
