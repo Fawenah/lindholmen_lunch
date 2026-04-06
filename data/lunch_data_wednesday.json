@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "Caesarsallad",
@@ -124,7 +124,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "",
@@ -212,27 +212,26 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
-        "name": "BUTTER CHICKEN",
+        "name": "CHICKEN BALTI",
         "category": "",
-        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
+        "description": "Kycklingfilé marinerad i vitlök och grön chili tillagad med lök, paprika och champinjoner i en rödvinssås.",
         "price": "129 kr",
         "tags": [
           "chicken",
-          "soup",
-          "nuts_seeds"
+          "drinks"
         ]
       },
       {
-        "name": "BALTI GHOST",
+        "name": "KASHMIRI LAMM KOFTA",
         "category": "",
-        "description": "Lammkött marinerad i vitlök och grön chilli tillagad i en kryddstark rödvinsås, lök, paprika och champinjoner.",
+        "description": "Lammfärsbullar i en sås som består av lök, tomat, kardemumma, rosvatten, bockhornsklöver och grädde.",
         "price": "129 kr",
         "tags": [
-          "lamb",
-          "drinks"
+          "indian",
+          "lamb"
         ]
       },
       {
@@ -277,7 +276,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "",
@@ -375,41 +374,47 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
-        "name": "Smörstekt terrine på rotselleri & potatis",
+        "name": "Pokebowl",
         "category": "Earth",
-        "description": "grillad potatishollandaise, sherrykaramell, örtigt mandelpulver, inkokt havtorn (vegan option) Water: Påskfisken, bakad sej, gubbröra, kokt potatis, brynt smör, pepparrot Easter fish, baked pollock, “gubbröra” (Swedish egg & anchovy mix), boiled potatoes, browned butter, horseradish",
+        "description": "sushiris, crispy chili oil, marinerade kräftstjärtar, syrad kål, grillad ingefärsmajonnäs, avokado (vegan option tofu)",
         "price": "132 kr",
         "tags": [
           "vegetarian",
-          "beef",
-          "fish",
-          "rootvegetables",
-          "nuts_seeds"
+          "salad",
+          "sushi"
         ]
       },
       {
-        "name": "Grillad kyckling",
-        "category": "Fire",
-        "description": "försmak på sommargrillningens potatissallad, pebre aji, rostad vitlöksmajonnäs och citron",
+        "name": "Bakad fisk",
+        "category": "Water",
+        "description": "potatispuré, curryvelouté, gröna ärtor, råhyvlad zucchini, gravad citron, mynta",
         "price": "132 kr",
         "tags": [
-          "chicken",
-          "salad",
+          "fish",
           "rootvegetables"
+        ]
+      },
+      {
+        "name": "Butter chicken",
+        "category": "Fire",
+        "description": "grillade kycklinglår, butter chicken gravy, gurka, yoghurt, koriander, rostade mandlar",
+        "price": "132 kr",
+        "tags": [
+          "chicken"
         ]
       },
       {
         "name": "Onsdagsschnitzel",
         "category": "Metal",
-        "description": "Fläskschnitzel, “carbonara”, makaroner i äggulesås, peppar, bacon, parmesan",
+        "description": "Dr Jones special schnitzel, fläskschnitzel, stekt potatis, fondmajonnäs, äppelkompott, persilja",
         "price": "132 kr",
         "tags": [
-          "italian",
+          "beef",
           "pork",
-          "pasta",
+          "rootvegetables",
           "drinks"
         ]
       }
@@ -417,7 +422,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -651,7 +656,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -769,7 +774,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "Veckans: Carbonara",
@@ -850,7 +855,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "9 bitar",
@@ -1013,7 +1018,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1023,27 +1028,29 @@
         "tags": []
       },
       {
-        "name": "CHICKEN KADHAI",
+        "name": "MURG ZAFFRANI",
         "category": "",
-        "description": "Kyckilngflé med tomat, paprika och champinjoner, smaksatt med ingefära, koriander och chili.",
+        "description": "Saffransmarinerad grillad kycking, garam masala i en krämig cashewnötsås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "chicken"
+          "indian",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "KASHMIRI LAMB",
+        "name": "LAHSUNI MACHILI NIMBU",
         "category": "",
-        "description": "Lammrostbitf med tomat, lök, saffran, ingefära, koriander och röd chili.",
+        "description": "Laxfilé, tillagad i en krämig masalasås med smak öv lime.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "lamb"
+          "indian",
+          "fish"
         ]
       },
       {
-        "name": "AUBERGINE MADRASI",
+        "name": "AVIAL CURRY",
         "category": "",
-        "description": "Aubergine tilagad i en krydlig tamarind- och kokossås, smaksatt med färska curryblad och koriander.",
+        "description": "Blandade grönsaker med senaps, kummin, koriander och fänkål i kokossås",
         "price": "119 kr, takeaway 114 kr",
         "tags": []
       },
@@ -1281,7 +1288,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1489,7 +1496,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1707,7 +1714,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1731,7 +1738,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-03",
+    "last_scraped": "2026-04-06",
     "items": [
       {
         "name": "vanlig 10 bitar",
