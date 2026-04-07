@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Caesarsallad",
@@ -123,7 +123,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "",
@@ -140,7 +140,7 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
+        "description": "Wallenbergare med gräddsås och rårörda lingon, serveras med pressgurka och potatispure.",
         "price": "129 kr",
         "tags": [
           "rootvegetables"
@@ -205,7 +205,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -269,7 +269,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "",
@@ -367,7 +367,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Bakad fisk",
@@ -416,7 +416,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -650,7 +650,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -768,7 +768,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Veckans: Carbonara",
@@ -858,7 +858,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "9 bitar",
@@ -1021,7 +1021,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1294,7 +1294,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1502,7 +1502,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1720,7 +1720,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1744,7 +1744,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-06",
+    "last_scraped": "2026-04-07",
     "items": [
       {
         "name": "vanlig 10 bitar",
