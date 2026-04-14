@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Caesarsallad",
@@ -120,7 +120,7 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "",
@@ -207,7 +207,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "LEMON PEPPER CHICKEN",
@@ -267,29 +267,24 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "",
         "category": "",
-        "description": "Stängt",
-        "price": "",
-        "tags": []
-      },
-      {
-        "name": "",
-        "category": "",
-        "description": "Grillad kycklingfilé serveras med klyftpotatis, majskolv och ponzudressing",
+        "description": "Mangochutneybakad majskyckling serveras med klyftpotatis, kålsallad och vitlöksdressing",
         "price": "",
         "tags": [
+          "indian",
           "chicken",
+          "salad",
           "rootvegetables"
         ]
       },
       {
         "name": "",
         "category": "",
-        "description": "Bakad koljafilé serveras med rostad morotspuré, gul morot, syltad ingefära och brynt pepparrotssmör",
+        "description": "Lax serveras med krämig rotselleristuvning med purjolök och spenat, gräslök och örtolja",
         "price": "",
         "tags": [
           "fish",
@@ -299,34 +294,43 @@
       {
         "name": "",
         "category": "",
-        "description": "Helstekt fläskfilé serveras med parmesanslungad potatis, tryffelbroccoli och timjansås",
+        "description": "Gochujangbakade kycklinglår serveras med sesamris, kålsallad och jordnötssås",
         "price": "",
         "tags": [
-          "beef",
-          "pork",
-          "rootvegetables",
-          "drinks"
-        ]
-      },
-      {
-        "name": "",
-        "category": "",
-        "description": "Kummel serveras med parmesanpuré, gurk- & rädissallad, rostade mandlar och brynt sojasmör",
-        "price": "",
-        "tags": [
-          "fish",
+          "korean",
+          "chicken",
           "salad"
         ]
       },
       {
         "name": "",
-        "category": "VEG",
-        "description": "Grillad spetskål serveras med linssallad, rostad rotselleripuré, tryffeldressing och grönkålskrisp",
-        "price": "195 kr",
+        "category": "",
+        "description": "Kolja serveras med potatis, rädisor, gröna bönor och gräslökssås",
+        "price": "",
         "tags": [
           "vegetarian",
-          "salad",
+          "fish",
           "rootvegetables"
+        ]
+      },
+      {
+        "name": "",
+        "category": "",
+        "description": "Grillad kalv tri tip serveras med friteades padrones, pico de gallo, creme fraiche och lime",
+        "price": "",
+        "tags": [
+          "beef"
+        ]
+      },
+      {
+        "name": "",
+        "category": "VEG",
+        "description": "Gochujangmarinerad tofu serveras med ris, grillad pak choi, krämig jordnötssås och rostade sesamfrön",
+        "price": "195 kr",
+        "tags": [
+          "korean",
+          "vegetarian",
+          "nuts_seeds"
         ]
       },
       {
@@ -366,7 +370,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Bakad uer",
@@ -410,7 +414,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -644,7 +648,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -762,7 +766,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Veckans: Senaps marinerad strömming",
@@ -842,7 +846,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "9 bitar",
@@ -1005,7 +1009,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1277,7 +1281,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1485,7 +1489,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1703,7 +1707,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1727,7 +1731,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-04-13",
+    "last_scraped": "2026-04-14",
     "items": [
       {
         "name": "vanlig 10 bitar",
