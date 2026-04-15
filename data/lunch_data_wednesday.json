@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Caesarsallad",
@@ -118,7 +118,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "",
@@ -132,11 +132,12 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Boeuf bourguignon fransk köttgryta med rödvin, bacon och syltlök, serveras med ris.",
+        "description": "Boeuf bourguignon fransk köttgryta med rödvin, bacon och syltlök, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
           "pork",
           "soup",
+          "rootvegetables",
           "drinks"
         ]
       },
@@ -208,7 +209,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -272,7 +273,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "",
@@ -375,7 +376,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Kikärts och halloumicurry",
@@ -421,7 +422,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -655,7 +656,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -773,7 +774,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Veckans: Senaps marinerad strömming",
@@ -852,7 +853,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "9 bitar",
@@ -1015,7 +1016,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1289,7 +1290,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1497,7 +1498,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1715,7 +1716,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1739,7 +1740,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-04-14",
+    "last_scraped": "2026-04-15",
     "items": [
       {
         "name": "vanlig 10 bitar",
