@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,24 +26,26 @@
         ]
       },
       {
-        "name": "”Taco Bowl”",
+        "name": "Asiatisk Glasnudelsallad",
         "category": "VECKANS SPECIAL",
-        "description": "Kryddig nötfärs med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños, toppas med friterad tortilla",
+        "description": "Med friterade räkor, chilimajonäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
         "price": "130 kr",
         "tags": [
-          "mexican",
-          "taco"
+          "vegetarian",
+          "seafood",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "”VEG Taco Bowl”",
+        "name": "VEG Asiatisk Glasnudelsallad",
         "category": "VECKANS SPECIAL",
-        "description": "Kryddig ”ärtfärs” med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños, toppas med friterad tortilla",
+        "description": "Med friterad tofu, chilimajonäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
         "price": "130 kr",
         "tags": [
-          "mexican",
           "vegetarian",
-          "taco"
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
@@ -119,7 +121,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "",
@@ -218,7 +220,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "CHILI CHICKEN",
@@ -283,7 +285,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "",
@@ -386,7 +388,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Bakad fisk",
@@ -437,7 +439,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -671,7 +673,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -789,7 +791,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Veckans: Senaps marinerad strömming",
@@ -880,7 +882,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "9 bitar",
@@ -1043,7 +1045,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1318,7 +1320,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1526,7 +1528,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1744,7 +1746,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1768,7 +1770,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-15",
+    "last_scraped": "2026-04-16",
     "items": [
       {
         "name": "vanlig 10 bitar",
