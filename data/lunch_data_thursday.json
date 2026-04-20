@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,57 +26,67 @@
         ]
       },
       {
-        "name": "Asiatisk Glasnudelsallad",
-        "category": "VECKANS SPECIAL",
-        "description": "Med friterade räkor, chilimajonäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
+        "name": "VEG Caesarsallad",
+        "category": "SALLADER",
+        "description": "romansallad toppad med friterad halloumi och grillade grönsaker serveras med caesardressing, riven grana padano samt krutonger",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "seafood",
-          "salad",
-          "nuts_seeds"
+          "salad"
         ]
       },
       {
-        "name": "VEG Asiatisk Glasnudelsallad",
+        "name": "”Mexican Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Med friterad tofu, chilimajonäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
+        "description": "Grillad kyckling med sötpotatis och marinerad quinoa som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "salad",
-          "nuts_seeds"
+          "chicken",
+          "rootvegetables"
         ]
       },
       {
-        "name": "Kooperativets hemmagjorda Pytt Bellman i krämig gräddsås toppad med rikligt med persilja, grovmalen, svartpeppar & stekt ägg",
+        "name": "”Mexican Bowl”",
+        "category": "VECKANS SPECIAL",
+        "description": "Vegetarisk bowl med friterad quorn, sötpotatis och marinerat quinoa som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Kolgrillad anka med råstekt potatis, dragonmajonnäs samt apelsin och grönpepparsky",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "beef"
+          "beef",
+          "rootvegetables"
         ]
       },
       {
-        "name": "Soya & sesam",
+        "name": "Smörstekt sejfilé serveras med dillkokt potatis, skaldjursröra samt citron och örter",
         "category": "FISK",
-        "description": "marinerad lax serveras med teriyakisås, chilipicklad gurka, jasminris och rostade sesamfrön",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "japanese",
+          "beef",
           "fish",
-          "nuts_seeds"
+          "seafood",
+          "rootvegetables"
         ]
       },
       {
-        "name": "Crispy char Siu Pork",
+        "name": "Asiatisk kebabtallrik på handskuren kyckling med jasminris toppad med kålsallad, hosin & soyaglace samt chilimjonnäs och rostade sesamfrön",
         "category": "EAST ASIA",
-        "description": "Wokade äggnudlar med crispig fläsksida med kinesisk ”BBQsås” och wokade grönsaker toppad med böngroddar, koriander & rostade sesamfrön",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "pork",
-          "nuts_seeds",
-          "drinks"
+          "chicken",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
@@ -93,13 +103,14 @@
         ]
       },
       {
-        "name": "”Phily burger” Högrevsburgare i briochebröd med chilimajonnäs toppas med rostad paprika & brynt lök som sedan täcks av varm ostsås smaksatt med jalapeños serveras med frasiga pommesOBS ät med plasthandskar",
+        "name": "Kooperativets ”BIG MAC” burger",
         "category": "VÄRLDEN (Burgaren går att få med haloumi)",
-        "description": "",
+        "description": "Högrevsburgare toppad med cheddarost i lyxigt briochebröd med burgardressing, finstrimlad isbergssallad & tärnad lök, serveras med frasiga pommes",
         "price": "130 kr",
         "tags": [
           "beef",
           "burger",
+          "salad",
           "bread",
           "rootvegetables"
         ]
@@ -121,28 +132,27 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "",
         "category": "Fisk",
-        "description": "Smörstekt torskfile med skagensås och kokt broccoli, serveras med potatismos.",
+        "description": "Husets fiskgratäng smaksatt med bladspenat och vitvinssås, toppad med skaldjur serveras med potatispure.",
         "price": "129 kr",
         "tags": [
-          "beef",
           "fish",
-          "rootvegetables"
+          "seafood",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "Kött",
-        "description": "Husets lasagne med tomat och rödlökssallad, toppad med parmesanost.",
+        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
         "price": "129 kr",
         "tags": [
-          "italian",
-          "pasta",
-          "salad"
+          "rootvegetables"
         ]
       },
       {
@@ -160,37 +170,31 @@
       {
         "name": "",
         "category": "Asiatisk",
-        "description": "Kyckling med  röd curry i kokosmjölk med paprika, lök, bambuskott och",
+        "description": "Risnudlar med biff, chili, koriander, pickles, sallad, rostad lök,",
         "price": "129 kr",
         "tags": [
-          "chicken",
-          "drinks"
+          "beef",
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "Asiatisk",
-        "description": "limeblad serveras med jasminris.",
-        "price": "129 kr",
-        "tags": []
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk",
-        "description": "Tofu med  röd curry i kokosmjölk med paprika, lök, bambuskott och",
+        "description": "jordnötter och nuoc mam.",
         "price": "129 kr",
         "tags": [
-          "vegetarian",
-          "drinks"
+          "nuts_seeds"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "limeblad serveras med jasminris.",
+        "description": "Risnudlar med vegetariska vårrullar, chili, koriander, pickles, sallad, rostad lök, jordnötter och nuoc mam.",
         "price": "129 kr",
         "tags": [
-          "vegetarian"
+          "vegetarian",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
@@ -220,26 +224,26 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
-        "name": "CHILI CHICKEN",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Kycklingfilé tillagad med chili, masala, rödlök, paprika, vinäger, ingefära och vitlök.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och.smör.",
         "price": "129 kr",
         "tags": [
-          "indian",
           "chicken",
-          "drinks"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "BEEF MALAI KORMA",
+        "name": "BEEF SHARABI",
         "category": "",
-        "description": "Oxköttgryta tillagad en gräddsås med tomat, kardemumma, rosvatten och smör.",
+        "description": "Oxköttgryta tillagad med en kryddstark cognacsås gjord på vitlök, ingefära, linser och grön chili.",
         "price": "129 kr",
         "tags": [
-          "indian",
+          "vegetarian",
           "soup"
         ]
       },
@@ -285,24 +289,23 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "",
         "category": "",
-        "description": "Mangochutneybakad majskyckling serveras med klyftpotatis, kålsallad och vitlöksdressing",
+        "description": "Kycklingwok serveras med ris, salladslök, krossade jordnötter och chiliflakes",
         "price": "",
         "tags": [
-          "indian",
           "chicken",
           "salad",
-          "rootvegetables"
+          "nuts_seeds"
         ]
       },
       {
         "name": "",
         "category": "",
-        "description": "Lax serveras med krämig rotselleristuvning med purjolök och spenat, gräslök och örtolja",
+        "description": "Grillad lax serveras med rostad potatis, sparris, ramslökskräm och grillad citron",
         "price": "",
         "tags": [
           "fish",
@@ -312,43 +315,35 @@
       {
         "name": "",
         "category": "",
-        "description": "Gochujangbakade kycklinglår serveras med sesamris, kålsallad och jordnötssås",
+        "description": "Grillad kyckling serveras med stekt potatis, sparris och tzatziki",
         "price": "",
         "tags": [
-          "korean",
+          "greek",
+          "beef",
           "chicken",
-          "salad"
-        ]
-      },
-      {
-        "name": "",
-        "category": "",
-        "description": "Kolja serveras med potatis, rädisor, gröna bönor och gräslökssås",
-        "price": "",
-        "tags": [
-          "vegetarian",
-          "fish",
           "rootvegetables"
         ]
       },
       {
         "name": "",
-        "category": "",
-        "description": "Grillad kalv tri tip serveras med friteades padrones, pico de gallo, creme fraiche och lime",
-        "price": "",
+        "category": "FISK",
+        "description": "Ostfyllda lammfärsbiffar serveras med rostade rotfrukter och getostkräm",
+        "price": "195 kr",
         "tags": [
-          "beef"
+          "beef",
+          "fish",
+          "lamb"
         ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Gochujangmarinerad tofu serveras med ris, grillad pak choi, krämig jordnötssås och rostade sesamfrön",
+        "description": "Quinoa- & zucchinibiffar serveras med timjanrostade rotfrukter och tzatziki",
         "price": "195 kr",
         "tags": [
-          "korean",
+          "greek",
           "vegetarian",
-          "nuts_seeds"
+          "beef"
         ]
       },
       {
@@ -388,58 +383,59 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
-        "name": "Bakad fisk",
+        "name": "Potatispuré -gröna ärtor",
         "category": "Water",
-        "description": "potatisstomp med stekt purjolök, brynt smör, äppelkokt gulbeta, rostade frön, dill",
+        "description": "bakad fisk, primörsallad, pesto på morotsblast, blåmusselsås",
         "price": "132 kr",
         "tags": [
-          "beef",
+          "italian",
           "fish",
+          "salad",
           "rootvegetables"
         ]
       },
       {
-        "name": "Kycklinglår i hoisinglace",
+        "name": "Tacokryddad kycklingfärs",
         "category": "Fire",
-        "description": "jasminris, fivespice-chilimajo, salladslök, koriander, inlagd rättika",
+        "description": "rice and beans, pico de gallo, grillad majssalsa, krossade chips, koriander, jalapenos",
         "price": "132 kr",
         "tags": [
+          "mexican",
           "chicken",
-          "salad"
+          "taco"
         ]
       },
       {
-        "name": "Örtstekt fläskfilé",
+        "name": "Rosastekt fläskkotlett",
         "category": "Metal",
-        "description": "rödvinssås, potatisgratäng, örtsallad med syrad silverlök, bakad tomat",
+        "description": "gröna bönor i lökvinni, tapenaderostad potatis, rostad tomatsky",
         "price": "132 kr",
         "tags": [
+          "vegetarian",
           "beef",
           "pork",
-          "salad",
           "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Krämig vårpasta med ramslöksgremolata",
+        "name": "Hummustallrik",
         "category": "Earth",
-        "description": "sparris, burrata, rostad mandel",
+        "description": "rostade kikärtor, inkokta russin, brynt smör, sumaksyrad lök, friterad aubergine, fetaost & mynta",
         "price": "132 kr",
         "tags": [
-          "italian",
-          "pasta",
-          "nuts_seeds"
+          "greek",
+          "vegetarian"
         ]
       }
     ]
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -673,7 +669,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -791,36 +787,35 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
-        "name": "Veckans: Senaps marinerad strömming",
+        "name": "Veckans: Pytt Bellman",
         "category": "Veckans",
-        "description": "Brynt smör – Lingon – Potatispuré – Dill & Rödlök",
+        "description": "Rödbetor – Senapsstuvning – Stekt ägg – Persilja",
         "price": "130 kr",
         "tags": [
-          "rootvegetables"
+          "beef"
         ]
       },
       {
-        "name": "Vegetarisk Mån - Tis: Palak paneer",
+        "name": "Vegetarisk Mån–Tis: Gnocchi",
         "category": "Veckans",
-        "description": "Tikka masala – Pannoumi – Blomkål – Jasminris – Pappadums – Koriander",
+        "description": "Tomat – Vitlök – Chili – Citron – Brynt smör – Granapadano – Rucola",
         "price": "130 kr",
         "tags": [
-          "indian",
+          "italian",
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons-Tors: Bakad spetskål",
+        "name": "Vegetarisk Ons- Tors: Ugnsrostad Blomkål",
         "category": "Veckans",
-        "description": "Rostade hasselnötter – Brynt sojasmör – Belugalinser – Blomkål & potatispuré – Ärtskott",
+        "description": "Risotto – Spetskål – Champinjoner & Kantareller – Ärtskott",
         "price": "130 kr",
         "tags": [
-          "vegetarian",
-          "rootvegetables",
-          "nuts_seeds"
+          "italian",
+          "vegetarian"
         ]
       },
       {
@@ -846,27 +841,23 @@
         ]
       },
       {
-        "name": "Högrevsburgare",
+        "name": "Chili på Högrev",
         "category": "Lunch",
-        "description": "Dijonnaise – Cheddarost – Rostad lök – Karamellliserad lök – Pommes",
+        "description": "Gräddfil – Nacho chips – Jasminris – Koriander",
         "price": "130 kr",
         "tags": [
+          "mexican",
           "beef",
-          "burger",
-          "rootvegetables"
+          "taco"
         ]
       },
       {
-        "name": "Halstrad fångst",
+        "name": "Fish and chips",
         "category": "Lunch",
-        "description": "Potatispuré – Vitvinssås – Champinjoner & sidfläsk – Dill sallad",
+        "description": "Remouladesås – Citron – Ärtor – Pommes – Dill",
         "price": "130 kr",
         "tags": [
-          "fish",
-          "pork",
-          "salad",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       },
       {
@@ -882,7 +873,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "9 bitar",
@@ -1045,7 +1036,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1055,9 +1046,9 @@
         "tags": []
       },
       {
-        "name": "TANDOORI CHICKEN TIKKA",
+        "name": "GARLIC TIKKA",
         "category": "",
-        "description": "Kyckingfilé marinerad i lime, yoghurt och tandoori masala. Serveras med tandoorsås.",
+        "description": "Kycklingfilé marinerad i vitlök, ingefära, grön chili, yoghurt och lime. Serveras med tandoorisås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
@@ -1065,25 +1056,24 @@
         ]
       },
       {
-        "name": "KOLHAPURI GOSHT",
+        "name": "LAMB HYDERABAD",
         "category": "",
-        "description": "Het lammrätt med svartpeppar, kokosmjölk och koriander.",
+        "description": "Lamm med färsk koriander, mynta och grön chili i kokosmjölk.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
           "lamb",
           "drinks"
         ]
       },
       {
-        "name": "PANCHRATNA DAL",
+        "name": "DAL TADKA",
         "category": "",
-        "description": "Linsgryta med fem sorters linser. Ordet \"panchratna\" betyder fem juveler.",
+        "description": "Flamberade linser (Toor Dal ellr Arhar Dal) med traditionella indiska kryddor och koriander.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "soup"
+          "lamb"
         ]
       },
       {
@@ -1320,7 +1310,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1528,7 +1518,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1746,7 +1736,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1770,7 +1760,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-04-17",
+    "last_scraped": "2026-04-20",
     "items": [
       {
         "name": "vanlig 10 bitar",
