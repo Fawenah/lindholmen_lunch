@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Caesarsallad",
@@ -88,15 +88,15 @@
         ]
       },
       {
-        "name": "Grilled Quorn Taco",
+        "name": "Chicken Korma",
         "category": "INDISK",
-        "description": "Grillad quorn på rostat tortillabröd med avokadokräm, pico de gallo & koriander",
+        "description": "Indisk gryta med kyckling med cashewnötter & pistagenötter serveras med gurkraita koriander & papadum",
         "price": "130 kr",
         "tags": [
-          "mexican",
-          "vegetarian",
-          "taco",
-          "bread"
+          "indian",
+          "chicken",
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
@@ -115,7 +115,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-20",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "",
@@ -152,33 +152,30 @@
       {
         "name": "",
         "category": "Asiatisk",
-        "description": "Kyckling med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
-        "price": "129 kr",
-        "tags": [
-          "thai",
-          "chicken",
-          "drinks"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Vegetarisk",
         "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, jordnötter",
         "price": "129 kr",
         "tags": [
           "thai",
-          "vegetarian",
           "chicken",
           "nuts_seeds"
         ]
       },
       {
         "name": "",
-        "category": "Vegetarisk",
+        "category": "Asiatisk",
         "description": "och ägg.",
         "price": "129 kr",
+        "tags": []
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk",
+        "description": "Tofu med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "price": "129 kr",
         "tags": [
-          "vegetarian"
+          "thai",
+          "vegetarian",
+          "drinks"
         ]
       },
       {
@@ -208,7 +205,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-20",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "CHICKEN TIKKA",
@@ -275,7 +272,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "",
@@ -369,7 +366,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Potatispuré -gröna ärtor",
@@ -421,7 +418,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-20",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -655,7 +652,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -773,7 +770,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -850,7 +847,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "9 bitar",
@@ -1013,7 +1010,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1284,7 +1281,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1492,7 +1489,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1710,7 +1707,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1734,7 +1731,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-23",
+    "last_scraped": "2026-04-24",
     "items": [
       {
         "name": "vanlig 10 bitar",
