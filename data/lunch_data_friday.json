@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "STÄNGT",
@@ -104,7 +104,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "PAHADI GRILL CHICKEN",
@@ -171,61 +171,56 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "",
         "category": "",
-        "description": "Kycklingwok serveras med ris, salladslök, krossade jordnötter och chiliflakes",
+        "description": "Stängt",
         "price": "",
-        "tags": [
-          "chicken",
-          "salad",
-          "nuts_seeds"
-        ]
+        "tags": []
       },
       {
         "name": "",
         "category": "",
-        "description": "Grillad lax serveras med rostad potatis, sparris, ramslökskräm och grillad citron",
+        "description": "Havets wallenbergare serveras med potatispuré, räkröra, gröna ärtor, stenbitsrom och citron",
         "price": "",
         "tags": [
-          "fish",
           "rootvegetables"
         ]
       },
       {
         "name": "",
         "category": "",
-        "description": "Grillad kyckling serveras med stekt potatis, sparris och tzatziki",
+        "description": "Mango chutney marinerad kyckling serveras med rissallad och srirachadressing",
         "price": "",
         "tags": [
-          "greek",
-          "beef",
+          "indian",
           "chicken",
-          "rootvegetables"
+          "salad"
         ]
       },
       {
         "name": "",
-        "category": "FISK",
-        "description": "Ostfyllda lammfärsbiffar serveras med rostade rotfrukter och getostkräm",
-        "price": "195 kr",
-        "tags": [
-          "beef",
-          "fish",
-          "lamb"
-        ]
+        "category": "",
+        "description": "Stängt",
+        "price": "",
+        "tags": []
+      },
+      {
+        "name": "",
+        "category": "",
+        "description": "1 Maj - stämgt",
+        "price": "",
+        "tags": []
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Quinoa- & zucchinibiffar serveras med timjanrostade rotfrukter och tzatziki",
+        "description": "Ugnsbakad spetskål serveras med rostade betor, linser och ramslökskräm",
         "price": "195 kr",
         "tags": [
-          "greek",
-          "vegetarian",
-          "beef"
+          "vegetarian"
         ]
       },
       {
@@ -317,7 +312,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -551,7 +546,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -669,7 +664,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "Veckans: Veckans:Isterband",
@@ -727,7 +722,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "9 bitar",
@@ -890,7 +885,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1165,7 +1160,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1373,7 +1368,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1591,7 +1586,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1615,7 +1610,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-04-28",
+    "last_scraped": "2026-04-29",
     "items": [
       {
         "name": "vanlig 10 bitar",
