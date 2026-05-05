@@ -113,7 +113,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "",
@@ -202,7 +202,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "KESARI MURGH TIKKA",
@@ -267,7 +267,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "",
@@ -371,7 +371,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "Saffransrisotto",
@@ -412,247 +412,18 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
-    "items": [
-      {
-        "name": "Lufttorkad skinka/mozzarella/pesto",
-        "category": "Grillad ciabatta",
-        "description": "",
-        "price": "119 kr",
-        "tags": [
-          "italian",
-          "pork",
-          "bread"
-        ]
-      },
-      {
-        "name": "Kyckling/bacon/dijoncreme",
-        "category": "Grillad ciabatta",
-        "description": "Serveras med pommes & sallad & dressing",
-        "price": "119 kr",
-        "tags": [
-          "chicken",
-          "pork",
-          "salad",
-          "bread",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "Mindre ciabbata av ovan",
-        "category": "Grillad ciabatta",
-        "description": "",
-        "price": "95 kr",
-        "tags": [
-          "bread"
-        ]
-      },
-      {
-        "name": "kyckling/ mozzarella/ ruccola / mangoraja",
-        "category": "Grillad tortilla",
-        "description": "Serveras med pommes & sallad & dressing",
-        "price": "119 kr",
-        "tags": [
-          "mexican",
-          "chicken",
-          "salad",
-          "taco",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "Lax/Spenat",
-        "category": "Pajer & Lasagne",
-        "description": "",
-        "price": "105 kr",
-        "tags": [
-          "italian",
-          "fish",
-          "pasta",
-          "dessert"
-        ]
-      },
-      {
-        "name": "Fetaost/Spenat",
-        "category": "Pajer & Lasagne",
-        "description": "",
-        "price": "105 kr",
-        "tags": [
-          "greek",
-          "italian",
-          "pasta",
-          "dessert"
-        ]
-      },
-      {
-        "name": "Lasagne",
-        "category": "Pajer & Lasagne",
-        "description": "Serveras med sallad & dressing",
-        "price": "115 kr",
-        "tags": [
-          "italian",
-          "pasta",
-          "salad",
-          "dessert"
-        ]
-      },
-      {
-        "name": "Kyckling",
-        "category": "Caesarsallad",
-        "description": "",
-        "price": "110 kr",
-        "tags": [
-          "chicken",
-          "salad"
-        ]
-      },
-      {
-        "name": "Räkor",
-        "category": "Caesarsallad",
-        "description": "",
-        "price": "120 kr",
-        "tags": [
-          "seafood",
-          "salad"
-        ]
-      },
-      {
-        "name": "Kyckling",
-        "category": "Sallader",
-        "description": "",
-        "price": "109 kr",
-        "tags": [
-          "chicken",
-          "salad"
-        ]
-      },
-      {
-        "name": "Räkor",
-        "category": "Sallader",
-        "description": "",
-        "price": "120 kr",
-        "tags": [
-          "seafood",
-          "salad"
-        ]
-      },
-      {
-        "name": "Grekisk",
-        "category": "Sallader",
-        "description": "",
-        "price": "112 kr",
-        "tags": [
-          "salad"
-        ]
-      },
-      {
-        "name": "Lufttorkad skinka/mozzarella/pesto",
-        "category": "Sallader",
-        "description": "",
-        "price": "112 kr",
-        "tags": [
-          "italian",
-          "pork",
-          "salad"
-        ]
-      },
-      {
-        "name": "Chévre/rödbetor/honung/valnötter/granatäpple",
-        "category": "Sallader",
-        "description": "",
-        "price": "112 kr",
-        "tags": [
-          "salad",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "Tillval",
-        "category": "Sallader",
-        "description": "Bulgur/marinerad pasta",
-        "price": "5 kr",
-        "tags": [
-          "italian",
-          "pasta",
-          "salad"
-        ]
-      },
-      {
-        "name": "Pokebowl",
-        "category": "Sallader",
-        "description": "sallad, svartris, glasnudlar, mangosalsa, ärtskott, avokado, sojabönor, räkor, lax, srirachamayo",
-        "price": "125 kr",
-        "tags": [
-          "mexican",
-          "vegetarian",
-          "fish",
-          "seafood",
-          "salad"
-        ]
-      },
-      {
-        "name": "Bibimbap",
-        "category": "Asiatisk",
-        "description": "ris med skivade entrecote/kimchi/champinjoner/zucchini/ägg/sallad,och gochujang dressing",
-        "price": "129 kr",
-        "tags": [
-          "korean",
-          "beef",
-          "salad"
-        ]
-      },
-      {
-        "name": "Panang Curry",
-        "category": "Asiatisk",
-        "description": "",
-        "price": "120 kr",
-        "tags": [
-          "thai"
-        ]
-      },
-      {
-        "name": "Sushi Tempura 10 bit",
-        "category": "Asiatisk",
-        "description": "Friterad räkor/avokado/gurka/krispsallad/rostad lök",
-        "price": "129 kr",
-        "tags": [
-          "japanese",
-          "seafood",
-          "salad",
-          "sushi"
-        ]
-      },
-      {
-        "name": "Sushi Speciell California 10bit",
-        "category": "Asiatisk",
-        "description": "Friterad krabbröra, avokado, gurka, krispsallad",
-        "price": "129 kr",
-        "tags": [
-          "salad",
-          "sushi"
-        ]
-      },
-      {
-        "name": "Krispig kyckling",
-        "category": "Asiatisk",
-        "description": "Friterade kyckling / gurka / krispsallad / morötter",
-        "price": "125 kr",
-        "tags": [
-          "chicken",
-          "salad"
-        ]
-      }
-    ]
+    "last_scraped": "2026-05-05",
+    "items": []
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "SLOW TOMATO",
         "category": "Benne Pasta",
         "description": "Naturligt söt och varsamt kokt tomatsås gjord på karamelliserad rödlök, rostad vitlök och färsk basilika. Toppad med lagrad hårdost, baby leaves, basilika och extra virgin olivolja.",
-        "price": "59 kr",
+        "price": "55 kr",
         "tags": [
           "italian",
           "pasta"
@@ -661,8 +432,8 @@
       {
         "name": "SWEDISH CHEESE",
         "category": "Benne Pasta",
-        "description": "Vår himmelskt krämiga ostsås gjord på\n\t\t\t\t\t\t\t\tVästerbottensost(R), smaksatt med en generös mängd svartpeppar. Toppad med ett crunchy ostkrisp, lagrad hårdost, hackad persilja och nymalen svartpeppar.",
-        "price": "75 kr",
+        "description": "Vår himmelskt krämiga ostsås gjord på\n\t\t\t\t\t\t\t\t\tVästerbottensost®, smaksatt med en generös mängd svartpeppar. Toppad med ett crunchy ostkrisp, lagrad hårdost, hackad persilja och nymalen svartpeppar.",
+        "price": "70 kr",
         "tags": [
           "italian",
           "pasta"
@@ -672,7 +443,7 @@
         "name": "SMOKED PIG",
         "category": "Benne Pasta",
         "description": "Nystekt bacon i en krämig vit sås som är smaksatt med svartpeppar. Toppad med lagrad hårdost och hackad persilja.",
-        "price": "85 kr",
+        "price": "80 kr",
         "tags": [
           "italian",
           "beef",
@@ -681,21 +452,10 @@
         ]
       },
       {
-        "name": "GREEN RAGU",
-        "category": "Benne Pasta",
-        "description": "Vegofärs från Anamma i vår mustiga ragusås smaksatt med färsk rosmarin och lagerblad. Toppad med lagrad hårdost, en vegansk vitlöks-créme fraiche, hackad persilja, nymalen svartpeppar och extra virgin olivolja.",
-        "price": "85 kr",
-        "tags": [
-          "italian",
-          "vegetarian",
-          "pasta"
-        ]
-      },
-      {
         "name": "Silky Bird",
         "category": "Benne Pasta",
         "description": "Rostad och skivad kycklinglårfilé i en gräddig tomatsås gjord på karamelliserad rödlök, gyllenstekt vitlök och färsk basilika. Toppad med lagrad hårdost, hackad persilja och plockad basilika.",
-        "price": "95 kr",
+        "price": "90 kr",
         "tags": [
           "italian",
           "beef",
@@ -707,7 +467,7 @@
         "name": "THE SHROOMS",
         "category": "Benne Pasta",
         "description": "Vitlöksfrästa champinjoner i en ljuvligt krämig svampsås som är smaksatt med färsk timjan och rostad vitlök. Toppad med lagrad hårdost, hackad persilja, rostade pumpakärnor och svart tryffelolja.",
-        "price": "99 kr",
+        "price": "95 kr",
         "tags": [
           "italian",
           "pasta",
@@ -716,11 +476,13 @@
       },
       {
         "name": "Melting Meatballs",
-        "category": "The Visitor",
+        "category": "Benne Pasta",
         "description": "Våra signaturköttbullar gjorda på kalvkött, kryddade med citron och timjan, i vår klassiska långkokta tomatsås. Toppad med lagrad hårdost, hackad persilja och extra virgin olivolja.",
         "price": "95 kr",
         "tags": [
-          "beef"
+          "italian",
+          "beef",
+          "pasta"
         ]
       },
       {
@@ -728,6 +490,15 @@
         "category": "Benne Bites",
         "description": "Två skivor rostat surdegsbröd med vitlök- och persiljesmör och sumak.",
         "price": "20 kr",
+        "tags": [
+          "bread"
+        ]
+      },
+      {
+        "name": "CHEEZY GARLIC BREAD",
+        "category": "Benne Bites",
+        "description": "Två skivor rostat surdegsbröd med vitlök- och persiljesmör, sumak och lagrad hårdost.",
+        "price": "25 kr",
         "tags": [
           "bread"
         ]
@@ -741,30 +512,12 @@
           "italian",
           "dessert"
         ]
-      },
-      {
-        "name": "CHEEZY GARLIC BREAD",
-        "category": "Benne Bites",
-        "description": "Två skivor rostat surdegsbröd med vitlök- och persiljesmör, sumak och lagrad hårdost.",
-        "price": "25 kr",
-        "tags": [
-          "bread"
-        ]
-      },
-      {
-        "name": "BROWNIE",
-        "category": "Benne Bites",
-        "description": "Chokladbrownie med salt karamell-topping.",
-        "price": "25 kr",
-        "tags": [
-          "dessert"
-        ]
       }
     ]
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "Veckans: Modonostro",
@@ -834,7 +587,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "9 bitar",
@@ -997,7 +750,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1268,7 +1021,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1229,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1694,7 +1447,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1718,7 +1471,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-04",
+    "last_scraped": "2026-05-05",
     "items": [
       {
         "name": "vanlig 10 bitar",
