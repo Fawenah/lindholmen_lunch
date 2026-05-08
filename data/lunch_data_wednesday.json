@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,90 +26,89 @@
         ]
       },
       {
-        "name": "Kooperativets hemmagjorda Smörgåstårta",
+        "name": "”Laab Gai Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "med fylld med krämig skagenröra toppad med rökt lax, kokt ägg, syrlig lök, smarriga örter, rädisor samt ramslöksmajonnäs",
+        "description": "Wokad kyckling i syrlig buljong smaksatt med limeblad & citrongräs, serveras med jasminris, sesammorötter, rödlök, böngroddar, sojapicklad gurka och koriander",
         "price": "130 kr",
         "tags": [
-          "fish"
+          "chicken",
+          "soup"
         ]
       },
       {
-        "name": "Berras Taverna",
+        "name": "Fredagsgrillen",
         "category": "KÖTT",
-        "description": "Lammfärsbiffar med tzatziki, rosmarin rostad potatis & tomatsky",
+        "description": "Berras mixed grill med goa grejer",
         "price": "130 kr",
-        "tags": [
-          "greek",
-          "beef",
-          "lamb",
-          "rootvegetables"
-        ]
+        "tags": []
       },
       {
-        "name": "Stekt panerad sejfile serveras med potatispuré, fetaostaioli smaksatt med mynta samt citron och örtsallad",
+        "name": "Stekt panerad sej serveras med potatispuré, skagenröra, citron och örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "greek",
           "beef",
           "fish",
-          "salad",
           "rootvegetables"
         ]
       },
       {
-        "name": "Sticky chicken",
+        "name": "Kooperativets Asiatisk Råbiff på sotat ox innanlår med misomajonnäs, smashed cucumber, vårlök, rostad lök, sesamfrön & brynt sojasmör, serveras med frasiga chilipommes",
         "category": "EAST ASIA",
-        "description": "kyckling i hosinsås med krämigkålsallad serveras med jasminris, koriander & rostade sesamfrön chili 1/5",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "chicken",
-          "salad",
+          "japanese",
+          "beef",
+          "burger",
+          "rootvegetables",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Indien dirty fries",
+        "name": "Kooperativets klassiska Butter Chicken",
         "category": "INDISK",
-        "description": "friterad kyckling på frasiga pommes smaksatta med tandoori, kachumbersallad samt majonnäs smaksatt med grönchili & mynta samt koriander",
+        "description": "Indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
-          "salad",
-          "rootvegetables"
+          "soup",
+          "bread",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Kooperativets lasagne på nötfärs och färska lasangeplattorn serveras med tomatsallad toppad med parmesan och ruccola",
+        "name": "Tripple cheeseburger",
         "category": "VÄRLDEN",
-        "description": "",
+        "description": "Kolgrillad högrevsburgare toppad med cheddar, mozzarella & pepparjack i briochebröd med fermenterad chilimajonnäs, rödlök & krispig sallad, serveras med frasiga country fries",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "pasta",
-          "salad"
+          "beef",
+          "burger",
+          "salad",
+          "bread"
         ]
       },
       {
-        "name": "Kooperativets lasagne på svamp, pumpa spenat & keso serveras med tomatsallad toppad med parmesan och ruccola",
+        "name": "Kooperativets klassiska Butter Halloumi",
         "category": "VEGETARISK",
-        "description": "",
+        "description": "Indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
         "price": "130 kr",
         "tags": [
-          "italian",
+          "indian",
           "vegetarian",
-          "pasta",
-          "salad"
+          "soup",
+          "bread",
+          "nuts_seeds"
         ]
       }
     ]
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "",
@@ -198,7 +197,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "CHICKEN BALTI",
@@ -262,7 +261,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "",
@@ -366,7 +365,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "Matvete “risotto”",
@@ -407,12 +406,12 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": []
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -512,7 +511,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "Veckans: Modonostro",
@@ -583,7 +582,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "9 bitar",
@@ -746,7 +745,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1016,7 +1015,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1224,7 +1223,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1442,7 +1441,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1466,7 +1465,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-05-07",
+    "last_scraped": "2026-05-08",
     "items": [
       {
         "name": "vanlig 10 bitar",
