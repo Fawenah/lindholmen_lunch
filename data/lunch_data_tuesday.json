@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "Caesarsallad",
@@ -107,7 +107,7 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "",
@@ -195,7 +195,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "LEMON PEPPER CHICKEN",
@@ -255,7 +255,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "",
@@ -337,7 +337,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "Bakad sej",
@@ -377,12 +377,12 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": []
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -441,13 +441,11 @@
       },
       {
         "name": "Melting Meatballs",
-        "category": "Benne Pasta",
+        "category": "The Visitor",
         "description": "Våra signaturköttbullar gjorda på kalvkött, kryddade med citron och timjan, i vår klassiska långkokta tomatsås. Toppad med lagrad hårdost, hackad persilja och extra virgin olivolja.",
         "price": "95 kr",
         "tags": [
-          "italian",
-          "beef",
-          "pasta"
+          "beef"
         ]
       },
       {
@@ -482,7 +480,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "Veckans: Veckans:Laxpasta",
@@ -556,7 +554,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "9 bitar",
@@ -719,7 +717,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -991,7 +989,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1199,7 +1197,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1417,7 +1415,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1441,7 +1439,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-05-12",
+    "last_scraped": "2026-05-13",
     "items": [
       {
         "name": "vanlig 10 bitar",
