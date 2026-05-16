@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "SalladerCaesarsallad",
@@ -116,7 +116,7 @@
   },
   "DistrictOneScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "",
@@ -199,7 +199,7 @@
   },
   "BombayBistroScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "METHI MALAI",
@@ -266,7 +266,7 @@
   },
   "CuckoosNestScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "",
@@ -348,7 +348,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "Bakad sej",
@@ -388,12 +388,12 @@
   },
   "MissFScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": []
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -491,7 +491,7 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "Veckans: Veckans:Laxpasta",
@@ -563,7 +563,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "9 bitar",
@@ -726,7 +726,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -998,7 +998,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1206,7 +1206,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1375,6 +1375,7 @@
         "tags": [
           "beef",
           "salad",
+          "schnitzel",
           "rootvegetables",
           "drinks"
         ]
@@ -1424,7 +1425,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1448,7 +1449,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-15",
+    "last_scraped": "2026-05-16",
     "items": [
       {
         "name": "vanlig 10 bitar",
