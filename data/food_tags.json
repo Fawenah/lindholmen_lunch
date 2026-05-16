@@ -69,6 +69,11 @@
         "emoji": "🍕",
         "priority": 5
     },
+    "schnitzel": {
+        "keywords": ["schnitzel", "wienerschnitzel"],
+        "emoji": "🥩",
+        "priority": 5
+    },
     "soup": {
         "keywords": ["soppa", "pho", "nudelsoppa", "misosoppa", "gryta", "soppor", "buljong", "chowder", "bisque", "broth"],
         "emoji": "🥣",
