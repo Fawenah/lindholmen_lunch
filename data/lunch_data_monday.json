@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "SalladerCaesarsallad",
@@ -116,7 +116,7 @@
   },
   "DistrictOneScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "",
@@ -199,7 +199,7 @@
   },
   "BombayBistroScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "MÅNDAG",
@@ -270,45 +270,46 @@
   },
   "CuckoosNestScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "",
         "category": "",
-        "description": "Örtmarinerad majskycklingfilé serveras med ris, parmesan- & soltorkad tomtasås och bellaverde broccoli",
+        "description": "Kyckling marinerad i rödcurry serveras med rostad potatis, vitlöksrostade morötter och grön hummus",
         "price": "",
         "tags": [
-          "chicken"
+          "greek",
+          "chicken",
+          "rootvegetables"
         ]
       },
       {
         "name": "",
-        "category": "",
-        "description": "Torskrygg serveras med potatis- & blomkålspuré, inlagd fänkål, skirat smör och svartkålskrisp",
-        "price": "",
+        "category": "FISK",
+        "description": "Kyckling Wallenbergare serveras med potatispuré smaksatt med gruyere, lingon, inlagd gurka och brynt smör",
+        "price": "195 kr",
         "tags": [
+          "chicken",
           "fish",
           "rootvegetables"
         ]
       },
       {
         "name": "",
-        "category": "KÖTT",
-        "description": "Stängt",
+        "category": "FISK",
+        "description": "Kalvpicanha serveras med rotselleripuré, grillad sparris, salsa verde och fetostsmul",
         "price": "195 kr",
-        "tags": []
-      },
-      {
-        "name": "",
-        "category": "KÖTT",
-        "description": "Stängt",
-        "price": "195 kr",
-        "tags": []
+        "tags": [
+          "mexican",
+          "beef",
+          "fish",
+          "rootvegetables"
+        ]
       },
       {
         "name": "",
         "category": "VEG",
-        "description": "Gnocchi serveras med tomatsås, ricottakräm, riven grana padano, basilikaolja och chiliflakes",
+        "description": "Svamprisotto serveras med grillad sparris, hyvlad grana padano och olivolja",
         "price": "195 kr",
         "tags": [
           "italian",
@@ -352,7 +353,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "Bakad fisk",
@@ -395,12 +396,12 @@
   },
   "MissFScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": []
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -498,7 +499,7 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "Veckans: Oxbringa",
@@ -572,7 +573,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "9 bitar",
@@ -735,7 +736,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1007,7 +1008,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1215,7 +1216,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1434,7 +1435,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1458,7 +1459,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2026-05-18",
+    "last_scraped": "2026-05-19",
     "items": [
       {
         "name": "vanlig 10 bitar",
