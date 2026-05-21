@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "Caesarsallad",
@@ -116,7 +116,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "",
@@ -132,10 +132,10 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
+        "description": "Flankstek med pepparsås och bakad tomat, serveras med rostad potatis.",
         "price": "129 kr",
         "tags": [
-          "schnitzel",
+          "beef",
           "rootvegetables"
         ]
       },
@@ -206,7 +206,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "CHICKEN TIKKA",
@@ -273,7 +273,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "",
@@ -356,7 +356,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "Risnudelsallad",
@@ -399,12 +399,12 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": []
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -502,7 +502,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "Veckans: Oxbringa",
@@ -576,7 +576,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "9 bitar",
@@ -739,7 +739,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1010,7 +1010,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1218,7 +1218,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1437,7 +1437,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1461,7 +1461,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-05-20",
+    "last_scraped": "2026-05-21",
     "items": [
       {
         "name": "vanlig 10 bitar",
