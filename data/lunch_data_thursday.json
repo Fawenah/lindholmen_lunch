@@ -1,26 +1,8 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
-      {
-        "name": "Lunch TorsdagCaesarsallad",
-        "category": "SALLADER",
-        "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutongerVästkust Caesarsallad – romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutongerVECKANS SPECIALAsiatisk Glasnudelsallad – Med friterade räkor, chilimajonnäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötterVEG Asiatisk Glasnudelsallad – Med friterad tofu, chilimajonnäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötterKÖTTGrillad fläskfilé med krämigt mos, gräddsås smaksatt med svartpeppar, persiljestekta champinjoner & svartvinbärsgeléFISKParmesanbakad kolja serveras med färskoststompad potatis, sandefjordsås, gröna ärtor och örtsallad",
-        "price": "130 kr",
-        "tags": [
-          "vegetarian",
-          "beef",
-          "chicken",
-          "fish",
-          "pork",
-          "seafood",
-          "salad",
-          "rootvegetables",
-          "nuts_seeds",
-          "drinks"
-        ]
-      },
       {
         "name": "Caesarsallad",
         "category": "SALLADER",
@@ -44,77 +26,55 @@
         ]
       },
       {
-        "name": "Asiatisk Glasnudelsallad",
+        "name": "”Taco Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Med friterade räkor, chilimajonnäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
+        "description": "Kryddig nötfärs med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños toppas med friterad tortilla",
         "price": "130 kr",
         "tags": [
-          "vegetarian",
-          "seafood",
-          "salad",
-          "nuts_seeds"
+          "mexican",
+          "taco"
         ]
       },
       {
-        "name": "VEG Asiatisk Glasnudelsallad",
+        "name": "”VEG Taco Bowl”",
         "category": "VECKANS SPECIAL",
-        "description": "Med friterad tofu, chilimajonnäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
+        "description": "Kryddig ”ärtfärs” med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños toppas med friterad tortilla",
         "price": "130 kr",
         "tags": [
+          "mexican",
           "vegetarian",
-          "salad",
-          "nuts_seeds"
+          "taco"
         ]
       },
       {
-        "name": "Grillad fläskfilé med krämigt mos, gräddsås smaksatt med svartpeppar, persiljestekta champinjoner & svartvinbärsgelé",
+        "name": "Kooperativets nattbakad högrev, gräddig steksky smaksatt med ramslök, brynta champinjoner & smålökar serveras med potatispuré smaksatt med brynt lök",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "pork",
-          "drinks"
-        ]
-      },
-      {
-        "name": "Parmesanbakad kolja serveras med färskoststompad potatis, sandefjordsås, gröna ärtor och örtsallad",
-        "category": "FISK",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "fish",
-          "salad",
           "rootvegetables"
         ]
       },
       {
-        "name": "Sichuan Chilli Pork Belly",
-        "category": "EAST ASIA",
-        "description": "Wokad fläsksida med chili och sischuanpeppar i sötsyrlig sojasås tillsammans med brynt paprika och sticklök, serveras med jasminris och korianderINDISKKooperativets klassiska Butter Chicken – Indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5VÄRLDEN (Burgaren går att få med haloumi)Super Chili Cheese Burger – Högrevsburgare i briochebröd toppad med cheddar, peppar jack & mozzarella, råhyvlad rödlök & chilimajonnäs serveras med frasiga pommesVEGETARISKKooperativets klassiska Butter Halloumi– Indisk gryta med friterad halloumi serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
+        "name": "Ugnsbakad lax serveras med jasminris, teriyakisås, chilipicklad gurka toppas med örter och rostade sesamfrön",
+        "category": "FISK",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "indian",
-          "vegetarian",
-          "beef",
-          "chicken",
-          "pork",
-          "burger",
-          "soup",
-          "bread",
-          "rootvegetables",
-          "nuts_seeds",
-          "drinks"
+          "japanese",
+          "fish",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Sichuan Chilli Pork Belly",
+        "name": "Chicken Satay",
         "category": "EAST ASIA",
-        "description": "Wokad fläsksida med chili och sischuanpeppar i sötsyrlig sojasås tillsammans med brynt paprika och sticklök, serveras med jasminris och koriander",
+        "description": "Kolgrillad kycklingfilé med wokade grönsaker serveras med jordnötssås, toppad med rosade jordnötter och jasminris & koriander",
         "price": "130 kr",
         "tags": [
-          "pork",
-          "drinks"
+          "chicken",
+          "nuts_seeds"
         ]
       },
       {
@@ -131,15 +91,16 @@
         ]
       },
       {
-        "name": "Super Chili Cheese Burger",
+        "name": "”QP and Bacon”",
         "category": "VÄRLDEN (Burgaren går att få med haloumi)",
-        "description": "Högrevsburgare i briochebröd toppad med cheddar, peppar jack & mozzarella, råhyvlad rödlök & chilimajonnäs serveras med frasiga pommes",
+        "description": "Högrevburgare toppad med dubbel cheddarost i briochebröd med bacon & rödlöksmarmelad, krispigsallad, & frasiga country fries",
         "price": "130 kr",
         "tags": [
           "beef",
+          "pork",
           "burger",
-          "bread",
-          "rootvegetables"
+          "salad",
+          "bread"
         ]
       },
       {
@@ -313,7 +274,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "",
@@ -414,7 +375,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "Svart ris",
@@ -702,7 +663,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -800,7 +761,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "Veckans: Veckans:Gravad lax",
@@ -890,7 +851,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "9 bitar",
@@ -1053,7 +1014,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1324,7 +1285,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1532,7 +1493,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1751,7 +1712,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1775,7 +1736,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-05-27",
+    "last_scraped": "2026-05-28",
     "items": [
       {
         "name": "vanlig 10 bitar",
