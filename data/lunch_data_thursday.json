@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,45 +26,51 @@
         ]
       },
       {
-        "name": "”Taco Bowl”",
+        "name": "Poke bowl",
         "category": "VECKANS SPECIAL",
-        "description": "Kryddig nötfärs med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños toppas med friterad tortilla",
+        "description": "Sesamris toppad med chilimarinerade räkor, wakamisallad, soyabönor, groddar mangosalsa, rostad kokos serveras med misomajonnäs & koriander",
         "price": "130 kr",
         "tags": [
-          "mexican",
-          "taco"
-        ]
-      },
-      {
-        "name": "”VEG Taco Bowl”",
-        "category": "VECKANS SPECIAL",
-        "description": "Kryddig ”ärtfärs” med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños toppas med friterad tortilla",
-        "price": "130 kr",
-        "tags": [
+          "japanese",
           "mexican",
           "vegetarian",
-          "taco"
+          "seafood",
+          "salad"
         ]
       },
       {
-        "name": "Kooperativets nattbakad högrev, gräddig steksky smaksatt med ramslök, brynta champinjoner & smålökar serveras med potatispuré smaksatt med brynt lök",
+        "name": "VEG Buddha bowl",
+        "category": "VECKANS SPECIAL",
+        "description": "Sesamris toppad med friterad falafel, wakamisallad, soyabönor, groddar och mangosalsa, rostad kokos serveras med misomajonnäs & koriander",
+        "price": "130 kr",
+        "tags": [
+          "japanese",
+          "mexican",
+          "vegetarian",
+          "salad"
+        ]
+      },
+      {
+        "name": "Grillad PigghamKotlett från Scan 56grader med frasig fläsksvål serveras med berras krämiga potatisgratäng & rödvinssås",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "beef",
-          "rootvegetables"
+          "pork",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Ugnsbakad lax serveras med jasminris, teriyakisås, chilipicklad gurka toppas med örter och rostade sesamfrön",
+        "name": "Torsk bourgogne",
         "category": "FISK",
-        "description": "",
+        "description": "Pocherad torsk serveras med potatis & persiljepure, rödvinssås, champinjoner, rökt sidfläsk och minilök toppas med färska örter",
         "price": "130 kr",
         "tags": [
-          "japanese",
           "fish",
-          "nuts_seeds"
+          "pork",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
@@ -91,16 +97,16 @@
         ]
       },
       {
-        "name": "”QP and Bacon”",
+        "name": "Kooperativets ”BIG MAC” burger högrevsburgare toppad med cheddarost i lyxigt briochebröd,  burgardressing, finstrimlad isbergssallad & tärnad lök serveras med frasiga pommes",
         "category": "VÄRLDEN (Burgaren går att få med haloumi)",
-        "description": "Högrevburgare toppad med dubbel cheddarost i briochebröd med bacon & rödlöksmarmelad, krispigsallad, & frasiga country fries",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "pork",
           "burger",
           "salad",
-          "bread"
+          "bread",
+          "rootvegetables"
         ]
       },
       {
@@ -120,7 +126,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "",
@@ -190,7 +196,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -254,7 +260,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "",
@@ -355,7 +361,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Glacerade gula och röda betor",
@@ -404,7 +410,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -649,7 +655,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -747,7 +753,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Veckans: Salciccia pasta",
@@ -839,7 +845,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "9 bitar",
@@ -1002,7 +1008,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1275,7 +1281,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1483,7 +1489,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1702,7 +1708,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1726,7 +1732,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-01",
+    "last_scraped": "2026-06-02",
     "items": [
       {
         "name": "vanlig 10 bitar",
