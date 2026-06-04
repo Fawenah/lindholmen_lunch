@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-02",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Caesarsallad",
@@ -74,9 +74,9 @@
         ]
       },
       {
-        "name": "Chicken Satay",
+        "name": "Chicken Mongolian BBQ",
         "category": "EAST ASIA",
-        "description": "Kolgrillad kycklingfilé med wokade grönsaker serveras med jordnötssås, toppad med rosade jordnötter och jasminris & koriander",
+        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
         "price": "130 kr",
         "tags": [
           "chicken",
@@ -126,7 +126,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "",
@@ -165,9 +165,22 @@
       {
         "name": "",
         "category": "Asiatisk",
-        "description": "Yakiniku",
+        "description": "Tunnskivad entrecote med grönsaker och japansk kålsallad, serveras med ägg och jasminris.",
         "price": "129 kr",
-        "tags": []
+        "tags": [
+          "beef",
+          "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Vegetarisk",
+        "description": "Tofu med grönsaker och japansk kålsallad, serveras med ägg och jasminris.",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "salad"
+        ]
       },
       {
         "name": "",
@@ -196,7 +209,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -260,7 +273,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "",
@@ -306,12 +319,11 @@
       {
         "name": "",
         "category": "",
-        "description": "Kalv tri tip serveras med potatisterrin, haricotverts, pepparsås och svartvinbärsgelé",
+        "description": "Flankstek serveras med chimichurri potatis, grillad ananas och rökig majonnäs",
         "price": "",
         "tags": [
           "beef",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       },
       {
@@ -361,7 +373,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Glacerade gula och röda betor",
@@ -410,7 +422,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -655,7 +667,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -753,7 +765,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-02",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Veckans: Salciccia pasta",
@@ -845,7 +857,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "9 bitar",
@@ -1008,7 +1020,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1281,7 +1293,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1489,7 +1501,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1708,7 +1720,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1732,7 +1744,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-03",
+    "last_scraped": "2026-06-04",
     "items": [
       {
         "name": "vanlig 10 bitar",
