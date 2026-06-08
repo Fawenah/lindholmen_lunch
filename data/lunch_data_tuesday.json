@@ -277,7 +277,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "",
@@ -377,30 +377,50 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
-        "name": "Halstrad lax",
+        "name": "Bakad uer",
         "category": "Water",
-        "description": "bakade tomater, skummig hummersås, kokt potatis, citronmarinerad fänkål, dragonolja, dill",
+        "description": "potatispuré, blåmusselsås, sotad sallad, verbenaolja, inlagd kålrabbi",
         "price": "132 kr",
         "tags": [
-          "fish",
-          "seafood",
+          "salad",
           "rootvegetables"
         ]
       },
       {
-        "name": "Äggnudlar “thai”",
+        "name": "Strimlat hoisinglaserat kycklinglår",
         "category": "Fire",
-        "description": "wokade grönsaker, rostad kyckling, koriander, spicy thai majo Metal: Grillad pluma, ostrostad potatis, cheddar- & jalapenokräm, spicy rödkålsslaw Grilled pork plume, cheese roasted potatoes, cheddar- & jalapeno cremé, spicy red cabbage slaw Earth: Vita bönor i chimichurri, rostade rotfrukter, quinoa, rotfruktschips, dill, gröna blad, green goddess dressing White beans in chimichurri, roasted rootfruits, quinoa, root fruit crisps, dill, green leaves, green goddess dressing",
+        "description": "jasminris, smashed cucumber, gariremoulad, wokad vitlöksbroccoli",
         "price": "132 kr",
         "tags": [
-          "thai",
-          "vegetarian",
           "chicken",
+          "burger"
+        ]
+      },
+      {
+        "name": "Fläskkarré “hot honey glaze”",
+        "category": "Metal",
+        "description": "vattenmelon, fetaost, rostad potatis, tzatziki, mynta",
+        "price": "132 kr",
+        "tags": [
+          "greek",
           "pork",
-          "rootvegetables"
+          "rootvegetables",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Spicy nikkei tuna bowl",
+        "category": "Earth",
+        "description": "sushiris, avocado, tonfisk i “leche de tigre”, mango & limesalsa, salladslök, koriander",
+        "price": "132 kr",
+        "tags": [
+          "mexican",
+          "fish",
+          "salad",
+          "sushi"
         ]
       }
     ]
@@ -652,7 +672,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -830,7 +850,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "9 bitar",
@@ -993,7 +1013,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1003,35 +1023,32 @@
         "tags": []
       },
       {
-        "name": "CHICKEN SHAHI KORMA",
+        "name": "JARDALO MURG",
         "category": "",
-        "description": "Krämig kyckingfilégryta med malda pistage och cashewnötter.",
+        "description": "Kycklingfilé med aprikos, kanel, chili, lök, ingefära och currysås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "chicken",
-          "soup",
-          "nuts_seeds"
+          "chicken"
         ]
       },
       {
-        "name": "LAMB CHANA BOTI",
+        "name": "LAMB KADHAI",
         "category": "",
-        "description": "Lämmrätt med kikärtor, tomat, färsk koriander, mynta och lime",
+        "description": "Lammrostbiff lagad med lök, ingefära, peppar, chili och koriander.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian",
+          "beef",
           "lamb"
         ]
       },
       {
-        "name": "RAMA ALOO",
+        "name": "MUTTER PANEER",
         "category": "",
-        "description": "Kidneybönor och potatis i indisk currysås. Garnerad med friterad lök.",
+        "description": "Hemlagad indisk färskost i krämig sås av lök, tomat och gröna ärtor.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "vegetarian",
-          "rootvegetables"
+          "indian"
         ]
       },
       {
@@ -1268,7 +1285,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1493,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1695,7 +1712,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1719,7 +1736,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "vanlig 10 bitar",

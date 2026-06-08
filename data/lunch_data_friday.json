@@ -279,7 +279,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "",
@@ -379,49 +379,50 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
-        "name": "Glacerade gula och röda betor",
+        "name": "Grillad nektarinsallad",
         "category": "Earth",
-        "description": "apelsin, fetaostkräm, linsragu, picklad jalapeno, gröna blad i dragondressing, dill",
+        "description": "getost, granatäpple, ruccola, honung, linser, rostad morot, rostade fröer",
         "price": "132 kr",
         "tags": [
-          "greek"
-        ]
-      },
-      {
-        "name": "Open pulled chicken burrito",
-        "category": "Fire",
-        "description": "ananassalsa, koriander, sallad, chipotlemayo, ris, marinerade bönor",
-        "price": "132 kr",
-        "tags": [
-          "mexican",
           "vegetarian",
-          "chicken",
           "salad",
-          "taco"
+          "rootvegetables"
         ]
       },
       {
-        "name": "Bakad fisk",
-        "category": "Water",
-        "description": "sauce ravigote, ostig rotselleripuré, rostad mandel, kokt potatis, körvel & dill",
+        "name": "Butter chicken",
+        "category": "Fire",
+        "description": "marinerat kycklinglår, kryddyoghurt, gurka, koriander, mynta, cashewnöt",
         "price": "132 kr",
         "tags": [
-          "fish",
-          "rootvegetables",
+          "chicken",
           "nuts_seeds"
         ]
       },
       {
-        "name": "World of foods lasagne",
+        "name": "Bakad sej",
+        "category": "Water",
+        "description": "färskpotatis, wasabimarinerad tomat, vitvinssås, sesamolja, dill",
+        "price": "132 kr",
+        "tags": [
+          "fish",
+          "rootvegetables",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Pasta pesto",
         "category": "Metal",
-        "description": "basilikakräm, massa parmesan",
+        "description": "burrata, bakade tomater, vitlöksstekta brödsmulor, pesto",
         "price": "132 kr",
         "tags": [
           "italian",
-          "pasta"
+          "beef",
+          "pasta",
+          "bread"
         ]
       }
     ]
@@ -673,7 +674,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -851,7 +852,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "9 bitar",
@@ -1014,7 +1015,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1024,32 +1025,31 @@
         "tags": []
       },
       {
-        "name": "MURG DO PYAZA",
+        "name": "MALVANI CHICKEN",
         "category": "",
-        "description": "Kycklingrätt från Hyderabad smaksatt med lök, tomat och husets egen kryddblandning.",
+        "description": "Kycklingfilé i en sås av kokoskräm, röd chili och Malvani masala.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
+          "indian",
           "chicken"
         ]
       },
       {
-        "name": "LAMB LAAL MAAS",
+        "name": "FISH TIKKA",
         "category": "",
-        "description": "Traditionell lammcurry med smak av paprika, spiskummin och ingefära.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "lamb"
-        ]
-      },
-      {
-        "name": "PALAK CHANA MASALA",
-        "category": "",
-        "description": "Spenat med kikärtor, lök, tomat, garam masala, chili och ingefära.",
+        "description": "Marinerad, Grillad lax i husets kryddor. Serveras med tandoorisås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "vegetarian"
+          "fish"
         ]
+      },
+      {
+        "name": "CHANA PUMPA CURRY",
+        "category": "",
+        "description": "Kikärtsgsyta med pumpa tillagad med senap, kokos, curry, fänkål och chili",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": []
       },
       {
         "name": "DAGENS THALI",
@@ -1285,7 +1285,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1493,7 +1493,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1712,7 +1712,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1736,7 +1736,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-08",
     "items": [
       {
         "name": "vanlig 10 bitar",
