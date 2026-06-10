@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -119,28 +119,28 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "",
         "category": "Fisk",
-        "description": "Champinjongratinerad koljafile med bacon, vitlök och vitvinssås, serveras med kokt potatis.",
+        "description": "Pocherad torskfile med rödbetor, kapris och skirat smör serveras med färsk pepparrot och potatismos.",
         "price": "129 kr",
         "tags": [
           "fish",
-          "pork",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       },
       {
         "name": "",
         "category": "Kött",
-        "description": "Viltskavsgryta med skogschampinjoner, kantareller och lingon, serveras med potatismos.",
+        "description": "Stekt fläsk med raggmunk alternativt löksås och kokt potatis samt rårörda lingon.",
         "price": "129 kr",
         "tags": [
-          "soup",
-          "rootvegetables"
+          "beef",
+          "pork",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
@@ -207,26 +207,23 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-10",
     "items": [
       {
-        "name": "MANGO CHICKEN",
+        "name": "LEMON PEPPER CHICKEN",
         "category": "",
-        "description": "Kycklingryta gjord av mango, ingefära, grädde, lök och tomat.",
+        "description": "Kycklingfile tillagad med citron, svartpepper, koriander och kokos.",
         "price": "129 kr",
         "tags": [
-          "chicken",
-          "soup"
+          "chicken"
         ]
       },
       {
-        "name": "BEEF MADRAS",
+        "name": "BHURANI BEEF CURRY",
         "category": "",
-        "description": "Oxköttgryta med en doft av senapsfrön, fänkål, curryblad och kokos",
+        "description": "Oxkött i en kryddig currysås som består av roasted vitlök, tomat, lök, ingefära och grön chili.",
         "price": "129 kr",
-        "tags": [
-          "soup"
-        ]
+        "tags": []
       },
       {
         "name": "TIKKA MASALA",
@@ -270,7 +267,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "",
@@ -370,7 +367,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Bakad uer",
@@ -420,7 +417,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -665,7 +662,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -763,7 +760,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Veckans: Matjessill",
@@ -845,7 +842,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "9 bitar",
@@ -1008,7 +1005,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1280,7 +1277,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1488,7 +1485,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1707,7 +1704,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1731,7 +1728,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "vanlig 10 bitar",

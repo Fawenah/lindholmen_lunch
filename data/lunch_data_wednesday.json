@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -117,7 +117,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "",
@@ -131,10 +131,15 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Wallenbergare med gräddsås och rårörda lingon, serveras med pressgurka och potatismos.",
+        "description": "Texas chili gryta på högrev, serveras med ris, gräddfil, tortillabröd och ruccolasallad.",
         "price": "129 kr",
         "tags": [
-          "rootvegetables"
+          "mexican",
+          "beef",
+          "salad",
+          "soup",
+          "taco",
+          "bread"
         ]
       },
       {
@@ -170,9 +175,10 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Tofu med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
+          "thai",
           "vegetarian",
           "drinks"
         ]
@@ -204,25 +210,25 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-10",
     "items": [
       {
-        "name": "CHICKEN BALTI",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Kycklingfilé marinerad i vitlök och grön chili tillagad med lök, paprika och champinjoner i en rödvinssås.",
+        "description": "Mild kycklinggryta med nötter, smör i en krämig sås.",
         "price": "129 kr",
         "tags": [
           "chicken",
-          "drinks"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "KASHMIRI LAMM KOFTA",
+        "name": "ACHARI GHOST",
         "category": "",
-        "description": "Lammfärsbullar i en sås som består av lök, tomat, kardemumma, rosvatten, bockhornsklöver och grädde.",
+        "description": "Lamm tillagad i fänkål, grön, chili, vitlök, senapsfrön och curryblad.",
         "price": "129 kr",
         "tags": [
-          "indian",
           "lamb"
         ]
       },
@@ -268,7 +274,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "",
@@ -368,7 +374,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Spicy nikkei tuna bowl",
@@ -419,7 +425,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-05",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -664,7 +670,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -762,7 +768,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Veckans: Matjessill",
@@ -843,7 +849,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "9 bitar",
@@ -1006,7 +1012,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1280,7 +1286,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1488,7 +1494,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1707,7 +1713,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1731,7 +1737,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-09",
+    "last_scraped": "2026-06-10",
     "items": [
       {
         "name": "vanlig 10 bitar",
