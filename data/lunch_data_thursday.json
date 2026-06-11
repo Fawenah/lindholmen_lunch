@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "Caesarsallad",
@@ -26,43 +26,41 @@
         ]
       },
       {
-        "name": "Poke bowl",
+        "name": "Bibim Bap med pankofriterade räkor toppas med soyasås, serveras på sesamris med kimchi, soyabönor, smashed cucumber, böngroddar, chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
-        "description": "Sesamris toppat med chilimarinerade räkor, wakamisallad, soyabönor, groddar, mangosalsa & rostad kokos serveras med misomajonnäs & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "japanese",
-          "mexican",
+          "korean",
           "vegetarian",
           "seafood",
-          "salad"
+          "burger"
         ]
       },
       {
-        "name": "VEG Buddha bowl",
+        "name": "Bibim Bap med quorn i soyasås serveras på sesamris med kimchi, soyabönor, smashed cucumber, böngroddar, chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
-        "description": "Sesamris toppat med friterad falafel, wakamisallad, soyabönor, groddar, mangosalsa & rostad kokos serveras med misomajonnäs & koriander",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "japanese",
-          "mexican",
+          "korean",
           "vegetarian",
-          "salad"
+          "burger"
         ]
       },
       {
-        "name": "Confit de Canard",
+        "name": "Vedeldad gårdsgris, grillad salsiccia, potatispuré smaksatt med tryffel & rödvinsås",
         "category": "KÖTT",
-        "description": "Confikterat anklår med råstekt potatis serveras med dragonmajonnäs samt rödvinssås smaksatt med apelsin",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "beef",
+          "pork",
           "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Västerbottenbakad kolja serveras med en krämig risotto, ruccola, rostade solrosfrön och aioli",
+        "name": "Västerbottenbakad kolja serveras med en krämig sparrisrisotto, ruccola, rostade solrosfrön och aioli",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
@@ -280,7 +278,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "",
@@ -380,7 +378,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "Grillad nektarinsallad",
@@ -673,7 +671,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -771,7 +769,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "Veckans: Matjessill",
@@ -860,7 +858,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "9 bitar",
@@ -1023,7 +1021,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1298,7 +1296,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1506,7 +1504,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1725,7 +1723,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1749,7 +1747,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-06-10",
+    "last_scraped": "2026-06-11",
     "items": [
       {
         "name": "vanlig 10 bitar",
