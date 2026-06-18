@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-16",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "STÄNGT",
@@ -103,7 +103,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "CHICKEN TIKKA",
@@ -170,7 +170,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "",
@@ -309,7 +309,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -554,7 +554,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -652,7 +652,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-16",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "Veckans: Isterband",
@@ -678,10 +678,9 @@
       {
         "name": "Vegetarisk Ons- Tors: Zucchini & Haloumi Biffar",
         "category": "Veckans",
-        "description": "Tzatziki – Rostad Färskpotatis – Olivsallad – Persilja",
+        "description": "Rostad paprika kräm – Rostad Färskpotatis – Olivsallad – Persilja",
         "price": "130 kr",
         "tags": [
-          "greek",
           "vegetarian",
           "beef",
           "salad",
@@ -711,7 +710,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "9 bitar",
@@ -874,7 +873,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1145,7 +1144,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1353,7 +1352,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1572,7 +1571,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1596,7 +1595,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-06-17",
+    "last_scraped": "2026-06-18",
     "items": [
       {
         "name": "vanlig 10 bitar",
