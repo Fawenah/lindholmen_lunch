@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "Caesarsallad",
@@ -118,7 +118,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "",
@@ -206,7 +206,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "CHICKEN KADHAI",
@@ -270,7 +270,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "",
@@ -359,7 +359,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "Krämig tortellini med ricotta och spenat i pepprig ostsås",
@@ -394,7 +394,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -639,7 +639,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -737,39 +737,48 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
-        "name": "Veckans: Isterband",
+        "name": "Veckans: Carbonara",
         "category": "Veckans",
-        "description": "Dillstuvad potatis – Rödbetor – Senap – Kål & Äpplesallad",
+        "description": "Spagetti – Grädde – Äggula – Rucola – Granapadano",
         "price": "130 kr",
         "tags": [
-          "salad",
-          "rootvegetables"
+          "italian",
+          "pasta"
         ]
       },
       {
-        "name": "Vegetarisk Mån–Tis: Korean fried Blomkål",
+        "name": "Vegetarisk Mån–Tis: Pannoumi stroganof",
         "category": "Veckans",
-        "description": "Kålsallad – Srirachmajonnäs – Sesamfrön – Jasminris – Koriander",
+        "description": "Paprika – Jasminris – Persilja",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "vegetarian"
+        ]
+      },
+      {
+        "name": "Vegetarisk Ons- Tors: Gratinerad Chevré sallad",
+        "category": "Veckans",
+        "description": "Rostade primörer – Valnötter – Jordgubbar – Vinegrette",
         "price": "130 kr",
         "tags": [
           "vegetarian",
           "salad",
-          "nuts_seeds"
+          "nuts_seeds",
+          "drinks"
         ]
       },
       {
-        "name": "Vegetarisk Ons- Tors: Zucchini & Haloumi Biffar",
+        "name": "Vegetarisk: Fre: Pannoumiburgare",
         "category": "Veckans",
-        "description": "Rostad paprika kräm – Rostad Färskpotatis – Olivsallad – Persilja",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "vegetarian",
-          "beef",
-          "salad",
-          "rootvegetables"
+          "burger"
         ]
       },
       {
@@ -787,30 +796,29 @@
       {
         "name": "Schnitzel",
         "category": "Lunch",
-        "description": "Rödvinssås – Örtsmör – Citron – Kapris – Stektpotatis & Purjolök",
+        "description": "Rödvinssky – Café d Paris smör – Rostad potatis – Rödlök & Haricotsverts",
         "price": "130 kr",
         "tags": [
-          "beef",
           "schnitzel",
           "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Lime & Chili halstrad fångst",
+        "name": "Halstrad lax",
         "category": "Lunch",
-        "description": "Sojaemulition – Broccoli & Haricotsverts – Jasminris – Sesamfrön – Koriander",
+        "description": "Hollandaise – Rostad broccoli & Blomkål – Kokt Färskpotatis",
         "price": "130 kr",
         "tags": [
           "fish",
-          "nuts_seeds"
+          "rootvegetables"
         ]
       }
     ]
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "9 bitar",
@@ -973,7 +981,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1246,7 +1254,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1454,7 +1462,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1673,7 +1681,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1697,7 +1705,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-06-18",
+    "last_scraped": "2026-06-19",
     "items": [
       {
         "name": "vanlig 10 bitar",
