@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "Caesarsallad",
@@ -34,7 +34,7 @@
         ]
       },
       {
-        "name": "Kolgrillad Gårdsgris & Glennkorv, rostad klyftpotatis samt svampsåsFISKBakad lax serveras med dillkokt färskpotatis samt skaldjursröra",
+        "name": "Kolgrillad Gårdsgris & Glennkorv, rostad klyftpotatis samt svampsåsFISKFisk från auktionen serveras med dillkokt färskpotatis samt skaldjursröra",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
@@ -605,7 +605,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -703,7 +703,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "Veckans: Gravad lax",
@@ -782,7 +782,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "9 bitar",
@@ -945,7 +945,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1219,7 +1219,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1427,7 +1427,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1646,7 +1646,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1670,7 +1670,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-09",
     "items": [
       {
         "name": "vanlig 10 bitar",
