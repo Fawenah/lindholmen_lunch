@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -63,12 +63,15 @@
         ]
       },
       {
-        "name": "Chicken cashew",
+        "name": "Kooperativets klassiska Butter Chicken",
         "category": "INDISK",
-        "description": "Wokad kyckling med grönsaker i ostronsås med cashewnötter serveras med jasminris & koriander",
+        "description": "Indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
         "price": "130 kr",
         "tags": [
+          "indian",
           "chicken",
+          "soup",
+          "bread",
           "nuts_seeds"
         ]
       },
@@ -89,7 +92,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "",
@@ -172,7 +175,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "GARLIC CHICKEN",
@@ -356,7 +359,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -601,7 +604,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -699,7 +702,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Veckans: Gravad lax",
@@ -776,7 +779,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "9 bitar",
@@ -939,7 +942,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1209,7 +1212,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1417,7 +1420,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1636,7 +1639,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1660,7 +1663,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "vanlig 10 bitar",

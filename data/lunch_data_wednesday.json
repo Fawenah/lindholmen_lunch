@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -15,40 +15,52 @@
         ]
       },
       {
-        "name": "Grillad sommarsallad – Kolgrillad kycklingfilé på bladsallad toppad med marinerad quinoa, cimichurry",
+        "name": "Asiatisk Glasnudelsallad",
         "category": "VECKANS SPECIAL",
-        "description": "picklade jordgubbar, vitlöksmajonnäs & rostad lök",
+        "description": "Med chiliwokade vannameiräkor, chilimajonnäs, soyabönor, morötter, kål, böngroddar, koriander & jordnötter",
         "price": "130 kr",
         "tags": [
-          "chicken",
-          "salad"
+          "vegetarian",
+          "seafood",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Grillad sommarsallad – Kolgrillad halloumi på bladsallad toppad med marinerad quinoa, cimichurry",
+        "name": "VEG Asiatisk Glasnudelsallad",
         "category": "VECKANS SPECIAL",
-        "description": "picklade jordgubbar, vitlöksmajonnäs & rostad lök",
+        "description": "Med friterad tofu, chilimajonnäs, soyabönnr, morötter, kål, böngroddar, koriander & jordnötter",
         "price": "130 kr",
         "tags": [
-          "salad"
+          "vegetarian",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Kolgrillad Gårdsgris & Glennkorv, rostad klyftpotatis samt svampsåsFISKFisk från auktionen serveras med dillkokt färskpotatis samt skaldjursröra",
+        "name": "God jävla Pannbiff med smarrigt mos, brynt löksky, lingon & saltgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "beef"
+        ]
+      },
+      {
+        "name": "Stekt panerad sejfilé med dansk remoulad, kokt färskpotatis samt citron och örter",
+        "category": "FISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "beef",
           "fish",
-          "pork",
-          "seafood",
           "rootvegetables"
         ]
       },
       {
         "name": "Chicken Mongolian BBQ",
         "category": "EAST ASIA",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med friterad kyckling, rostade sesamfrön & koriander",
+        "description": "Wokade äggnudlar med grönsaker i soyaglace toppad med friterad kyckling, rostade sesamfrön & koriander",
         "price": "130 kr",
         "tags": [
           "chicken",
@@ -56,37 +68,40 @@
         ]
       },
       {
-        "name": "KolgrillaD kycklingfilé ”Tandoori style” serveras med masalasås, basmatiris & koriander",
-        "category": "INDISK",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "chicken"
-        ]
-      },
-      {
         "name": "STÄNGT",
-        "category": "VÄRLDEN",
+        "category": "INDISK",
         "description": "",
         "price": "130 kr",
         "tags": []
       },
       {
-        "name": "Sticky tofu Mongolian BBQ",
-        "category": "VEGETARISK",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med glacerad tofu toppas med rostade sesamfrön & koriander",
+        "name": "Kooperativets lasagne på nötfärs och färska lasagneplattor serveras med tomatsallad toppad med parmesan och ruccola",
+        "category": "VÄRLDEN",
+        "description": "",
         "price": "130 kr",
         "tags": [
+          "italian",
+          "pasta",
+          "salad"
+        ]
+      },
+      {
+        "name": "Kooperativets lasagne på svamp, pumpa spenat & keso serveras med tomatsallad toppad med parmesan och ruccola",
+        "category": "VEGETARISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "italian",
           "vegetarian",
-          "nuts_seeds"
+          "pasta",
+          "salad"
         ]
       }
     ]
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "",
@@ -168,7 +183,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -360,7 +375,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-08",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -605,7 +620,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -703,7 +718,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Veckans: Gravad lax",
@@ -782,7 +797,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "9 bitar",
@@ -945,7 +960,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1219,7 +1234,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1427,7 +1442,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1646,7 +1661,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1670,7 +1685,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-09",
+    "last_scraped": "2026-07-10",
     "items": [
       {
         "name": "vanlig 10 bitar",
