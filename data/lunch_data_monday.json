@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "Caesarsallad",
@@ -108,7 +108,7 @@
   },
   "DistrictOneScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "",
@@ -189,29 +189,33 @@
   },
   "BombayBistroScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
-        "name": "METHI MALAI",
+        "name": "MÅNDAG",
         "category": "",
-        "description": "Kycklinggryta tillagad med bockhornsklöver, fänkålsfrön, korianderfrön, tomat och grädde.",
+        "description": "MÅNDAG",
+        "price": "129 kr",
+        "tags": []
+      },
+      {
+        "name": "PALAK MURGH",
+        "category": "",
+        "description": "Kycklinggryta tillagad med spent, bockhornsklöver och vitlök.",
         "price": "129 kr",
         "tags": [
-          "indian",
           "chicken",
           "soup"
         ]
       },
       {
-        "name": "LAMM VINDALOO",
+        "name": "LAMM TIKKA MASALA",
         "category": "",
-        "description": "Lammköttgryta gjord av ingefära, kanel, röd chili, brun socker, curryblad och rödvin.",
+        "description": "Lammkött bräserad i kokos, grädde, paprika, tomat och spiskummin.",
         "price": "129 kr",
         "tags": [
           "indian",
-          "lamb",
-          "soup",
-          "drinks"
+          "lamb"
         ]
       },
       {
@@ -382,7 +386,7 @@
   },
   "MissFScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -627,7 +631,7 @@
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -725,36 +729,36 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
-        "name": "Veckans: Gravad lax",
+        "name": "Veckans: Lasagne",
         "category": "Veckans",
-        "description": "Dillstuvad Potatis – Hovmästarsås – Citron – Dill",
+        "description": "Tomat & Löksallad – Rucola – Grana padano",
         "price": "130 kr",
         "tags": [
-          "fish",
-          "rootvegetables"
+          "italian",
+          "pasta",
+          "salad"
         ]
       },
       {
-        "name": "Vegetarisk Mån–Tis: Friterad fetaost",
+        "name": "Vegetarisk Mån–Tis: Tortellini Ricotta & Spenat",
         "category": "Veckans",
-        "description": "Pico de gallo – Tzatziki – Rostad potatis",
-        "price": "130 kr",
-        "tags": [
-          "greek",
-          "vegetarian",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "Vegetarisk Ons- Tors: Papardelle med Tomatsås",
-        "category": "Veckans",
-        "description": "Vispad ricotta – Rostade mandlar – Citron – Grana padano – Rucola",
+        "description": "Krämigtomatsås – Grillade grönsaker – Grana padano – Rucola",
         "price": "130 kr",
         "tags": [
           "vegetarian"
+        ]
+      },
+      {
+        "name": "Vegetarisk Ons- Tors: Enchiladas",
+        "category": "Veckans",
+        "description": "Avocadokräm – Rödkålssallad – Koriander",
+        "price": "130 kr",
+        "tags": [
+          "vegetarian",
+          "salad"
         ]
       },
       {
@@ -780,22 +784,20 @@
         ]
       },
       {
-        "name": "Kalvfärsbiff",
+        "name": "Wallenbergare",
         "category": "Lunch",
-        "description": "Pepparsås – Potatisstomp med Gruyère – Rostad morot & Haricotsverts",
+        "description": "Bryntsmör – Lingon – Ärtor – Potatispuré – Persilja",
         "price": "130 kr",
         "tags": [
-          "beef",
           "rootvegetables"
         ]
       },
       {
         "name": "Pocherad fångst",
         "category": "Lunch",
-        "description": "Räkor – Pepparrot – Ägg – Brynt smör – Färskpotatis – Dill",
+        "description": "Bryntsmör – Rödbetor – Kapris – Schalottenlök – Koktpotatis – Gräslök",
         "price": "130 kr",
         "tags": [
-          "seafood",
           "rootvegetables"
         ]
       }
@@ -803,7 +805,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "9 bitar",
@@ -966,7 +968,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -976,32 +978,32 @@
         "tags": []
       },
       {
-        "name": "CHICKEN MURG MANGO",
+        "name": "MURG LUCKNOWI",
         "category": "",
-        "description": "Kycklingfilé med färsk koriander, mynta, grön Chil, kokosmjölk och mangopuré.",
+        "description": "Kycklingfilé tlagad med lök, tomat, ingefära, CN, kewra, rosenvatten och koriander",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "chicken",
-          "drinks"
+          "chicken"
         ]
       },
       {
-        "name": "LAMB PUNJABI CURRY",
+        "name": "ADRAKI LAMB DO PYAZA",
         "category": "",
-        "description": "En populär lammrätt i en sås av lök, tomat, paprika, ingefära, koriander och grön chili.",
+        "description": "Lammrostbift, lagas med rödlök, ingefära, chili, citron och indiska \"Panch phoron\" (fem kryddor).",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "lamb",
+          "soup"
+        ]
+      },
+      {
+        "name": "PUDINA CHANA MASALA",
+        "category": "",
+        "description": "Kikärtsgryta med mynta. och currysås, garnerad med friterad lök.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "lamb"
-        ]
-      },
-      {
-        "name": "BAINGAN MIRCH MASALA",
-        "category": "",
-        "description": "En traditionell maträtt med aubergine, paprika, tomat, kryddor, örter och koriander.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "indian"
+          "soup"
         ]
       },
       {
@@ -1238,7 +1240,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1446,7 +1448,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1665,7 +1667,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1689,7 +1691,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2026-07-10",
+    "last_scraped": "2026-07-13",
     "items": [
       {
         "name": "vanlig 10 bitar",
