@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "Caesarsallad",
@@ -101,7 +101,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "",
@@ -137,23 +137,22 @@
       },
       {
         "name": "",
-        "category": "Red curry",
-        "description": "Kyckling med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "category": "Yakiniku",
+        "description": "Tunnskivad entrecote med grönsaker och japansk kålsallad, serveras med ägg och jasminris.",
         "price": "129 kr",
         "tags": [
-          "thai",
-          "chicken",
-          "drinks"
+          "beef",
+          "salad"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Tofu med grönsaker och japansk kålsallad, serveras med ägg och jasminris.",
         "price": "129 kr",
         "tags": [
           "vegetarian",
-          "drinks"
+          "salad"
         ]
       },
       {
@@ -183,7 +182,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "CHICKEN KADHAI",
@@ -375,7 +374,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -620,7 +619,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -718,7 +717,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "Veckans: Lasagne",
@@ -797,7 +796,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "9 bitar",
@@ -960,7 +959,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1233,7 +1232,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1441,7 +1440,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1660,7 +1659,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1684,7 +1683,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-14",
+    "last_scraped": "2026-07-15",
     "items": [
       {
         "name": "vanlig 10 bitar",
