@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "Caesarsallad",
@@ -101,7 +101,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "",
@@ -182,26 +182,27 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
-        "name": "CHICKEN KADHAI",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Nordindisk Kycklinggryta med rödlök, paprika, fänkål, citron, svartpeppar och koriander.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
         "price": "129 kr",
         "tags": [
           "chicken",
-          "soup"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "BENGALI KOFTA CURRY",
+        "name": "BALTI GHOST",
         "category": "",
-        "description": "Lammfärsbullar tillagad med mango, senapsfrön, curryblad, chilli och kokos.",
+        "description": "Lammkött marinerad i vitlök och grön chilli tillagad i en kryddstark rödvinsås, lök, paprika och champinjoner.",
         "price": "129 kr",
         "tags": [
-          "indian",
-          "lamb"
+          "lamb",
+          "drinks"
         ]
       },
       {
@@ -374,7 +375,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -619,7 +620,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -717,7 +718,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "Veckans: Lasagne",
@@ -796,7 +797,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "9 bitar",
@@ -959,7 +960,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -969,34 +970,29 @@
         "tags": []
       },
       {
-        "name": "MURG VINDALOO",
+        "name": "CHICKEN KADHAI",
         "category": "",
-        "description": "Eldig kycklingrätt från Goa med palmvinäger, nejlkor och piri-piri masala",
+        "description": "Kyckilngflé med tomat, paprika och champinjoner, smaksatt med ingefära, koriander och chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "chicken",
-          "drinks"
+          "chicken"
         ]
       },
       {
-        "name": "SHAHI GOSHT",
+        "name": "KASHMIRI LAMB",
         "category": "",
-        "description": "Mild och krämig lammrätt med kardemumma, malda cashewnötter och pistagenötter",
+        "description": "Lammrostbitf med tomat, lök, saffran, ingefära, koriander och röd chili.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "lamb",
-          "nuts_seeds"
+          "lamb"
         ]
       },
       {
-        "name": "BAINGAN BHARTA",
+        "name": "AUBERGINE MADRASI",
         "category": "",
-        "description": "Långstekt aubergine, lök, tomat, ingefära, chili, koriander.",
+        "description": "Aubergine tilagad i en krydlig tamarind- och kokossås, smaksatt med färska curryblad och koriander.",
         "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "beef"
-        ]
+        "tags": []
       },
       {
         "name": "DAGENS THALI",
@@ -1232,7 +1228,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1440,7 +1436,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1659,7 +1655,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1683,7 +1679,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-17",
+    "last_scraped": "2026-07-20",
     "items": [
       {
         "name": "vanlig 10 bitar",
