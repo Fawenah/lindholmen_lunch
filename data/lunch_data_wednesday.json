@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-23",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "Caesarsallad",
@@ -101,7 +101,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "",
@@ -137,18 +137,22 @@
       },
       {
         "name": "",
-        "category": "Duck",
-        "description": "Crispy duck med tamarindsås och grönsaker, serveras med jasminris.",
+        "category": "Yakiniku",
+        "description": "Tunnskivad entrecote med grönsaker och japansk kålsallad, serveras med ägg och jasminris.",
         "price": "129 kr",
-        "tags": []
+        "tags": [
+          "beef",
+          "salad"
+        ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med tamarindsås och grönsaker, serveras med jasminris.",
+        "description": "Tofu med grönsaker och japansk kålsallad, serveras med ägg och jasminris.",
         "price": "129 kr",
         "tags": [
-          "vegetarian"
+          "vegetarian",
+          "salad"
         ]
       },
       {
@@ -178,27 +182,26 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
-        "name": "BUTTER CHICKEN",
+        "name": "CHICKEN BALTI",
         "category": "",
-        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och smör.",
+        "description": "Kycklingfilé marinerad i vitlök och grön chili tillagad med lök, paprika och champinjoner i en rödvinssås.",
         "price": "129 kr",
         "tags": [
           "chicken",
-          "soup",
-          "nuts_seeds"
+          "drinks"
         ]
       },
       {
-        "name": "BALTI GHOST",
+        "name": "KASHMIRI LAMM KOFTA",
         "category": "",
-        "description": "Lammkött marinerad i vitlök och grön chilli tillagad i en kryddstark rödvinsås, lök, paprika och champinjoner.",
+        "description": "Lammfärsbullar i en sås som består av lök, tomat, kardemumma, rosvatten, bockhornsklöver och grädde.",
         "price": "129 kr",
         "tags": [
-          "lamb",
-          "drinks"
+          "indian",
+          "lamb"
         ]
       },
       {
@@ -371,7 +374,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -616,7 +619,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -714,7 +717,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-23",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "Veckans: Lasagne",
@@ -793,7 +796,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "9 bitar",
@@ -956,7 +959,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -966,27 +969,29 @@
         "tags": []
       },
       {
-        "name": "CHICKEN KADHAI",
+        "name": "MURG ZAFFRANI",
         "category": "",
-        "description": "Kyckilngflé med tomat, paprika och champinjoner, smaksatt med ingefära, koriander och chili.",
+        "description": "Saffransmarinerad grillad kycking, garam masala i en krämig cashewnötsås.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "chicken"
+          "indian",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "KASHMIRI LAMB",
+        "name": "LAHSUNI MACHILI NIMBU",
         "category": "",
-        "description": "Lammrostbitf med tomat, lök, saffran, ingefära, koriander och röd chili.",
+        "description": "Laxfilé, tillagad i en krämig masalasås med smak öv lime.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "lamb"
+          "indian",
+          "fish"
         ]
       },
       {
-        "name": "AUBERGINE MADRASI",
+        "name": "AVIAL CURRY",
         "category": "",
-        "description": "Aubergine tilagad i en krydlig tamarind- och kokossås, smaksatt med färska curryblad och koriander.",
+        "description": "Blandade grönsaker med senaps, kummin, koriander och fänkål i kokossås",
         "price": "119 kr, takeaway 114 kr",
         "tags": []
       },
@@ -1224,7 +1229,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1432,7 +1437,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1651,7 +1656,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1675,7 +1680,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-07-24",
+    "last_scraped": "2026-07-27",
     "items": [
       {
         "name": "vanlig 10 bitar",
