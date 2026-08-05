@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "Caesarsallad",
@@ -15,76 +15,85 @@
         ]
       },
       {
-        "name": "Grillad sommarsallad – Kolgrillad kycklingfilé på bladsallad toppad med marinerad quinoa, cimichurry",
+        "name": "Asiatisk Glasnudelsallad",
         "category": "VECKANS SPECIAL",
-        "description": "picklade jordgubbar, vitlöksmajonnäs & rostad lök",
+        "description": "med chiliwokade vannamei räkor, chilimajonäs, soyaböner, morötter, kål, böngroddar, koriander & jordnötter",
         "price": "130 kr",
         "tags": [
-          "chicken",
-          "salad"
+          "seafood",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Grillad sommarsallad – Kolgrillad halloumi på bladsallad toppad med marinerad quinoa, cimichurry",
+        "name": "VEG Asiatisk Glasnudelsallad",
         "category": "VECKANS SPECIAL",
-        "description": "picklade jordgubbar, vitlöksmajonnäs & rostad lök",
+        "description": "med friterade tofu, chilimajonäs, soyaböner, morötter, kål, böngroddar, koriander & jordnötter",
         "price": "130 kr",
         "tags": [
-          "salad"
+          "vegetarian",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "SemesterGrillen",
+        "name": "Fredags Grillen",
         "category": "KÖTT",
-        "description": "Berra bjuder på grillmix med pommes & bea frågor på det??",
+        "description": "kolgrillar gårdsgris med pommes & bea så klart!!",
         "price": "130 kr",
         "tags": [
+          "pork",
           "rootvegetables"
         ]
       },
       {
-        "name": "Havets wallenbergare med potatispurÉ, bryntsmör & gröna ärtor",
+        "name": "Grillad lax serveras med brynt smörhollandaise, citron och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
-          "rootvegetables"
+          "salad"
         ]
       },
       {
-        "name": "Chicken cashew",
+        "name": "Sticky chicken",
         "category": "EAST ASIA",
-        "description": "Wokad kyckling med grönsaker i ostronsås med cashewnötter serveras med jasminris & koriander",
+        "description": "kyckling i hosinsås med krämigkålsallad serveras med jasminris, koriander & rostade sesamfrön chili 1/5",
         "price": "130 kr",
         "tags": [
           "chicken",
+          "salad",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Chicken",
+        "name": "Chicken Tikka Masala",
         "category": "INDISK",
-        "description": "Indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm, chili 1/5",
+        "description": "Indisk currygryta med kyckling med rostad mandel serveras med mango chutney, basmatiris & koriander och papadum",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
           "soup",
-          "bread",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Kooperativets klassiska Butter Halloumi",
+        "name": "STÄNGT",
+        "category": "VÄRLDEN",
+        "description": "",
+        "price": "130 kr",
+        "tags": []
+      },
+      {
+        "name": "Sticky tofu",
         "category": "VEGETARISK",
-        "description": "indisk gryta med friterad haloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
+        "description": "tofu i hosinsås med krämigkålsallad serveras med jasminris, koriander & rostade sesamfrön chili 1/5’",
         "price": "130 kr",
         "tags": [
-          "indian",
           "vegetarian",
-          "soup",
-          "bread",
+          "salad",
           "nuts_seeds"
         ]
       }
@@ -92,7 +101,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "",
@@ -175,7 +184,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "GARLIC CHICKEN",
@@ -359,7 +368,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -604,7 +613,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -702,7 +711,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "Veckans: Lasagne",
@@ -782,7 +791,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "9 bitar",
@@ -945,7 +954,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1215,7 +1224,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1423,7 +1432,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1642,7 +1651,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1666,7 +1675,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-04",
+    "last_scraped": "2026-08-05",
     "items": [
       {
         "name": "vanlig 10 bitar",
