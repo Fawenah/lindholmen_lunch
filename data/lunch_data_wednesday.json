@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "Caesarsallad",
@@ -623,7 +623,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -721,36 +721,34 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
-        "name": "Veckans: Lasagne",
+        "name": "Veckans: Pytt Bellman",
         "category": "Veckans",
-        "description": "Tomat & Löksallad – Rucola – Grana padano",
+        "description": "Tomat & Löksallad – Rucola – Picklade rödbetor – Stekt ägg - Persilja",
         "price": "130 kr",
         "tags": [
-          "italian",
-          "pasta",
+          "beef",
           "salad"
         ]
       },
       {
-        "name": "Vegetarisk Mån–Tis: Tortellini Ricotta & Spenat",
+        "name": "Vegetarisk Mån–Tis: Falafel",
         "category": "Veckans",
-        "description": "Krämigtomatsås – Grillade grönsaker – Grana padano – Rucola",
+        "description": "Örtyougurt – Rostad spetskål - Grönsaksris",
         "price": "130 kr",
         "tags": [
           "vegetarian"
         ]
       },
       {
-        "name": "Vegetarisk Ons- Tors: Enchiladas",
+        "name": "Vegetarisk Ons- Tors: Arrancini",
         "category": "Veckans",
-        "description": "Avocadokräm – Rödkålssallad – Koriander",
+        "description": "Marinarasås – Basilkakräm – Grana pandano",
         "price": "130 kr",
         "tags": [
-          "vegetarian",
-          "salad"
+          "vegetarian"
         ]
       },
       {
@@ -776,31 +774,30 @@
         ]
       },
       {
-        "name": "Schnitzel",
+        "name": "Cordon bleu",
         "category": "Lunch",
-        "description": "Rödvinssky – Citronsmör – Ärtor – Rostad potatis – Persilja",
+        "description": "Rödvinsås – Vitlöksmör – Haricoverts – Rostad potatis - Persilja",
         "price": "130 kr",
         "tags": [
-          "schnitzel",
           "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Pocherad fångst",
+        "name": "Halstrad kolja",
         "category": "Lunch",
-        "description": "Rostad fänkål – Skaldjurssås – Kokt färskpotatis – Gräslök",
+        "description": "Svampsås – Bakade morötter - Örtsallad",
         "price": "130 kr",
         "tags": [
-          "seafood",
-          "rootvegetables"
+          "fish",
+          "salad"
         ]
       }
     ]
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "9 bitar",
@@ -963,7 +960,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -973,34 +970,33 @@
         "tags": []
       },
       {
-        "name": "CHICKEN CHETTINAD",
+        "name": "MURG VINDALOO",
         "category": "",
-        "description": "En populär sydindisk kycklinggryta, tillagad i en pepprig kryddblandning från Chettinad, Spetsad med kokos.",
-        "price": "119 kr, takeaway 114 kr",
-        "tags": [
-          "chicken",
-          "soup"
-        ]
-      },
-      {
-        "name": "CHUTNEY SEEKH KEBAB",
-        "category": "",
-        "description": "Lammfärskebab med mango chutney, mynta, vitlök, garam masala och rödvinsås.",
+        "description": "Eldig kycklingrätt från Goa med palmvinäger, nejlkor och piri-piri masala",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "lamb",
+          "chicken",
           "drinks"
         ]
       },
       {
-        "name": "SAMOSA CURRY",
+        "name": "SHAHI GOSHT",
         "category": "",
-        "description": "Friterade små piroger med vegetarisk fyllning, serveras i yoghurt- och currysås.",
+        "description": "Mild och krämig lammrätt med kardemumma, malda cashewnötter och pistagenötter",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "vegetarian"
+          "lamb",
+          "nuts_seeds"
+        ]
+      },
+      {
+        "name": "BAINGAN BHARTA",
+        "category": "",
+        "description": "Långstekt aubergine, lök, tomat, ingefära, chili, koriander.",
+        "price": "119 kr, takeaway 114 kr",
+        "tags": [
+          "beef"
         ]
       },
       {
@@ -1237,7 +1233,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1445,7 +1441,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1664,7 +1660,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1688,7 +1684,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-10",
     "items": [
       {
         "name": "vanlig 10 bitar",
