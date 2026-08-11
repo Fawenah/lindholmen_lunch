@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Caesarsallad",
@@ -111,7 +111,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "",
@@ -193,26 +193,26 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-11",
     "items": [
       {
-        "name": "CHILI CHICKEN",
+        "name": "BUTTER CHICKEN",
         "category": "",
-        "description": "Kycklingfilé tillagad med chili, masala, rödlök, paprika, vinäger, ingefära och vitlök.",
+        "description": "Kycklinggryta i en aromatisk gräddsås som består av tomat, ost, cashewnötter och.smör.",
         "price": "129 kr",
         "tags": [
-          "indian",
           "chicken",
-          "drinks"
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "BEEF MALAI KORMA",
+        "name": "BEEF SHARABI",
         "category": "",
-        "description": "Oxköttgryta tillagad en gräddsås med tomat, kardemumma, rosvatten och smör.",
+        "description": "Oxköttgryta tillagad med en kryddstark cognacsås gjord på vitlök, ingefära, linser och grön chili.",
         "price": "129 kr",
         "tags": [
-          "indian",
+          "vegetarian",
           "soup"
         ]
       },
@@ -386,7 +386,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -631,7 +631,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -729,7 +729,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -815,7 +815,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "9 bitar",
@@ -978,7 +978,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1252,7 +1252,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1460,7 +1460,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1679,7 +1679,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1703,7 +1703,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "vanlig 10 bitar",

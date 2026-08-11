@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Caesarsallad",
@@ -101,7 +101,7 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "",
@@ -184,12 +184,12 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-11",
     "items": [
       {
-        "name": "GARLIC CHICKEN",
+        "name": "CHICKEN TIKKA",
         "category": "",
-        "description": "Kycklingfilé marinerad i vitlök, grönchili, spiskummin serveras med tandoori sås.",
+        "description": "Grillad kycklingfilé marinerad i lime, yoghurt och tandoori masala, serveras med tandoori sås.",
         "price": "129 kr",
         "tags": [
           "indian",
@@ -197,14 +197,16 @@
         ]
       },
       {
-        "name": "BAINGAN GHOST",
+        "name": "HYDRABADI GHOST",
         "category": "",
-        "description": "Lammkött tillagad med aubergine, lök, garam masala och grön chili. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
+        "description": "Lammköttgryta med senap, lök, tomat, vitlök, sesamfrön, mynta, grön chili och kokos. Tre dagens vegetariska rätter och raita (kan fås vegansk)",
         "price": "129 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "lamb"
+          "lamb",
+          "soup",
+          "nuts_seeds"
         ]
       },
       {
@@ -368,7 +370,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-07",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -613,7 +615,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -711,7 +713,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -787,7 +789,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "9 bitar",
@@ -950,7 +952,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1221,7 +1223,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1429,7 +1431,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1648,7 +1650,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1672,7 +1674,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-10",
+    "last_scraped": "2026-08-11",
     "items": [
       {
         "name": "vanlig 10 bitar",
