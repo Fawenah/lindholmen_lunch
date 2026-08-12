@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "Caesarsallad",
@@ -111,28 +111,8 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
-      {
-        "name": "",
-        "category": "Pad thai",
-        "description": "-(Pad Thai) Wokade risnudlar med kyckling, grönsaker, chilli, lime, jordnötter",
-        "price": "129 kr",
-        "tags": [
-          "thai",
-          "chicken",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Pad thai",
-        "description": "och ägg.",
-        "price": "129 kr",
-        "tags": [
-          "thai"
-        ]
-      },
       {
         "name": "",
         "category": "Sallad",
@@ -147,23 +127,32 @@
       },
       {
         "name": "",
-        "category": "Red curry",
-        "description": "Kyckling med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "category": "Bun thit",
+        "description": "Risnudlar med biff, chili, koriander, pickles, sallad, rostad lök,",
         "price": "129 kr",
         "tags": [
-          "thai",
-          "chicken",
-          "drinks"
+          "beef",
+          "salad"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Bun thit",
+        "description": "jordnötter och nuoc mam.",
+        "price": "129 kr",
+        "tags": [
+          "nuts_seeds"
         ]
       },
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Risnudlar med vegetariska vårrullar, chili, koriander, pickles, sallad, rostad lök, jordnötter och nuoc mam.",
         "price": "129 kr",
         "tags": [
           "vegetarian",
-          "drinks"
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
@@ -193,7 +182,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -386,7 +375,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -631,7 +620,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -729,7 +718,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -815,7 +804,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "9 bitar",
@@ -978,7 +967,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1252,7 +1241,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1460,7 +1449,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1679,7 +1668,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1703,7 +1692,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-11",
+    "last_scraped": "2026-08-12",
     "items": [
       {
         "name": "vanlig 10 bitar",
