@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "Caesarsallad",
@@ -101,8 +101,30 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
+      {
+        "name": "",
+        "category": "Fisk",
+        "description": "Pocherad torskfile med sanderfjordssås och rostade rotfrukter, serveras med potatismos.",
+        "price": "129 kr",
+        "tags": [
+          "fish",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "",
+        "category": "Sallad",
+        "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt husets ceasardressing.",
+        "price": "129 kr",
+        "tags": [
+          "chicken",
+          "pork",
+          "salad",
+          "bread"
+        ]
+      },
       {
         "name": "",
         "category": "Pad thai",
@@ -121,29 +143,6 @@
         "price": "129 kr",
         "tags": [
           "thai"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Sallad",
-        "description": "Ceasarsallad med grillad kyckling, grana padano, romansallad, bacon, brödkrutonger samt husets ceasardressing.",
-        "price": "129 kr",
-        "tags": [
-          "chicken",
-          "pork",
-          "salad",
-          "bread"
-        ]
-      },
-      {
-        "name": "",
-        "category": "Fried chicken",
-        "description": "Friterad kyckling med chili mayo och jordnötssås, serveras med morot och vitkålssallad samt jasminris.",
-        "price": "129 kr",
-        "tags": [
-          "chicken",
-          "salad",
-          "rootvegetables"
         ]
       },
       {
@@ -184,7 +183,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "CHICKEN TIKKA",
@@ -370,7 +369,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -615,7 +614,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -713,7 +712,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "Veckans: Pytt Bellman",
@@ -789,7 +788,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "9 bitar",
@@ -952,7 +951,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1223,7 +1222,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1431,7 +1430,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1650,7 +1649,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1674,7 +1673,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-12",
+    "last_scraped": "2026-08-13",
     "items": [
       {
         "name": "vanlig 10 bitar",
