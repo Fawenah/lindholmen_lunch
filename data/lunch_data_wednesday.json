@@ -1,11 +1,11 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Caesarsallad",
-        "category": "SALLADER",
+        "category": "SALLAD",
         "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
         "price": "130 kr",
         "tags": [
@@ -15,98 +15,99 @@
         ]
       },
       {
-        "name": "”Mexican Bowl” Grillad kyckling med sötpotatis och marinerat quinoa som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
+        "name": "Bi bim bap serveras med pankofriterade räkor på sesamris toppad med soyasås & kimchi, soya bönor, smashad cucumber, böngroddar, chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "chicken",
-          "rootvegetables"
+          "seafood",
+          "burger"
         ]
       },
       {
-        "name": "”Mexican Bowl” Vegetarisk bowl med falafel, sötpotatis och marinerat quinoa som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
+        "name": "Bi bim bap serveras med Quorn på sesamris toppad med soyasås & kimchi, soya bönor, smashad cucumber, böngroddar, chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "rootvegetables"
+          "burger"
         ]
       },
       {
-        "name": "Grillad fläskfilé med krämigt mos, gräddsås smaksatt med svartpeppar persiljestekta champinjoner & svartvinbärsgele",
+        "name": "God jävla Pannbiff med smarrigt mos, brynt löksky, lingon & saltgurka",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "beef",
-          "pork",
-          "drinks"
+          "beef"
         ]
       },
       {
-        "name": "Stekt panerad sejfile serveras med krossad potatis, rökt laxröra smaksatt med pepparrot och dijonsenap , citron och örter",
+        "name": "Stekt panerad sejfilé serveras med klyftpotatis, fetaostkräm smaksatt med mynta, samt citron och örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "greek",
           "beef",
           "fish",
           "rootvegetables"
         ]
       },
       {
-        "name": "Bulgogi på wokad kyckling med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära serveras med jasminris",
+        "name": "Chicken karaage",
         "category": "THAI",
-        "description": "",
+        "description": "Friterad kyckling kryddad sebbes heliga krydda, servers med smashed cucumber chilimajonnäs samt jasminris & koriander",
         "price": "130 kr",
         "tags": [
-          "korean",
           "thai",
-          "chicken"
+          "chicken",
+          "burger"
         ]
       },
       {
-        "name": "Chicken Kadahi indisk curry med kyckling toppas med yoghurt serveras med basmatiris, papadum & koriander",
+        "name": "Chicken Alomonds and coriander",
         "category": "INDISK",
-        "description": "",
+        "description": "Indisk kycklinggryta med mandel & koriander serveras med basmatiris, yoghurt & garlic Naan CHILI 3/5",
         "price": "130 kr",
         "tags": [
           "indian",
-          "chicken"
-        ]
-      },
-      {
-        "name": "Grilled Chicken Taco",
-        "category": "VÄRLDEN",
-        "description": "Vedelad kycklingfilé på rostat tortillabröd med avokadokräm, pico de gallo & koriander",
-        "price": "130 kr",
-        "tags": [
-          "mexican",
           "chicken",
-          "taco",
-          "bread"
+          "soup",
+          "bread",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Grilled Quorn Taco",
-        "category": "VEGETARISK",
-        "description": "Grillad quorn på rostat tortillabröd med avokadokräm, pico de gallo & koriander",
+        "name": "goes sandwich week                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Italian meatball sub, Köttbullar på kalvfärs, marinarasås, béchamelsås, massor utav god ost, rostad lök toppas med ruccola och serveras med en basilika & tomatsallad.",
+        "category": "VÄRLDEN",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "mexican",
+          "beef",
+          "salad"
+        ]
+      },
+      {
+        "name": "Italian veggi meatball sub, vegitariska köttbullar, marinarasås, bechamel med massor utav god ost, rostad lök toppas med ruccola och serverad med en basilika & tomatsallad.",
+        "category": "VEGETARISK",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
           "vegetarian",
-          "taco",
-          "bread"
+          "beef",
+          "salad"
         ]
       }
     ]
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "",
@@ -198,7 +199,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -263,7 +264,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "",
@@ -367,7 +368,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Spicy creamy red thai coconut curry",
@@ -404,7 +405,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -649,7 +650,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -747,7 +748,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Veckans: Pasta pesto",
@@ -837,7 +838,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "9 bitar",
@@ -1000,7 +1001,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1268,7 +1269,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1477,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1695,7 +1696,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1719,7 +1720,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "vanlig 10 bitar",

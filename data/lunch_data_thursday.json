@@ -1,11 +1,11 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Caesarsallad",
-        "category": "SALLADER",
+        "category": "SALLAD",
         "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
         "price": "130 kr",
         "tags": [
@@ -15,57 +15,60 @@
         ]
       },
       {
-        "name": "”Mexican Bowl” Grillad kyckling med sötpotatis och marinerat quinoa som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
+        "name": "Bi bim bap serveras med pankofriterade räkor på sesamris toppad med soyasås & kimchi, soya bönor, smashad cucumber, böngroddar, chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "chicken",
-          "rootvegetables"
+          "seafood",
+          "burger"
         ]
       },
       {
-        "name": "”Mexican Bowl” Vegetarisk bowl med falafel, sötpotatis och marinerat quinoa som serveras med marinerade svarta bönor, rostad majs, avokadoröra, lime & koriander",
+        "name": "Bi bim bap serveras med Quorn på sesamris toppad med soyasås & kimchi, soya bönor, smashad cucumber, böngroddar, chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "korean",
           "vegetarian",
-          "rootvegetables"
+          "burger"
         ]
       },
       {
-        "name": "Viltpannbiff med potatispuré, svampgräddsås, rårörda lingon & saltgurka och rostad grönkål",
+        "name": "Vedeldat Lamm provencale",
         "category": "KÖTT",
-        "description": "",
+        "description": "lammrostbiff marinerat i örter & vitlök grillat över björkved med frasig potatisrösti smaksatt med parmesan serveras med rostad tomatsky",
         "price": "130 kr",
         "tags": [
           "beef",
+          "lamb",
           "rootvegetables"
         ]
       },
       {
-        "name": "Vinpocherad kolja serveras med dillkrossad färskpotatis, fänkålssås och örtsallad",
+        "name": "Parmesan & Örtbakad kolja serveras med stompad färskpotatis, blåmusselsås, rostad panko och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "fish",
           "salad",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       },
       {
-        "name": "Smoked Korean BBQ Pork",
+        "name": "Chicken Satay",
         "category": "THAI",
-        "description": "16h rökt gårdsgris toppad med asiatisk chimichurri serveras med krämig kålsallad och jasminris",
+        "description": "Kolgrillad kycklingspett med kålsallad serveras med jordnötssås, toppad med rosade jordnötter och jasminris & koriander",
         "price": "130 kr",
         "tags": [
           "thai",
-          "pork",
-          "salad"
+          "chicken",
+          "salad",
+          "nuts_seeds"
         ]
       },
       {
@@ -95,13 +98,15 @@
         ]
       },
       {
-        "name": "(Burgaren går att få med haloumi)America onion Beef Burger",
+        "name": "(Burgaren går att få med haloumi)”QP and Bacon”",
         "category": "VÄRLDEN",
-        "description": "Kolgrillad Högrevburgare med dubbel cheddarost i briochebröd med vitlöksmajonnäs toppad med karameliserad lök & frasiga lökringar serveras med frasiga country fries",
+        "description": "Högrevburgare toppad med dubbel cheddarost i briochebröd med bacon, rödlök, amerikansenapsmajonnäs, krispigsallad, & frasiga country fries",
         "price": "130 kr",
         "tags": [
           "beef",
+          "pork",
           "burger",
+          "salad",
           "bread"
         ]
       }
@@ -109,7 +114,7 @@
   },
   "DistrictOneScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "",
@@ -188,7 +193,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "MURGH JHALFREZI",
@@ -250,7 +255,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "",
@@ -354,7 +359,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Spicy creamy red thai coconut curry",
@@ -391,7 +396,7 @@
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -636,7 +641,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -734,7 +739,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Veckans: Pasta pesto",
@@ -835,7 +840,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "9 bitar",
@@ -998,7 +1003,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1269,7 +1274,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1477,7 +1482,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1696,7 +1701,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1720,7 +1725,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-08-20",
+    "last_scraped": "2026-08-21",
     "items": [
       {
         "name": "vanlig 10 bitar",
