@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "Caesarsallad",
@@ -107,27 +107,25 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "",
         "category": "Fisk",
-        "description": "Skaldjuröverbakad torskfile med vitvinssås och kokt broccolil, serveras med potatispure.",
+        "description": "Hollandaise gratinerad torskfile med hollandaisesås och brynta champinjoner, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
           "fish",
-          "seafood",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       },
       {
         "name": "",
         "category": "Kött",
-        "description": "Nattbakad flankstek med grönpepparsås och rostade rotfrukter, serveras med rostad potatis.",
+        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
         "price": "129 kr",
         "tags": [
-          "beef",
+          "schnitzel",
           "rootvegetables"
         ]
       },
@@ -166,10 +164,9 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Tofu med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Tofu med röd curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
-          "thai",
           "vegetarian",
           "drinks"
         ]
@@ -201,7 +198,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "KESARI MURGH TIKKA",
@@ -266,7 +263,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "",
@@ -360,7 +357,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "Äggnudlar “dan dan”",
@@ -399,7 +396,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -644,7 +641,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -742,7 +739,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "VeckanVeckans: Oxbringa",
@@ -803,23 +800,26 @@
         ]
       },
       {
-        "name": "Kyckling tacos",
+        "name": "Nötfärsbiff",
         "category": "Lunch",
-        "description": "Avocado & mangosalsa – Kålsallad – Chilikräm – Nachochips",
+        "description": "Bearnaises – Rödvinssås – Harricots verts – Klyftpotatis",
         "price": "130 kr",
         "tags": [
-          "mexican",
-          "chicken",
-          "salad",
-          "taco"
+          "beef",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Havets wallenbergare",
+        "name": "Fisksoppa",
         "category": "Lunch",
-        "description": "Brynt smör – Ärtor – Lingon – Potatispuré",
+        "description": "Vitlöksbröd – Musslor – Primörer – Färskpotatis",
         "price": "130 kr",
         "tags": [
+          "fish",
+          "seafood",
+          "soup",
+          "bread",
           "rootvegetables"
         ]
       }
@@ -827,7 +827,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "9 bitar",
@@ -990,7 +990,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1261,7 +1261,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1469,7 +1469,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1688,7 +1688,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1712,7 +1712,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-08-24",
+    "last_scraped": "2026-08-25",
     "items": [
       {
         "name": "vanlig 10 bitar",
