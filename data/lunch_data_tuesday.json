@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "Caesarsallad",
@@ -15,42 +15,38 @@
         ]
       },
       {
-        "name": "Bi bim bap serveras med pankofriterade räkor på sesamris toppad med soyasås & kimchi, soya bönor, smashad cucumber, böngroddar, chilimajonnäs & bakat ägg",
+        "name": "Grillad sensommarsallad",
         "category": "VECKANS SPECIAL",
-        "description": "",
+        "description": "grillad kyckling på bladsallad toppad med pärlcous cous, vattenmelon, picklad kantareller med rödlök & fetaost serveras med ramslöksmajonnäs",
         "price": "130 kr",
         "tags": [
-          "korean",
-          "vegetarian",
-          "seafood",
-          "burger"
+          "greek",
+          "chicken",
+          "salad"
         ]
       },
       {
-        "name": "Bi bim bap serveras med Quorn på sesamris toppad med soyasås & kimchi, soya bönor, smashad cucumber, böngroddar, chilimajonnäs & bakat ägg",
+        "name": "Grillad sensommarsallad",
         "category": "VECKANS SPECIAL",
-        "description": "",
+        "description": "Friterad haloumi på bladsallad toppad med pärlcous cous, vattenmelon, picklad kantareller med rödlök & fetaost serveras med ramslöksmajonnäs’",
         "price": "130 kr",
         "tags": [
-          "korean",
-          "vegetarian",
-          "burger"
+          "greek",
+          "salad"
         ]
       },
       {
-        "name": "Kooperativets Schnitzel på gårdsgris toppad med rödbetor, bacon, kapris & brynt lök serveras med persiljerostad färsk potatis & rödvinssås",
+        "name": "Schnitzel, Pommes, Bea",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "pork",
           "schnitzel",
-          "rootvegetables",
-          "drinks"
+          "rootvegetables"
         ]
       },
       {
-        "name": "Bakad kolja serveras med en krämig kantarellrisotto, dillaioli, ruccola och färskriven grana padano",
+        "name": "Bakad kolja serveras med en krämig ramslöksrisotto, tryffelaioli, ruccola och färskriven grana padano",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
@@ -60,46 +56,52 @@
         ]
       },
       {
-        "name": "Crispy char Siu Pork",
+        "name": "Chicken Mongolian BBQ",
         "category": "THAI",
-        "description": "Wokade äggnudlar med crispig fläsksida med kinesisk ”BBQsås” och wokade grönsaker toppad med böngroddar, koriander & rostade sesamfrön",
+        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
         "price": "130 kr",
         "tags": [
           "thai",
-          "pork",
-          "nuts_seeds",
-          "drinks"
+          "chicken",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "Kolgrillad Tandoori kycklingbröst serveras masalasås, myntayoghurt och sallad på spenat & rödlök samt smörat Naan",
+        "name": "Chicken Tikka Masala",
         "category": "INDISK",
-        "description": "",
+        "description": "Indisk currygryta med majskyckling med rostad mandel serveras med pickelsmajonnäs, basmatiris & koriander och Naan",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
-          "salad",
-          "bread"
+          "soup",
+          "bread",
+          "nuts_seeds"
         ]
       },
       {
-        "name": "goes sandwich week                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Nashville hot chicken melt, friterad kyckling, Nashville hot",
+        "name": "Vedeldad kycklingfile med smashed parmesanpotatis, örtaioli & rödvinssås",
         "category": "VÄRLDEN",
-        "description": "sås/cayenne smör, paprika & honung, krispig sallad, picklad silverlök & grön chili, ranchmajjo serveras med waffle fries.",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "chicken",
-          "salad"
+          "burger",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Crispy char Siu tofu",
+        "name": "Samosa Tikka Masala",
         "category": "VEGETARISK",
-        "description": "Wokade äggnudlar med krispig tofu med kinesisk ”BBQsås” och wokade grönsaker toppad med böngroddar, koriander & rostade sesamfrön",
+        "description": "Indisk currygryta med friterade fyllda potatisknyten toppas med rostad mandel serveras med pickelsmajonnäs, basmatiris & koriander och Naan",
         "price": "130 kr",
         "tags": [
+          "indian",
           "vegetarian",
+          "soup",
+          "bread",
+          "rootvegetables",
           "nuts_seeds"
         ]
       }
@@ -261,7 +263,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "",
@@ -355,7 +357,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "Sotad havsöring",
@@ -647,7 +649,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -745,7 +747,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "VeckanVeckans: Oxbringa",
@@ -830,7 +832,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "9 bitar",
@@ -993,7 +995,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1268,7 +1270,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1478,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1695,7 +1697,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1719,7 +1721,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-08-26",
+    "last_scraped": "2026-08-27",
     "items": [
       {
         "name": "vanlig 10 bitar",
