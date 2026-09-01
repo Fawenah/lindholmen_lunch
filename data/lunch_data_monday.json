@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-28",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Caesarsallad",
@@ -103,7 +103,7 @@
   },
   "DistrictOneScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "",
@@ -185,7 +185,7 @@
   },
   "BombayBistroScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "METHI MALAI",
@@ -252,7 +252,7 @@
   },
   "CuckoosNestScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "",
@@ -355,7 +355,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Bakad uer",
@@ -405,7 +405,7 @@
   },
   "MissFScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -650,13 +650,13 @@
   },
   "BennePastabarScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "SLOW TOMATO",
         "category": "Benne Pasta",
         "description": "Naturligt söt och varsamt kokt tomatsås gjord på karamelliserad rödlök, rostad vitlök och färsk basilika. Toppad med lagrad hårdost, baby leaves, basilika och extra virgin olivolja.",
-        "price": "55 kr",
+        "price": "59 kr",
         "tags": [
           "italian",
           "pasta"
@@ -666,7 +666,7 @@
         "name": "SWEDISH CHEESE",
         "category": "Benne Pasta",
         "description": "Vår himmelskt krämiga ostsås gjord på\n\t\t\t\t\t\t\t\t\tVästerbottensost®, smaksatt med en generös mängd svartpeppar. Toppad med ett crunchy ostkrisp, lagrad hårdost, hackad persilja och nymalen svartpeppar.",
-        "price": "70 kr",
+        "price": "75 kr",
         "tags": [
           "italian",
           "pasta"
@@ -676,7 +676,7 @@
         "name": "SMOKED PIG",
         "category": "Benne Pasta",
         "description": "Nystekt bacon i en krämig vit sås som är smaksatt med svartpeppar. Toppad med lagrad hårdost och hackad persilja.",
-        "price": "80 kr",
+        "price": "85 kr",
         "tags": [
           "italian",
           "beef",
@@ -688,7 +688,7 @@
         "name": "Silky Bird",
         "category": "Benne Pasta",
         "description": "Rostad och skivad kycklinglårfilé i en gräddig tomatsås gjord på karamelliserad rödlök, gyllenstekt vitlök och färsk basilika. Toppad med lagrad hårdost, hackad persilja och plockad basilika.",
-        "price": "90 kr",
+        "price": "95 kr",
         "tags": [
           "italian",
           "beef",
@@ -700,7 +700,7 @@
         "name": "THE SHROOMS",
         "category": "Benne Pasta",
         "description": "Vitlöksfrästa champinjoner i en ljuvligt krämig svampsås som är smaksatt med färsk timjan och rostad vitlök. Toppad med lagrad hårdost, hackad persilja, rostade pumpakärnor och svart tryffelolja.",
-        "price": "95 kr",
+        "price": "99 kr",
         "tags": [
           "italian",
           "pasta",
@@ -748,7 +748,7 @@
   },
   "BistrotScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-28",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Veckans: Lax pasta",
@@ -833,7 +833,7 @@
   },
   "OishiiScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "9 bitar",
@@ -996,7 +996,7 @@
   },
   "MasalaScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1268,7 +1268,7 @@
   },
   "GansuScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1476,7 @@
   },
   "TheSocialScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1695,7 +1695,7 @@
   },
   "AlkemistenScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1719,7 +1719,7 @@
   },
   "EncounterAsianScraper": {
     "day": "monday",
-    "last_scraped": "2026-08-31",
+    "last_scraped": "2026-09-01",
     "items": [
       {
         "name": "vanlig 10 bitar",
