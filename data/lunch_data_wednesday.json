@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Caesarsallad",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "name": "Kolgrillad Vildsvinskarré med potatisgratäng och rödvinssås smaksatt med örter",
+        "name": "Kolgrillad Vildsvinskarré med potatisgratäng och svartpeppar majonnäs",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
@@ -57,7 +57,7 @@
         ]
       },
       {
-        "name": "Pad Kra Pao ”Holy basil” Wokad kyckling i ostronsås med chili, vitlök & Thai basilika, serveras med bakat 65 graders ägg, jasminris & korianderCHILI 3/5",
+        "name": "Pad Kra Pao ”Holy basil” Wokad kyckling i ostronsås med chili, vitlök & Thai basilika, rostad lök, serveras med bakat 65 graders ägg, jasminris & korianderCHILI 3/5",
         "category": "THAI",
         "description": "",
         "price": "130 kr",
@@ -105,7 +105,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "",
@@ -195,7 +195,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -259,7 +259,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "",
@@ -362,7 +362,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Butter chicken",
@@ -411,7 +411,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -656,7 +656,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -754,7 +754,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Veckans: Lax pasta",
@@ -839,7 +839,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "9 bitar",
@@ -1002,7 +1002,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1276,7 +1276,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1484,7 +1484,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1703,7 +1703,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1727,7 +1727,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-01",
+    "last_scraped": "2026-09-02",
     "items": [
       {
         "name": "vanlig 10 bitar",
