@@ -1,11 +1,11 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Caesarsallad",
-        "category": "SALLAD",
+        "category": "SALLADER",
         "description": "romansallad toppad med kyckling & bacon, serveras med caesardressing, riven grana padano, sardeller samt krutonger",
         "price": "130 kr",
         "tags": [
@@ -15,101 +15,106 @@
         ]
       },
       {
-        "name": "Grillad sensommarsallad",
+        "name": "”Sushi Bowl” Sojamarinerad lax serveras på söt syrligt jasminris tillsammans med sojabönor, sesammorötter, rättika, böngroddar, garipicklad rädisa & krossad nori serveras med wasabi & misomajonnäs",
         "category": "VECKANS SPECIAL",
-        "description": "grillad kyckling på bladsallad toppad med pärlcous cous, vattenmelon, picklad kantareller med rödlök & fetaost serveras med ramslöksmajonnäs",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "greek",
-          "chicken",
-          "salad"
+          "japanese",
+          "vegetarian",
+          "fish",
+          "sushi"
         ]
       },
       {
-        "name": "Grillad sensommarsallad",
+        "name": "VEG ” Sushi Bowl” Sojamarinerad Tofu serveras på söt syrligt jasminris tillsammans med sojabönor, sesammorötter, rättika, böngroddar, garipicklad rädisa & krossad nori serveras med wasabi & misomajonnäs",
         "category": "VECKANS SPECIAL",
-        "description": "Friterad haloumi på bladsallad toppad med pärlcous cous, vattenmelon, picklad kantareller med rödlök & fetaost serveras med ramslöksmajonnäs’",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "greek",
-          "salad"
+          "japanese",
+          "vegetarian",
+          "sushi"
         ]
       },
       {
-        "name": "Schnitzel, Pommes, Bea",
+        "name": "Kooperativets Schnitzel på gårdsgris toppad med vispat smör smaksatt med rött vin & grönpeppar serveras med rostad potatis & stekskys",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "beef",
+          "pork",
           "schnitzel",
-          "rootvegetables"
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
-        "name": "Bakad kolja serveras med en krämig ramslöksrisotto, tryffelaioli, ruccola och färskriven grana padano",
+        "name": "Bakad kolja serveras med en krämig rödvinsrisotto, knaperstekt bacon, champinjoner och smålök toppas med rucola och färskriven grana padano",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "italian",
-          "fish"
+          "beef",
+          "fish",
+          "pork",
+          "drinks"
         ]
       },
       {
-        "name": "Chicken Mongolian BBQ",
+        "name": "KFC ”Korean Fried Chicken” – Friterad kyckling i asiatisk BBQ",
         "category": "THAI",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
+        "description": "sås smaksatt med gochujang toppas med sticklök och rostade sesamfrön serveras med jasminris & koriander",
         "price": "130 kr",
         "tags": [
+          "korean",
           "thai",
           "chicken",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Chicken Tikka Masala",
+        "name": "Fried rice ”Biryani” på vårt vis stekt basmatiris med massa goa grönsaker & kryddor toppat med kyckling serveras med limeyoghurt & garlic Naan",
         "category": "INDISK",
-        "description": "Indisk currygryta med majskyckling med rostad mandel serveras med pickelsmajonnäs, basmatiris & koriander och Naan",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "chicken",
-          "soup",
-          "bread",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "Vedeldad kycklingfile med smashed parmesanpotatis, örtaioli & rödvinssås",
-        "category": "VÄRLDEN",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "indian",
+          "beef",
           "chicken",
-          "burger",
-          "rootvegetables",
-          "drinks"
+          "bread"
         ]
       },
       {
-        "name": "Samosa Tikka Masala",
+        "name": "”Carbonara” de lénfer",
+        "category": "VÄRLDEN",
+        "description": "En hetare Carbonara på Rigatoni i en krämig sås gjord på nduja, ägggula och massa parmesan toppad med bacon, ännu mera parmesan och ruccola",
+        "price": "130 kr",
+        "tags": [
+          "italian",
+          "pork",
+          "pasta"
+        ]
+      },
+      {
+        "name": "Fried rice ”Biryani” på vårt vis stekt basmatiris med massa goa grönsaker & kryddor toppat med pulled oumph serveras med limeyoghurt & garlic Naan",
         "category": "VEGETARISK",
-        "description": "Indisk currygryta med friterade fyllda potatisknyten toppas med rostad mandel serveras med pickelsmajonnäs, basmatiris & koriander och Naan",
+        "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "soup",
-          "bread",
-          "rootvegetables",
-          "nuts_seeds"
+          "beef",
+          "bread"
         ]
       }
     ]
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "",
@@ -197,7 +202,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "LEMON PEPPER CHICKEN",
@@ -257,7 +262,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "",
@@ -360,7 +365,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Bakad uer",
@@ -410,7 +415,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -655,7 +660,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -753,7 +758,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Veckans: Lax pasta",
@@ -836,7 +841,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "9 bitar",
@@ -999,7 +1004,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1271,7 +1276,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1479,7 +1484,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1698,7 +1703,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1722,7 +1727,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-09-03",
+    "last_scraped": "2026-09-04",
     "items": [
       {
         "name": "vanlig 10 bitar",
