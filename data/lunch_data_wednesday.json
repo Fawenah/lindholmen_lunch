@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Caesarsallad",
@@ -61,7 +61,7 @@
         ]
       },
       {
-        "name": "Kooperativets klassiska Pad Thai",
+        "name": "Obs! Innehåller jordnötterKooperativets klassiska Pad Thai",
         "category": "THAI",
         "description": "Wokade risnudlar med på kyckling, ägg med vitkål & morötter i syrlig tamarindsås toppad med, jordnötter, böngroddar & koriander",
         "price": "130 kr",
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "name": "Marstrands stolthet, Afrikana Kolgrillad kyckling, krämig currysås, friterade bananchips, mandariner, jordnötter samt mangochutney",
+        "name": "Obs! Innehåller jordnötterMarstrands stolthet, Afrikana Kolgrillad kyckling, krämig currysås, friterade bananchips, mandariner, jordnötter samt mangochutney",
         "category": "VÄRLDEN",
         "description": "",
         "price": "130 kr",
@@ -96,7 +96,7 @@
         ]
       },
       {
-        "name": "Marstrands vegetariska stolthet, Afrikana Grillad Quorn, krämig currysås, friterade bananchips, mandariner, jordnötter samt mangochutney",
+        "name": "Obs! Innehåller jordnötterMarstrands vegetariska stolthet, Afrikana Grillad Quorn, krämig currysås, friterade bananchips, mandariner, jordnötter samt mangochutney",
         "category": "VEGETARISK",
         "description": "",
         "price": "130 kr",
@@ -110,7 +110,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "",
@@ -200,7 +200,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "CHICKEN KADHAI",
@@ -264,7 +264,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "",
@@ -371,7 +371,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Onsdagsschnitzeln",
@@ -411,7 +411,7 @@
       {
         "name": "Grillad spetskål",
         "category": "Earth",
-        "description": "rotsellerikräm, sandefjordsås, tångrom, dillolja, rostad potatis, saltrostad mandel",
+        "description": "rotsellerikräm, sandefjordsås, tångrom, dillolja, rostad potatis, solrosfrön",
         "price": "132 kr",
         "tags": [
           "rootvegetables",
@@ -422,7 +422,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -667,7 +667,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -765,7 +765,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Veckans: Kålpudding",
@@ -843,7 +843,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "9 bitar",
@@ -1006,7 +1006,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1279,7 +1279,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1487,7 +1487,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1706,7 +1706,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1730,7 +1730,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-08",
+    "last_scraped": "2026-09-09",
     "items": [
       {
         "name": "vanlig 10 bitar",
