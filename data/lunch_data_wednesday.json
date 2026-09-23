@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "Caesarsallad",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "name": "Stekt panerad sejfile serveras med dillkokt potatis, citronkräm, brynt smör och örter",
+        "name": "Stekt panerad sejfile serveras med dillkokt potatis, citronkräm, brynt ansjovismör och örter",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
@@ -70,9 +70,9 @@
         ]
       },
       {
-        "name": "Indien dirty fries",
+        "name": "Indien Dirty fries",
         "category": "INDISK",
-        "description": "friterad kyckling på frasiga pommes smaksatta med tandoori, kachumbersallad samt majonnäs smaksatt med grönchili & mynta samt koriander",
+        "description": "friterad kyckling på glaserade mangochutney pommes smaksatta med tandoori, kachumbersallad & majonnäs smaksatt med grönchili toppas med koriander",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -107,7 +107,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "",
@@ -198,7 +198,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "CHICKEN BALTI",
@@ -262,7 +262,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "",
@@ -413,7 +413,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -658,7 +658,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -756,7 +756,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "Veckans: pytt Bellman",
@@ -835,7 +835,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "9 bitar",
@@ -998,7 +998,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1268,7 +1268,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1476,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1695,7 +1695,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1719,7 +1719,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-22",
+    "last_scraped": "2026-09-23",
     "items": [
       {
         "name": "vanlig 10 bitar",
