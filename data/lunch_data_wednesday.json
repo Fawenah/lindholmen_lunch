@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "Caesarsallad",
@@ -15,99 +15,98 @@
         ]
       },
       {
-        "name": "”Taco Bowl”",
+        "name": "Bi Bim Bap med pankofriterade räkor toppas med sojasås serveras på sesamris med kimchi, sojabönor, smashad cucumber och böngroddar serveras med chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
-        "description": "Kryddig kycklingfärs med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños toppas med friterad tortilla",
+        "description": "",
         "price": "130 kr",
         "tags": [
-          "mexican",
-          "chicken",
-          "taco"
-        ]
-      },
-      {
-        "name": "”VEG Taco Bowl”",
-        "category": "VECKANS SPECIAL",
-        "description": "Kryddig ”ärtfärs” med ris serveras med massa goda tacogrönsaker, salsa & varm ostsås smaksatt med jalapeños toppas med friterad tortilla",
-        "price": "130 kr",
-        "tags": [
-          "mexican",
+          "korean",
           "vegetarian",
-          "taco"
+          "seafood",
+          "burger"
         ]
       },
       {
-        "name": "Kooperativets Biffstroganoff med brynta champinjoner toppad med syrad grädde och persilja serveras med krämigt potatismos",
+        "name": "Bi Bim Bap med quorn i sojasås serveras på sesamris med kimchi, sojabönor, smashad cucumber och böngroddar serveras med chilimajonnäs & bakat ägg",
+        "category": "VECKANS SPECIAL",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "korean",
+          "vegetarian",
+          "burger"
+        ]
+      },
+      {
+        "name": "Kooperativets hemmagjorda Pytt Bellman i krämig gräddsås toppad med rikligt med persilja grovmalen svartpeppar & stekt ägg",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "indian",
-          "beef",
-          "rootvegetables"
+          "beef"
         ]
       },
       {
-        "name": "Stekt panerad sejfile serveras med dillkokt potatis, citronkräm, brynt ansjovismör och örter",
+        "name": "Stekt panerad sejfile serveras med potatispuré, hollandaisesås samt citron och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
           "fish",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "Chicken Mongolian BBQ",
-        "category": "THAI",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander¨",
-        "price": "130 kr",
-        "tags": [
-          "thai",
-          "chicken",
-          "nuts_seeds"
-        ]
-      },
-      {
-        "name": "Indien Dirty fries",
-        "category": "INDISK",
-        "description": "friterad kyckling på glaserade mangochutney pommes smaksatta med tandoori, kachumbersallad & majonnäs smaksatt med grönchili toppas med koriander",
-        "price": "130 kr",
-        "tags": [
-          "indian",
-          "chicken",
           "salad",
           "rootvegetables"
         ]
       },
       {
-        "name": "Marstrands stolthet, Afrikana Kolgrillad kyckling, krämig currysås, friterade bananchips, mandariner, jordnötter samt mango chutney",
-        "category": "VÄRLDEN",
+        "name": "Yakiniku på kyckling i sojasås med Rostade sesamfrön, salladslök och böngroddar serveras med jasminris & koriander",
+        "category": "THAI",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "indian",
+          "thai",
           "chicken",
+          "salad",
           "nuts_seeds"
         ]
       },
       {
-        "name": "Marstrands vegetariska stolthet, Afrikana Grillad quorn , krämig currysås, friterade bananchips, mandariner, jordnötter samt mango chutney",
+        "name": "Chicken Mango Balti",
+        "category": "INDISK",
+        "description": "Indisk Mild currygryta med kyckling & Mango serveras basmatiris serveras med koriander & smörat naanbröd CHILI 2/5",
+        "price": "130 kr",
+        "tags": [
+          "indian",
+          "chicken",
+          "soup",
+          "bread"
+        ]
+      },
+      {
+        "name": "Kooperativets Kebabtallrik på grillad Kyckling med smarrig kebabsås, frasiga pommes & goa kebab grönsaker",
+        "category": "VÄRLDEN",
+        "description": "",
+        "price": "130 kr",
+        "tags": [
+          "chicken",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Kooperativets falafeltallrik på gråärta med smarrig kebabsås, frasiga pommes & goa kebab grönsaker",
         "category": "VEGETARISK",
         "description": "",
         "price": "130 kr",
         "tags": [
-          "indian",
           "vegetarian",
-          "nuts_seeds"
+          "rootvegetables"
         ]
       }
     ]
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "",
@@ -198,7 +197,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "CHICKEN BALTI",
@@ -262,7 +261,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "",
@@ -413,7 +412,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -658,7 +657,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -756,7 +755,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "Veckans: pytt Bellman",
@@ -835,7 +834,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "9 bitar",
@@ -998,7 +997,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1268,7 +1267,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1476,7 +1475,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1695,7 +1694,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1719,7 +1718,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-24",
+    "last_scraped": "2026-09-25",
     "items": [
       {
         "name": "vanlig 10 bitar",
