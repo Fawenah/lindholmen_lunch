@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "Caesarsallad",
@@ -15,7 +15,7 @@
         ]
       },
       {
-        "name": "Bi Bim Bap med pankofriterade räkor toppas med sojasås serveras på sesamris med kimchi, sojabönor, smashad cucumber och böngroddar serveras med chilimajonnäs & bakat ägg",
+        "name": "Bi Bim Bap med pankofriterade räkor toppas med sojasås serveras på sesamris med kimchi, sojabönor, smashad cucumber, koriander och böngroddar serveras med chilimajonnäs & bakat ägg",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "Bi Bim Bap med quorn i sojasås serveras på sesamris med kimchi, sojabönor, smashad cucumber och böngroddar serveras med chilimajonnäs & bakat ägg",
+        "name": "Bi Bim Bap med quorn i sojasås serveras på sesamris med kimchi, sojabönor, smashad cucumber och böngroddar serveras med chilimajonnäs, koriander & bakat ägg",
         "category": "VECKANS SPECIAL",
         "description": "",
         "price": "130 kr",
@@ -47,13 +47,14 @@
         ]
       },
       {
-        "name": "Stekt panerad sejfile serveras med potatispuré, hollandaisesås samt citron och örtsallad",
+        "name": "Stekt panerad sejfile serveras med potatispuré, skaldjurs hollandaisesås samt citron och örtsallad",
         "category": "FISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
           "fish",
+          "seafood",
           "salad",
           "rootvegetables"
         ]
@@ -106,7 +107,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "",
@@ -196,7 +197,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -260,7 +261,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "",
@@ -398,7 +399,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -643,7 +644,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -741,7 +742,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "Veckans: Kyckling pasta",
@@ -824,7 +825,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "9 bitar",
@@ -987,7 +988,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1261,7 +1262,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1469,7 +1470,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1688,7 +1689,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1712,7 +1713,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-09-29",
+    "last_scraped": "2026-09-30",
     "items": [
       {
         "name": "vanlig 10 bitar",
