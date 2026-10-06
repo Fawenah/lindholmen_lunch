@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Caesarsallad",
@@ -111,26 +111,28 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "",
         "category": "Fisk",
-        "description": "Smörstekt torskfile med rödbetor, kapris och skirat smör serveras med färsk pepparrot och potatismos.",
+        "description": "Champinjongratinerad koljafile med bacon, vitlök och vitvinssås, serveras med kokt potatis.",
         "price": "129 kr",
         "tags": [
-          "beef",
           "fish",
-          "rootvegetables"
+          "pork",
+          "rootvegetables",
+          "drinks"
         ]
       },
       {
         "name": "",
         "category": "Kött",
-        "description": "Viltskavsgryta",
+        "description": "Viltskavsgryta med skogschampinjoner, kantareller och lingon, serveras med potatismos.",
         "price": "129 kr",
         "tags": [
-          "soup"
+          "soup",
+          "rootvegetables"
         ]
       },
       {
@@ -197,7 +199,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "CHICKEN BHUNA",
@@ -261,7 +263,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "",
@@ -360,7 +362,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Ostig purjolöksgratäng",
@@ -376,7 +378,7 @@
       {
         "name": "Tacobowl",
         "category": "Fire",
-        "description": "chipotlekryddad pulled chicken, rice and beans, nachochips, tomatillosalsa, koriander, strimlad sallad",
+        "description": "chipotlekryddad pulled chicken, rice and beans, nachochips, salsa roja, koriander, strimlad sallad, guacamole",
         "price": "132 kr",
         "tags": [
           "mexican",
@@ -386,7 +388,7 @@
         ]
       },
       {
-        "name": "Helstekt örtkryddad fläskkotlett",
+        "name": "Helstekt fläskkotlett",
         "category": "Metal",
         "description": "palsternackspuré med rostad vitlök, grillad vitkål, picklat äpple, persiljevelouté, rostad potatis",
         "price": "132 kr",
@@ -412,7 +414,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -657,7 +659,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -755,7 +757,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Veckans: Fläsklägg",
@@ -836,7 +838,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "9 bitar",
@@ -999,7 +1001,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1274,7 +1276,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1482,7 +1484,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1701,7 +1703,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1725,7 +1727,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-05",
+    "last_scraped": "2026-10-06",
     "items": [
       {
         "name": "vanlig 10 bitar",
