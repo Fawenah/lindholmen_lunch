@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Caesarsallad",
@@ -108,7 +108,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "",
@@ -166,9 +166,10 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Vegetarisk dumplings med rödcurry curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Vegetarisk dumplings med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
+          "thai",
           "vegetarian",
           "dumplings",
           "drinks"
@@ -201,7 +202,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -266,7 +267,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "",
@@ -367,7 +368,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Butter chicken",
@@ -403,7 +404,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -648,7 +649,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -746,7 +747,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Veckans: Laxpasta",
@@ -824,7 +825,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "9 bitar",
@@ -987,7 +988,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1255,7 +1256,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1463,7 +1464,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1682,7 +1683,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1706,7 +1707,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "vanlig 10 bitar",

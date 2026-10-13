@@ -110,12 +110,12 @@
   },
   "DistrictOneScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "",
         "category": "Fisk",
-        "description": "Smörstekt torskfile med laxröra och kokt broccoli, serveras med potatismos.",
+        "description": "Smörstekt torskfile med sanderfjordsås och rostade rotfrukter serveras med potatismos.",
         "price": "129 kr",
         "tags": [
           "beef",
@@ -126,10 +126,10 @@
       {
         "name": "",
         "category": "Kött",
-        "description": "Flankstek med grönpepparsås och bakad tomat, serveras med potatisgratäng.",
+        "description": "Ostfylld schnitzel med timjansky och gröna ärtor, rostad potatis samt klassiska tillbehör.",
         "price": "129 kr",
         "tags": [
-          "beef",
+          "schnitzel",
           "rootvegetables"
         ]
       },
@@ -168,7 +168,7 @@
       {
         "name": "",
         "category": "Vegetarisk",
-        "description": "Friterad dumplings med panang curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
+        "description": "Friterad dumplings med grön curry i kokosmjölk med paprika, lök, bambuskott och limeblad serveras med jasminris.",
         "price": "129 kr",
         "tags": [
           "thai",
@@ -204,7 +204,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "PAHADI GRILL CHICKEN",
@@ -271,7 +271,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "",
@@ -372,7 +372,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Dr Jones berömda fredagstaco",
@@ -425,7 +425,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -670,7 +670,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -768,7 +768,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Veckans: Laxpasta",
@@ -850,7 +850,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "9 bitar",
@@ -1013,7 +1013,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1288,7 +1288,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1496,7 +1496,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1715,7 +1715,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1739,7 +1739,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-10-12",
+    "last_scraped": "2026-10-13",
     "items": [
       {
         "name": "vanlig 10 bitar",
