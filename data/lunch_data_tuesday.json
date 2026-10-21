@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Caesarsallad",
@@ -109,7 +109,7 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "",
@@ -196,7 +196,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "MANGO CHICKEN",
@@ -259,7 +259,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "",
@@ -405,7 +405,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -650,7 +650,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -748,7 +748,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Veckans: Stekt strömming",
@@ -828,7 +828,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "9 bitar",
@@ -905,10 +905,35 @@
         ]
       },
       {
+        "name": "Tonkotsu Ramen",
+        "category": "Varmrätter",
+        "description": "Krämiga fläskbuljong,mört chashu,ägg,skogsöron",
+        "price": "135 kr",
+        "tags": [
+          "japanese",
+          "pork",
+          "soup",
+          "drinks"
+        ]
+      },
+      {
+        "name": "Tantan Ramen (spicy)",
+        "category": "Varmrätter",
+        "description": "Kryddigbuljong med smakrik köttfärs.grönsaker,jordnötter,salladslök",
+        "price": "129 kr",
+        "tags": [
+          "japanese",
+          "beef",
+          "salad",
+          "soup",
+          "nuts_seeds"
+        ]
+      },
+      {
         "name": "Stekt kyckling med grönsaker",
         "category": "Varmrätter",
         "description": "kyckling, grönsaker",
-        "price": "110 kr",
+        "price": "115 kr",
         "tags": [
           "beef",
           "chicken"
@@ -918,7 +943,7 @@
         "name": "Bento",
         "category": "Varmrätter",
         "description": "3 maki, 2 nigri, 2 kycklingspett",
-        "price": "110 kr",
+        "price": "115 kr",
         "tags": [
           "japanese",
           "chicken",
@@ -929,7 +954,7 @@
         "name": "Yakitori",
         "category": "Varmrätter",
         "description": "kycklingspett med teriyakisås",
-        "price": "110 kr",
+        "price": "115 kr",
         "tags": [
           "japanese",
           "chicken"
@@ -939,7 +964,7 @@
         "name": "Yakiniku",
         "category": "Varmrätter",
         "description": "strimlad entrecote",
-        "price": "125 kr",
+        "price": "129 kr",
         "tags": [
           "beef"
         ]
@@ -948,7 +973,7 @@
         "name": "Nudelsoppa med Biff",
         "category": "Varmrätter",
         "description": "",
-        "price": "119 kr",
+        "price": "129 kr",
         "tags": [
           "beef",
           "soup"
@@ -958,7 +983,7 @@
         "name": "Wonton nudlar",
         "category": "Varmrätter",
         "description": "",
-        "price": "115 kr",
+        "price": "119 kr",
         "tags": [
           "dumplings"
         ]
@@ -967,7 +992,7 @@
         "name": "Dumplings 9 st",
         "category": "Varmrätter",
         "description": "fläskkött eller vegetariansk",
-        "price": "105 kr",
+        "price": "109 kr",
         "tags": [
           "vegetarian",
           "pork",
@@ -979,19 +1004,80 @@
         "name": "Dumplings 12 st",
         "category": "Varmrätter",
         "description": "fläskkött eller vegetariansk",
-        "price": "125 kr",
+        "price": "129 kr",
         "tags": [
           "vegetarian",
           "pork",
           "dumplings",
           "drinks"
         ]
+      },
+      {
+        "name": "Salmon Bowl",
+        "category": "Poke Bowl",
+        "description": "Marinerad lax med sushiris,,salladsmix,gurka,avokado,edamame,wakame, Mango,morötter,majs,picklad rödlök ,chilimajonös,sesamfrön",
+        "price": "129 kr",
+        "tags": [
+          "fish",
+          "salad",
+          "sushi",
+          "nuts_seeds"
+        ]
+      },
+      {
+        "name": "Yakiniku Bowl",
+        "category": "Poke Bowl",
+        "description": "Marinerad entrecote med sushiris salladsmix,gurka,avokado,edamame, Wakame,mango,morötter,majs,picklad rödlök , chilimajonös,teriyakisås, Sesamfrön",
+        "price": "139 kr",
+        "tags": [
+          "japanese",
+          "beef",
+          "salad",
+          "sushi",
+          "nuts_seeds"
+        ]
+      },
+      {
+        "name": "Kyckling Bowl",
+        "category": "Poke Bowl",
+        "description": "Friterad kyckling med sushiris,salladsmix,gurka,avokado,edamame,wakame, Mango,morötter,majs,picklad rödlök,chilimajonös,sweetchilisås,sesamfrön",
+        "price": "129 kr",
+        "tags": [
+          "chicken",
+          "salad",
+          "sushi",
+          "nuts_seeds"
+        ]
+      },
+      {
+        "name": "Tempura Bowl",
+        "category": "Poke Bowl",
+        "description": "Tempuraräkor med sushiris salladsmix,gurka,avokado,edamame,wakame Mango,morötter,majs,picklad rödlök, ,chilimajonös,teriyakisås,rostadlök.",
+        "price": "129 kr",
+        "tags": [
+          "japanese",
+          "seafood",
+          "salad",
+          "sushi"
+        ]
+      },
+      {
+        "name": "Vegetarisk Bowl",
+        "category": "Poke Bowl",
+        "description": "Tofu med sushiris,salladsmix,gurka,avokado,edamame,wakame,mango  Morötter,majs,picklad rödlök,chilimajonös,,sesamfrön",
+        "price": "129 kr",
+        "tags": [
+          "vegetarian",
+          "salad",
+          "sushi",
+          "nuts_seeds"
+        ]
       }
     ]
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1266,7 +1352,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1474,7 +1560,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1693,7 +1779,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1717,7 +1803,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "vanlig 10 bitar",
@@ -2111,7 +2197,7 @@
   },
   "RestaurantPier11Scraper": {
     "day": "tuesday",
-    "last_scraped": "2026-10-20",
+    "last_scraped": "2026-10-21",
     "items": [
       {
         "name": "Friterad arancini",
