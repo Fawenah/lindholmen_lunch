@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Caesarsallad",
@@ -11,17 +11,6 @@
         "tags": [
           "chicken",
           "pork",
-          "salad"
-        ]
-      },
-      {
-        "name": "Västkust Caesarsallad",
-        "category": "SALLADER",
-        "description": "romansallad toppad med räkor & rökt lax serveras med caesardressing, riven grana padano, sardeller samt krutonger",
-        "price": "130 kr",
-        "tags": [
-          "fish",
-          "seafood",
           "salad"
         ]
       },
@@ -50,11 +39,12 @@
         ]
       },
       {
-        "name": "Kalv Wallenbergare med krämig potatispure, rödvinssås smaksatt med bryntsmör & enbär serveras med lingon & gröna ärtor",
+        "name": "Rosastekt Kalv Wallenbergare med krämig potatispure, rödvinssås smaksatt med bryntsmör & enbär serveras med lingon & Bönor",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "vegetarian",
           "beef",
           "rootvegetables",
           "drinks"
@@ -75,11 +65,12 @@
       {
         "name": "Chicken Mongolian BBQ",
         "category": "THAI",
-        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med grillad kyckling rostade sesamfrön & koriander",
+        "description": "wokade äggnudlar med grönsaker i soyaglace toppad med friterad kyckling rostade sesamfrön & korianderObs! contains: pork",
         "price": "130 kr",
         "tags": [
           "thai",
           "chicken",
+          "pork",
           "nuts_seeds"
         ]
       },
@@ -93,26 +84,24 @@
         ]
       },
       {
-        "name": "Grillad chimichurrikyckling serveras med rostad paprikapotatis, krispig kål & koriandersallad, rödvinssky samt fermenterad vitlöksaoli.",
+        "name": "Grillad chimichurrikyckling serveras med asadokryddat ris, krispig kål & koriandersallad, rödvinssky samt fermenterad vitlöksaoli.",
         "category": "VÄRLDEN",
         "description": "",
         "price": "130 kr",
         "tags": [
           "chicken",
           "salad",
-          "rootvegetables",
           "drinks"
         ]
       },
       {
-        "name": "Grillad chimichurriquorn serveras med rostad paprikapotatis, krispig kål & koriandersallad, rödvinssky samt fermenterad vitlöksaoli.",
+        "name": "Grillad chimichurriquorn serveras med asadokryddat ris, krispig kål & koriandersallad, rödvinssky samt fermenterad vitlöksaoli.",
         "category": "VEGETARISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "vegetarian",
           "salad",
-          "rootvegetables",
           "drinks"
         ]
       }
@@ -120,7 +109,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "",
@@ -216,7 +205,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -280,7 +269,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "",
@@ -377,7 +366,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Grillat kycklinglårfilé",
@@ -428,7 +417,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -673,7 +662,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -732,11 +721,22 @@
       },
       {
         "name": "CHILI SHRIMP",
-        "category": "The Visitor",
+        "category": "Benne Pasta",
         "description": "Vitlöksfrästa vannameiräkor och färska tomater i en krämig och frisk skaldjurssås, med färsk chili och persilja. Toppad med lagrad hårdost, hackad persilja och vår egen chiliolja.",
         "price": "105 kr",
         "tags": [
-          "seafood"
+          "italian",
+          "seafood",
+          "pasta"
+        ]
+      },
+      {
+        "name": "SILKY SALSICCIA",
+        "category": "The Visitor",
+        "description": "Knaperstekt salsiccia smaksatt med vitlök och örter. i en gräddig tomatsås gjord på karamelliserad rödlök, gyllenstekt vitlök, färsk rosmarin och basilika. Toppad med lagrad hårdost och hackad persilja.",
+        "price": "95 kr",
+        "tags": [
+          "beef"
         ]
       },
       {
@@ -771,7 +771,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Veckans: Kyckling pasta",
@@ -862,7 +862,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "9 bitar",
@@ -1111,7 +1111,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1385,7 +1385,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1593,7 +1593,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1812,7 +1812,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1836,7 +1836,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-10-27",
+    "last_scraped": "2026-10-28",
     "items": [
       {
         "name": "vanlig 10 bitar",
