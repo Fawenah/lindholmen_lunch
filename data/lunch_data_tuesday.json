@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "Caesarsallad",
@@ -59,12 +59,13 @@
       {
         "name": "Nasigoreng",
         "category": "THAI",
-        "description": "Stekt ris smaksatt med Sambal oelek & soja toppad med panko friterade räkor & grillad kyckling, bakat ägg samt stekta grönsaker & koriander",
+        "description": "Stekt ris smaksatt med Sambal oelek & soja toppad med panko friterade räkor, friterad bläckfisk, grilladkyckling, bakat ägg samt stekta grönsaker & koriander",
         "price": "130 kr",
         "tags": [
           "thai",
           "beef",
           "chicken",
+          "fish",
           "seafood"
         ]
       },
@@ -81,7 +82,7 @@
         ]
       },
       {
-        "name": "Kolgrillad kycklingfile med gnocchi ”Quattro Formaggi” toppad med ruccola och rostad lök",
+        "name": "Ouattro Formaggio med gratinerad gnocchi toppas med grillad kyckling, rucola och rostad lök",
         "category": "VÄRLDEN",
         "description": "",
         "price": "130 kr",
@@ -104,7 +105,7 @@
   },
   "DistrictOneScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "",
@@ -192,7 +193,7 @@
   },
   "BombayBistroScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "CHICKEN BHUNA",
@@ -256,7 +257,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "",
@@ -358,15 +359,16 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
-        "name": "Bakad uer",
+        "name": "Bakad sej",
         "category": "Water",
         "description": "kokt potatis, misosmörsås, sallad på zucchini och gari, dill, rädisa",
         "price": "132 kr",
         "tags": [
           "japanese",
+          "fish",
           "salad",
           "rootvegetables"
         ]
@@ -412,7 +414,7 @@
   },
   "MissFScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -657,7 +659,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -766,7 +768,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "Veckans: Lasagne",
@@ -850,7 +852,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "9 bitar",
@@ -1099,7 +1101,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1374,7 +1376,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1582,7 +1584,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1801,7 +1803,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1825,7 +1827,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-02",
+    "last_scraped": "2026-11-03",
     "items": [
       {
         "name": "vanlig 10 bitar",
