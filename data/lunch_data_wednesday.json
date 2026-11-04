@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Caesarsallad",
@@ -36,13 +36,12 @@
         ]
       },
       {
-        "name": "Kooperativets oklassiska ”femöring” kalvfärsbiff med rostat surdegsbröd toppat med ett stekt ägg samt ragu på rödbetor, smålökar & kapris serveras med potatispure smaksatt med persilja samt steksky",
+        "name": "Kooperativets oklassiska ”femöring” kalvfärsbiff toppat med ett stekt ägg samt ragu på rödbetor, smålökar & kapris serveras med potatispure smaksatt med persilja samt steksky",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "bread",
           "rootvegetables"
         ]
       },
@@ -58,21 +57,22 @@
         ]
       },
       {
-        "name": "Korean bulgogi Banh Mi sandwich wokad kyckling med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära serveras med chilimajonäs & frasiga pommes",
+        "name": "Korean bulgogi Banh Mi sandwich wokad biff med svamp & brynt lök i den klassiska koreanska soyasåsen smaksatt med päron och ingefära serveras med misomajonnäs & frasiga pommes",
         "category": "THAI",
         "description": "",
         "price": "130 kr",
         "tags": [
+          "japanese",
           "korean",
           "thai",
-          "chicken",
+          "beef",
           "rootvegetables"
         ]
       },
       {
         "name": "Indien dirty fries",
         "category": "INDISK",
-        "description": "friterad kyckling på frasiga pommes smaksatta med tandoori, kachumbersallad samt majonnäs smaksatt med grönchili & mynta samt koriander",
+        "description": "friterad kyckling på frasiga pommes smaksatta med tandoori, kachumbersallad samt majonnäs smaksatt med grönchili toppad med koriander",
         "price": "130 kr",
         "tags": [
           "indian",
@@ -108,7 +108,7 @@
   },
   "DistrictOneScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "",
@@ -201,7 +201,7 @@
   },
   "BombayBistroScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "CHICKEN KADHAI",
@@ -265,7 +265,7 @@
   },
   "CuckoosNestScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "",
@@ -367,7 +367,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Chicken vindaloo",
@@ -418,7 +418,7 @@
   },
   "MissFScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -663,7 +663,7 @@
   },
   "BennePastabarScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -772,7 +772,7 @@
   },
   "BistrotScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Veckans: Lasagne",
@@ -855,7 +855,7 @@
   },
   "OishiiScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "9 bitar",
@@ -1104,7 +1104,7 @@
   },
   "MasalaScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1377,7 +1377,7 @@
   },
   "GansuScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1585,7 +1585,7 @@
   },
   "TheSocialScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1804,7 +1804,7 @@
   },
   "AlkemistenScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1828,7 +1828,7 @@
   },
   "EncounterAsianScraper": {
     "day": "wednesday",
-    "last_scraped": "2026-11-03",
+    "last_scraped": "2026-11-04",
     "items": [
       {
         "name": "vanlig 10 bitar",
