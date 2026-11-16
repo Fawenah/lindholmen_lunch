@@ -271,21 +271,22 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "",
         "category": "",
-        "description": "Ugnsbakat kalkonbröst serveras med rotfrukter, haricot verts, grönkål och rödvinssås",
+        "description": "ostbakad kyckling serveras med sötpotatispuré, chili- & honungsqrosad brysseklkål och svampsky",
         "price": "",
         "tags": [
-          "drinks"
+          "chicken",
+          "rootvegetables"
         ]
       },
       {
         "name": "",
         "category": "",
-        "description": "Lax serveras med gräslökspotatis, sparris, västerbottenostsås och citron",
+        "description": "panerad kummel serveras med kokt potatis, gröna ärtor, räkröra och citron",
         "price": "",
         "tags": [
           "fish",
@@ -295,42 +296,34 @@
       {
         "name": "",
         "category": "",
-        "description": "Kyckling serveras med morotspuré, rostad palsternacka, chorizo och rödvinssky",
+        "description": "basilikamarinerad kyckling serveras med rostad potatis, tomatsås och friterad aubergine",
         "price": "",
         "tags": [
           "chicken",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "",
+        "category": "FISK",
+        "description": "stekt rimmat fläsk serveras med kokt potatis, haricot verts och löksås",
+        "price": "195 kr",
+        "tags": [
+          "beef",
+          "fish",
+          "pork",
           "rootvegetables",
           "drinks"
         ]
       },
       {
         "name": "",
-        "category": "",
-        "description": "torsk serveras med gräslökspotatispuré, fänkålscrudité och brynt smör",
-        "price": "",
-        "tags": [
-          "fish",
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "",
-        "category": "",
-        "description": "Långbakad nötbog serveras med klyftpotatis, brysselkål och senapssås",
-        "price": "",
-        "tags": [
-          "rootvegetables"
-        ]
-      },
-      {
-        "name": "",
         "category": "VEG",
-        "description": "risotto serveras med rostade tomater, mandelflakes, grönkål och grana padanao",
+        "description": "gnocchi serveras med tomatsås, zucchini, mozzarella, ricottakräm och grana padano",
         "price": "195 kr",
         "tags": [
           "italian",
-          "vegetarian",
-          "nuts_seeds"
+          "vegetarian"
         ]
       },
       {
@@ -638,7 +631,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -747,16 +740,16 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
-        "name": "Veckans: Fläsklägg",
+        "name": "Veckans: Kålpudding",
         "category": "Veckans",
-        "description": "Rotmos – Pepparrotsås – Senap – Persilja",
+        "description": "Gräddsås – Lingon – Kokt potatis – Persilja",
         "price": "130 kr",
         "tags": [
-          "pork",
-          "drinks"
+          "rootvegetables",
+          "dessert"
         ]
       },
       {
@@ -826,7 +819,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "9 bitar",
@@ -1075,7 +1068,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1085,35 +1078,31 @@
         "tags": []
       },
       {
-        "name": "MURG METHI MALAI",
+        "name": "MURG DO PYAZA",
         "category": "",
-        "description": "Kycklingfilé med bockhornsklöver, lök, ingefära, finmald cashewnötter, vitpeppar och tomatgräddsås.",
+        "description": "Kycklingrätt från Hyderabad smaksatt med lök, tomat och husets egen kryddblandning.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "indian",
-          "chicken",
-          "nuts_seeds"
+          "chicken"
         ]
       },
       {
-        "name": "MACHILI BENGALI",
+        "name": "LAMB LAAL MAAS",
         "category": "",
-        "description": "Laxfilé med grön chili och tamarind, tillagad i kryddad med färsk koriander och indiska \"Panch phoron\" (fem kryddor)",
+        "description": "Traditionell lammcurry med smak av paprika, spiskummin och ingefära.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
-          "fish",
-          "soup"
+          "lamb"
         ]
       },
       {
-        "name": "ALOO GHOBI MASALA",
+        "name": "PALAK CHANA MASALA",
         "category": "",
-        "description": "Potatis- och blomkålsgryta med lök, tomat och färsk ingefära.",
+        "description": "Spenat med kikärtor, lök, tomat, garam masala, chili och ingefära.",
         "price": "119 kr, takeaway 114 kr",
         "tags": [
           "indian",
-          "soup",
-          "rootvegetables"
+          "vegetarian"
         ]
       },
       {
@@ -1350,7 +1339,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1558,7 +1547,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1777,7 +1766,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1801,7 +1790,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-16",
     "items": [
       {
         "name": "vanlig 10 bitar",
