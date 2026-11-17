@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "Caesarsallad",
@@ -71,15 +71,16 @@
         ]
       },
       {
-        "name": "Fried rice ”Biryani” på vårat vis stekt basmatiris med massa goa grönsaker & kryddor toppat med kyckling serveras med limeyoghurt & garlic Naan",
+        "name": "Chicken Vindaloo",
         "category": "INDISK",
-        "description": "",
+        "description": "kryddstark  indisk gryta med kyckling serveras med yoghurt, basmatiris, koriander & smörat naan",
         "price": "130 kr",
         "tags": [
           "indian",
-          "beef",
           "chicken",
-          "bread"
+          "soup",
+          "bread",
+          "drinks"
         ]
       },
       {
@@ -96,15 +97,17 @@
         ]
       },
       {
-        "name": "Fried rice ”Biryani” på vårat vis stekt basmatiris med massa goa grönsaker & kryddor toppat med pulled oumph serveras med limeyoghurt & garlic Naan",
+        "name": "Samosa Vindaloo",
         "category": "VEGETARISKT",
-        "description": "",
+        "description": "kryddstark  indisk gryta med friterade fyllda potatisknyten  serveras med yoghurt, basmatiris, koriander & smörat naan",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "beef",
-          "bread"
+          "soup",
+          "bread",
+          "rootvegetables",
+          "drinks"
         ]
       }
     ]
@@ -261,7 +264,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "",
@@ -648,7 +651,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -757,7 +760,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "Veckans: Kålpudding",
@@ -837,7 +840,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "9 bitar",
@@ -1086,7 +1089,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1361,7 +1364,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1569,7 +1572,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1788,7 +1791,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1812,7 +1815,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-16",
+    "last_scraped": "2026-11-17",
     "items": [
       {
         "name": "vanlig 10 bitar",
