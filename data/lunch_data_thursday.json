@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Caesarsallad",
@@ -38,27 +38,17 @@
         ]
       },
       {
-        "name": "Kooperativets Vilt Kålpudding på vårat vis toppad med sockerstekt kål, äpplesallad samt steksky, rårörda lingon & potatispure smaksatt med västerbottenost",
+        "name": "Kooperativets Vilt Kålpudding på vårat vis toppad med sockerstekt kål, äpplesallad samt steksky, rårörda lingon & riktigt god potatispureFISKVästerbottenbakad kolja serveras med gräslöksstompad potatis, skaldjurssås smaksatt med saffran toppas med örtsallad",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
         "tags": [
           "beef",
-          "salad",
-          "rootvegetables",
-          "dessert"
-        ]
-      },
-      {
-        "name": "Västerbottenbakad kolja serveras med gräslöksstompad potatis, skaldjurssås smaksatt med saffran toppas med örtsallad",
-        "category": "FISK",
-        "description": "",
-        "price": "130 kr",
-        "tags": [
           "fish",
           "seafood",
           "salad",
-          "rootvegetables"
+          "rootvegetables",
+          "dessert"
         ]
       },
       {
@@ -75,26 +65,24 @@
       {
         "name": "Kooperativets klassiska Butter Halloumi",
         "category": "VEGETARISK",
-        "description": "indisk gryta med friterad haloumi serveras med rostad mandel, koriander, Naan samt feffakräm 1/5",
+        "description": "indisk gryta med friterad haloumi serveras med rostad mandel, koriander, papadum samt feffakräm 1/5",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
           "soup",
-          "bread",
           "nuts_seeds"
         ]
       },
       {
         "name": "Kooperativets klassiska Butter Chicken",
         "category": "INDISK",
-        "description": "indisk gryta med kyckling serveras med rostad mandel, koriander, Naan samt feffakräm chili 1/5",
+        "description": "indisk gryta med kyckling serveras med rostad mandel, koriander, papadum samt feffakräm chili 1/5",
         "price": "130 kr",
         "tags": [
           "indian",
           "chicken",
           "soup",
-          "bread",
           "nuts_seeds"
         ]
       },
@@ -192,7 +180,7 @@
   },
   "BombayBistroScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "BUTTER CHICKEN",
@@ -256,7 +244,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "",
@@ -348,46 +336,45 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-19",
     "items": [
       {
-        "name": "“Chicken dopiaza”",
+        "name": "Larb på kycklingfärs",
         "category": "Fire",
-        "description": "bakat kycklinglår, dopiazasås, stekt lök, friterad lök, yoghurt, koriander (veg alternativ)",
+        "description": "jasminris, inlagd chili, syrad gurka, jordnöt, lime, sallad, koriander (vegan option available)",
         "price": "132 kr",
         "tags": [
+          "thai",
           "vegetarian",
-          "beef",
-          "chicken"
+          "chicken",
+          "salad"
         ]
       },
       {
-        "name": "Saffransstinn fiskgryta",
+        "name": "Curryfisk",
         "category": "Water",
-        "description": "bakad fisk, rostade grönsaker, aioli, örter, rostad tomatolja",
+        "description": "gul currysås, kokt kulpotatis, gröna ärtor, picklat grönt äpple, dill",
         "price": "132 kr",
         "tags": [
           "fish",
-          "soup"
+          "rootvegetables"
         ]
       },
       {
-        "name": "Husmanstorsdag: Fläsk med löksås",
+        "name": "Husmanstorsdag: Klassiska köttbullar",
         "category": "Metal",
-        "description": "kokt potatis, klassisk löksås, rårörda lingon, persiljesallad",
+        "description": "potatispuré, pressgurka, lingon, gräddsås med massa cognac Earth: Grillad spetskål, rotsellerikräm, sandefjordsås, tångrom, dillolja, rostad potatis, saltrostade fröer Grilled pointy cabbage, celeriac créme, sandefjord sauce, seaweed caviar, dill oil, roasted potatoes, salt roasted seeds",
         "price": "132 kr",
         "tags": [
-          "pork",
-          "salad",
-          "rootvegetables",
-          "drinks"
+          "beef",
+          "rootvegetables"
         ]
       }
     ]
   },
   "MissFScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -632,7 +619,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -741,7 +728,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Veckans: Kålpudding",
@@ -839,7 +826,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "9 bitar",
@@ -1088,7 +1075,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1361,7 +1348,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1569,7 +1556,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1788,7 +1775,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1812,7 +1799,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "vanlig 10 bitar",

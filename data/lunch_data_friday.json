@@ -204,7 +204,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "KESARI MURGH TIKKA",
@@ -269,7 +269,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "",
@@ -361,22 +361,38 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-13",
+    "last_scraped": "2026-11-19",
     "items": [
       {
-        "name": "Pasta pesto",
-        "category": "Metal",
-        "description": "getost, bakade tomater, vitlöksstekta brödsmulor, pesto Water: Halstrad lax, kokt potatis, romsås, rostad fänkålssallad med blodapelsin och dill Charred salmon, boiled potatoes, caviar sauce, roasted fennel salad with blood orange and dilll Fire: “Chicken dopiaza”, bakat kycklinglår, dopiazasås, stekt lök, friterad lök, yoghurt, koriander (veg alternativ) \"Chicken dopiaza\", baked chicken thigh, dopiaza sauce, fried onion, crispy onion, yoghurt, coriander (veg option)",
+        "name": "Larb på kycklingfärs",
+        "category": "Fire",
+        "description": "jasminris, inlagd chili, syrad gurka, jordnöt, lime, sallad, koriander (vegan option available)",
         "price": "132 kr",
         "tags": [
-          "italian",
+          "thai",
           "vegetarian",
-          "beef",
           "chicken",
+          "salad"
+        ]
+      },
+      {
+        "name": "Curryfisk",
+        "category": "Water",
+        "description": "gul currysås, kokt kulpotatis, gröna ärtor, picklat grönt äpple, dill",
+        "price": "132 kr",
+        "tags": [
           "fish",
-          "pasta",
+          "rootvegetables"
+        ]
+      },
+      {
+        "name": "Tortellini fylld med ricotta och spenat",
+        "category": "Metal",
+        "description": "ost och pepparsås, bacon, sallad på babyspenat och grana padano Earth: Grillad spetskål, rotsellerikräm, sandefjordsås, tångrom, dillolja, rostad potatis, saltrostade fröer Grilled pointy cabbage, celeriac créme, sandefjord sauce, seaweed caviar, dill oil, roasted potatoes, salt roasted seeds",
+        "price": "132 kr",
+        "tags": [
+          "pork",
           "salad",
-          "bread",
           "rootvegetables"
         ]
       }
@@ -384,7 +400,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -629,7 +645,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -738,7 +754,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Veckans: Kålpudding",
@@ -817,7 +833,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "9 bitar",
@@ -1066,7 +1082,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1337,7 +1353,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1545,7 +1561,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1764,7 +1780,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1788,7 +1804,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-18",
+    "last_scraped": "2026-11-19",
     "items": [
       {
         "name": "vanlig 10 bitar",
