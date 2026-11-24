@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Caesarsallad",
@@ -17,7 +17,7 @@
       {
         "name": "French Style Caramelized Onion and Chili Ramen",
         "category": "VECKANS SPECIAL",
-        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 63graders ägg, chili & misoolja samt nattbakad gårdsgris",
+        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 67graders ägg, chili & misoolja, nattbakad gårdsgris & koriander",
         "price": "130 kr",
         "tags": [
           "japanese",
@@ -28,7 +28,7 @@
       {
         "name": "VEG French Style Caramelized Onion and Chili Ramen",
         "category": "VECKANS SPECIAL",
-        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 63graders ägg, chili & misoolja samt friterad tofu",
+        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 67graders ägg, chili & misoolja,  friterad tofu & koriander",
         "price": "130 kr",
         "tags": [
           "japanese",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "Kooperativets ”Jägar” Schnitzel på gårdsgris med krämig svampstuvning på kantareller & champinjoner toppad med lingon & grönkål samt rostade färskpotatis",
+        "name": "Kooperativets ”Jägar” Schnitzel på gårdsgris med krämig svampstuvning, lingon & grönkål samt rostade färskpotatis",
         "category": "KÖTT",
         "description": "",
         "price": "130 kr",
@@ -69,15 +69,14 @@
         ]
       },
       {
-        "name": "Fried rice ”Biryani” på vårat vis stekt basmatiris med massa goa grönsaker & kryddor toppat med kyckling serveras med limeyoghurt & garlic Naan",
+        "name": "Fried rice ”Biryani” på vårat vis stekt basmatiris med massa goa grönsaker & kryddor toppat med kyckling serveras med limeyoghurt & papadum",
         "category": "INDISK",
         "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
           "beef",
-          "chicken",
-          "bread"
+          "chicken"
         ]
       },
       {
@@ -93,15 +92,14 @@
         ]
       },
       {
-        "name": "Fried rice ”Biryani” på vårat vis stekt basmatiris med massa goa grönsaker & kryddor toppat med pulled oumph serveras med limeyoghurt & garlic Naan",
+        "name": "Fried rice ”Biryani” på vårat vis stekt basmatiris med massa goa grönsaker & kryddor toppat med pulled oumph serveras med limeyoghurt & papadum",
         "category": "VEGETARISKT",
         "description": "",
         "price": "130 kr",
         "tags": [
           "indian",
           "vegetarian",
-          "beef",
-          "bread"
+          "beef"
         ]
       }
     ]
@@ -256,7 +254,7 @@
   },
   "CuckoosNestScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "",
@@ -359,7 +357,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Bakad uer",
@@ -641,7 +639,7 @@
   },
   "BennePastabarScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -750,7 +748,7 @@
   },
   "BistrotScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Veckans: kycklingpasta",
@@ -830,7 +828,7 @@
   },
   "OishiiScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "9 bitar",
@@ -1079,7 +1077,7 @@
   },
   "MasalaScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1351,7 +1349,7 @@
   },
   "GansuScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1559,7 +1557,7 @@
   },
   "TheSocialScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1778,7 +1776,7 @@
   },
   "AlkemistenScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1802,7 +1800,7 @@
   },
   "EncounterAsianScraper": {
     "day": "tuesday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "vanlig 10 bitar",

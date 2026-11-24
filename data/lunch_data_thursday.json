@@ -1,7 +1,7 @@
 {
   "KooperativetScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Caesarsallad",
@@ -17,7 +17,7 @@
       {
         "name": "French Style Caramelized Onion and Chili Ramen",
         "category": "VECKANS SPECIAL",
-        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 63graders ägg, chili & misoolja samt nattbakad gårdsgris",
+        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 67graders ägg, chili & misoolja, nattbakad gårdsgris & koriander",
         "price": "130 kr",
         "tags": [
           "japanese",
@@ -28,7 +28,7 @@
       {
         "name": "VEG French Style Caramelized Onion and Chili Ramen",
         "category": "VECKANS SPECIAL",
-        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 63graders ägg, chili & misoolja samt friterad tofu",
+        "description": "Udonnudlar i sötsyrlig buljong smaksatt med karamelliserad lök, toppas med pak choi, sticklök, böngroddar, 67graders ägg, chili & misoolja,  friterad tofu & koriander",
         "price": "130 kr",
         "tags": [
           "japanese",
@@ -255,7 +255,7 @@
   },
   "CuckoosNestScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "",
@@ -358,7 +358,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Spicy chicken noodles",
@@ -643,7 +643,7 @@
   },
   "BennePastabarScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -752,7 +752,7 @@
   },
   "BistrotScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Veckans: kycklingpasta",
@@ -842,7 +842,7 @@
   },
   "OishiiScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "9 bitar",
@@ -1091,7 +1091,7 @@
   },
   "MasalaScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1366,7 +1366,7 @@
   },
   "GansuScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1574,7 +1574,7 @@
   },
   "TheSocialScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1793,7 +1793,7 @@
   },
   "AlkemistenScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1817,7 +1817,7 @@
   },
   "EncounterAsianScraper": {
     "day": "thursday",
-    "last_scraped": "2026-11-23",
+    "last_scraped": "2026-11-24",
     "items": [
       {
         "name": "vanlig 10 bitar",
