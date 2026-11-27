@@ -204,7 +204,7 @@
   },
   "BombayBistroScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "GARLIC CHICKEN",
@@ -269,7 +269,7 @@
   },
   "CuckoosNestScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "",
@@ -372,7 +372,7 @@
   },
   "Uni3WorldOfFoodScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "Open faced chicken burrito",
@@ -399,12 +399,13 @@
         ]
       },
       {
-        "name": "Husmanstorsdag: Bouef bourguignon på högrev",
+        "name": "Bouef bourguignon på högrev",
         "category": "Metal",
-        "description": "potatispure, rödvinssås, bacon, syltlök, champinjoner, pommes alumettes Earth: Matvete \"taboulleh\", grillad halloumi, kikärtscréme, fetaost, granatäpple, babyspenat Wheat berry \"taboulleh\", grilled halloumi, chick pea créme, feta cheese, pomegranate, baby spinach",
+        "description": "potatispure, rödvinssås, bacon, syltlök, champinjoner, pommes alumettes Earth: Matvete \"taboulleh\", grillad halloumi, kikärtscréme, fetaost, granatäpple, babyspenat (veganskt alternativ finns här) Wheat berry \"taboulleh\", grilled halloumi, chick pea créme, feta cheese, pomegranate, baby spinach (vegan option available here)",
         "price": "132 kr",
         "tags": [
           "greek",
+          "vegetarian",
           "beef",
           "pork",
           "rootvegetables",
@@ -415,7 +416,7 @@
   },
   "MissFScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "Lufttorkad skinka/mozzarella/pesto",
@@ -660,7 +661,7 @@
   },
   "BennePastabarScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "SLOW TOMATO",
@@ -768,7 +769,7 @@
   },
   "BistrotScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "Veckans: kycklingpasta",
@@ -846,7 +847,7 @@
   },
   "OishiiScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "9 bitar",
@@ -1095,7 +1096,7 @@
   },
   "MasalaScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "Varning: Dagens meny kan vara inaktuell",
@@ -1365,7 +1366,7 @@
   },
   "GansuScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "A1 - 12st Dumplings i Biffsoppa (Fläsk)",
@@ -1573,7 +1574,7 @@
   },
   "TheSocialScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "Lunchmeny kommer snart",
@@ -1792,7 +1793,7 @@
   },
   "AlkemistenScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "Vegetarisk lunchmeny",
@@ -1816,7 +1817,7 @@
   },
   "EncounterAsianScraper": {
     "day": "friday",
-    "last_scraped": "2026-11-26",
+    "last_scraped": "2026-11-27",
     "items": [
       {
         "name": "vanlig 10 bitar",
