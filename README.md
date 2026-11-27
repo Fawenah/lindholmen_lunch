@@ -79,6 +79,20 @@
 
 ## License
 
-This project is for educational and personal use. Please respect the terms of use of the restaurant websites being scraped.
+The original source code of Lindholmen Lunch is licensed under the
+[GNU Affero General Public License, version 3 only (AGPL-3.0-only)](LICENSE).
+
+You may use, modify, and redistribute the code, including commercially, under
+the terms of that license. Distributed modified versions must remain under the
+AGPL and provide their complete corresponding source as required by the license.
+If you modify the software and let users interact with it over a network, you
+must prominently offer those users access to the corresponding source of your
+version, at no charge. A clearly visible source-code link is a practical way to
+provide that access. Private modifications do not have to be published unless
+the license's distribution or network-interaction requirements apply.
+
+The full terms in [LICENSE](LICENSE) govern. This license does not grant rights
+to third-party restaurant content or change the licenses of dependencies.
+Please respect the terms of use of the restaurant websites being scraped.
 
 ---
