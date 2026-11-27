@@ -1,12 +1,18 @@
 
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <script src="theme.js"></script>
+    <link rel="stylesheet" href="theme.css">
 <style>
     h1 {
-        color: #004d66;
+        color: var(--accent);
     }
 
     h2 {
-        background: #004d66;
-        color: white;
+        background: var(--button-bg);
+        color: var(--button-text);
         padding: 10px;
         border-radius: 4px;
         cursor: pointer;
@@ -16,11 +22,11 @@
     }
 
     h2:hover {
-        background: #006080;
+        background: var(--button-hover);
     }
 
     h3 {
-        color: #004d66;
+        color: var(--accent);
         margin-top: 1em;
     }
 
@@ -35,7 +41,7 @@
 
     body {
         font-family: Arial, sans-serif;
-        background: #f8f8f8;
+        background: var(--page-bg);
         padding: 20px;
         max-width: 80%
     }
@@ -43,9 +49,9 @@
     .restaurant {
         margin-bottom: 40px;
         padding: 20px;
-        background: white;
+        background: var(--surface);
         border-radius: 8px;
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        box-shadow: var(--shadow);
     }
 
     .restaurant-header {
@@ -69,8 +75,8 @@
     .weekday-button {
         display: block;
         text-align: center;
-        background: #004d66;
-        color: white;
+        background: var(--button-bg);
+        color: var(--button-text);
         padding: 8px 12px;
         border-radius: 6px;
         font-size: 14px;
@@ -80,7 +86,7 @@
     }
 
     .weekday-button:hover {
-        background: #006080;
+        background: var(--button-hover);
     }
 
     .weekday-navigation {
@@ -96,14 +102,14 @@
     }
 
     .weekday-navigation [aria-current="page"] {
-        background: #006080;
-        box-shadow: inset 0 -3px 0 white;
+        background: var(--button-hover);
+        box-shadow: inset 0 -3px 0 var(--button-text);
         text-decoration: underline;
         text-underline-offset: 4px;
     }
 
     .weekday-navigation a:focus-visible {
-        outline: 3px solid #006080;
+        outline: 3px solid var(--focus);
         outline-offset: 3px;
     }
 
@@ -149,13 +155,13 @@
     }
 
     .menu-links a {
-        color: #004d66;
+        color: var(--accent);
         text-decoration: none;
     }
 
     .menu-links a:hover {
         text-decoration: underline;
-        color: #004d66;
+        color: var(--accent);
     }
 
     .icon-links {
@@ -169,18 +175,18 @@
         font-size: 1.3em;
         text-align: right;
         padding-left: 6px;
-        border-left: 1px solid rgba(0, 0, 0, 0.1);
+        border-left: 1px solid var(--border);
         margin-left: 6px;
     }
 
     .icon-link a {
-        color: #004d66;
+        color: var(--accent);
         text-decoration: none;
     }
 
     .icon-link a:hover {
         text-decoration: underline;
-        color: #004d66;
+        color: var(--accent);
     }
 
     .emoji-tags {
@@ -203,8 +209,8 @@
         grid-area: name;
         font-size: 1.5em;
         font-weight: bold;
-        background: #004d66;
-        color: white;
+        background: var(--button-bg);
+        color: var(--button-text);
         padding: 10px 14px;
         border-radius: 6px;
         cursor: pointer;
@@ -222,16 +228,16 @@
 
     .restaurant-stale {
         font-size: 0.4em;
-        opacity: 0.85;
+        opacity: 1;
         white-space: nowrap;
     }
 
     .restaurant-stale.stale {
-        color: #ffeb3b; /* soft yellow warning on teal background */
+        color: var(--warning); /* soft yellow warning on teal background */
     }
 
     .restaurant-name:hover {
-        background: #006080;
+        background: var(--button-hover);
     }
 
     .emoji-row:nth-child(2) {
@@ -259,9 +265,9 @@
     }
 
     .filters {
-        background: #eef9f1;
+        background: var(--filter-bg);
         padding: 15px;
-        border: 1px solid #cce5d3;
+        border: 1px solid var(--border);
         border-radius: 8px;
         margin-bottom: 20px;
     }
@@ -301,9 +307,9 @@
     }
 
     .filter-buttons button {
-        background-color: #e0f7fa;
-        border: 1px solid #007c91;
-        color: #004d66;
+        background-color: var(--control-bg);
+        border: 1px solid var(--focus);
+        color: var(--control-text);
         padding: 6px 12px;
         font-size: 14px;
         border-radius: 5px;
@@ -312,7 +318,7 @@
     }
 
     .filter-buttons button:hover {
-        background-color: #b2ebf2;
+        background-color: var(--control-hover);
     }
 
     .filter-columns {
@@ -330,10 +336,6 @@
     }
 </style>
 
-<!DOCTYPE html>
-<html lang="sv">
-
-<head>
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMDT71XZ0C"></script>
     <script>
@@ -344,7 +346,6 @@
     </script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7499028717075061"
         crossorigin="anonymous"></script>
-    <meta charset="UTF-8">
     <title>Dagens lunch – Wednesday</title>
     <meta name="description" content="Dagens lunch från restauranger på Lindholmen – Wednesday" />
     <script>
@@ -371,13 +372,16 @@
 </head>
 
 <body>
+    <div class="theme-controls">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" hidden>Mörkt läge</button>
+    </div>
     <h1>Dagens lunch på Lindholmen – Wednesday</h1>
     <p>Lunchmenyer för Wednesday från restauranger på Lindholmen. Uppdateras dagligen med aktuella rätter
         från över 10 lokala restauranger.</p>
     <p>Priser kan vara inaktuella, för senaste informationen, se respektive hemsida.</p>
 
-    <div style="margin-top: 40px; font-size: 14px; color: #666;">
-        <p>Last updated: 2026-11-28 01:04</p>
+    <div class="last-updated" style="margin-top: 40px; font-size: 14px;">
+        <p>Last updated: 2026-11-28 01:15</p>
     </div>
     
 <nav class="weekday-navigation" aria-label="Veckans lunchmenyer">
@@ -8343,8 +8347,8 @@
 </nav>
 
     <hr>
-    <footer style="text-align:center; font-size:13px; color:#888; margin-top:40px;">
-        Lindholmen Lunch – <a href="privacy.html" style="color:#004d66;">Integritetspolicy</a>
+    <footer style="text-align:center; font-size:13px; margin-top:40px;">
+        Lindholmen Lunch – <a href="privacy.html">Integritetspolicy</a>
     </footer>
     <script>
         const updateFilters = () => {

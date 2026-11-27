@@ -2,6 +2,8 @@
 <html lang="sv">
 <head>
     <meta charset="utf-8">
+    <script src="theme.js"></script>
+    <link rel="stylesheet" href="theme.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="iUNSsOQ8Uw21911zTxrbq0FNyaY7uwQu6iq8XffofsA">
     <title>Dagens lunch på Lindholmen</title>
@@ -18,12 +20,14 @@
         }
     </script>
     <style>
-        body { font-family: Arial, sans-serif; background: #f8f8f8; padding: 20px; }
-        h1, a { color: #004d66; }
+        body { font-family: Arial, sans-serif; padding: 20px; }
         nav { display: flex; flex-wrap: wrap; gap: 16px; }
     </style>
 </head>
 <body>
+    <div class="theme-controls">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" hidden>Mörkt läge</button>
+    </div>
     <h1>Dagens lunch på Lindholmen</h1>
     <p>Öppnar dagens lunchmeny. Du kan också välja en dag:</p>
     <nav aria-label="Veckans lunchmenyer">

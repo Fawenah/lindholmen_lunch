@@ -2,6 +2,8 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
+    <script src="theme.js"></script>
+    <link rel="stylesheet" href="theme.css">
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMDT71XZ0C"></script>
     <script>
@@ -15,22 +17,26 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: #f8f8f8;
+            background: var(--page-bg);
             padding: 40px;
             max-width: 80%;
             margin: auto;
-            color: #333;
+            color: var(--text);
         }
         h1 {
-            color: #004d66;
+            color: var(--accent);
         }
     </style>
 </head>
 <body>
+    <div class="theme-controls">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" hidden>Mörkt läge</button>
+    </div>
     <h1>Integritetspolicy</h1>
     <p>Denna webbplats samlar för närvarande inte in någon personlig information.</p>
 
     <h2>Cookies</h2>
+    <p>Ditt val av ljust eller mörkt läge sparas lokalt i din webbläsare. Inställningen skickas inte till servern.</p>
     <p>Denna webbplats använder cookies för att spara ditt val om att acceptera cookies. Ingen personlig information sparas i denna cookie.</p>
 
     <h2>Google AdSense</h2>
