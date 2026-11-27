@@ -43,7 +43,6 @@
         font-family: Arial, sans-serif;
         background: var(--page-bg);
         padding: 20px;
-        max-width: 80%
     }
 
     .restaurant {
@@ -129,16 +128,26 @@
     }
 
     .menu-header-grid {
-        display: grid;
-        grid-template-areas:
-            "name emojis1 link1"
-            "name emojis2 link2"
-            "name emojis3 link3";
-        grid-template-columns: 1fr auto auto;
+        display: flex;
+        flex-wrap: wrap;
         gap: 4px 10px;
         align-items: center;
         margin-bottom: 10px;
-        border-collapse: separate;
+    }
+
+    .restaurant-details {
+        display: grid;
+        grid-template-areas:
+            "emojis1 link1"
+            "emojis2 link2"
+            "emojis3 link3";
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 4px 10px;
+        align-items: center;
+        flex: 0 1 auto;
+        min-width: 0;
+        max-width: 100%;
+        margin-left: auto;
     }
 
     .menu-info {
@@ -199,14 +208,18 @@
 
     .emoji-row {
         font-size: 1.3em;
-        white-space: nowrap;
+        overflow-wrap: anywhere;
         text-align: left;
         padding-right: 1px;
         margin-right: 1px;
     }
 
     .restaurant-name {
-        grid-area: name;
+        flex: 1 1 auto;
+        flex-wrap: wrap;
+        min-width: 0;
+        max-width: 100%;
+        box-sizing: border-box;
         font-size: 1.5em;
         font-weight: bold;
         background: var(--button-bg);
@@ -224,12 +237,14 @@
 
     .restaurant-title {
         font-size: 1em;
+        min-width: 0;
+        overflow-wrap: anywhere;
     }
 
     .restaurant-stale {
         font-size: 0.4em;
         opacity: 1;
-        white-space: nowrap;
+        overflow-wrap: anywhere;
     }
 
     .restaurant-stale.stale {
@@ -240,27 +255,27 @@
         background: var(--button-hover);
     }
 
-    .emoji-row:nth-child(2) {
+    .restaurant-details > .emoji-row:nth-child(1) {
         grid-area: emojis1;
     }
 
-    .emoji-row:nth-child(3) {
+    .restaurant-details > .emoji-row:nth-child(2) {
         grid-area: emojis2;
     }
 
-    .emoji-row:nth-child(4) {
+    .restaurant-details > .emoji-row:nth-child(3) {
         grid-area: emojis3;
     }
 
-    .icon-link:nth-of-type(1) {
+    .restaurant-details > .icon-link:nth-child(4) {
         grid-area: link1;
     }
 
-    .icon-link:nth-of-type(2) {
+    .restaurant-details > .icon-link:nth-child(5) {
         grid-area: link2;
     }
 
-    .icon-link:nth-of-type(3) {
+    .restaurant-details > .icon-link:nth-child(6) {
         grid-area: link3;
     }
 
@@ -652,6 +667,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🌱</div>
             <div class="emoji-row"></div>
             <div class="emoji-row"></div>
@@ -664,6 +680,7 @@
                 
                 <a href="https://maps.google.com/?q=Alkemisten+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Alkemisten_menu" style="display: block;">
@@ -844,6 +861,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🇮🇹 🍝 🐄</div>
             <div class="emoji-row">🐖 🐔 🥜</div>
             <div class="emoji-row">🦞 🍞 🍰</div>
@@ -856,6 +874,7 @@
                 
                 <a href="https://maps.google.com/?q=Benne+Pastabar+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="BennePastabar_menu" style="display: block;">
@@ -1186,6 +1205,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🇮🇹 🐔 🍝 🇬🇷</div>
             <div class="emoji-row">🌱 🥔 🇮🇳 🍔</div>
             <div class="emoji-row">🐖 🦞 🥗 🐄</div>
@@ -1198,6 +1218,7 @@
                 
                 <a href="https://maps.google.com/?q=Bistrot+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Bistrot_menu" style="display: block;">
@@ -1440,6 +1461,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🇮🇳 🐔</div>
             <div class="emoji-row">🥣 🐑</div>
             <div class="emoji-row">🍹 🦞</div>
@@ -1452,6 +1474,7 @@
                 
                 <a href="https://maps.google.com/?q=Bombay+Bistro+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="BombayBistro_menu" style="display: block;">
@@ -1729,6 +1752,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐔 🥣 🐟 🐖 🥔</div>
             <div class="emoji-row">🍹 🦞 🐄 🌱 🥜</div>
             <div class="emoji-row">🥗 🍞 🍔</div>
@@ -1741,6 +1765,7 @@
                 
                 <a href="https://maps.google.com/?q=Cuckoo's+Nest+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="CuckoosNest_menu" style="display: block;">
@@ -2117,6 +2142,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐟 🥔 🐄 🐔 🐖</div>
             <div class="emoji-row">🥗 🍞 🌱 🥟 🦞</div>
             <div class="emoji-row">🍣 🥜 🇹🇭 🥣</div>
@@ -2129,6 +2155,7 @@
                 
                 <a href="https://maps.google.com/?q=District+One+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="DistrictOne_menu" style="display: block;">
@@ -2534,6 +2561,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐟 🦞 🍣 🌱</div>
             <div class="emoji-row">🇯🇵 🐔 🥗 🐄</div>
             <div class="emoji-row">🥟 🇰🇷 🥣 🍹</div>
@@ -2546,6 +2574,7 @@
                 
                 <a href="https://maps.google.com/?q=Encounter+Asian+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="EncounterAsian_menu" style="display: block;">
@@ -3201,6 +3230,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐄 🐖 🥟</div>
             <div class="emoji-row">🥣 🍹 🐔</div>
             <div class="emoji-row">🇮🇹 🍝 🌱</div>
@@ -3213,6 +3243,7 @@
                 
                 <a href="https://maps.google.com/?q=Gansu+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Gansu_menu" style="display: block;">
@@ -3777,6 +3808,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐔 🐖 🥗 🇲🇽 🌮</div>
             <div class="emoji-row">🌱 🥔 🐟 🍹 🇹🇭</div>
             <div class="emoji-row">🇮🇳 🥣 🥜 🇮🇹 🐄</div>
@@ -3789,6 +3821,7 @@
                 
                 <a href="https://maps.google.com/?q=Kooperativet+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Kooperativet_menu" style="display: block;">
@@ -4275,6 +4308,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐔 🍹 🇮🇳 🐑</div>
             <div class="emoji-row">🌱 🐟 🥣 🥜</div>
             <div class="emoji-row">🦞 🥗 🍞</div>
@@ -4287,6 +4321,7 @@
                 
                 <a href="https://maps.google.com/?q=Masala+Kitchen+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Masala_menu" style="display: block;">
@@ -5047,6 +5082,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐄 🐟 🥔 🐖 🍔</div>
             <div class="emoji-row">🥗 🍞 🇮🇹 🦞 🍝</div>
             <div class="emoji-row">🐔 🥜 🌱</div>
@@ -5059,6 +5095,7 @@
                 
                 <a href="https://maps.google.com/?q=Mimolett+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Mimolett_menu" style="display: block;">
@@ -5736,6 +5773,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🇮🇹 🐖 🍞 🐔 🥗 🥔 🇲🇽</div>
             <div class="emoji-row">🌮 🐟 🍝 🍰 🇬🇷 🍹 🦞</div>
             <div class="emoji-row">🥜 🌱 🇰🇷 🇹🇭 🇯🇵 🍣</div>
@@ -5748,6 +5786,7 @@
                 
                 <a href="https://maps.google.com/?q=Miss+F+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="MissF_menu" style="display: block;">
@@ -6545,6 +6584,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐟 🦞 🍣 🌱 🇯🇵</div>
             <div class="emoji-row">🐖 🥣 🍹 🐄 🥗</div>
             <div class="emoji-row">🥜 🐔 🥟</div>
@@ -6557,6 +6597,7 @@
                 
                 <a href="https://maps.google.com/?q=Oishii+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Oishii_menu" style="display: block;">
@@ -7138,6 +7179,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🐔 🇮🇹 🍝</div>
             <div class="emoji-row">🌱 🐟 🥗</div>
             <div class="emoji-row">🥜 🐄</div>
@@ -7150,6 +7192,7 @@
                 
                 <a href="https://maps.google.com/?q=Restaurang+Ophelia+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Ophelia_menu" style="display: block;">
@@ -7312,6 +7355,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🥔 🥜</div>
             <div class="emoji-row">🇮🇳 🇲🇽</div>
             <div class="emoji-row"></div>
@@ -7320,6 +7364,7 @@
             </div>
             <div class="icon-link">
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="RestaurantPier11_menu" style="display: block;">
@@ -7575,6 +7620,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🇰🇷 🥔 🥜 🐖 🍞 🍰</div>
             <div class="emoji-row">🐟 🐄 🐔 🥗 🇬🇷 🇮🇹</div>
             <div class="emoji-row">🍝 🍕 🍔 🥩 🍹</div>
@@ -7587,6 +7633,7 @@
                 
                 <a href="https://maps.google.com/?q=The+Social+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="TheSocial_menu" style="display: block;">
@@ -8094,6 +8141,7 @@
             
             
             
+            <div class="restaurant-details">
             <div class="emoji-row">🥔 🐖</div>
             <div class="emoji-row">🥗 🍹</div>
             <div class="emoji-row">🇮🇳</div>
@@ -8106,6 +8154,7 @@
                 
                 <a href="https://maps.google.com/?q=Uni3+World+of+Food+Lindholmen" target="_blank" title="Google Maps">🗺️</a>
                 
+            </div>
             </div>
         </div>
         <div class="menu-content" id="Uni3WorldOfFood_menu" style="display: block;">

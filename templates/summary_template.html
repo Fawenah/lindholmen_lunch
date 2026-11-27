@@ -49,7 +49,6 @@
         font-family: Arial, sans-serif;
         background: var(--page-bg);
         padding: 20px;
-        max-width: 80%
     }
 
     .restaurant {
@@ -135,16 +134,26 @@
     }
 
     .menu-header-grid {
-        display: grid;
-        grid-template-areas:
-            "name emojis1 link1"
-            "name emojis2 link2"
-            "name emojis3 link3";
-        grid-template-columns: 1fr auto auto;
+        display: flex;
+        flex-wrap: wrap;
         gap: 4px 10px;
         align-items: center;
         margin-bottom: 10px;
-        border-collapse: separate;
+    }
+
+    .restaurant-details {
+        display: grid;
+        grid-template-areas:
+            "emojis1 link1"
+            "emojis2 link2"
+            "emojis3 link3";
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 4px 10px;
+        align-items: center;
+        flex: 0 1 auto;
+        min-width: 0;
+        max-width: 100%;
+        margin-left: auto;
     }
 
     .menu-info {
@@ -205,14 +214,18 @@
 
     .emoji-row {
         font-size: 1.3em;
-        white-space: nowrap;
+        overflow-wrap: anywhere;
         text-align: left;
         padding-right: 1px;
         margin-right: 1px;
     }
 
     .restaurant-name {
-        grid-area: name;
+        flex: 1 1 auto;
+        flex-wrap: wrap;
+        min-width: 0;
+        max-width: 100%;
+        box-sizing: border-box;
         font-size: 1.5em;
         font-weight: bold;
         background: var(--button-bg);
@@ -230,12 +243,14 @@
 
     .restaurant-title {
         font-size: 1em;
+        min-width: 0;
+        overflow-wrap: anywhere;
     }
 
     .restaurant-stale {
         font-size: 0.4em;
         opacity: 1;
-        white-space: nowrap;
+        overflow-wrap: anywhere;
     }
 
     .restaurant-stale.stale {
@@ -246,27 +261,27 @@
         background: var(--button-hover);
     }
 
-    .emoji-row:nth-child(2) {
+    .restaurant-details > .emoji-row:nth-child(1) {
         grid-area: emojis1;
     }
 
-    .emoji-row:nth-child(3) {
+    .restaurant-details > .emoji-row:nth-child(2) {
         grid-area: emojis2;
     }
 
-    .emoji-row:nth-child(4) {
+    .restaurant-details > .emoji-row:nth-child(3) {
         grid-area: emojis3;
     }
 
-    .icon-link:nth-of-type(1) {
+    .restaurant-details > .icon-link:nth-child(4) {
         grid-area: link1;
     }
 
-    .icon-link:nth-of-type(2) {
+    .restaurant-details > .icon-link:nth-child(5) {
         grid-area: link2;
     }
 
-    .icon-link:nth-of-type(3) {
+    .restaurant-details > .icon-link:nth-child(6) {
         grid-area: link3;
     }
 
@@ -467,18 +482,20 @@
             {% endfor %}
             {% set total = all_emojis | length %}
             {% set size = (total + 2) // 3 %}
-            <div class="emoji-row">{{ all_emojis[:size] | join(' ') }}</div>
-            <div class="emoji-row">{{ all_emojis[size:2*size] | join(' ') }}</div>
-            <div class="emoji-row">{{ all_emojis[2*size:] | join(' ') }}</div>
-            <div class="icon-link">
-                {% if readable in restaurant_links and restaurant_links[readable].url %}
-                <a href="{{ restaurant_links[readable].url }}" target="_blank" title="Hemsida">🔗</a>
-                {% endif %}
-            </div>
-            <div class="icon-link">
-                {% if readable in restaurant_links and restaurant_links[readable].map %}
-                <a href="{{ restaurant_links[readable].map }}" target="_blank" title="Google Maps">🗺️</a>
-                {% endif %}
+            <div class="restaurant-details">
+                <div class="emoji-row">{{ all_emojis[:size] | join(' ') }}</div>
+                <div class="emoji-row">{{ all_emojis[size:2*size] | join(' ') }}</div>
+                <div class="emoji-row">{{ all_emojis[2*size:] | join(' ') }}</div>
+                <div class="icon-link">
+                    {% if readable in restaurant_links and restaurant_links[readable].url %}
+                    <a href="{{ restaurant_links[readable].url }}" target="_blank" title="Hemsida">🔗</a>
+                    {% endif %}
+                </div>
+                <div class="icon-link">
+                    {% if readable in restaurant_links and restaurant_links[readable].map %}
+                    <a href="{{ restaurant_links[readable].map }}" target="_blank" title="Google Maps">🗺️</a>
+                    {% endif %}
+                </div>
             </div>
         </div>
         <div class="menu-content" id="{{ div_id }}" style="display: block;">

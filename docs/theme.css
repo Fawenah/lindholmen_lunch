@@ -75,3 +75,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .theme-toggle:hover { background: var(--control-hover); }
 .theme-toggle[aria-pressed="true"] { box-shadow: inset 0 -3px 0 var(--accent); }
 .last-updated, footer { color: var(--muted); }
+
+.menu-content {
+    overflow-wrap: anywhere;
+}
