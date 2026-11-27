@@ -1,3 +1,4 @@
+
 <style>
     h1 {
         color: #004d66;
@@ -80,6 +81,30 @@
 
     .weekday-button:hover {
         background: #006080;
+    }
+
+    .weekday-navigation {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 20px 0;
+    }
+
+    .weekday-navigation .weekday-button {
+        flex: 1 1 100px;
+        padding: 12px;
+    }
+
+    .weekday-navigation [aria-current="page"] {
+        background: #006080;
+        box-shadow: inset 0 -3px 0 white;
+        text-decoration: underline;
+        text-underline-offset: 4px;
+    }
+
+    .weekday-navigation a:focus-visible {
+        outline: 3px solid #006080;
+        outline-offset: 3px;
     }
 
     .menu-header {
@@ -352,9 +377,23 @@
     <p>Priser kan vara inaktuella, för senaste informationen, se respektive hemsida.</p>
 
     <div style="margin-top: 40px; font-size: 14px; color: #666;">
-        <p>Last updated: 2026-11-28 00:19</p>
+        <p>Last updated: 2026-11-28 00:52</p>
     </div>
-    <a class="weekday-button" href="index.html">← Tillbaka till veckomeny</a>
+    
+<nav class="weekday-navigation" aria-label="Veckans lunchmenyer">
+    
+    <a class="weekday-button" href="lunch_monday.html" aria-current="page">Måndag</a>
+    
+    <a class="weekday-button" href="lunch_tuesday.html">Tisdag</a>
+    
+    <a class="weekday-button" href="lunch_wednesday.html">Onsdag</a>
+    
+    <a class="weekday-button" href="lunch_thursday.html">Torsdag</a>
+    
+    <a class="weekday-button" href="lunch_friday.html">Fredag</a>
+    
+</nav>
+
     <hr>
 
     <div class="toc">
@@ -8153,7 +8192,21 @@
         </div>
     </div>
     
-    <a class="weekday-button" href="index.html">← Tillbaka till veckomeny</a>
+    
+<nav class="weekday-navigation" aria-label="Veckans lunchmenyer">
+    
+    <a class="weekday-button" href="lunch_monday.html" aria-current="page">Måndag</a>
+    
+    <a class="weekday-button" href="lunch_tuesday.html">Tisdag</a>
+    
+    <a class="weekday-button" href="lunch_wednesday.html">Onsdag</a>
+    
+    <a class="weekday-button" href="lunch_thursday.html">Torsdag</a>
+    
+    <a class="weekday-button" href="lunch_friday.html">Fredag</a>
+    
+</nav>
+
     <hr>
     <footer style="text-align:center; font-size:13px; color:#888; margin-top:40px;">
         Lindholmen Lunch – <a href="privacy.html" style="color:#004d66;">Integritetspolicy</a>

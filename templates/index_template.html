@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="iUNSsOQ8Uw21911zTxrbq0FNyaY7uwQu6iq8XffofsA">
+    <title>Dagens lunch på Lindholmen</title>
+    <meta name="description" content="Dagens lunch från restauranger på Lindholmen – uppdateras dagligen.">
+    <script>
+        const availableDays = {{ available_days | tojson }};
+        const today = new Intl.DateTimeFormat('en-US', {
+            timeZone: 'Europe/Stockholm', weekday: 'long'
+        }).format(new Date()).toLowerCase();
+        // Show the coming Monday on weekends. Keep links usable if a page is missing.
+        const targetDay = availableDays.includes(today) ? today : availableDays[0];
+        if (targetDay) {
+            window.location.replace(`lunch_${targetDay}.html${window.location.search}${window.location.hash}`);
+        }
+    </script>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f8f8f8; padding: 20px; }
+        h1, a { color: #004d66; }
+        nav { display: flex; flex-wrap: wrap; gap: 16px; }
+    </style>
+</head>
+<body>
+    <h1>Dagens lunch på Lindholmen</h1>
+    <p>Öppnar dagens lunchmeny. Du kan också välja en dag:</p>
+    <nav aria-label="Veckans lunchmenyer">
+        {% for key, label in [('monday', 'Måndag'), ('tuesday', 'Tisdag'), ('wednesday', 'Onsdag'), ('thursday', 'Torsdag'), ('friday', 'Fredag')] %}
+        {% if key in available_days %}<a href="lunch_{{ key }}.html">{{ label }}</a>{% endif %}
+        {% endfor %}
+    </nav>
+</body>
+</html>
