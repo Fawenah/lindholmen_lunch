@@ -25,6 +25,7 @@ from scrapers.restaurant_pier_11 import RestaurantPier11Scraper
 from scrapers.gansu import GansuScraper
 from scrapers.the_social import TheSocialScraper
 from scrapers.alkemisten import AlkemistenScraper
+from scrapers.ophelia import OpheliaScraper
 from utils.utils import get_today_english
 from generate_html import generate_lunch_summary, generate_index_page
 
@@ -51,6 +52,7 @@ SCRAPERS = [
     GansuScraper,
     TheSocialScraper,
     AlkemistenScraper,
+    OpheliaScraper,
 ]
 
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday"]

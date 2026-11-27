@@ -35,14 +35,13 @@
 - Google Chrome (for Selenium-based scrapers)
 - ChromeDriver installed and in your PATH
 
-
 ## Usage
 
 1. **Install dependencies:**
+
    ```sh
    pip install -r requirements.txt
    ```
-
 2. **Scrape menus and generate HTML:**
 
     Scraped data is cached in data/lunch_data_<day>.json and reused unless --refresh is passed.
@@ -63,8 +62,8 @@
      ```sh
      python main.py --all --refresh
      ```
-
 3. **View results:**
+
    - Open the generated HTML files in your browser (e.g., `docs/index.html`, `docs/lunch_monday.html`).
 
 ## Adding a New Restaurant

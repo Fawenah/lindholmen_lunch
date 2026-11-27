@@ -1,6 +1,8 @@
 # scrapers/kooperativet.py
 
 from bs4 import BeautifulSoup
+from copy import copy
+import re
 import requests
 from typing import Dict, Optional
 from scrapers.base import LunchScraper, DailyMenu, MenuItem
@@ -24,8 +26,22 @@ class KooperativetScraper(LunchScraper):
         self.fetch()
 
     def fetch(self) -> None:
-        for day in ["monday", "tuesday", "wednesday", "thursday", "friday"]:
+        self._menus = {}
+        weekdays = {
+            "monday": "måndag", "tuesday": "tisdag", "wednesday": "onsdag",
+            "thursday": "torsdag", "friday": "fredag",
+        }
+        for day, swedish_day in weekdays.items():
             section = self.soup.find("div", {"id": day})
+            if not section:
+                # Some menus no longer have a weekday ID. Both menu columns
+                # share a container_wrap ancestor with the lunch heading.
+                heading = self.soup.find(
+                    re.compile(r"^h[1-6]$"),
+                    string=re.compile(rf"^\s*Lunch\s+{swedish_day}\b", re.I),
+                )
+                if heading:
+                    section = heading.find_parent("div", class_="container_wrap")
             if not section:
                 continue
 
@@ -34,13 +50,15 @@ class KooperativetScraper(LunchScraper):
             items = []
 
             for p in paragraphs:
+                # Removing category labels must not mutate the cached page.
+                p = copy(p)
                 # Detect and extract <strong> category tags
                 strong = p.find("strong")
                 if strong:
                     current_category = strong.get_text(strip=True).strip(" :")
                     strong.extract()
 
-                text = p.get_text(strip=True)
+                text = p.get_text(" ", strip=True)
                 if text:
                     # Try to split into name + description if a separator exists
                     if "-" in text:
