@@ -7,6 +7,7 @@
 ## Features
 
 - Scrapes lunch menus from several Lindholmen restaurants using dedicated scrapers.
+- Scrapes up to five restaurants concurrently, with sequential retries per restaurant and shared weekly caching.
 - Stores daily menu data in JSON files under the `data/` directory.
 - Opens today's menu automatically (Stockholm time; Monday on weekends), with links between all weekday menus.
 - Modular scraper architecture for easy extension to new restaurants.
